@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Destiny Child Live2D Viewer</title>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script
+    src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"
+    integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E="
+    crossorigin="anonymous"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style type="text/css">
+    body {
+      font-family: sans-serif;
+    }
+  	pre {
+      border: 1px solid #666;
+      background: #ccc;
+      padding: 1em;
+      text-align: left;
+      max-width: 90%;
+      overflow: auto;
+    }
+    .custom-combobox-toggle {
+      height: 1.7em;
+      margin-top: -0.15em;
+      margin-left: -1px;
+    }
+    .custom-combobox-input {
+      padding: .2em .5em;
+    }
+    #ui,
+    #mod-Link {
+      display: none;
+    }
+    .nowrap {
+      white-space: nowrap;
+      margin-top: 1em;
+      margin-right: 1em;
+      display: inline-block;
+    }
+    #loading {
+      max-width: 100%;
+    }
+    #size-label {
+      margin-left: 1em;
+    }
+    .ui-autocomplete {
+      max-height: 500px;
+      overflow-y: scroll;
+      overflow-x: hidden;
+    }
+    .ui-slider {
+      display : inline-block;
+      width: 150px;
+      margin-left: .5em;
+      position: relative;
+      top: .2em;
+    }
+    iframe {
+      max-width: 100%;
+      overflow: hidden;
+    }
+  </style>
+  <script src="./ui.js" type="application/javascript"></script>
+</head>
+<body onload="init()">
+  <img src="./loading.gif" alt="Loading" id="loading"/>
+  <div id="ui">
+    <div>Model:
+      <span class="nowrap"><select></select></span>
+      <span class="nowrap">
+        Size: <span id="size-slider"></span> <span id="size-label"></span>px
+      </span>
+      <span class="nowrap">
+        <button id="previous">Previous</button>
+        <button id="next">Next</button>
+      </span>
+    </div>
+    <iframe style="width: 500px; height: 500px; max-width: 100%; border: none; overflow: hidden;"
+      scrolling="no"
+      seamless="seamless"></iframe>
+    <p id="mod-link"><strong><a target="_blank"></a></strong></p>
+    <p>Direct Link: <a id="direct-link" href="" target="_blank"></a></p>
+    <p>Embed code:</p>
+    <pre id="embed"></pre>
+  </div>
+
+<h1>Notes</h1>
+  <p>
+    Live2D viewer based on work by <a href="https://github.com/Arsylk" target="_blank">Arsylk</a> using Live2D cubism v2 api.
+    Was maintained by <a href="https://github.com/LokiCoder">Loki</a> and <a href="https://github.com/Arsylk" target="_blank">Arsylk</a>.
+	<br/>
+    This repo was forked by <a href="https://www.reddit.com/user/ToxicWayz" target="_blank">ToxicWayz</a>
+  </p>
+  
+  <p>Also check out the
+    <a href="https://arsylk.pythonanywhere.com/apk/view_models" target="_blank"> Destiny Child Mods </a>
+	or 
+	<a href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Mods" target="_blank">Destiny Child Mods Wiki</a> 
+  </p>
+</html>

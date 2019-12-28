@@ -1,0 +1,21 @@
+{
+  "name": "destiny-child-tools",
+  "version": "1.0.0",
+  "description": "Centralized repository for various Destiny Child game related tools",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "5.13.0",
+    "http-server": "0.11.1"
+  },
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-lokicoder:lokicoder/destiny-child-tools.git"
+  },
+  "author": "LokiCoder, Arsylk",
+  "license": "MIT"
+}

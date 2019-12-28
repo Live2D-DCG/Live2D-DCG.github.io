@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live2D</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    body, html {
+      max-width: 100%;
+      max-height: 100%;
+    }
+    canvas {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+  <script src="./lib/live2d.min.js"></script>
+  <script src="./lib/Live2DFramework.js"></script>
+  <script src="./yukimiku.2d.js"></script>
+  <script>
+    window.addEventListener("load", function() {
+      var notme = document.getElementsByTagName("div");
+      for (var i = 0; i < notme.length; i++) {
+        notme[i].remove();
+      }
+    });
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body onload="initModel()" onclick="totsugeki()">
+  <img src="./loading.gif" alt="Loading" id="loading"/>
+  <!-- accepts parameters from get -->
+  <!-- mN -->
+  <!-- modelName -->
+  <!-- cW, cH -->
+  <!-- canvasWidth, canvasHeight -->
+  <!-- mS, mX, mY -->
+  <!-- modelScale, modelX, modelY -->
+  <canvas id="canvas"></canvas>
+
+</body>
+
+</html>
