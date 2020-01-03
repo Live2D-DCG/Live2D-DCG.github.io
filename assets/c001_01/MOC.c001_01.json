@@ -15,6 +15,14 @@
       "file": "confused.exp.json"
     },
     {
+      "name": "cry",
+      "file": "cry.exp.json"
+    },
+    {
+      "name": "fury",
+      "file": "fury.exp.json"
+    },
+    {
       "name": "idle",
       "file": "idle.exp.json"
     },
@@ -49,6 +57,10 @@
     {
       "name": "superangry",
       "file": "superangry.exp.json"
+    },
+    {
+      "name": "surprise",
+      "file": "surprise.exp.json"
     },
     {
       "name": "teach",
