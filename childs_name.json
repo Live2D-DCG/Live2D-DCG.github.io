@@ -43,7 +43,7 @@
                 }
             },
             "14": {
-                "title": "Wedding Dress",
+                "title": "Wedding Dress+",
                 "positions": {
                     "home": {
                         "x": 15,
@@ -978,7 +978,7 @@
                 }
             },
             "01": {
-                "title": "Successful",
+                "title": "Successful(Missing Files)",
                 "positions": {
                     "home": {
                         "x": 20,
@@ -988,7 +988,7 @@
                 }
             },
             "02": {
-                "title": "Shining",
+                "title": "Shining(Missing Files)",
                 "positions": {
                     "home": {
                         "x": 20,
@@ -7525,6 +7525,16 @@
     "c315": {
         "name": "Methuselah",
         "variants": {
+            "01": {
+                "title": "Alchemist",
+                "positions": {
+                    "home": {
+                        "x": 7,
+                        "y": 29,
+                        "scale": 1.05
+                    }
+                }
+            }
             "02": {
                 "title": "Seeker",
                 "positions": {
@@ -9042,6 +9052,31 @@
             },
             "02": {
                 "title": "School Hazard",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.87
+                    }
+                }
+            }
+        }
+    },
+    "c396": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Dancing Maiden",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.87
+                    }
+                }
+            },
+            "02": {
+                "title": "TBD",
                 "positions": {
                     "home": {
                         "x": 5,
