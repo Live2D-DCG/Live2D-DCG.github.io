@@ -43,7 +43,7 @@
                 }
             },
             "14": {
-                "title": "Wedding Dress+",
+                "title": "Wedding Dress",
                 "positions": {
                     "home": {
                         "x": 15,
@@ -1328,7 +1328,17 @@
         "name": "Calypso",
         "variants": {
             "10": {
-                "title": "Water Amarin",
+                "title": "Kr Base E",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"11": {
+                "title": "Kr Awaken S",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -1348,7 +1358,7 @@
                 }
             },
             "01": {
-                "title": "Sarcastic",
+                "title": "Spiteful",
                 "positions": {
                     "home": {
                         "x": -10,
@@ -1358,7 +1368,7 @@
                 }
             },
             "02": {
-                "title": "Ensnaring",
+                "title": "Charming",
                 "positions": {
                     "home": {
                         "x": -10,
@@ -1770,10 +1780,10 @@
         }
     },
     "c051": {
-        "name": "Frey",
+        "name": "Frej",
         "variants": {
             "10": {
-                "title": "Liberated",
+                "title": "-Liberated",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -1783,7 +1793,7 @@
                 }
             },
             "11": {
-                "title": "Toxic",
+                "title": "-Toxic",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -1793,7 +1803,7 @@
                 }
             },
             "21": {
-                "title": "Cursed",
+                "title": "Cursed Doll",
                 "positions": {
                     "home": {
                         "x": -10,
@@ -1803,7 +1813,7 @@
                 }
             },
             "89": {
-                "title": "Released",
+                "title": "-Released",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -8792,6 +8802,51 @@
                         "x": -7,
                         "y": -50,
                         "scale": 1.04
+                    }
+                }
+            }
+        }
+    },
+    "c383": {
+        "name": "Frej",
+        "variants": {
+            "01": {
+                "title": "Resurrected",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1.33
+                    }
+                }
+            },
+            "10": {
+                "title": "Toxic",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1.33
+                    }
+                }
+            },
+            "11": {
+                "title": "Cursed Doll",
+                "positions": {
+                    "home": {
+                        "x": -10,
+                        "y": -95,
+                        "scale": 0.8
+                    }
+                }
+            },
+            "02": {
+                "title": "Unleashed",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1.33
                     }
                 }
             }
