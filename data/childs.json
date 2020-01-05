@@ -8882,6 +8882,161 @@
             }
         }
     },
+    "c385": {
+        "name": "Marie Rose",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Battlesuit",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"10": {
+                "title": "Swimsuit",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"11": {
+                "title": "Russian Blue",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"12": {
+                "title": "Minuet",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+    "c386": {
+        "name": "Kasumi",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Immaculate",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"10": {
+                "title": "Geranium",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"11": {
+                "title": "Nemophila",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"12": {
+                "title": "Margarita",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c387": {
+        "name": "Honoka",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Casual",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"10": {
+                "title": "Moo-Moo Denim",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            },
+			"11": {
+                "title": "Delphinium ",
+                "positions": {
+                    "home": {
+                        "x": 2,
+                        "y": -54,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
     "c388": {
         "name": "Kouka",
         "variants": {
@@ -9107,11 +9262,341 @@
             }
         }
     },
+    "c396": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Dancing Maiden",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Oracle",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.87
+                    }
+                }
+            }
+        }
+    },
+    "c397": {
+        "name": "Leda",
+        "variants": {
+            "01": {
+                "title": "Christmas",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.87
+                    }
+                }
+            },
+            "02": {
+                "title": "Sexy Santa",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.87
+                    }
+                }
+            }
+        }
+    },
     "c399": {
         "name": "Mona",
         "variants": {
             "01": {
                 "title": "Heartbeat",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+    "c401": {
+        "name": "SNOW MIKU",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "PRINCESS",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c402": {
+        "name": "Noel",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Fourth Squadron",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"10": {
+                "title": "μ-12",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c403": {
+        "name": "Makoto",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "NOL Intel Dept",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c404": {
+        "name": "Nine",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Six Heroes",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c406": {
+        "name": "Serval",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Savanna",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c407": {
+        "name": "Raccoon",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Arboreal",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c408": {
+        "name": "Fennec",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Desert",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c419": {
+        "name": "Catherine",
+        "variants": {
+            "01": {
+                "title": "Cheating",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Inverted & Devilish",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c420": {
+        "name": "Katherine",
+        "variants": {
+            "01": {
+                "title": "Girlfriend",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Pure Bride",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"10": {
+                "title": "Wild Crimson",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"89": {
+                "title": "Wild Crimson",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
+	"c421": {
+        "name": "Rin",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "Pure",
                 "positions": {
                     "home": {
                         "x": 0,
