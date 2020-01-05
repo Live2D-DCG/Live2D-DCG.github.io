@@ -3635,26 +3635,6 @@
     "c132": {
         "name": "Midas",
         "variants": {
-            "10": {
-                "title": "Shadow",
-                "positions": {
-                    "home": {
-                        "x": -9,
-                        "y": -25,
-                        "scale": 1.18
-                    }
-                }
-            },
-            "11": {
-                "title": "Dark Doctor",
-                "positions": {
-                    "home": {
-                        "x": -9,
-                        "y": -25,
-                        "scale": 1.18
-                    }
-                }
-            },
             "00": {
                 "title": "Human",
                 "positions": {
@@ -4250,8 +4230,8 @@
                 "positions": {
                     "home": {
                         "x": -2,
-                        "y": -20,
-                        "scale": 0.96
+                        "y": -50,
+                        "scale": 0.5
                     }
                 }
             }
@@ -8657,6 +8637,31 @@
                         "x": -17,
                         "y": -23,
                         "scale": 0.91
+                    }
+                }
+            }
+        }
+    },
+    "c373": {
+        "name": "Midas",
+        "variants": {
+            "01": {
+                "title": "Ruffian",
+                "positions": {
+                    "home": {
+                        "x": -9,
+                        "y": -25,
+                        "scale": 1.18
+                    }
+                }
+            },
+            "02": {
+                "title": "Black-Winged Messenger",
+                "positions": {
+                    "home": {
+                        "x": -9,
+                        "y": -25,
+                        "scale": 1.18
                     }
                 }
             }

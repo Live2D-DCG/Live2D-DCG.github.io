@@ -12,6 +12,13 @@
         "fade_out": 0
       }
     ],
+    "hit": [
+      {
+        "file": "c237_01_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "idle": [
       {
         "file": "c237_01_idle.mtn",
