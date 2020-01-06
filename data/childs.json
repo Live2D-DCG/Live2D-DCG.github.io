@@ -4229,9 +4229,9 @@
                 "title": "Little Devil",
                 "positions": {
                     "home": {
-                        "x": -2,
-                        "y": -50,
-                        "scale": 0.5
+                        "x": 0,
+                        "y": -250,
+                        "scale": 1
                     }
                 }
             }
@@ -6408,10 +6408,20 @@
         }
     },
     "c254": {
-        "name": "Davi",
+        "name": "",
         "variants": {
             "01": {
-                "title": "",
+                "title": "Davi",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"02": {
+                "title": "Nameless Child",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -7937,6 +7947,41 @@
             }
         }
     },
+	"c336": {
+        "name": "?",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": -21,
+                        "scale": 0.99
+                    }
+                }
+            },
+            "02": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": -21,
+                        "scale": 0.99
+                    }
+                }
+            },
+			"89": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": -21,
+                        "scale": 0.99
+                    }
+                }
+            }
+        }
+    },
     "c338": {
         "name": "Pomona",
         "variants": {
@@ -8522,6 +8567,51 @@
             }
         }
     },
+	"c367": {
+        "name": "Archfiend Davi",
+        "variants": {
+            "01": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+            "02": {
+                "title": "True",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"88": {
+                "title": "True",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            },
+			"89": {
+                "title": "",
+                "positions": {
+                    "home": {
+                        "x": 0,
+                        "y": 0,
+                        "scale": 1
+                    }
+                }
+            }
+        }
+    },
     "c369": {
         "name": "Grandma",
         "variants": {
@@ -8541,7 +8631,7 @@
         "name": "Mona",
         "variants": {
             "10": {
-                "title": "Holiday",
+                "title": "Hot Pink",
                 "positions": {
                     "home": {
                         "x": 5,
@@ -8551,7 +8641,7 @@
                 }
             },
             "01": {
-                "title": "Skin Diver",
+                "title": "Sunbeach",
                 "positions": {
                     "home": {
                         "x": 5,
@@ -8561,7 +8651,17 @@
                 }
             },
             "02": {
-                "title": "Summer Blossom",
+                "title": "Diver",
+                "positions": {
+                    "home": {
+                        "x": 5,
+                        "y": -60,
+                        "scale": 0.9
+                    }
+                }
+            },
+			"89": {
+                "title": "Sunbeach",
                 "positions": {
                     "home": {
                         "x": 5,
