@@ -36,7 +36,7 @@ function updateViewer(id) {
 }
 
 function loadChilds(callback) {
-  $.getJSON('childs_name.json', function(_childs) {
+  $.getJSON('childs.json', function(_childs) {
     childs = _childs
     callback()
   })
