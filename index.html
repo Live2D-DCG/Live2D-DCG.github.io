@@ -45,41 +45,53 @@
     #loading {
       max-width: 100%;
     }
-    #size-label {
-      margin-left: 1em;
+    #size-label, #scale-label, #offsetX-label, #offsetY-label  {
+	  color:#f6931f;
     }
     .ui-autocomplete {
       max-height: 500px;
       overflow-y: scroll;
       overflow-x: hidden;
     }
+	
     .ui-slider {
       display : inline-block;
       width: 150px;
-      margin-left: .5em;
+      margin: .5em;
       position: relative;
-      top: .2em;
+      top: .7em;
     }
+	
+	
     iframe {
       max-width: 100%;
       overflow: hidden;
     }
+	
   </style>
   <script src="./ui.js" type="application/javascript"></script>
 </head>
 <body onload="init()">
   <img src="./loading.gif" alt="Loading" id="loading"/>
+  
   <div id="ui">
-    <div>Model:
-      <span class="nowrap"><select></select></span>
-      <span class="nowrap">
-        Size: <span id="size-slider"></span> <span id="size-label"></span>px
-      </span>
-      <span class="nowrap">
-        <button id="previous">Previous</button>
-        <button id="next">Next</button>
-      </span>
-    </div>
+  
+    <div>
+		Model: <span class="nowrap"><select></select></span>
+	    <span class="nowrap">
+			<button id="previous">Previous</button>
+			<button id="next">Next</button>
+		</span>
+		<span id="size-slider"></span> Size: <span id="size-label"></span> px 
+		<span class="nowrap">   </span>
+	</div>
+	
+	<div> <span id="scale-slider"></span> Scale: <span id="scale-label"></span> </div>
+	<div> <span id="offsetX-slider"></span> Left | Right: <span id="offsetX-label"> </span> </div>
+	<div> <span id="offsetY-slider"></span>Top | Bottom: <span id="offsetY-label"></span> </div>
+		
+	
+    
     <iframe style="width: 500px; height: 500px; max-width: 100%; border: none; overflow: hidden;"
       scrolling="no"
       seamless="seamless"></iframe>
@@ -87,7 +99,9 @@
     <p>Direct Link: <a id="direct-link" href="" target="_blank"></a></p>
     <p>Embed code:</p>
     <pre id="embed"></pre>
+	
   </div>
+
 
 <h1>Notes</h1>
   <p>

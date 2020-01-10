@@ -11,10 +11,11 @@ function getSelectedIndex() {
 function updateViewer(id) {
   if(id && typeof id == 'string') selectedModel = id
   var viewer = document.getElementsByTagName('iframe')[0],
-      size = $('#size-slider').slider('value')
-  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size
+      size = $('#size-slider').slider('value'), mS = $('#scale-slider').slider('value'), mX = $('#offsetX-slider').slider('value'), mY = $('#offsetY-slider').slider('value')
+  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY 
   viewer.style.width = size + 'px'
   viewer.style.height = size + 'px'
+  viewer.style.scale = mS
   var code = viewer.outerHTML.replace('viewer.html', document.location.toString() + 'viewer.html')
   document.getElementById('embed').innerHTML = code.replace(/</g, '&lt')
   $('#direct-link').attr('href', viewer.src)
@@ -35,7 +36,7 @@ function updateViewer(id) {
 }
 
 function loadChilds(callback) {
-  $.getJSON('../data/childs.json', function(_childs) {
+  $.getJSON('childs_name.json', function(_childs) {
     childs = _childs
     callback()
   })
@@ -185,7 +186,7 @@ function createComboBox() {
   })
   $('select').on('change', function() { updateViewer(this.value)})
 }
-function createSlider() {
+function createSizeSlider() {
   var maxWidth = 2000,
       docWidth = $(document).width()
   $('#size-slider').slider({
@@ -193,13 +194,54 @@ function createSlider() {
     max: docWidth < maxWidth ? docWidth : maxWidth,
     step: 50,
     value: searchParams.get('size') || 500,
-    slide: function(_, ui) {
-      $('#size-label').html(ui.value)
-    },
+    slide: function(_, ui) { $('#size-label').html(ui.value) },
     change: updateViewer
   })
   $('#size-label').html($('#size-slider').slider('value'))
-}
+  }
+  
+  function createScaleSlider() {
+  var scale = 10
+  $('#scale-slider').slider({
+    min: 0.1,
+    max: 10,
+    step: 0.1,
+    value: searchParams.get('scale') || 1.1,
+    slide: function(_, ui) {$('#scale-label').html(ui.value) },
+    change: updateViewer
+  })
+  $('#scale-label').html($('#scale-slider').slider('value'))
+  }
+  
+  function createOffsetXSlider() {
+  var offsetX = 2
+  $('#offsetX-slider').slider({
+    min: -2,
+    max: 2,
+    step: 0.1,
+    value: searchParams.get('offsetX') || 0,
+    slide: function(_, ui) {
+      $('#offsetX-label').html(ui.value)
+    },
+    change: updateViewer
+  })
+  $('#offsetX-label').html($('#offsetX-slider').slider('value'))
+  }
+  
+  function createOffsetYSlider() {
+  $('#offsetY-slider').slider({
+    min: -2,
+    max: 2,
+    step: 0.1,
+    value: searchParams.get('offsetY') || 0,
+    slide: function( event, ui ) {
+        $('#offsetY-label').html(ui.value)
+      },
+    change: updateViewer
+  })
+  $('#offsetY-label').html($('#offsetY-slider').slider('value'))
+  }
+
 function setSelectedIndex(i) {
   $('select option').eq(i).prop('selected', true)
   var $select = $('select'),
@@ -211,7 +253,10 @@ function init() { // eslint-disable-line no-unused-vars
   loadChilds(function() {
     loadAssets(function() {
       createComboBox()
-      createSlider()
+      createSizeSlider()
+	  createScaleSlider()
+	  createOffsetXSlider()
+	  createOffsetYSlider()
       $('#previous').button()
       $('#previous').click(function() { setSelectedIndex(getSelectedIndex() - 1) })
       $('#next').button()
