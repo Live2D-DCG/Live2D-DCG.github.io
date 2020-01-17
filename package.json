@@ -1,8 +1,8 @@
 {
-  "name": "destiny-child-tools",
+  "name": "Destiny-Child-Live2D-Viewer",
   "version": "1.0.0",
-  "description": "Centralized repository for various Destiny Child game related tools",
-  "main": "index.js",
+  "description": "Centralized repository for Destiny Child Live2D",
+  "main": "index.html",
   "dependencies": {},
   "devDependencies": {
     "eslint": "5.13.0",
@@ -14,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-lokicoder:lokicoder/destiny-child-tools.git"
+    "url": "N/A"
   },
-  "author": "LokiCoder, Arsylk",
+  "author": "ToxicWayz, Arsylk",
   "license": "MIT"
 }

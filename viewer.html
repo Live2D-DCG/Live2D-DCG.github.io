@@ -16,31 +16,19 @@
       max-height: 100%;
     }
   </style>
-  <script src="./lib/live2d.min.js"></script>
-  <script src="./lib/Live2DFramework.js"></script>
-  <script src="./yukimiku.2d.js"></script>
-  <script>
-    window.addEventListener("load", function() {
-      var notme = document.getElementsByTagName("div");
-      for (var i = 0; i < notme.length; i++) {
-        notme[i].remove();
-      }
-    });
-  </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
+    <script src="/static/js/live2dsdk/live2d.min.js"></script>
+    <script src="/static/js/live2dsdk/Live2DFramework.js"></script>
+    <script src="/static/js/live2dsdk/PlatformManager.js"></script>
+    <script src="/static/js/live2dsdk/ModelSettingJson.js"></script>
+	<script src="/static/js/live2dsdk/yukimiku.2d.js"></script>
 
-<body onload="initModel()" onclick="totsugeki()">
-  <img src="./loading.gif" alt="Loading" id="loading"/>
-  <!-- accepts parameters from get -->
-  <!-- mN -->
-  <!-- modelName -->
-  <!-- cW, cH -->
-  <!-- canvasWidth, canvasHeight -->
-  <!-- mS, mX, mY -->
-  <!-- modelScale, modelX, modelY -->
-  <canvas id="canvas"></canvas>
 
+<body onload="initModel()" style="margin: 0; padding: 0;">
+    <canvas id="canvas" class="maxwidth" width="500px" height="800px" style="margin: 10px;" onclick="totsugeki()"></canvas>
+    <select id="modelMotions" class="select-motions" style="display: none;"></select>
+    <script>
+        let canvas = document.getElementById("canvas");
+    </script>
 </body>
 
 </html>

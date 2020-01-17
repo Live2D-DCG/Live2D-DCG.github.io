@@ -45,51 +45,48 @@
     #loading {
       max-width: 100%;
     }
-    #size-label, #scale-label, #offsetX-label, #offsetY-label  {
-	  color:#f6931f;
+    #size-label, #scale-label, #offsetX-label, #offsetY-label {
+      color:#f6931f;
+	  margin-left: 0.3em;
     }
     .ui-autocomplete {
       max-height: 500px;
       overflow-y: scroll;
       overflow-x: hidden;
     }
-	
     .ui-slider {
       display : inline-block;
       width: 150px;
-      margin: .5em;
+      margin-left: .5em;
       position: relative;
-      top: .7em;
+      top: .2em;
     }
-	
-	
     iframe {
       max-width: 100%;
       overflow: hidden;
     }
-	
   </style>
-  <script src="./ui.js" type="application/javascript"></script>
+  <script src="./static/js/live2dsdk/ui.js" type="application/javascript"></script>
 </head>
 <body onload="init()">
   <img src="./loading.gif" alt="Loading" id="loading"/>
-  
   <div id="ui">
-  
-    <div>
-		Model: <span class="nowrap"><select></select></span>
-	    <span class="nowrap">
-			<button id="previous">Previous</button>
-			<button id="next">Next</button>
-		</span>
-		<span id="size-slider"></span> Size: <span id="size-label"></span> px 
-		<span class="nowrap">   </span>
-	</div>
+    <div>Model:
+      <span class="nowrap"><select></select></span>
+      <span class="nowrap">
+        Size: <span id="size-slider"></span> <span id="size-label"></span>px
+      </span>
+      <span class="nowrap">
+        <button id="previous">Previous</button>
+        <button id="next">Next</button>
+		<button id="Censored" onclick="GView()">Censored</button>
+		<button id="Uncensored" onclick="KView()">Uncensored</button>
+      </span>
+	</div>	
 	
 	<div> <span id="scale-slider"></span> Scale: <span id="scale-label"></span> </div>
 	<div> <span id="offsetX-slider"></span> Left | Right: <span id="offsetX-label"> </span> </div>
 	<div> <span id="offsetY-slider"></span>Top | Bottom: <span id="offsetY-label"></span> </div>
-		
 	
     
     <iframe style="width: 500px; height: 500px; max-width: 100%; border: none; overflow: hidden;"
@@ -99,21 +96,14 @@
     <p>Direct Link: <a id="direct-link" href="" target="_blank"></a></p>
     <p>Embed code:</p>
     <pre id="embed"></pre>
-	
   </div>
-
-
-<h1>Notes</h1>
   <p>
     Live2D viewer based on work by <a href="https://github.com/Arsylk" target="_blank">Arsylk</a> using Live2D cubism v2 api.
-    Was maintained by <a href="https://github.com/LokiCoder">Loki</a> and <a href="https://github.com/Arsylk" target="_blank">Arsylk</a>.
-	<br/>
-    This repo was forked by <a href="https://www.reddit.com/user/ToxicWayz" target="_blank">ToxicWayz</a>
+    Maintained by <a href="https://github.com/LokiCoder">Loki</a> and <a href="https://github.com/Arsylk" target="_blank">Arsylk</a>.
   </p>
-  
   <p>Also check out the
-    <a href="https://arsylk.pythonanywhere.com/apk/view_models" target="_blank"> Destiny Child Mods </a>
-	or 
-	<a href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Mods" target="_blank">Destiny Child Mods Wiki</a> 
+    <a href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Mods" target="_blank">
+      Destiny Child Mods Wiki
+    </a>.
   </p>
 </html>
