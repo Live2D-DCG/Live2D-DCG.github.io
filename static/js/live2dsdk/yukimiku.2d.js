@@ -1,5 +1,5 @@
 // default parameters
-var canvasSize = 500,
+var canvasSize = 1000,
     modelName = 'miku',
     modelScale = 1.1,
     modelX = 0,

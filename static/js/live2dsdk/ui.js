@@ -37,18 +37,28 @@ function updateViewer(id) {
 	  code = viewer.outerHTML.replace('viewer.html', document.location.toString() + 'viewer.html')
   }
   
+
+  
   if (diffView == 'k'){
+	  $('#Uncensored').addClass("ui-button ui-corner-all ui-widget ui-button-disabled ui-state-disabled")
+	  $('#Censored').removeClass("ui-button-disabled ui-state-disabled")
+  } else {
+	  $('#Uncensored').removeClass("ui-button-disabled ui-state-disabled")
+	  $('#Censored').addClass("ui-button ui-corner-all ui-widget ui-button-disabled ui-state-disabled")
+  }
+  
+  /*if (diffView == 'k'){
 	  $('#Uncensored').attr("disabled", true);
 	  $('#Censored').attr("disabled", false);
   } else {
 	  $('#Uncensored').attr("disabled", false);
 	  $('#Censored').attr("disabled", true);
-  }
+  }*/
   
   viewer.style.width = size + 'px'
   viewer.style.height = size + 'px'
   viewer.style.scale = mS
-  document.getElementById('embed').innerHTML = code.replace(/</g, '&lt')
+
   $('#direct-link').attr('href', viewer.src)
   $('#direct-link').html(viewer.src)
 
@@ -56,16 +66,7 @@ function updateViewer(id) {
   var i = getSelectedIndex()
   $('#previous').button(i > 0 ? 'enable' : 'disable')
   $('#next').button(i < modelIds.length - 1 ? 'enable' : 'disable')
-  if(assets[selectedModel] && assets[selectedModel].modder) {
-    var name = getName(selectedModel)
-    $('#mod-link a').attr('href', assets[selectedModel].download || 'http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Childs/' + name.replace(/\s/g, '_'))
-    $('#mod-link a').html('Download this ' + name + ' mod by ' + assets[selectedModel].modder)
-    $('#mod-link').show()
-  }
-  else $('#mod-link').hide()
-  if(window.history && window.history.replaceState) {
-    window.history.replaceState({}, null, '?model=' + encodeURIComponent(selectedModel) + '&size=' + size)
-  }
+  
 }
 
 function loadChilds(callback) {
@@ -226,7 +227,7 @@ function createSlider() {
     min: 200,
     max: docWidth < maxWidth ? docWidth : maxWidth,
     step: 50,
-    value: searchParams.get('size') || 500,
+    value: searchParams.get('size') || 1000,
     slide: function(_, ui) {
       $('#size-label').html(ui.value)
     },
