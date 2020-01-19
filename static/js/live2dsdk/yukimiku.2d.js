@@ -4,11 +4,11 @@ var canvasSize = 500,
     modelScale = 1.1,
     modelX = 0,
     modelY = 0.1,
-    motionIdle = null, motionAttack = null
+    motionIdle = null, motionClick = null
 
 function totsugeki() {
-  if(motionMgr !== null && motionAttack !== null) {
-    motionMgr.startMotion(motionAttack)
+  if(motionMgr !== null && motionClick !== null) {
+    motionMgr.startMotion(motionClick)
   }
 }
 
@@ -111,12 +111,17 @@ function init(dir, canvas) {
   })
   if(modelJson.motions.attack) {
     loadBytes(getPath("/static/modelsK/", modelJson.motions.attack[0].file), 'arraybuffer', function(buf) {
-      motionAttack = new Live2DMotion.loadMotion(buf)
+      motionClick = new Live2DMotion.loadMotion(buf)
       // remove fade in/out delay to make it smooth
-      motionAttack._$eo = 0
-      motionAttack._$dP = 0
-    })
-  }
+      motionClick._$eo = 0
+      motionClick._$dP = 0
+	})} else if ( modelJson.motions.maxtouch) {
+	 loadBytes(getPath("/static/modelsK/", modelJson.motions.maxtouch[0].file), 'arraybuffer', function(buf) {
+      motionClick = new Live2DMotion.loadMotion(buf)
+      // remove fade in/out delay to make it smooth
+      motionClick._$eo = 0
+      motionClick._$dP = 0
+	})}
 
   // ------------------------
   // ?loop every frame
