@@ -11,118 +11,20 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"
     crossorigin="anonymous"></script>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="\static\pages\style.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans|Quicksand&display=swap" rel="stylesheet">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style type="text/css">
-    body {
-	  font-family: 'Montserrat', sans-serif;
-	  background-color: #393e46;
-	  overflow-x: hidden;
-	  margin: 0;
-      padding: 0;
-	  color: white;
-    }
 
-	footer {
-	  position: absolute;
-      height: auto;
-      width: 100%;
-      left: 0;
-      background-color: #24252d;
-      color: white;
-      text-align: left;
-      padding: 10px 20px 10px 20px;
-      font-size: 10px;
-	}
-	
-	a {
-	  color: white;
-	}
-	
-	a:hover {
-      color: yellow;
-    }
-	
-	nav {
-	  background-color: #24252d;
-	  color: white;
-	  margin: 0px 0px 10px 0px;
-	  padding: 5px;
-	
-	}
-	ul {
-	  list-style-type: none;
-	  text-align: center;
-	  margin: 5px;
-	}
-	
-	li {
-	  display: inline;
-	}
-	
-	li:not(:first-child) {
-	  padding-left: 20px;
-	}
-	
-    .custom-combobox-toggle {
-      height: 1.7em;
-      margin-top: -0.15em;
-      margin-left: -1px;
-    }
-    .custom-combobox-input {
-      padding: .2em .5em;
-    }
-    #ui {
-      display: none;
-    }
-	
-    .nowrap {
-      white-space: nowrap;
-      margin-top: 1em;
-      margin-right: 1em;
-      display: inline-block;
-    }
-	
-    #loading {
-      max-width: 100%;
-    }
-	
-    #size-label, #scale-label, #offsetX-label, #offsetY-label {
-      color:#f6931f;
-	  margin-left: 0.3em;
-    }
-	
-    .ui-autocomplete {
-      max-height: 500px;
-      overflow-y: scroll;
-      overflow-x: hidden;
-	  text-align: left;
-    }
-	
-    .ui-slider {
-      display : inline-block;
-      width: 175px;
-      margin: .3em;
-      position: relative;
-      top: .3em;
-    }
-	
-    iframe {
-      max-width: 100%;
-      overflow: hidden;
-    }
-
-	
-  </style>
   <script src="./static/js/live2dsdk/ui.js" type="application/javascript"></script>
 </head>
 <body onload="init()">
     <nav>
 	  <ul>
-	    <li><a href="https://live2d-dcg.github.io/">Live2D Viewer</a></li>
+	    <li><a href="https://live2d-dcg.github.io/">Live2D</a></li>
 		<li><a href="http://riceminegl.mnyiaa.com/" target="_blank">Tier List</a></li>
 		<li><a href="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQtAzEGZTUDqev509gxzuIbP9PJnu-JLjvm8xUfY1WIuGcHlIIH3bvy4LOaJrQCjd80AFDCxQN1-1KC/pubhtml#" target="_blank">Database</a></li>
-		<li><a href="\static\pages\link.html">Useful Links</a></li>
+		<li><a href="\static\pages\resources.html">Resources</a></li>
 	  </ul>
 	</nav>
   <img src="./loading.gif" alt="Loading" id="loading"/>

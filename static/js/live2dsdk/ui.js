@@ -227,7 +227,7 @@ function createSlider() {
     min: 200,
     max: docWidth < maxWidth ? docWidth : maxWidth,
     step: 50,
-    value: searchParams.get('size') || 1000,
+    value: searchParams.get('size') || screen.height/1.5,
     slide: function(_, ui) {
       $('#size-label').html(ui.value)
     },
