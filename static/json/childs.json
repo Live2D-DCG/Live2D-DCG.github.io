@@ -14893,516 +14893,460 @@
         }
     },
     "sc001": {
-        "name": "모나",
+        "name": "Mona",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc002": {
-        "name": "리자",
+        "name": "Lisa",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc003": {
-        "name": "다비",
+        "name": "Davi",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc004": {
-        "name": "처용",
+        "name": "Cheoyong",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc005": {
-        "name": "마르스",
+        "name": "Mars",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc007": {
-        "name": "포이닉스",
+        "name": "Phoenix",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc008": {
-        "name": "프리가",
+        "name": "Frigga",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc009": {
-        "name": "헥토르",
+        "name": "Hector",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc010": {
-        "name": "드미테르",
+        "name": "Demeter",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc011": {
-        "name": "데이노",
+        "name": "Deino",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc012": {
-        "name": "아가멤논",
+        "name": "Agamemnon",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc013": {
-        "name": "아르테미스",
+        "name": "Artemis",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc014": {
-        "name": "아스트레아",
+        "name": "Astraea",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc017": {
-        "name": "왕군이",
+        "name": "Cu Sith",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc018": {
-        "name": "코라",
+        "name": "Korra",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc019": {
-        "name": "에리스",
+        "name": "Eris",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc020": {
-        "name": "포르투나",
+        "name": "Fortuna",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc022": {
-        "name": "마야우엘",
+        "name": "Mayahuel",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc026": {
-        "name": "오로라",
+        "name": "Eos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc027": {
-        "name": "킨티아",
+        "name": "Cynthia",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc028": {
-        "name": "레다",
+        "name": "Leda",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc029": {
-        "name": "셀레네",
+        "name": "Selene",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc030": {
-        "name": "소녀탐정",
+        "name": "Detective Girl",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc031": {
-        "name": "프레이야",
+        "name": "Freyja",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc032": {
-        "name": "알렉토",
+        "name": "Alecto",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc033": {
-        "name": "다이아나",
+        "name": "Diana",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc034": {
-        "name": "므네모시네",
+        "name": "Mnemosyne",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc035": {
-        "name": "페르세포네",
+        "name": "Persephone",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc036": {
-        "name": "에르메스",
+        "name": "Hermes",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc037": {
-        "name": "유다",
+        "name": "Judas",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc038": {
-        "name": "칼립소",
+        "name": "Calypso",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc039": {
-        "name": "모리유",
+        "name": "Morrigan",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc040": {
-        "name": "샤마시",
+        "name": "Shamash",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc041": {
-        "name": "티아마트",
+        "name": "Tiamat",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc043": {
-        "name": "헤라",
+        "name": "Hera",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc044": {
-        "name": "판테온",
+        "name": "Pantheon",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc045": {
-        "name": "아리아",
+        "name": "Aria",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc047": {
-        "name": "헤스티아",
+        "name": "Hestia",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc048": {
-        "name": "네반",
+        "name": "Neamhain",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc049": {
-        "name": "마아트",
+        "name": "Maat",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc051": {
-        "name": "프레이",
+        "name": "Frej",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc052": {
-        "name": "베리트",
+        "name": "Berit",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc053": {
-        "name": "메티스",
+        "name": "Metis",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc054": {
-        "name": "레전드",
+        "name": "Legend",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc056": {
-        "name": "잔다르크",
+        "name": "Jeanne d'Arc",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc057": {
-        "name": "란페이",
+        "name": "Lan Fei",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc058": {
-        "name": "니르티",
+        "name": "Nirrti",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc060": {
-        "name": "티시포네",
+        "name": "Tisiphone",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc061": {
-        "name": "세이렌",
+        "name": "Siren",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc062": {
-        "name": "에우로페",
+        "name": "Europa",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc063": {
-        "name": "프리지아",
+        "name": "Freesia",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15411,68 +15355,52 @@
         "name": "메두사",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc065": {
-        "name": "에라토",
+        "name": "Erato",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc066": {
-        "name": "아텐",
+        "name": "Aten",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc067": {
-        "name": "타나토스",
+        "name": "Thanatos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc068": {
-        "name": "암브로시아",
+        "name": "Ambrosia",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc069": {
-        "name": "프타",
+        "name": "Ptah",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15481,33 +15409,25 @@
         "name": "유이",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc072": {
-        "name": "펜릴",
+        "name": "Fenrir",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc074": {
-        "name": "키리누스",
+        "name": "Quirinus",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15516,33 +15436,24 @@
         "name": "테미스",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
-        }
     },
     "sc082": {
-        "name": "칼카스",
+        "name": "Calchas",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc083": {
-        "name": "네이드",
+        "name": "Neith",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15551,49 +15462,25 @@
         "name": "파리스",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc086": {
-        "name": "고가",
+        "name": "Goga",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc090": {
-        "name": "불카누스",
+        "name": "Vulcan",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15602,68 +15489,52 @@
         "name": "마이라",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc095": {
-        "name": "베스타",
+        "name": "Vesta",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc099": {
-        "name": "멜포메네",
+        "name": "Melpomene",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc101": {
-        "name": "시링크스",
+        "name": "Syrinx",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc106": {
-        "name": "메데이아",
+        "name": "Medeia",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc107": {
-        "name": "아폴론",
+        "name": "Apollo",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15672,167 +15543,151 @@
         "name": "아레투사",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc112": {
-        "name": "엘리어스",
+        "name": "Elias",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc115": {
-        "name": "소네트",
+        "name": "Sonnet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc117": {
-        "name": "야가",
+        "name": "Yaga",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc120": {
-        "name": "플로라",
+        "name": "Flora",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc121": {
-        "name": "뮤즈",
+        "name": "Muse",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc123": {
-        "name": "바포메",
+        "name": "Baphomet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc124": {
-        "name": "이브",
+        "name": "Eve",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc126": {
-        "name": "살마키스",
+        "name": "Salmacis",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc127": {
-        "name": "바스테트",
+        "name": "Bastet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc130": {
-        "name": "게니우스",
+        "name": "Genius",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc132": {
-        "name": "미다스",
+        "name": "Midas",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc133": {
-        "name": "티타니아",
+        "name": "Titania",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc135": {
-        "name": "발키리",
+        "name": "Valkyrie",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc139": {
-        "name": "포모나",
+        "name": "Pomona",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc141": {
-        "name": "아모르",
+        "name": "Amor",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc142": {
-        "name": "히프노스",
+        "name": "Hypnos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15841,50 +15696,34 @@
         "name": "메데아",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc147": {
-        "name": "바알",
+        "name": "Baal",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc148": {
-        "name": "이난나",
+        "name": "Inanna",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc149": {
-        "name": "루살카",
+        "name": "Rusalka",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15893,51 +15732,43 @@
         "name": "헤베",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc153": {
-        "name": "에포나",
+        "name": "Epona",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc154": {
-        "name": "토트",
+        "name": "Thoth",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc156": {
-        "name": "에르제베트",
+        "name": "Elizabeth",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc158": {
-        "name": "나이아스",
+        "name": "Naias",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15946,15 +15777,7 @@
         "name": "세멜레",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15963,25 +15786,25 @@
         "name": "사라",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc164": {
-        "name": "이슈타르",
+        "name": "Ishtar",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc167": {
-        "name": "상아",
+        "name": "Chang'e",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -15990,42 +15813,34 @@
         "name": "탈리아",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc169": {
-        "name": "에우로스",
+        "name": "Euros",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc172": {
-        "name": "유나",
+        "name": "Yuna",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc173": {
-        "name": "디나시",
+        "name": "Daoine Sidhe",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16034,69 +15849,61 @@
         "name": "A.I",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc175": {
-        "name": "레드크로스",
+        "name": "Red Cross",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc176": {
-        "name": "에슈",
+        "name": "Eshu",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc178": {
-        "name": "모르가나",
+        "name": "Morgana",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc180": {
-        "name": "맘몬",
+        "name": "Mammon",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc183": {
-        "name": "다나",
+        "name": "Dana",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc184": {
-        "name": "엘리시온",
+        "name": "Elysion",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16105,176 +15912,160 @@
         "name": "헤르모드",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc188": {
-        "name": "아탈란테",
+        "name": "Atalanta",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc189": {
-        "name": "크라토스",
+        "name": "Kratos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc190": {
-        "name": "이시스",
+        "name": "Isis",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc191": {
-        "name": "세크메트",
+        "name": "Sekhmet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc194": {
-        "name": "아슈토레스",
+        "name": "Ashtoreth",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc195": {
-        "name": "키벨레",
+        "name": "Cybele",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc196": {
-        "name": "이둔",
+        "name": "Idun",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc198": {
-        "name": "젤로스",
+        "name": "Zelos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc199": {
-        "name": "아우로라",
+        "name": "Aurora",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc200": {
-        "name": "세스헤트",
+        "name": "Seshat",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc202": {
-        "name": "빅트릭스",
+        "name": "Victorix",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc205": {
-        "name": "멀린",
+        "name": "Merlin",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc208": {
-        "name": "파이로",
+        "name": "Firo",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc209": {
-        "name": "헤카테",
+        "name": "Hecate",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc210": {
-        "name": "타르타로스",
+        "name": "Tartarus",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc214": {
-        "name": "주피터",
+        "name": "Jupiter",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc216": {
-        "name": "워울프",
+        "name": "Werewolf",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16283,34 +16074,34 @@
         "name": "이미르",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc220": {
-        "name": "아트로포스",
+        "name": "Atropos",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc221": {
-        "name": "야나",
+        "name": "Jana",
         "variants": {
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc222": {
-        "name": "엘도라도",
+        "name": "El Dorado",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16319,132 +16110,124 @@
         "name": "에아",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc225": {
-        "name": "루돌프",
+        "name": "Rudolph",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc227": {
-        "name": "마프데트",
+        "name": "Mafdet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc229": {
-        "name": "브라우니",
+        "name": "Brownie",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc230": {
-        "name": "스쿨드",
+        "name": "Skuld",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc232": {
-        "name": "다프네",
+        "name": "Daphne",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc233": {
-        "name": "아르게스",
+        "name": "Arges",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc234": {
-        "name": "헤라클레스",
+        "name": "Hercules",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc235": {
-        "name": "다누",
+        "name": "Danu",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc238": {
-        "name": "메브",
+        "name": "Medb",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc242": {
-        "name": "알릴",
+        "name": "Ailill",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc246": {
-        "name": "크람푸스",
+        "name": "Krampus",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc247": {
-        "name": "미리나",
+        "name": "Myrina",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc253": {
-        "name": "니콜",
+        "name": "Nicole",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16453,69 +16236,61 @@
         "name": "다프니스",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc266": {
-        "name": "호루스",
+        "name": "Horus",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc267": {
-        "name": "클레오파트라",
+        "name": "Cleopatra",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc274": {
-        "name": "바스트",
+        "name": "Bast",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc277": {
-        "name": "레우케",
+        "name": "Leuce",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc280": {
-        "name": "티케",
+        "name": "Tyche",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc283": {
-        "name": "모건",
+        "name": "Morgan",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16524,85 +16299,61 @@
         "name": "나탈리스",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc286": {
-        "name": "베르들레",
+        "name": "Verdelet",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc289": {
-        "name": "듀랜달",
+        "name": "Durandal",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc290": {
-        "name": "브리지드",
+        "name": "Brigid",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc292": {
-        "name": "루인",
+        "name": "Luin",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc294": {
-        "name": "바토리",
+        "name": "Bathory",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc295": {
-        "name": "언노운",
+        "name": "Unknown",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16611,7 +16362,7 @@
         "name": "힐드",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16620,42 +16371,34 @@
         "name": "레드퀸",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc299": {
-        "name": "산타클로스",
+        "name": "Santa Claus",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc300": {
-        "name": "피에타스",
+        "name": "Pietas",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc301": {
-        "name": "자청비",
+        "name": "Jacheongbi",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16664,24 +16407,16 @@
         "name": "네뷸라",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc305": {
-        "name": "리타",
+        "name": "Rita",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16690,68 +16425,61 @@
         "name": "쿠바바",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+            }
+        }
+    },
+	"sc310": {
+        "name": "Bes",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc311": {
-        "name": "케프리",
+        "name": "Khepri",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc312": {
-        "name": "티르빙",
+        "name": "Tyrving",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc317": {
-        "name": "바벨",
+        "name": "Babel",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc318": {
-        "name": "바리",
+        "name": "Bari",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc319": {
-        "name": "버들도령",
+        "name": "Willow Doryeong",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16760,7 +16488,7 @@
         "name": "얀 지슈카",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16769,15 +16497,7 @@
         "name": "루나",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16786,24 +16506,25 @@
         "name": "살라딘",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc324": {
-        "name": "모나",
+        "name": "Mona",
         "variants": {
             "01": {
-                "title": "온천의 뉴비",
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc336": {
+        "name": "Pan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16812,15 +16533,7 @@
         "name": "포모나",
         "variants": {
             "01": {
-                "title": "온천의 퓨어화이트",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 퓨어화이트",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 퓨어화이트",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16829,248 +16542,178 @@
         "name": "다비",
         "variants": {
             "01": {
-                "title": "온천의 베리드",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 베리드",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 베리드",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc344": {
-        "name": "이졸데",
+        "name": "Isolde",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc345": {
-        "name": "아네모네",
+        "name": "Anemone",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc346": {
-        "name": "트리스탄",
+        "name": "Tristan",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc348": {
-        "name": "마스",
+        "name": "Mars♥",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc349": {
-        "name": "새턴",
+        "name": "Saturn♥",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc350": {
-        "name": "넵튠",
+        "name": "Neptune♥",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc351": {
-        "name": "비너스",
+        "name": "Venus♥",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc353": {
-        "name": "샤를",
+        "name": "Charlotte",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc354": {
-        "name": "드미테르",
+        "name": "Demeter",
         "variants": {
             "01": {
-                "title": "온천의 레이지본",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 레이지본",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 레이지본",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc355": {
-        "name": "상아",
+        "name": "Chang'e",
         "variants": {
             "01": {
-                "title": "온천의 수호신",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc360": {
-        "name": "마아트",
+        "name": "Maat",
         "variants": {
             "01": {
-                "title": "온천의 해방된",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 해방된",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 해방된",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc364": {
-        "name": "시트리",
+        "name": "Sytry",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc365": {
-        "name": "리자",
+        "name": "Lisa",
         "variants": {
             "01": {
-                "title": "온천의 다크사이더",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 다크사이더",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 다크사이더",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc366": {
-        "name": "데이노",
+        "name": "Deino",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+            }
+        }
+    },
+	"sc367": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc370": {
-        "name": "모나",
+        "name": "Mona",
         "variants": {
             "01": {
-                "title": "온천의 스킨다이버",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 스킨다이버",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 스킨다이버",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc371": {
-        "name": "리자",
+        "name": "Lisa",
         "variants": {
             "01": {
-                "title": "온천의 마린슈트",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 마린슈트",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 마린슈트",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc372": {
-        "name": "다비",
+        "name": "Davi",
         "variants": {
             "01": {
-                "title": "온천의 마린슈트",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의 마린슈트",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 마린슈트",
+            }
+        }
+    },
+	 "sc373": {
+        "name": "Midas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17079,15 +16722,7 @@
         "name": "힐드",
         "variants": {
             "01": {
-                "title": "온천의 웨딩",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 웨딩",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 웨딩",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17096,117 +16731,70 @@
         "name": "이피스",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc382": {
-        "name": "네반",
+        "name": "Neamhain",
         "variants": {
             "01": {
-                "title": "온천의 캣츠아이",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의 캣츠아이",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 캣츠아이",
+            }
+        }
+    },
+	"sc383": {
+        "name": "Frej",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc385": {
-        "name": "마리 로즈",
+        "name": "Marie Rose",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc386": {
-        "name": "카스미",
+        "name": "Kasumi",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc387": {
-        "name": "호노카",
+        "name": "Honoka",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc390": {
-        "name": "오하드",
+        "name": "Eochaid",
         "variants": {
             "01": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc391": {
-        "name": "메브",
+        "name": "Medb",
         "variants": {
             "01": {
-                "title": "온천의 할로윈스타",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 할로윈스타",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 할로윈스타",
+                "title": "Hot Spring 할로윈스타",
                 "positions": {}
             }
         }
@@ -17215,15 +16803,7 @@
         "name": "다비",
         "variants": {
             "01": {
-                "title": "온천의 얼터드",
-                "positions": {}
-            },
-            "02": {
-                "title": "온천의 얼터드",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 얼터드",
+                "title": "Hot Spring 얼터드",
                 "positions": {}
             }
         }
@@ -17232,32 +16812,124 @@
         "name": "모나",
         "variants": {
             "01": {
-                "title": "온천의 백광의",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의 백광의",
-                "positions": {}
-            },
-            "03": {
-                "title": "온천의 백광의",
+            }
+        }
+    },
+	"sc394": {
+        "name": "Bathory",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
     },
     "sc395": {
-        "name": "이브",
+        "name": "Eve",
         "variants": {
             "01": {
-                "title": "온천의 스쿨라이프",
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "온천의 스쿨라이프",
+            }
+        }
+    },
+	"sc396": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
-            },
-            "03": {
-                "title": "온천의 스쿨라이프",
+            }
+        }
+    },
+	"sc397": {
+        "name": "Leda",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc402": {
+        "name": "Noel",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc403": {
+        "name": "Makoto",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc404": {
+        "name": "Nine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc406": {
+        "name": "Serval",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc407": {
+        "name": "Raccoon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc408": {
+        "name": "Fennec",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc419": {
+        "name": "Catherine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc420": {
+        "name": "Katherine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+	"sc421": {
+        "name": "Rin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17266,7 +16938,7 @@
         "name": "염룡",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17275,7 +16947,7 @@
         "name": "염룡",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17284,7 +16956,7 @@
         "name": "테디",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17293,7 +16965,7 @@
         "name": "전달자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17302,7 +16974,7 @@
         "name": "추격자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17311,7 +16983,7 @@
         "name": "디아블로",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17320,7 +16992,7 @@
         "name": "리유가",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17329,7 +17001,7 @@
         "name": "체인킬러",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17338,7 +17010,7 @@
         "name": "정령",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17347,7 +17019,7 @@
         "name": "박제",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17356,7 +17028,7 @@
         "name": "단두대",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17365,7 +17037,7 @@
         "name": "하데스",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17374,7 +17046,7 @@
         "name": "바실리",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17383,15 +17055,15 @@
         "name": "히드라",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17400,15 +17072,15 @@
         "name": "고모라",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17417,7 +17089,7 @@
         "name": "아바돈",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17426,7 +17098,7 @@
         "name": "월아",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17435,7 +17107,7 @@
         "name": "바주카",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17444,7 +17116,7 @@
         "name": "앰플",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17453,7 +17125,7 @@
         "name": "모아",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17462,7 +17134,7 @@
         "name": "주시자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17471,7 +17143,7 @@
         "name": "주시자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17480,7 +17152,7 @@
         "name": "주시자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17489,7 +17161,7 @@
         "name": "주시자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17498,7 +17170,7 @@
         "name": "주시자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17507,7 +17179,7 @@
         "name": "레이디",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17516,7 +17188,7 @@
         "name": "벨보이",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17525,7 +17197,7 @@
         "name": "할로윈",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17534,7 +17206,7 @@
         "name": "레드",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17543,7 +17215,7 @@
         "name": "블루",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17552,7 +17224,7 @@
         "name": "그린",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17561,7 +17233,7 @@
         "name": "라이트",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17570,7 +17242,7 @@
         "name": "퍼플",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17579,7 +17251,7 @@
         "name": "원",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17588,7 +17260,7 @@
         "name": "헤르츠",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17597,7 +17269,7 @@
         "name": "해트트릭",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17606,7 +17278,7 @@
         "name": "암즈",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17615,7 +17287,7 @@
         "name": "파이터",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17624,7 +17296,7 @@
         "name": "멘티",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17633,7 +17305,7 @@
         "name": "보물상자",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17642,7 +17314,7 @@
         "name": "박서",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17651,7 +17323,7 @@
         "name": "키메이라",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17660,7 +17332,7 @@
         "name": "혈룡",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17669,7 +17341,7 @@
         "name": "털뭉치",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17678,7 +17350,7 @@
         "name": "다론",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17687,7 +17359,7 @@
         "name": "다론",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17696,7 +17368,7 @@
         "name": "다론",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17705,7 +17377,7 @@
         "name": "다론",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17714,7 +17386,7 @@
         "name": "다론",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17723,7 +17395,7 @@
         "name": "수룡",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17732,15 +17404,15 @@
         "name": "앙크",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17749,7 +17421,7 @@
         "name": "바주카맨",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17758,7 +17430,7 @@
         "name": "바주람보",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17767,7 +17439,7 @@
         "name": "브레맨",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17776,15 +17448,15 @@
         "name": "발프",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17793,7 +17465,7 @@
         "name": "부꾸두들",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17802,15 +17474,15 @@
         "name": "엔젤롯",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17819,7 +17491,7 @@
         "name": "룬",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17828,7 +17500,7 @@
         "name": "페어리",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17837,7 +17509,7 @@
         "name": "레드노즈",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17846,7 +17518,7 @@
         "name": "선물꾸러미",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17855,15 +17527,15 @@
         "name": "아펩",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17872,15 +17544,15 @@
         "name": "크리처",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -17889,15 +17561,15 @@
         "name": "앰플",
         "variants": {
             "01": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "02": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             },
             "03": {
-                "title": "온천의",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
