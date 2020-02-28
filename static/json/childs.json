@@ -3,7 +3,7 @@
         "name": "Hero",
         "variants": {
             "10": {
-                "title": "Questionable",
+                "title": "Mysterious",
                 "positions": {
                     "home": {
                         "x": -15,
@@ -13,7 +13,7 @@
                 }
             },
             "11": {
-                "title": "Girl",
+                "title": "Girl's School",
                 "positions": {
                     "home": {
                         "x": -15,
@@ -23,7 +23,7 @@
                 }
             },
             "12": {
-                "title": "Summer Vacation",
+                "title": "Swimsuit",
                 "positions": {
                     "home": {
                         "x": -16,
@@ -68,7 +68,7 @@
         "name": "Mona",
         "variants": {
             "12": {
-                "title": "Beach",
+                "title": "Seaside",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -118,7 +118,7 @@
                 }
             },
             "02": {
-                "title": "",
+                "title": "Battlesuit",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -133,7 +133,7 @@
         "name": "Lisa",
         "variants": {
             "10": {
-                "title": "Beach",
+                "title": "Seaside",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -143,7 +143,7 @@
                 }
             },
             "11": {
-                "title": "Checker Skirt",
+                "title": "Student",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -163,7 +163,7 @@
                 }
             },
             "00": {
-                "title": "Mystic",
+                "title": "",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -183,7 +183,7 @@
                 }
             },
             "02": {
-                "title": "",
+                "title": "Battlesuit",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -198,7 +198,7 @@
         "name": "Davi",
         "variants": {
             "10": {
-                "title": "Beach",
+                "title": "Seaside",
                 "positions": {
                     "home": {
                         "x": -15,
@@ -208,7 +208,7 @@
                 }
             },
             "11": {
-                "title": "Checker Skirt",
+                "title": "Student",
                 "positions": {
                     "home": {
                         "x": -15,
@@ -288,7 +288,7 @@
                 }
             },
             "02": {
-                "title": "",
+                "title": "Battlesuit",
                 "positions": {
                     "home": {
                         "x": -15,
@@ -313,7 +313,7 @@
                 }
             },
             "01": {
-                "title": "Neighbor",
+                "title": "Neighborly",
                 "positions": {
                     "home": {
                         "x": 0,
@@ -323,7 +323,7 @@
                 }
             },
             "02": {
-                "title": "Warmhearted",
+                "title": "Warmharted",
                 "positions": {
                     "home": {
                         "x": 31,
@@ -348,7 +348,7 @@
                 }
             },
             "01": {
-                "title": "Full Speed",
+                "title": "Zooming",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -358,7 +358,7 @@
                 }
             },
             "02": {
-                "title": "Hell's Angel",
+                "title": "Rampaging",
                 "positions": {
                     "home": {
                         "x": -5,
@@ -383,7 +383,7 @@
                 }
             },
             "01": {
-                "title": "Thermal",
+                "title": "Hot",
                 "positions": {
                     "home": {
                         "x": -35,
@@ -393,7 +393,7 @@
                 }
             },
             "02": {
-                "title": "Deteriorating",
+                "title": "Fiery",
                 "positions": {
                     "home": {
                         "x": -35,
@@ -533,7 +533,7 @@
                 }
             },
             "02": {
-                "title": "Consecrated",
+                "title": "Devoted",
                 "positions": {
                     "home": {
                         "x": -10,
@@ -15439,6 +15439,7 @@
                 "title": "Hot Spring",
                 "positions": {}
             }
+		}
     },
     "sc082": {
         "name": "Calchas",
@@ -17406,14 +17407,6 @@
             "01": {
                 "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
-                "title": "Hot Spring",
-                "positions": {}
             }
         }
     },
@@ -17450,14 +17443,6 @@
             "01": {
                 "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
-                "title": "Hot Spring",
-                "positions": {}
             }
         }
     },
@@ -17474,14 +17459,6 @@
         "name": "엔젤롯",
         "variants": {
             "01": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
                 "title": "Hot Spring",
                 "positions": {}
             }
@@ -17529,14 +17506,6 @@
             "01": {
                 "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
-                "title": "Hot Spring",
-                "positions": {}
             }
         }
     },
@@ -17546,14 +17515,6 @@
             "01": {
                 "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
-                "title": "Hot Spring",
-                "positions": {}
             }
         }
     },
@@ -17561,14 +17522,6 @@
         "name": "앰플",
         "variants": {
             "01": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
                 "title": "Hot Spring",
                 "positions": {}
             }
