@@ -16795,7 +16795,7 @@
         "name": "Medb",
         "variants": {
             "01": {
-                "title": "Hot Spring 할로윈스타",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16804,7 +16804,7 @@
         "name": "다비",
         "variants": {
             "01": {
-                "title": "Hot Spring 얼터드",
+                "title": "Hot Spring",
                 "positions": {}
             }
         }
@@ -16936,7 +16936,7 @@
         }
     },
     "sm003": {
-        "name": "염룡",
+        "name": "Fire Dragon",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16945,7 +16945,7 @@
         }
     },
     "sm004": {
-        "name": "염룡",
+        "name": "Ice Dragon",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16954,7 +16954,7 @@
         }
     },
     "sm007": {
-        "name": "테디",
+        "name": "Teddy",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16963,7 +16963,7 @@
         }
     },
     "sm036": {
-        "name": "전달자",
+        "name": "Messenger",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16972,7 +16972,7 @@
         }
     },
     "sm037": {
-        "name": "추격자",
+        "name": "Chaser",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16981,7 +16981,7 @@
         }
     },
     "sm038": {
-        "name": "디아블로",
+        "name": "Diablo",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16990,7 +16990,7 @@
         }
     },
     "sm039": {
-        "name": "리유가",
+        "name": "Kali Yuga",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -16999,7 +16999,7 @@
         }
     },
     "sm040": {
-        "name": "체인킬러",
+        "name": "Chain Killer",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17008,7 +17008,7 @@
         }
     },
     "sm045": {
-        "name": "정령",
+        "name": "Bouquet",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17017,7 +17017,7 @@
         }
     },
     "sm049": {
-        "name": "박제",
+        "name": "Skull",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17026,7 +17026,7 @@
         }
     },
     "sm050": {
-        "name": "단두대",
+        "name": "Guillotine",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17035,7 +17035,7 @@
         }
     },
     "sm051": {
-        "name": "하데스",
+        "name": "Hades",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17044,7 +17044,7 @@
         }
     },
     "sm052": {
-        "name": "바실리",
+        "name": "Basilisk",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17058,14 +17058,6 @@
             "01": {
                 "title": "Hot Spring",
                 "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
-                "title": "Hot Spring",
-                "positions": {}
             }
         }
     },
@@ -17073,14 +17065,6 @@
         "name": "고모라",
         "variants": {
             "01": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "02": {
-                "title": "Hot Spring",
-                "positions": {}
-            },
-            "03": {
                 "title": "Hot Spring",
                 "positions": {}
             }
@@ -17096,7 +17080,7 @@
         }
     },
     "sm057": {
-        "name": "월아",
+        "name": "Olga",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17105,7 +17089,7 @@
         }
     },
     "sm059": {
-        "name": "바주카",
+        "name": "Bazooka",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17114,7 +17098,7 @@
         }
     },
     "sm063": {
-        "name": "앰플",
+        "name": "Ampoule",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17123,7 +17107,7 @@
         }
     },
     "sm077": {
-        "name": "모아",
+        "name": "Moa",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17132,7 +17116,7 @@
         }
     },
     "sm124": {
-        "name": "주시자",
+        "name": "Watcher",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17177,7 +17161,7 @@
         }
     },
     "sm136": {
-        "name": "레이디",
+        "name": "Lady",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17186,7 +17170,7 @@
         }
     },
     "sm137": {
-        "name": "벨보이",
+        "name": "Bellboy",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17195,7 +17179,7 @@
         }
     },
     "sm141": {
-        "name": "할로윈",
+        "name": "Halloween",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17204,7 +17188,7 @@
         }
     },
     "sm142": {
-        "name": "레드",
+        "name": "Red Revenge Girl",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17213,7 +17197,7 @@
         }
     },
     "sm143": {
-        "name": "블루",
+        "name": "Blue Revenge Girl",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17222,7 +17206,7 @@
         }
     },
     "sm144": {
-        "name": "그린",
+        "name": "Green Revenge Girl",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17231,7 +17215,7 @@
         }
     },
     "sm145": {
-        "name": "라이트",
+        "name": "Light Revenge Girl",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17240,7 +17224,7 @@
         }
     },
     "sm146": {
-        "name": "퍼플",
+        "name": "Purple Revenge Girl",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17249,7 +17233,7 @@
         }
     },
     "sm148": {
-        "name": "원",
+        "name": "Won",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17258,7 +17242,7 @@
         }
     },
     "sm149": {
-        "name": "헤르츠",
+        "name": "Hertz",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17267,7 +17251,7 @@
         }
     },
     "sm150": {
-        "name": "해트트릭",
+        "name": "Hat-Trick",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17276,7 +17260,7 @@
         }
     },
     "sm151": {
-        "name": "암즈",
+        "name": "Arms",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17285,7 +17269,7 @@
         }
     },
     "sm152": {
-        "name": "파이터",
+        "name": "Fighter",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17294,7 +17278,7 @@
         }
     },
     "sm153": {
-        "name": "멘티",
+        "name": "Manti",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17303,7 +17287,7 @@
         }
     },
     "sm189": {
-        "name": "보물상자",
+        "name": "Mimic",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17312,7 +17296,7 @@
         }
     },
     "sm190": {
-        "name": "박서",
+        "name": "Boxer",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17321,7 +17305,7 @@
         }
     },
     "sm191": {
-        "name": "키메이라",
+        "name": "Chimera",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17330,7 +17314,7 @@
         }
     },
     "sm192": {
-        "name": "혈룡",
+        "name": "Blood Dragon",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17339,7 +17323,7 @@
         }
     },
     "sm193": {
-        "name": "털뭉치",
+        "name": "Pompoms",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17348,7 +17332,7 @@
         }
     },
     "sm194": {
-        "name": "다론",
+        "name": "Gron",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17357,7 +17341,7 @@
         }
     },
     "sm195": {
-        "name": "다론",
+        "name": "Liron",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17366,7 +17350,7 @@
         }
     },
     "sm196": {
-        "name": "다론",
+        "name": "Firon",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17375,7 +17359,7 @@
         }
     },
     "sm197": {
-        "name": "다론",
+        "name": "Charonn",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17384,7 +17368,7 @@
         }
     },
     "sm198": {
-        "name": "다론",
+        "name": "Daron",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17393,7 +17377,7 @@
         }
     },
     "sm199": {
-        "name": "수룡",
+        "name": "Azure Dragon",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17402,7 +17386,7 @@
         }
     },
     "sm200": {
-        "name": "앙크",
+        "name": "Ankh",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17411,7 +17395,7 @@
         }
     },
     "sm201": {
-        "name": "바주카맨",
+        "name": "Mech Commander",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17420,7 +17404,7 @@
         }
     },
     "sm202": {
-        "name": "바주람보",
+        "name": "Mech Soldier",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17429,7 +17413,7 @@
         }
     },
     "sm203": {
-        "name": "브레맨",
+        "name": "Bremen",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17447,7 +17431,7 @@
         }
     },
     "sm206": {
-        "name": "부꾸두들",
+        "name": "Boss Pig",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17456,7 +17440,7 @@
         }
     },
     "sm211": {
-        "name": "엔젤롯",
+        "name": "Rune",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17474,7 +17458,7 @@
         }
     },
     "sm216": {
-        "name": "페어리",
+        "name": "Fairy",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17483,7 +17467,7 @@
         }
     },
     "sm217": {
-        "name": "레드노즈",
+        "name": "Red Nose",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17492,7 +17476,7 @@
         }
     },
     "sm223": {
-        "name": "선물꾸러미",
+        "name": "Gift Bag",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17510,7 +17494,7 @@
         }
     },
     "sm245": {
-        "name": "크리처",
+        "name": "Creature",
         "variants": {
             "01": {
                 "title": "Hot Spring",
@@ -17519,7 +17503,16 @@
         }
     },
     "sm255": {
-        "name": "앰플",
+        "name": "Ampoule",
+        "variants": {
+            "01": {
+                "title": "Hot Spring",
+                "positions": {}
+            }
+        }
+    },
+    "sm261": {
+        "name": "Two-Sided Moa",
         "variants": {
             "01": {
                 "title": "Hot Spring",
