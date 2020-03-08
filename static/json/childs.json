@@ -868,7 +868,7 @@
                 "title": "Blooming"
             },
             "02": {
-                "title": "White Bird"
+                "title": "Profuse"
             }
         }
     },
@@ -879,10 +879,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Egotistic"
+                "title": "Self-Righteous"
             },
             "02": {
-                "title": "Tactician"
+                "title": "Machiavellian"
             }
         }
     },
@@ -893,7 +893,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Strange"
+                "title": "Unknown"
             },
             "02": {
                 "title": "Trancendent"
@@ -952,7 +952,7 @@
                 "title": "Explorer"
             },
             "02": {
-                "title": "Shade"
+                "title": "Shadow"
             }
         }
     },
@@ -991,7 +991,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Perennial"
+                "title": "Odorous"
             },
             "02": {
                 "title": "Pleasured"
@@ -1064,18 +1064,18 @@
                 "title": "Seasoned"
             },
             "02": {
-                "title": "Flavorful"
+                "title": "Flavored"
             }
         }
     },
     "c087": {
-        "name": "Ninuruta",
+        "name": "Ninurta",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "White"
+                "title": "Pure-White"
             },
             "02": {
                 "title": "Brilliant"
@@ -1083,7 +1083,7 @@
         }
     },
     "c090": {
-        "name": "Vulcanus",
+        "name": "Vulcan",
         "variants": {
             "00": {
                 "title": "Human"
@@ -1092,18 +1092,18 @@
                 "title": "Resurgent"
             },
             "02": {
-                "title": "Resurrected"
+                "title": "Reviving"
             }
         }
     },
     "c091": {
-        "name": "Maera",
+        "name": "Myra",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Guardian Angel"
+                "title": "Guardian"
             },
             "02": {
                 "title": "Loyal"
@@ -1111,13 +1111,13 @@
         }
     },
     "c092": {
-        "name": "Armida",
+        "name": "Eames",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Belligerent"
+                "title": "Hygienic"
             },
             "02": {
                 "title": "Fastidious"
@@ -1131,10 +1131,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Hot-Blooded"
+                "title": "HotBlooded"
             },
             "02": {
-                "title": "Extinct"
+                "title": "Passionate"
             }
         }
     },
@@ -1170,10 +1170,10 @@
         "name": "Medeia",
         "variants": {
             "01": {
-                "title": "Wizard"
+                "title": "Vengeful"
             },
             "02": {
-                "title": "Conspiracy"
+                "title": "Plotting"
             }
         }
     },
@@ -1184,10 +1184,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Glittering Star"
+                "title": "Glittering"
             },
             "02": {
-                "title": "Worshiped"
+                "title": "Admirable"
             }
         }
     },
@@ -1234,7 +1234,7 @@
                 "title": "Sorrowful"
             },
             "02": {
-                "title": "Conciliatory"
+                "title": "Reconciliatory"
             }
         }
     },
@@ -1259,7 +1259,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Faithful"
+                "title": "Loyal"
             },
             "02": {
                 "title": "Pious"
@@ -1290,7 +1290,7 @@
                 "title": "Night"
             },
             "02": {
-                "title": "Explosive"
+                "title": "Thundering"
             }
         }
     },
@@ -1357,10 +1357,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Pure"
+                "title": "Your"
             },
             "02": {
-                "title": "Your"
+                "title": "Exclusive"
             }
         }
     },
@@ -1368,7 +1368,7 @@
         "name": "Bastet",
         "variants": {
             "10": {
-                "title": "Advent"
+                "title": "Second Coming"
             },
             "00": {
                 "title": "Human"
@@ -1377,7 +1377,7 @@
                 "title": "Wild"
             },
             "02": {
-                "title": "Illusionary"
+                "title": "Phantom Night"
             }
         }
     },
@@ -1447,7 +1447,7 @@
                 "title": "Composed"
             },
             "02": {
-                "title": "Amorous"
+                "title": "Aesthetic"
             }
         }
     },
@@ -1461,7 +1461,7 @@
                 "title": "Armageddon"
             },
             "02": {
-                "title": "Finale"
+                "title": "Showdown"
             }
         }
     },
@@ -1550,7 +1550,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Raving"
+                "title": "Frenzied"
             },
             "02": {
                 "title": "Bloody"
@@ -1573,7 +1573,7 @@
                 "title": "Harlequin"
             },
             "02": {
-                "title": "Tyrant"
+                "title": "Tyrannical"
             }
         }
     },
@@ -1584,10 +1584,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Hesitant"
+                "title": "Indecisive"
             },
             "02": {
-                "title": "Confesing"
+                "title": "Confessing"
             }
         }
     },
@@ -1640,7 +1640,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "autocratic"
+                "title": "Autocratic"
             },
             "02": {
                 "title": "Empress"
@@ -1648,16 +1648,16 @@
         }
     },
     "c158": {
-        "name": "Naiad",
+        "name": "Naias",
         "variants": {
             "10": {
-                "title": "Marine Blossom"
+                "title": "Marine Flower"
             },
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Hypnotic"
+                "title": "Dreaming"
             },
             "02": {
                 "title": "Märchen"
@@ -1761,7 +1761,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Pleased"
+                "title": "Happy"
             },
             "02": {
                 "title": "Glorious"
@@ -1783,10 +1783,10 @@
         }
     },
     "c173": {
-        "name": "Dinashi",
+        "name": "Daoine Sidhe",
         "variants": {
             "10": {
-                "title": "Danger Zone"
+                "title": "Dangerous"
             },
             "00": {
                 "title": "Human"
@@ -1890,7 +1890,7 @@
         }
     },
     "c184": {
-        "name": "Elysium",
+        "name": "Elysion",
         "variants": {
             "00": {
                 "title": "Human"
@@ -1910,7 +1910,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Virtuous"
+                "title": "Foolhardy"
             },
             "02": {
                 "title": "Dictator"
@@ -2014,7 +2014,7 @@
                 "title": "White"
             },
             "02": {
-                "title": "Snow White"
+                "title": "Pure White"
             }
         }
     },
@@ -2104,7 +2104,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Otherworldly"
+                "title": "Mirror"
             },
             "02": {
                 "title": "Green"
@@ -2118,7 +2118,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Standard"
+                "title": "Otherworldly"
             },
             "02": {
                 "title": "Visitor"
@@ -2193,13 +2193,13 @@
         }
     },
     "c216": {
-        "name": "Warwolf",
+        "name": "Werewolf",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Full Moon"
+                "title": "Moonlight"
             },
             "02": {
                 "title": "Samhain"           
@@ -2244,7 +2244,7 @@
                 "title": "Full Moon"
             },
             "02": {
-                "title": "Paradise"
+                "title": "Full Bloom"
             }
         }
     },
@@ -2291,7 +2291,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Unwelcome"
+                "title": "Uninvited"
             },
             "02": {
                 "title": "Night Theif"
@@ -2333,7 +2333,7 @@
                 "title": "Info Broker"
             },
             "02": {
-                "title": "Deliveryman"
+                "title": "Delivery Girl"
             }
         }
     },
@@ -2406,7 +2406,7 @@
                 "title": "Explosive"
             },
             "02": {
-                "title": "Anti-Hero"
+                "title": "Antihero"
             }
         }
     },
@@ -2442,13 +2442,13 @@
         }
     },
     "c242": {
-        "name": "Ally",
+        "name": "Ailill",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Metamorphosis"
+                "title": "Magician"
             },
             "02": {
                 "title": "Parade"
@@ -2513,7 +2513,7 @@
                 "title": "Glorious"
             },
             "02": {
-                "title": "Ruler"
+                "title": "Autocratic"
             }
         }
     },
@@ -2535,10 +2535,10 @@
         "name": "Nicole",
         "variants": {
             "10": {
-                "title": "Nativity"
+                "title": "Christmas Eve"
             },
             "89": {
-                "title": "Nativity"
+                "title": "Christmas Eve"
             },
             "00": {
                 "title": "Human"
@@ -2593,10 +2593,10 @@
         "name": "Pixie",
         "variants": {
             "01": {
-                "title": "Fire"
+                "title": "Imaginative"
             },
             "02": {
-                "title": "Weird"
+                "title": "Ideal"
             }
         }
     },
@@ -2624,7 +2624,7 @@
                 "title": "Desert"
             },
             "02": {
-                "title": "Rah"
+                "title": "Ra"
             }
         }
     },
@@ -2632,7 +2632,7 @@
         "name": "Cleopatra",
         "variants": {
             "10": {
-                "title": "Favored"
+                "title": "Sun"
             },
             "11": {
                 "title": "Immortal"
@@ -2641,13 +2641,13 @@
                 "title": "Immortal"
             },
             "89": {
-                "title": "Favored"
+                "title": "Sun"
             },
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Eternal"
+                "title": "Transmigration"
             },
             "02": {
                 "title": "Pharoah"
@@ -2658,7 +2658,7 @@
         "name": "Pixie",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Chaotic"
             },
             "02": {
                 "title": "Cosmos"
@@ -2680,7 +2680,7 @@
         "name": "Pixie",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Silent"
             },
             "02": {
                 "title": "Sapphire"
@@ -2691,10 +2691,10 @@
         "name": "Pixie",
         "variants": {
             "01": {
-                "title": "Wood"
+                "title": "Sprout"
             },
             "02": {
-                "title": "Emerald"
+                "title": "Verdure"
             }
         }
     },
@@ -2744,10 +2744,10 @@
         "name": "Tyche",
         "variants": {
             "01": {
-                "title": "Pleasant"
+                "title": "Innocent"
             },
             "02": {
-                "title": "Dreamy"
+                "title": "Dreaming"
             }
         }
     },
@@ -2769,7 +2769,7 @@
         "name": "Morgan",
         "variants": {
             "10": {
-                "title": "Royal Servant"
+                "title": "Loyal Keeper"
             },
             "11": {
                 "title": "Anti-Rust"
@@ -2778,7 +2778,7 @@
                 "title": "Classic Servant"
             },
             "89": {
-                "title": "Royal Servant"
+                "title": "Loyal Keeper"
             },
             "00": {
                 "title": "Human"
@@ -2798,7 +2798,7 @@
                 "title": "Warring"
             },
             "02": {
-                "title": "Revelation"
+                "title": "Battlefield Goddess"
             }
         }
     },
@@ -2837,7 +2837,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Welcoming"
+                "title": "Illusory"
             },
             "02": {
                 "title": "Nightmare"
@@ -2851,15 +2851,15 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Bewildered"
+                "title": "Glamorous"
             },
             "02": {
-                "title": "Crimson"
+                "title": "Scarlet"
             }
         }
     },
     "c292": {
-        "name": "Ruin",
+        "name": "Luin",
         "variants": {
             "00": {
                 "title": "Human"
@@ -2868,15 +2868,15 @@
                 "title": "Blind"
             },
             "02": {
-                "title": "Multiple Windows"
+                "title": "Spear of Vengeance"
             }
         }
     },
     "c294": {
-        "name": "Elisabeth",
+        "name": "Bathory",
         "variants": {
             "00": {
-                "title": "Student President"
+                "title": "Human"
             },
             "01": {
                 "title": "Lady"
@@ -2887,13 +2887,13 @@
         }
     },
     "c295": {
-        "name": "Teresa",
+        "name": "Unknown",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Dreamy"
+                "title": "Dreaming"
             },
             "02": {
                 "title": "Silence"
@@ -2910,7 +2910,7 @@
                 "title": "Gunslinger"
             },
             "02": {
-                "title": "Valkyrie"
+                "title": "Sniper"
             }
         }
     },
@@ -2929,7 +2929,7 @@
         }
     },
     "c299": {
-        "name": "Santa Clause",
+        "name": "Santa Claus",
         "variants": {
             "00": {
                 "title": "Human"
@@ -2938,7 +2938,7 @@
                 "title": "Memorable"
             },
             "02": {
-                "title": "Delusional"
+                "title": "Satan"
             }
         }
     },
@@ -2949,7 +2949,7 @@
                 "title": "Beloved"
             },
             "02": {
-                "title": "Divine"
+                "title": "Devoted"
             }
         }
     },
@@ -2957,10 +2957,10 @@
         "name": "Jacheongbi",
         "variants": {
             "01": {
-                "title": "Fire"
+                "title": "Indomitable"
             },
             "02": {
-                "title": "Revolution"
+                "title": "Revolutionary"
             }
         }
     },
@@ -2979,16 +2979,16 @@
         "name": "Rita",
         "variants": {
             "10": {
-                "title": "Paradise"
+                "title": "Paradise Exiled"
             },
             "89": {
-                "title": "Paradise"
+                "title": "Paradise Exiled"
             },
             "01": {
-                "title": "Catholic"
+                "title": "Guiding"
             },
             "02": {
-                "title": "Chief"
+                "title": "Dark Saint"
             }
         }
     },
@@ -3038,7 +3038,7 @@
         }
     },
     "c312": {
-        "name": "Tyrfing",
+        "name": "Tyrving",
         "variants": {
             "00": {
                 "title": "Human"
@@ -3047,7 +3047,7 @@
                 "title": "Cynical"
             },
             "02": {
-                "title": "Insidious"
+                "title": "Cursed Sword"
             }
         }
     },
@@ -3062,15 +3062,18 @@
     "c315": {
         "name": "Methuselah",
         "variants": {
+		    "01": {
+                "title": "Alchemist"
+            },
             "02": {
                 "title": "Seeker"
             }
         }
     },
     "c316": {
-        "name": "Botan",
+        "name": "Wodan",
         "variants": {
-            "01": {
+            "00": {
                 "title": "Human"
             },
             "02": {
@@ -3082,13 +3085,13 @@
         "name": "Babel",
         "variants": {
             "00": {
-                "title": "Maiden"
+                "title": "Human"
             },
             "01": {
                 "title": "Hypocrite"
             },
             "02": {
-                "title": "Scion"
+                "title": "False Prophet"
             }
         }
     },
@@ -3096,33 +3099,33 @@
         "name": "Bari",
         "variants": {
             "10": {
-                "title": "Afterlife"
+                "title": "Equinoctial"
             },
             "11": {
-                "title": "Wailing"
+                "title": "Banshee"
             },
             "89": {
-                "title": "Afterlife"
+                "title": "Equinoctial"
             },
             "01": {
-                "title": "Wishfull"
+                "title": "Praying"
             },
             "02": {
-                "title": "Praying"
+                "title": "Prayer"
             }
         }
     },
     "c319": {
-        "name": "Bachelor",
+        "name": "Willow Doryeong",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Rebirth"
+                "title": "Reincarnated"
             },
             "02": {
-                "title": "Revived"
+                "title": "Guardian"
             }
         }
     },
@@ -3172,7 +3175,7 @@
         "name": "Mona",
         "variants": {
             "21": {
-                "title": "Newbie"
+                "title": "Hurt"
             },
             "01": {
                 "title": "Newbie"
@@ -3237,10 +3240,10 @@
         "name": "Ganesha",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Maverick"
             },
             "02": {
-                "title": "Golden"
+                "title": "Nandikesvara"
             }
         }
     },
@@ -3304,7 +3307,7 @@
                 "title": "White Handed"
             },
             "02": {
-                "title": "Divine"
+                "title": "Nova"
             }
         }
     },
@@ -3315,7 +3318,7 @@
                 "title": "Sunrise"
             },
             "01": {
-                "title": "Summer"
+                "title": "Midsummer"
             },
             "02": {
                 "title": "Gambler"
@@ -3329,7 +3332,7 @@
                 "title": "Blocking"
             },
             "02": {
-                "title": "High School"
+                "title": "Solitary"
             }
         }
     },
@@ -3345,16 +3348,16 @@
         }
     },
     "c348": {
-        "name": "Dark Mars",
+        "name": "Mars♥",
         "variants": {
             "10": {
-                "title": "Sweet Darling"
+                "title": "Sweet Love"
             },
             "00": {
-                "title": "Trainee"
+                "title": "Human"
             },
             "01": {
-                "title": "Stage"
+                "title": "Pretty"
             },
             "02": {
                 "title": "Sweet Devi"
@@ -3362,44 +3365,44 @@
         }
     },
     "c349": {
-        "name": "Saturn",
+        "name": "Saturn♥",
         "variants": {
             "00": {
-                "title": "Trainee"
+                "title": "Human"
             },
             "01": {
-                "title": "Idol"
+                "title": "Mysterious"
             },
             "02": {
-                "title": "Dark Star"
+                "title": "Starlight"
             }
         }
     },
     "c350": {
-        "name": "Neptune",
+        "name": "Neptune♥",
         "variants": {
             "00": {
-                "title": "Trainee"
+                "title": "Human"
             },
             "01": {
-                "title": "Pastel Sky"
+                "title": "Hard Worker"
             },
             "02": {
-                "title": "Pure Angel"
+                "title": "Pure Smile"
             }
         }
     },
     "c351": {
-        "name": "Venus",
+        "name": "Venus♥",
         "variants": {
             "00": {
-                "title": "Trainee"
+                "title": "Human"
             },
             "01": {
-                "title": "Beautiful"
+                "title": "Naive"
             },
             "02": {
-                "title": "Finale"
+                "title": "Heavenly Flower"
             }
         }
     },
@@ -3415,13 +3418,13 @@
         "name": "Charlotte",
         "variants": {
             "00": {
-                "title": "Young"
+                "title": "Human"
             },
             "01": {
-                "title": "Imprisoned"
+                "title": ""
             },
             "02": {
-                "title": "Luminous"
+                "title": "Glorious"
             }
         }
     },
@@ -3429,16 +3432,16 @@
         "name": "Demeter",
         "variants": {
             "10": {
-                "title": "Mid Nurse"
+                "title": "Mad Nurse"
             },
             "89": {
-                "title": "Flaming"
+                "title": "Crimson"
             },
             "01": {
-                "title": "Rage Burn"
+                "title": "Needfire"
             },
             "02": {
-                "title": "Flaming"
+                "title": "Crimson"
             }
         }
     },
@@ -3446,10 +3449,10 @@
         "name": "Chang'e",
         "variants": {
             "01": {
-                "title": "Ivory"
+                "title": "Guardian"
             },
             "02": {
-                "title": "Geisha"
+                "title": "Inugami"
             }
         }
     },
@@ -3460,12 +3463,12 @@
                 "title": ""
             },
             "02": {
-                "title": "Idol"
+                "title": "Diva"
             }
         }
     },
     "c359": {
-        "name": "Yuki Miku",
+        "name": "Snow Miku",
         "variants": {
             "01": {
                 "title": ""
@@ -3479,13 +3482,13 @@
         "name": "Maat",
         "variants": {
             "10": {
-                "title": "Wild"
+                "title": "Chasm"
             },
             "01": {
                 "title": "Liberated"
             },
             "02": {
-                "title": "Incarnation"
+                "title": "Descended"
             }
         }
     },
@@ -3501,24 +3504,24 @@
         }
     },
     "c364": {
-        "name": "Sitri",
+        "name": "Sytry",
         "variants": {
             "01": {
                 "title": "Sweet"
             },
             "02": {
-                "title": "Lovey Dovey"
+                "title": "Lovey-Dovey"
             }
         }
     },
     "c365": {
-        "name": "LISA",
+        "name": "Lisa",
         "variants": {
             "01": {
-                "title": "DARKSYDE"
+                "title": "Dark Buster"
             },
             "02": {
-                "title": "DEVILSYDE"
+                "title": "Devil Buster"
             }
         }
     },
@@ -3526,7 +3529,7 @@
         "name": "Deino",
         "variants": {
             "01": {
-                "title": "Hardworking"
+                "title": "Hard Worker"
             },
             "02": {
                 "title": "Hopeful"
@@ -3551,10 +3554,10 @@
         }
     },
     "c369": {
-        "name": "Grandma",
+        "name": "Old Lady",
         "variants": {
             "00": {
-                "title": "Neighborhood"
+                "title": ""
             }
         }
     },
@@ -3593,13 +3596,13 @@
         "name": "Davi",
         "variants": {
             "10": {
-                "title": "Summer Style"
+                "title": "Sports Bikini"
             },
             "01": {
-                "title": "Marine Suit"
+                "title": "School Swimsuit"
             },
             "02": {
-                "title": "Summer Flower"
+                "title": "Summer"
             }
         }
     },
@@ -3676,13 +3679,13 @@
         }
     },
     "c382": {
-        "name": "Nemean",
+        "name": "Neamhain",
         "variants": {
             "01": {
-                "title": "Cat's Eyes"
+                "title": "Catgirl"
             },
             "02": {
-                "title": "Little Kitty"
+                "title": "Battle Kitty"
             }
         }
     },
@@ -3767,7 +3770,7 @@
                 "title": "Moo-Moo Denim"
             },
 			"11": {
-                "title": "Delphinium "
+                "title": "Delphinium"
             }
         }
     },
@@ -3797,19 +3800,19 @@
         }
     },
     "c390": {
-        "name": "Ohad",
+        "name": "Eochaid",
         "variants": {
             "88": {
-                "title": "Deathmatch"
+                "title": "Death March"
             },
             "89": {
-                "title": "Magician"
+                "title": "Witch"
             },
             "01": {
-                "title": "Magician"
+                "title": "Witch"
             },
             "02": {
-                "title": "Deathmatch"
+                "title": "Death March"
             }
         }
     },
@@ -3817,10 +3820,10 @@
         "name": "Medb",
         "variants": {
             "01": {
-                "title": "Halloween Star"
+                "title": "Party Star"
             },
             "02": {
-                "title": "Halloween Night"
+                "title": "Party Night"
             }
         }
     },
@@ -3867,10 +3870,10 @@
         "name": "Eve",
         "variants": {
             "01": {
-                "title": "School Life"
+                "title": "Mysterious Student"
             },
             "02": {
-                "title": "School Hazard"
+                "title": "Pink Blazer"
             }
         }
     },
@@ -3947,7 +3950,7 @@
                 "title": "Fourth Squadron"
             },
 			"10": {
-                "title": "μ1"
+                "title": "μ-12"
             }
         }
     },
