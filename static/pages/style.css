@@ -95,3 +95,8 @@
       max-width: 100%;
       overflow: hidden;
     }
+
+	.ui-menu .ui-menu-item-wrapper {
+	  margin-top: -7px;
+	  margin-bottom: -7px;
+	}
