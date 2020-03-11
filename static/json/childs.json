@@ -324,6 +324,14 @@
             }
         }
     },
+	"c023": {
+        "name": "Mayaheul",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
     "c024": {
         "name": "Rufus",
         "variants": {
@@ -1202,6 +1210,23 @@
             }
         }
     },
+	"c110": {
+        "name": "플린스",
+        "variants": {
+            "00": {
+                "title": "미성숙한"
+            },
+            "01": {
+                "title": "집념의"
+            },
+            "02": {
+                "title": "챌린저"
+            },
+            "10": {
+                "title": "크리스마스"
+            }
+        }
+    },
     "c112": {
         "name": "Elias",
         "variants": {
@@ -1326,7 +1351,7 @@
                 "title": "Christmas"
             },
             "12": {
-                "title": "레이시아슈트"
+                "title": "Racia Suit"
             },
             "00": {
                 "title": "Human"
@@ -2441,6 +2466,14 @@
             }
         }
     },
+	"c241": {
+        "name": "오르쿠스",
+        "variants": {
+            "01": {
+                "title": "지하의"
+            }
+        }
+    },
     "c242": {
         "name": "Ailill",
         "variants": {
@@ -2552,13 +2585,13 @@
         }
     },
     "c254": {
-        "name": "",
+        "name": "Davi",
         "variants": {
             "01": {
-                "title": "Davi"
+                "title": "Child 5★ Animation"
             },
 			"02": {
-                "title": "Nameless Child"
+                "title": "Summoning Animation"
             }
         }
     },
@@ -2566,7 +2599,7 @@
         "name": "Mona",
         "variants": {
             "01": {
-                "title": "Prologue"
+                "title": "Soul Carta 5★ Animation"
             }
         }
     },
@@ -2574,7 +2607,7 @@
         "name": "Lisa",
         "variants": {
             "01": {
-                "title": ""
+                "title": "??? 5★ Animation"
             }
         }
     },
@@ -2723,6 +2756,17 @@
             },
             "02": {
                 "title": "Partner"
+            }
+        }
+    },
+	"c278": {
+        "name": "Hella",
+        "variants": {
+            "01": {
+                "title": "Workhorse"
+            },
+            "02": {
+                "title": "Proto"
             }
         }
     },
@@ -2961,6 +3005,17 @@
             },
             "02": {
                 "title": "Revolutionary"
+            }
+        }
+    },
+	"c302": {
+        "name": "Atum",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Black Night"
             }
         }
     },
@@ -3456,6 +3511,17 @@
             }
         }
     },
+	"c357": {
+        "name": "Occasio",
+        "variants": {
+            "01": {
+                "title": "Unjust"
+            },
+            "02": {
+                "title": "Opportune"
+            }
+        }
+    },
     "c358": {
         "name": "Hatsune Miku",
         "variants": {
@@ -3664,6 +3730,31 @@
             },
             "02": {
                 "title": "Romance"
+            }
+        }
+    },
+	"c378": {
+        "name": "Pallas",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Shadow"
+            },
+            "02": {
+                "title": "Dark"
+            }
+        }
+    },
+    "c379": {
+        "name": "Athena",
+        "variants": {
+            "01": {
+                "title": "Perfection"
+            },
+            "02": {
+                "title": "Pure White"
             }
         }
     },
@@ -4042,6 +4133,14 @@
             }
         }
     },
+	"c411": {
+        "name": "Mei",
+        "variants": {
+            "01": {
+                "title": "Spa 5★ Animation"
+            }
+        }
+    },
 	"c412": {
         "name": "Cain",
         "variants": {
@@ -4280,46 +4379,46 @@
         }
     },
     "m003": {
-        "name": "Dragonfly",
+        "name": "Fire Dragon",
         "variants": {
             "01": {
-                "title": "Angry"
+                "title": "Furious"
             },
             "02": {
-                "title": "Exposed"
+                "title": "Enraged"
             }
         }
     },
     "m004": {
-        "name": "Dragonfly",
+        "name": "Ice Dragon",
         "variants": {
             "01": {
-                "title": "Cruel"
+                "title": "Cold-Blooded"
             },
             "02": {
-                "title": "Frigid"
+                "title": "Subzero"
             }
         }
     },
     "m005": {
-        "name": "YumYum",
+        "name": "Nyam",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Yum"
             },
             "02": {
-                "title": ""
+                "title": "Ado"
             }
         }
     },
     "m006": {
-        "name": "Big Nose",
+        "name": "Nose",
         "variants": {
             "01": {
-                "title": "Loud"
+                "title": "Noisy Long-"
             },
             "02": {
-                "title": "Furious"
+                "title": "Mad Big-"
             }
         }
     },
@@ -4330,84 +4429,84 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Sculpture"
+                "title": "Tattered"
             },
             "02": {
-                "title": "Messy"
+                "title": "Chaotic King"
             }
         }
     },
     "m008": {
-        "name": "Gelatin",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Strawberry"
+                "title": "Strawberry Gelatin"
             },
             "02": {
-                "title": "Strawberry"
+                "title": "Strawberry Jelly"
             }
         }
     },
     "m009": {
-        "name": "Gelatin",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Lightning"
+                "title": "Soda Pop Gelatin"
             },
             "02": {
-                "title": "Lightning"
+                "title": "Soda Pop Jelly"
             }
         }
     },
     "m010": {
-        "name": "Pudding",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Blueberry"
+                "title": "Soda Pop Pudding"
             },
             "02": {
-                "title": "Blueberry"
+                "title": "Soda Pop Poison"
             }
         }
     },
     "m011": {
-        "name": "Pudding",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Strawberry"
+                "title": "Strawberry Pudding"
             },
             "02": {
-                "title": "Strawberry"
+                "title": "Strawberry Poison"
             }
         }
     },
     "m012": {
-        "name": "Annual",
+        "name": "Dondon",
         "variants": {
             "01": {
-                "title": "Jumping"
+                "title": "One-Year"
             },
             "02": {
-                "title": "Jumping"
+                "title": "Multi-Year"
             }
         }
     },
     "m013": {
-        "name": "Plush Doll",
+        "name": "Ragdoll",
         "variants": {
             "01": {
                 "title": "Carrot"
             },
             "02": {
-                "title": "Carrot Pant"
+                "title": "Famished"
             }
         }
     },
     "m015": {
-        "name": "Desert Fox",
+        "name": "Sandfox",
         "variants": {
             "01": {
-                "title": "Light"
+                "title": "Solar"
             },
             "02": {
                 "title": "Fairy"
@@ -4421,40 +4520,40 @@
                 "title": "Justice"
             },
             "02": {
-                "title": "Justice"
+                "title": "Airtight"
             }
         }
     },
     "m018": {
-        "name": "Furball",
+        "name": "Pom",
         "variants": {
             "01": {
-                "title": "Destined"
+                "title": "Fate"
             },
             "02": {
-                "title": "Destined"
+                "title": "Destiny"
             }
         }
     },
     "m021": {
-        "name": "Mule",
+        "name": "Donkey",
         "variants": {
             "01": {
-                "title": "Lazy"
+                "title": "Idle"
             },
             "02": {
-                "title": "Pleasured"
+                "title": "Pleasure-Seeking"
             }
         }
     },
     "m022": {
-        "name": "Fairy Pup",
+        "name": "Puppy",
         "variants": {
             "01": {
-                "title": "Bad"
+                "title": "Free"
             },
             "02": {
-                "title": "Loyal"
+                "title": "Obedient"
             }
         }
     },
@@ -4465,7 +4564,7 @@
                 "title": "Cresent"
             },
             "02": {
-                "title": "New Moon"
+                "title": "Stone Crescent"
             }
         }
     },
@@ -4473,10 +4572,10 @@
         "name": "Berry",
         "variants": {
             "01": {
-                "title": "Strong"
+                "title": "Warrior"
             },
             "02": {
-                "title": "Beserker"
+                "title": "Berserker"
             }
         }
     },
@@ -4487,40 +4586,40 @@
                 "title": "Lazy"
             },
             "02": {
-                "title": "Lazy"
+                "title": "Lazy Fused"
             }
         }
     },
     "m027": {
-        "name": "Mandrake",
+        "name": " ",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Mandrake Seeds"
             },
             "02": {
-                "title": ""
+                "title": "Mandrake Plants"
             }
         }
     },
     "m028": {
-        "name": "Squall",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Rain"
+                "title": "Ouro Squirrel"
             },
             "02": {
-                "title": "Rain"
+                "title": "Ouro Tiger"
             }
         }
     },
     "m029": {
-        "name": "Hooves",
+        "name": "Tooth",
         "variants": {
             "01": {
-                "title": "Luminous"
+                "title": "Glowing"
             },
             "02": {
-                "title": "Fiery"
+                "title": "Flaming"
             }
         }
     },
@@ -4531,7 +4630,7 @@
                 "title": "Green"
             },
             "02": {
-                "title": "Green"
+                "title": "E-Green"
             }
         }
     },
@@ -4539,32 +4638,32 @@
         "name": "Tree",
         "variants": {
             "01": {
-                "title": "Lavish"
+                "title": "Dreary"
             },
             "02": {
-                "title": "Lively"
+                "title": "Old"
             }
         }
     },
     "m035": {
-        "name": "Americano",
+        "name": "Gremlin",
         "variants": {
             "01": {
-                "title": "Indian"
+                "title": "Barbaric"
             },
             "02": {
-                "title": "Cheif"
+                "title": "Chief"
             }
         }
     },
     "m036": {
-        "name": "Communicator",
+        "name": "Messenger",
         "variants": {
             "01": {
-                "title": "Soft Spoken"
+                "title": "Voice"
             },
             "02": {
-                "title": "Lively"
+                "title": "Deadly Voice"
             }
         }
     },
@@ -4572,7 +4671,7 @@
         "name": "Chaser",
         "variants": {
             "01": {
-                "title": "Night"
+                "title": "Dark Night"
             },
             "02": {
                 "title": "Nightmare"
@@ -4583,10 +4682,10 @@
         "name": "Diablo",
         "variants": {
             "10": {
-                "title": "Deathmatch"
+                "title": "Evil Flower"
             },
             "11": {
-                "title": "Makeover"
+                "title": "Pure Flower"
             },
             "00": {
                 "title": "Human"
@@ -4617,15 +4716,15 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Junior"
+                "title": "Standard"
             },
             "02": {
-                "title": "Limited"
+                "title": "Custom"
             }
         }
     },
     "m045": {
-        "name": "Nymph",
+        "name": "Bouquet",
         "variants": {
             "00": {
                 "title": "Human"
@@ -4634,7 +4733,7 @@
                 "title": "Lonely"
             },
             "02": {
-                "title": "Angry"
+                "title": "Obsessed"
             }
         }
     },
@@ -4645,7 +4744,7 @@
                 "title": "Mysterious"
             },
             "02": {
-                "title": "Columbian"
+                "title": "Columbus"
             }
         }
     },
@@ -4653,15 +4752,15 @@
         "name": "Bunny",
         "variants": {
             "01": {
-                "title": "Bunny"
+                "title": "Back"
             },
             "02": {
-                "title": "Bunny"
+                "title": "Front"
             }
         }
     },
     "m049": {
-        "name": "Bakje",
+        "name": "Skull",
         "variants": {
             "00": {
                 "title": "Human"
@@ -4684,7 +4783,7 @@
                 "title": "Dawn"
             },
             "02": {
-                "title": "Noon"
+                "title": "Midday"
             }
         }
     },
@@ -4717,7 +4816,7 @@
         }
     },
     "m053": {
-        "name": "Daria",
+        "name": "Hydra",
         "variants": {
             "00": {
                 "title": "Human"
@@ -4731,16 +4830,16 @@
         }
     },
     "m054": {
-        "name": "Isaiah",
+        "name": "Gomorrah",
         "variants": {
             "00": {
-                "title": "Sister"
+                "title": "Human"
             },
             "01": {
-                "title": "Referee"
+                "title": "Judge"
             },
             "02": {
-                "title": "Ruined"
+                "title": "Extinct"
             }
         }
     },
@@ -4759,33 +4858,33 @@
         }
     },
     "m057": {
-        "name": "Wola",
+        "name": "Olga",
         "variants": {
             "10": {
-                "title": "Pale Night"
+                "title": "Azure Night"
             },
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Blue"
+                "title": "Blue Shadow"
             },
             "02": {
-                "title": "Black"
+                "title": "Black Shadow"
             }
         }
     },
     "m059": {
-        "name": "Bazookaman",
+        "name": "Bazooka",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Helmet"
+                "title": "Green Helmet"
             },
             "02": {
-                "title": "Steel Helmet"
+                "title": "Red Helmet"
             }
         }
     },
@@ -4793,10 +4892,10 @@
         "name": "Syringe",
         "variants": {
             "01": {
-                "title": "Fire"
+                "title": "Strawberry"
             },
             "02": {
-                "title": "Large Fire"
+                "title": "Strawberry"
             }
         }
     },
@@ -4804,15 +4903,15 @@
         "name": "Syringe",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Grape"
             },
             "02": {
-                "title": "Dark"
+                "title": "Grape"
             }
         }
     },
     "m063": {
-        "name": "Ampule",
+        "name": "Ampoule",
         "variants": {
             "00": {
                 "title": "Human"
@@ -4826,35 +4925,35 @@
         }
     },
     "m064": {
-        "name": "Naouf",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Baby Pig"
+                "title": "Piglet Pukli"
             },
             "02": {
-                "title": "Baby Pig"
+                "title": "Piglet Pukli Jin"
             }
         }
     },
     "m065": {
-        "name": "Naouf",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Baby Pig"
+                "title": "Piglet Kokuri"
             },
             "02": {
-                "title": "Baby Pig"
+                "title": "Piglet Kokuri Jin"
             }
         }
     },
     "m066": {
-        "name": "Naouf",
+        "name": "",
         "variants": {
             "01": {
-                "title": "Baby Pig"
+                "title": "Piglet Kukuri"
             },
             "02": {
-                "title": "Baby Pig"
+                "title": "Piglet Kukuri Jin"
             }
         }
     },
@@ -4862,10 +4961,10 @@
         "name": "Food",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Aqua"
             },
             "02": {
-                "title": "Big Water"
+                "title": "B. Aqua"
             }
         }
     },
@@ -4876,7 +4975,7 @@
                 "title": "Dark"
             },
             "02": {
-                "title": "Big Dark"
+                "title": "B. Dark"
             }
         }
     },
@@ -4887,40 +4986,40 @@
                 "title": "Light"
             },
             "02": {
-                "title": "Big Light"
+                "title": "B. Light"
             }
         }
     },
     "m070": {
-        "name": "Chains",
+        "name": "Red Chain",
         "variants": {
             "01": {
                 "title": "Bound"
             },
             "02": {
-                "title": "Released"
+                "title": "Liberated"
             }
         }
     },
     "m071": {
-        "name": "Chains",
+        "name": "Green Chain",
         "variants": {
             "01": {
                 "title": "Bound"
             },
             "02": {
-                "title": "Released"
+                "title": "Liberated"
             }
         }
     },
     "m072": {
-        "name": "Chains",
+        "name": "Blue Chain",
         "variants": {
             "01": {
                 "title": "Bound"
             },
             "02": {
-                "title": "Released"
+                "title": "Liberated"
             }
         }
     },
@@ -4928,10 +5027,10 @@
         "name": "Cube",
         "variants": {
             "01": {
-                "title": "Wood"
+                "title": "Cure"
             },
             "02": {
-                "title": "Wood"
+                "title": "Cure"
             }
         }
     },
@@ -4939,10 +5038,10 @@
         "name": "Cube",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Poison"
             },
             "02": {
-                "title": "Dark"
+                "title": "Poison"
             }
         }
     },
@@ -4950,10 +5049,10 @@
         "name": "Cube",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Evil"
             },
             "02": {
-                "title": "Water"
+                "title": "Evil"
             }
         }
     },
@@ -4961,10 +5060,10 @@
         "name": "Cube",
         "variants": {
             "01": {
-                "title": "Light"
+                "title": "Honey"
             },
             "02": {
-                "title": "Light"
+                "title": "Honey"
             }
         }
     },
@@ -4984,7 +5083,7 @@
                 "title": "Cube"
             },
             "02": {
-                "title": "Large Cube"
+                "title": "Big Cube"
             }
         }
     },
@@ -4992,10 +5091,10 @@
         "name": "Cocoon",
         "variants": {
             "01": {
-                "title": "Fairy"
+                "title": "Emerald"
             },
             "02": {
-                "title": "Fairy"
+                "title": "Emerald"
             }
         }
     },
@@ -5014,10 +5113,10 @@
         "name": "Cocoon",
         "variants": {
             "01": {
-                "title": "Shiny"
+                "title": "Citrine"
             },
             "02": {
-                "title": "Shiny"
+                "title": "Citrine"
             }
         }
     },
@@ -5025,10 +5124,10 @@
         "name": "Cocoon",
         "variants": {
             "01": {
-                "title": "Cold"
+                "title": "Sapphire"
             },
             "02": {
-                "title": "Cold"
+                "title": "Sapphire"
             }
         }
     },
@@ -5036,10 +5135,10 @@
         "name": "Cocoon",
         "variants": {
             "01": {
-                "title": "Night"
+                "title": "Amethyst"
             },
             "02": {
-                "title": "Night"
+                "title": "Amethyst"
             }
         }
     },
@@ -5047,54 +5146,54 @@
         "name": "Cube",
         "variants": {
             "01": {
-                "title": "Fire"
+                "title": "Pie"
             },
             "02": {
-                "title": "Fire"
+                "title": "Pie"
             }
         }
     },
     "m086": {
-        "name": "Chains",
+        "name": "Light Chains,
         "variants": {
             "01": {
                 "title": "Bound"
             },
             "02": {
-                "title": "Released"
+                "title": "Liberated"
             }
         }
     },
     "m087": {
-        "name": "Chains",
+        "name": "Dark Chain",
         "variants": {
             "01": {
                 "title": "Bound"
             },
             "02": {
-                "title": "Released"
+                "title": "Liberated"
             }
         }
     },
     "m089": {
-        "name": "Pack",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Baby Pig"
+                "title": "Piglet Mukuri"
             },
             "02": {
-                "title": "Baby Pig"
+                "title": "Piglet Mukuri Jin"
             }
         }
     },
     "m090": {
-        "name": "Pack",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Baby Pig"
+                "title": "Piglet Fukli"
             },
             "02": {
-                "title": "Baby Pig"
+                "title": "Piglet Fukli Jin"
             }
         }
     },
@@ -5102,10 +5201,10 @@
         "name": "Syringe",
         "variants": {
             "01": {
-                "title": "Wood"
+                "title": "Mint"
             },
             "02": {
-                "title": "Wood"
+                "title": "Mint"
             }
         }
     },
@@ -5113,10 +5212,10 @@
         "name": "Syringe",
         "variants": {
             "01": {
-                "title": "Light"
+                "title": "Apple"
             },
             "02": {
-                "title": "Light"
+                "title": "Apple"
             }
         }
     },
@@ -5124,10 +5223,10 @@
         "name": "Syringe",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Soda Pop"
             },
             "02": {
-                "title": "Water"
+                "title": "Soda Pop"
             }
         }
     },
@@ -5138,7 +5237,7 @@
                 "title": "Light"
             },
             "02": {
-                "title": "Angel Light"
+                "title": "E. Light"
             }
         }
     },
@@ -5146,10 +5245,10 @@
         "name": "Ball",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Blue"
             },
             "02": {
-                "title": "Angel Water"
+                "title": "E. Blue"
             }
         }
     },
@@ -5157,10 +5256,10 @@
         "name": "Ball",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Purple"
             },
             "02": {
-                "title": "Angel Dark"
+                "title": "E. Dark"
             }
         }
     },
@@ -5171,12 +5270,12 @@
                 "title": "Fire"
             },
             "02": {
-                "title": "Angel Fire"
+                "title": "E. Fire"
             }
         }
     },
     "m101": {
-        "name": "Fire Bloop",
+        "name": "Red Bloop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5187,7 +5286,7 @@
         }
     },
     "m102": {
-        "name": "Water Bloop",
+        "name": "Blue Bloop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5198,7 +5297,7 @@
         }
     },
     "m103": {
-        "name": "Light Bloop",
+        "name": "Yellow Bloop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5209,7 +5308,7 @@
         }
     },
     "m104": {
-        "name": "Dark Bloop",
+        "name": "Purple Bloop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5220,7 +5319,7 @@
         }
     },
     "m105": {
-        "name": "Wood Bloop",
+        "name": "Green Bloop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5237,7 +5336,7 @@
                 "title": "Green"
             },
             "02": {
-                "title": "Big Green"
+                "title": "B. Green"
             }
         }
     },
@@ -5248,67 +5347,67 @@
                 "title": "Fire"
             },
             "02": {
-                "title": "Big Fire"
+                "title": "B. Fire"
             }
         }
     },
     "m110": {
-        "name": "Wood",
+        "name": "Gron",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Gron"
             }
         }
     },
     "m111": {
-        "name": "Fire",
+        "name": "Firon",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Firon"
             }
         }
     },
     "m112": {
-        "name": "Water",
+        "name": "Bluron",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Bluron"
             }
         }
     },
     "m113": {
-        "name": "Dark",
+        "name": "Daron",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
-                "title": "Dark"
+                "title": "Daron"
             }
         }
     },
     "m114": {
-        "name": "Light",
+        "name": "Liron",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Liron"
             }
         }
     },
     "m116": {
-        "name": "Fire",
+        "name": "Bow-Wow",
         "variants": {
             "01": {
                 "title": "Dispenser"
@@ -5319,13 +5418,13 @@
         }
     },
     "m117": {
-        "name": "Dummy",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Glow Cat"
+                "title": "G. Cat Dummy"
             },
             "02": {
-                "title": "Glow Cat"
+                "title": "G. Cat Devil"
             }
         }
     },
@@ -5374,7 +5473,7 @@
         }
     },
     "m123": {
-        "name": "Shade",
+        "name": "Shadow",
         "variants": {
             "01": {
                 "title": "Katana"
@@ -5388,10 +5487,10 @@
         "name": "Watcher",
         "variants": {
             "01": {
-                "title": "Burning"
+                "title": "Red"
             },
             "02": {
-                "title": "Dusk"
+                "title": "Hellfire"
             }
         }
     },
@@ -5399,10 +5498,10 @@
         "name": "Watcher",
         "variants": {
             "01": {
-                "title": "Frozen"
+                "title": "Blue"
             },
             "02": {
-                "title": "Dawn"
+                "title": "Freezing"
             }
         }
     },
@@ -5410,10 +5509,10 @@
         "name": "Watcher",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Darkness"
             },
             "02": {
-                "title": "Darkness"
+                "title": "Darkest"
             }
         }
     },
@@ -5421,10 +5520,10 @@
         "name": "Watcher",
         "variants": {
             "01": {
-                "title": "Wood"
+                "title": "Green"
             },
             "02": {
-                "title": "Rock"
+                "title": "Dark Green"
             }
         }
     },
@@ -5440,57 +5539,57 @@
         }
     },
     "m130": {
-        "name": "Pop-Up",
+        "name": "Popper",
         "variants": {
             "01": {
-                "title": "Flame"
+                "title": "Red"
             },
             "02": {
-                "title": "Salamander"
+                "title": "Fire"
             }
         }
     },
     "m131": {
-        "name": "Pop-Up",
+        "name": "Popper",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Blue"
             },
             "02": {
-                "title": "Undone"
+                "title": "Aqua"
             }
         }
     },
     "m132": {
-        "name": "Pop-Up",
+        "name": "Popper",
         "variants": {
             "01": {
-                "title": "Wood"
+                "title": "Green"
             },
             "02": {
-                "title": "Dryer"
+                "title": "Grass"
             }
         }
     },
     "m133": {
-        "name": "Pop-Up",
+        "name": "Popper",
         "variants": {
             "01": {
-                "title": "Light"
+                "title": "Yellow"
             },
             "02": {
-                "title": "Phoenix"
+                "title": "Light"
             }
         }
     },
     "m134": {
-        "name": "Pop-Up",
+        "name": "Popper",
         "variants": {
             "01": {
-                "title": "Dark"
+                "title": "Black"
             },
             "02": {
-                "title": "Halloween"
+                "title": "Dark"
             }
         }
     },
@@ -5501,7 +5600,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Restrained"
+                "title": "Bound"
             },
             "02": {
                 "title": "Mad"
@@ -5523,10 +5622,10 @@
         }
     },
     "m139": {
-        "name": "Alarm",
+        "name": "Aurora",
         "variants": {
             "01": {
-                "title": "Fancy"
+                "title": "Flashy"
             }
         }
     },
@@ -5545,57 +5644,57 @@
         }
     },
     "m142": {
-        "name": "Red",
+        "name": "Revenge Girl",
         "variants": {
             "01": {
-                "title": "Revenger"
+                "title": "Red"
             },
             "02": {
-                "title": "Revenger"
+                "title": "Flame"
             }
         }
     },
     "m143": {
-        "name": "Blue",
+        "name": "Revenge Girl",
         "variants": {
             "01": {
-                "title": "Revenger"
+                "title": "Blue"
             },
             "02": {
-                "title": "Revenger"
+                "title": "Flood"
             }
         }
     },
     "m144": {
-        "name": "Green",
+        "name": "Revenge Girl",
         "variants": {
             "01": {
-                "title": "Revenger"
+                "title": "Green"
             },
             "02": {
-                "title": ""
+                "title": "Bloom"
             }
         }
     },
     "m145": {
-        "name": "Light",
+        "name": "Revenge Girl",
         "variants": {
             "01": {
-                "title": "Revenger"
+                "title": "Light"
             },
             "02": {
-                "title": "Revenger"
+                "title": "Flash"
             }
         }
     },
     "m146": {
-        "name": "Dark",
+        "name": "Revenge Girl",
         "variants": {
             "01": {
-                "title": "Revenger"
+                "title": "Purple"
             },
             "02": {
-                "title": "Revenger"
+                "title": "Darkness"
             }
         }
     },
@@ -5603,10 +5702,10 @@
         "name": "Won",
         "variants": {
             "01": {
-                "title": "Noisey"
+                "title": "Noise"
             },
             "02": {
-                "title": "Noisey"
+                "title": "Noise"
             }
         }
     },
@@ -5633,27 +5732,27 @@
         }
     },
     "m151": {
-        "name": "Arms",
+        "name": " ",
         "variants": {
             "01": {
-                "title": "Mad Bunny"
+                "title": "Mad Bunny Arms"
             },
             "02": {
-                "title": "Mad Bunny"
+                "title": "Mad Bunny Spirit"
             }
         }
     },
-    "m152": {
+    "m152":  
         "name": "Fighter",
         "variants": {
             "10": {
-                "title": "Midnight"
+                "title": "Midnight Fighter"
             },
             "01": {
-                "title": "Sneaker"
+                "title": "Sneaker Fighter"
             },
             "02": {
-                "title": "Sneaker"
+                "title": "Sneaker Champion"
             }
         }
     },
@@ -5661,7 +5760,7 @@
         "name": "Manti",
         "variants": {
             "01": {
-                "title": "Defunct"
+                "title": "Bad Dream"
             },
             "02": {
                 "title": "Nightmare"
@@ -5678,12 +5777,12 @@
                 "title": "Dark"
             },
             "02": {
-                "title": "Custom-Made"
+                "title": "Red"
             }
         }
     },
     "m155": {
-        "name": "Fire Drop",
+        "name": "Red Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5694,7 +5793,7 @@
         }
     },
     "m156": {
-        "name": "Light Drop",
+        "name": "Yellow Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5705,7 +5804,7 @@
         }
     },
     "m157": {
-        "name": "Wood Drop",
+        "name": "Green Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5716,7 +5815,7 @@
         }
     },
     "m158": {
-        "name": "Water Drop",
+        "name": "Blue Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5727,7 +5826,7 @@
         }
     },
     "m159": {
-        "name": "Dark Drop",
+        "name": "Purple Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5738,7 +5837,7 @@
         }
     },
     "m160": {
-        "name": "Evolution Blobbie",
+        "name": "Aurora Drop",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5749,7 +5848,7 @@
         }
     },
     "m161": {
-        "name": "Fire Blobbie",
+        "name": "Red Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5760,7 +5859,7 @@
         }
     },
     "m162": {
-        "name": "Light Blobbie",
+        "name": "Yellow Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5771,7 +5870,7 @@
         }
     },
     "m163": {
-        "name": "Wood Blobbie",
+        "name": "Green Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5782,7 +5881,7 @@
         }
     },
     "m164": {
-        "name": "Water Blobbie",
+        "name": "Blue Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5793,7 +5892,7 @@
         }
     },
     "m165": {
-        "name": "Dark Blobbie",
+        "name": "Purple Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5804,7 +5903,7 @@
         }
     },
     "m166": {
-        "name": "Exp Heart",
+        "name": "Aurora Blobbie",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5815,7 +5914,7 @@
         }
     },
     "m167": {
-        "name": "Fire Heart",
+        "name": "Red Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5826,7 +5925,7 @@
         }
     },
     "m168": {
-        "name": "Light Heart",
+        "name": "Yellow Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5837,7 +5936,7 @@
         }
     },
     "m169": {
-        "name": "Wood Heart",
+        "name": "Green Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5848,7 +5947,7 @@
         }
     },
     "m170": {
-        "name": "Water Heart",
+        "name": "Blue Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5859,7 +5958,7 @@
         }
     },
     "m171": {
-        "name": "Dark Heart",
+        "name": "Purple Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5870,7 +5969,7 @@
         }
     },
     "m172": {
-        "name": "Evolution Heart",
+        "name": "Aurora Heart",
         "variants": {
             "01": {
                 "title": "Small"
@@ -5881,7 +5980,7 @@
         }
     },
     "m173": {
-        "name": "Fire Star",
+        "name": "Red Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5892,7 +5991,7 @@
         }
     },
     "m174": {
-        "name": "Light Star",
+        "name": "Yellow Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5903,7 +6002,7 @@
         }
     },
     "m175": {
-        "name": "Wood Star",
+        "name": "Green Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5914,7 +6013,7 @@
         }
     },
     "m176": {
-        "name": "Water Star",
+        "name": "Blue Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5925,7 +6024,7 @@
         }
     },
     "m177": {
-        "name": "Dark Star",
+        "name": "Purple Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5936,7 +6035,7 @@
         }
     },
     "m178": {
-        "name": "Evolution Star",
+        "name": "Aurora Heart",
         "variants": {
             "01": {
                 "title": "Big"
@@ -5961,10 +6060,10 @@
                 "title": "Dark Knight"
             },
             "01": {
-                "title": "Quiet"
+                "title": "Silent"
             },
             "02": {
-                "title": "Hermit"
+                "title": "Reclusive"
             }
         }
     },
@@ -5997,18 +6096,18 @@
                 "title": "Ancient"
             },
             "02": {
-                "title": "Needy"
+                "title": "Greedy"
             }
         }
     },
     "m189": {
-        "name": "Treasure Box",
+        "name": "Mimic",
         "variants": {
             "01": {
-                "title": "Surprise"
+                "title": "Startling"
             },
             "02": {
-                "title": "Terrible"
+                "title": "Horror"
             }
         }
     },
@@ -6016,90 +6115,90 @@
         "name": "Boxer",
         "variants": {
             "01": {
-                "title": "Feverent"
+                "title": "Hot-Blooded "
             },
             "02": {
-                "title": "Chlorinated"
+                "title": "Fiery"
             }
         }
     },
     "m191": {
-        "name": "Chimaera",
+        "name": "Chimera",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Silenced"
+                "title": "Silent"
             },
             "02": {
-                "title": "Revelation"
+                "title": "Apocalyptic"
             }
         }
     },
     "m192": {
-        "name": "Wyvern",
+        "name": "Blood Dragon",
         "variants": {
             "01": {
-                "title": "Red"
+                "title": "Flame King"
             },
             "02": {
-                "title": "Red"
+                "title": "Flame Emperor"
             }
         }
     },
     "m193": {
-        "name": "Furball",
+        "name": "Pompoms",
         "variants": {
             "01": {
-                "title": "Buzzing"
+                "title": "Yackety"
             },
             "02": {
-                "title": "Buzzing"
+                "title": "Jabbering"
             }
         }
     },
     "m194": {
-        "name": "Daron",
+        "name": "Gron",
         "variants": {
             "01": {
-                "title": "Wood Feather"
+                "title": "Green-Feathered"
             },
             "02": {
-                "title": "Wood Wing"
+                "title": "Green Winged"
             }
         }
     },
     "m195": {
-        "name": "Daron",
+        "name": "Liron",
         "variants": {
             "01": {
-                "title": "Light Feather"
+                "title": "Light-Feather"
             },
             "02": {
-                "title": "Light Wing"
+                "title": "Light-Winged"
             }
         }
     },
     "m196": {
-        "name": "Daron",
+        "name": "Firon",
         "variants": {
             "01": {
-                "title": "Fire Feather"
+                "title": "Fire-Feather"
             },
             "02": {
-                "title": "Fire Wing"
+                "title": "Fire-Winged"
             }
         }
     },
     "m197": {
-        "name": "Daron",
+        "name": "Charonn",
         "variants": {
             "01": {
-                "title": "Water Feather"
+                "title": "Water-Feather"
             },
             "02": {
-                "title": "Water Wing"
+                "title": "Water-Winged"
             }
         }
     },
@@ -6107,21 +6206,21 @@
         "name": "Daron",
         "variants": {
             "01": {
-                "title": "Dark Feather"
+                "title": "Dark-Feather"
             },
             "02": {
-                "title": "Dark Wing"
+                "title": "Dark-Winged"
             }
         }
     },
     "m199": {
-        "name": "Wyvern",
+        "name": "Azure Dragon",
         "variants": {
             "01": {
-                "title": "Water"
+                "title": "Ice King"
             },
             "02": {
-                "title": "Water"
+                "title": "Ice Emperor"
             }
         }
     },
@@ -6132,29 +6231,15 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Pint Size"
+                "title": "Guard"
             },
             "02": {
-                "title": "Bailiff"
+                "title": "Enforcer"
             }
         }
     },
     "m201": {
-        "name": "Bazookaman맨",
-        "variants": {
-            "00": {
-                "title": "Human"
-            },
-            "01": {
-                "title": "Armed"
-            },
-            "02": {
-                "title": "Fully Loaded"
-            }
-        }
-    },
-    "m202": {
-        "name": "Bazooka Rambo",
+        "name": "Mech Commander",
         "variants": {
             "00": {
                 "title": "Human"
@@ -6163,21 +6248,35 @@
                 "title": "Bombing"
             },
             "02": {
-                "title": "Stoned"
+                "title": "Blasting"
             }
         }
     },
-    "m203": {
-        "name": "Blademan",
+    "m202": {
+        "name": "Mech Soldier",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Revolving"
+                "title": "Armed"
             },
             "02": {
-                "title": "Bulging"
+                "title": "Teeth"
+            }
+        }
+    },
+    "m203": {
+        "name": "Bremen",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Twirling"
+            },
+            "02": {
+                "title": "Spinning"
             }
         }
     },
@@ -6193,24 +6292,24 @@
         }
     },
     "m206": {
-        "name": "Bukududool",
+        "name": "Boss Pig",
         "variants": {
             "01": {
-                "title": "Hartless"
+                "title": "Relentless"
             },
             "02": {
-                "title": "Fearless"
+                "title": "Murderous"
             }
         }
     },
     "m211": {
-        "name": "Angel",
+        "name": "Angel Lot",
         "variants": {
             "01": {
-                "title": "Sledgehammer"
+                "title": "Archer"
             },
             "02": {
-                "title": "Greying"
+                "title": "Sharpshooter"
             }
         }
     },
@@ -6310,10 +6409,10 @@
         "name": "Gift Bag",
         "variants": {
             "01": {
-                "title": "Good Kid"
+                "title": "Good Kid's"
             },
             "02": {
-                "title": "Bad Kid"
+                "title": "Bad Kid's"
             }
         }
     },
@@ -6332,7 +6431,7 @@
         }
     },
     "m225": {
-        "name": "Cosmic",
+        "name": "Cosmim",
         "variants": {
             "01": {
                 "title": "Hyper"
@@ -6343,7 +6442,7 @@
         }
     },
     "m228": {
-        "name": "Squeak",
+        "name": "Charinn",
         "variants": {
             "89": {
                 "title": "Golden"
@@ -6351,7 +6450,7 @@
         }
     },
     "m229": {
-        "name": "Cosmic",
+        "name": "Cosmim",
         "variants": {
             "01": {
                 "title": "Super"
@@ -6362,7 +6461,7 @@
         }
     },
     "m230": {
-        "name": "Cosmic",
+        "name": "Cosmim",
         "variants": {
             "01": {
                 "title": "Giga"
@@ -6376,39 +6475,39 @@
         "name": "Cross",
         "variants": {
             "01": {
-                "title": "Cemetery"
+                "title": "Grave"
             },
             "02": {
-                "title": "Lion"
+                "title": "Deadman's"
             }
         }
     },
     "m232": {
-        "name": "undefined",
+        "name": "Charinn",
         "variants": {
             "89": {
-                "title": ""
+                "title": "Golden"
             }
         }
-    },
+	},
     "m233": {
-        "name": "Pancakes",
+        "name": "Charinn",
         "variants": {
             "89": {
-                "title": "Ultra"
+                "title": "Golden"
             }
         }
     },
-    "m234": {
-        "name": "Pancakes",
+	"m234": {
+        "name": "Charinn",
         "variants": {
             "89": {
-                "title": "Ultra"
+                "title": "Golden"
             }
         }
     },
-    "m235": {
-        "name": "Jalkoring",
+	"m235": {
+        "name": "Charinn",
         "variants": {
             "89": {
                 "title": "Golden"
@@ -6416,26 +6515,26 @@
         }
     },
     "m236": {
-        "name": "Auroramin King",
+        "name": "Aurora King",
         "variants": {
             "89": {
-                "title": "Amazing"
+                "title": "Giant"
             }
         }
     },
     "m237": {
-        "name": "Auroramin King",
+        "name": "Aurora King",
         "variants": {
             "89": {
-                "title": "Amazing"
+                "title": "Giant"
             }
         }
     },
     "m238": {
-        "name": "Auroramin King",
+        "name": "Aurora King",
         "variants": {
             "89": {
-                "title": "Wiggle Wiggle"
+                "title": "Giant"
             }
         }
     },
@@ -6483,21 +6582,21 @@
         "name": "Creature",
         "variants": {
             "01": {
-                "title": "Fallen"
+                "title": "Abandoned"
             },
             "02": {
-                "title": "Babel's"
+                "title": "The Creator's"
             }
         }
     },
     "m253": {
-        "name": "Yuki",
+        "name": "YUKINE",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Rabbit"
             },
             "02": {
-                "title": ""
+                "title": "Rabbit"
             }
         }
     },
@@ -6513,10 +6612,10 @@
         }
     },
     "m255": {
-        "name": "Ampule",
+        "name": "Ampoule",
         "variants": {
             "01": {
-                "title": "Venom"
+                "title": "Toy"
             },
             "02": {
                 "title": "Venom"
@@ -6524,10 +6623,24 @@
         }
     },
     "m256": {
-        "name": "Auroramin King",
+        "name": "Aurora King",
         "variants": {
             "89": {
-                "title": "Wiggling"
+                "title": "Giant"
+            }
+        }
+    },
+	"m261": {
+        "name": "Moa",
+        "variants": {
+            "01": {
+                "title": "Two-Sided"
+            },
+            "02": {
+                "title": "Monochrome"
+            },
+            "88": {
+                "title": "Monochrome"
             }
         }
     },
@@ -6536,6 +6649,14 @@
         "variants": {
             "89": {
                 "title": "Created"
+            }
+        }
+    },
+	"m263": {
+        "name": "YUKINE",
+        "variants": {
+            "89": {
+                "title": "Rabbit"
             }
         }
     },
@@ -8844,7 +8965,7 @@
         }
     },
     "sm224": {
-        "name": "아펩",
+        "name": "Apep",
         "variants": {
             "01": {
                 "title": "Hot Spring"
