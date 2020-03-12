@@ -5154,7 +5154,7 @@
         }
     },
     "m086": {
-        "name": "Light Chains,
+        "name": "Light Chain",
         "variants": {
             "01": {
                 "title": "Bound"
@@ -5742,7 +5742,7 @@
             }
         }
     },
-    "m152":  
+    "m152": { 
         "name": "Fighter",
         "variants": {
             "10": {
