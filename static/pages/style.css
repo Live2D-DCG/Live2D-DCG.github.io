@@ -27,6 +27,10 @@
       color: yellow;
     }
 	
+	.btn-outline-secondary{
+		background-color: white;
+	}
+	
 	nav {
 	  background-color: #24252d;
 	  color: white;
@@ -100,3 +104,4 @@
 	  margin-top: -7px;
 	  margin-bottom: -7px;
 	}
+	
