@@ -7069,7 +7069,7 @@
         }
     },
     "sc064": {
-        "name": "메두사",
+        "name": "Medusa",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7117,7 +7117,7 @@
         }
     },
     "sc070": {
-        "name": "유이",
+        "name": "Yui",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7141,7 +7141,7 @@
         }
     },
     "sc081": {
-        "name": "테미스",
+        "name": "Themis",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7165,7 +7165,7 @@
         }
     },
     "sc085": {
-        "name": "파리스",
+        "name": "Paris",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7189,7 +7189,7 @@
         }
     },
     "sc091": {
-        "name": "마이라",
+        "name": "Myra",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7237,7 +7237,7 @@
         }
     },
     "sc109": {
-        "name": "아레투사",
+        "name": "Arethusa",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7373,7 +7373,7 @@
         }
     },
     "sc144": {
-        "name": "메데아",
+        "name": "Medea",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7405,7 +7405,7 @@
         }
     },
     "sc152": {
-        "name": "헤베",
+        "name": "Hebe",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7445,7 +7445,7 @@
         }
     },
     "sc159": {
-        "name": "세멜레",
+        "name": "Semele",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7453,7 +7453,7 @@
         }
     },
     "sc160": {
-        "name": "사라",
+        "name": "Sara",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7477,7 +7477,7 @@
         }
     },
     "sc168": {
-        "name": "탈리아",
+        "name": "Thalia",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7565,7 +7565,7 @@
         }
     },
     "sc185": {
-        "name": "헤르모드",
+        "name": "Hermod",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7709,7 +7709,7 @@
         }
     },
     "sc219": {
-        "name": "이미르",
+        "name": "Ymir",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7741,7 +7741,7 @@
         }
     },
     "sc223": {
-        "name": "에아",
+        "name": "Ea",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7853,7 +7853,7 @@
         }
     },
     "sc262": {
-        "name": "다프니스",
+        "name": "Daphnis",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7909,7 +7909,7 @@
         }
     },
     "sc285": {
-        "name": "나탈리스",
+        "name": "Nautilus",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7965,7 +7965,7 @@
         }
     },
     "sc296": {
-        "name": "힐드",
+        "name": "Hildr",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -7973,7 +7973,7 @@
         }
     },
     "sc297": {
-        "name": "레드퀸",
+        "name": "Red Queen",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8005,7 +8005,7 @@
         }
     },
     "sc304": {
-        "name": "네뷸라",
+        "name": "Nebula",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8021,7 +8021,7 @@
         }
     },
     "sc308": {
-        "name": "쿠바바",
+        "name": "Kubaba",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8077,7 +8077,7 @@
         }
     },
     "sc320": {
-        "name": "얀 지슈카",
+        "name": "Yan Zisuka",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8085,7 +8085,7 @@
         }
     },
     "sc321": {
-        "name": "루나",
+        "name": "Luna",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8093,7 +8093,7 @@
         }
     },
     "sc322": {
-        "name": "살라딘",
+        "name": "Pandragon",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8125,7 +8125,7 @@
         }
     },
     "sc338": {
-        "name": "포모나",
+        "name": "Pomona",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8133,7 +8133,7 @@
         }
     },
     "sc339": {
-        "name": "다비",
+        "name": "Dark Davi",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8293,7 +8293,7 @@
         }
     },
     "sc374": {
-        "name": "힐드",
+        "name": "Bride Hildr",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8301,7 +8301,7 @@
         }
     },
     "sc377": {
-        "name": "이피스",
+        "name": "Iphis",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8365,7 +8365,7 @@
         }
     },
     "sc392": {
-        "name": "다비",
+        "name": "Altered Davi",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8373,7 +8373,7 @@
         }
     },
     "sc393": {
-        "name": "모나",
+        "name": "White Mona",
         "variants": {
             "01": {
                 "title": "Hot Spring"
