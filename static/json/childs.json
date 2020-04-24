@@ -325,7 +325,7 @@
         }
     },
 	"c023": {
-        "name": "Mayaheul",
+        "name": "???",
         "variants": {
             "01": {
                 "title": ""
@@ -657,7 +657,7 @@
         }
     },
     "c048": {
-        "name": "Neman",
+        "name": "Nemanhaim",
         "variants": {
             "00": {
                 "title": "Human"
@@ -8102,6 +8102,14 @@
     },
     "sc324": {
         "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc332": {
+        "name": "Ganesha",
         "variants": {
             "01": {
                 "title": "Hot Spring"
