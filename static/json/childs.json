@@ -3323,7 +3323,7 @@
                 "title": "Pure White"
             },
             "02": {
-                "title": "Secret Bride"
+                "title": "Pure Bride"
             }
         }
     },
@@ -3714,22 +3714,22 @@
         "name": "Iphis",
         "variants": {
             "10": {
-                "title": "Bride"
+                "title": "Bridal"
             },
             "11": {
-                "title": "Black Widow"
+                "title": "Shadow"
             },
             "89": {
-                "title": "Bride"
+                "title": "Bridal"
             },
             "00": {
-                "title": ""
+                "title": "Human"
             },
             "01": {
-                "title": "Welcoming"
+                "title": "Romantic"
             },
             "02": {
-                "title": "Romance"
+                "title": "Scarlet"
             }
         }
     },
@@ -4353,6 +4353,72 @@
             },
             "02": {
                 "title": "Sweet"
+            }
+        }
+    },
+	"c435": {
+        "name": "Sytry",
+        "variants": {
+            "01": {
+                "title": "Fantasy"
+            },
+            "02": {
+                "title": "Fantasy"
+            }
+        }
+    },
+	"c436": {
+        "name": "Serket",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c437": {
+        "name": "Pakhet",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c438": {
+        "name": "Mate Semele",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c443": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c447": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
             }
         }
     },
