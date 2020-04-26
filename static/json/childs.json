@@ -2564,6 +2564,26 @@
             }
         }
     },
+	"c252": {
+        "name": "Arhat",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
     "c253": {
         "name": "Nicole",
         "variants": {
