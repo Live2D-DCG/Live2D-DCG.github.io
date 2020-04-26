@@ -3,7 +3,6 @@
   "model": "character.dat",
   "textures": [
     "texture_00.png",
-    "texture_01.png"
   ],
   "motions": {
     "attack": [

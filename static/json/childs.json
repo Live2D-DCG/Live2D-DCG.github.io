@@ -3142,6 +3142,12 @@
             },
             "02": {
                 "title": "Seeker"
+            },
+			"02": {
+                "title": "World Boss Skin kr"
+            },
+			"02": {
+                "title": "World Boss Skin kr"
             }
         }
     },
@@ -3319,6 +3325,23 @@
             },
             "02": {
                 "title": "Nandikesvara"
+            }
+        }
+    },
+	"c333": {
+        "name": "Deborah",
+        "variants": {
+		    "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+			"88": {
+                "title": ""
             }
         }
     },
@@ -3590,10 +3613,10 @@
         }
     },
 	"c363": {
-        "name": "",
+        "name": "Lupin",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Vanguard"
             },
             "02": {
                 "title": ""
