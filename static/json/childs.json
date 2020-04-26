@@ -8164,6 +8164,14 @@
             }
         }
     },
+	"sc347": {
+        "name": "Prophet Dana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc348": {
         "name": "Mars♥",
         "variants": {
@@ -8317,7 +8325,7 @@
         }
     },
 	"sc383": {
-        "name": "Frej",
+        "name": "Resurrected Frej",
         "variants": {
             "01": {
                 "title": "Hot Spring"
