@@ -14,9 +14,9 @@ function totsugeki() {
 
 function initModel(pathDir) {
 	if (pathDir == 'kr'){
-		dir = "/static/modelsK/"
+		dir = "/static/Korean/"
 	} else 
-		dir = "/static/models/"
+		dir = "/static/Global/"
 	
 	
   // get variables from GET
@@ -33,7 +33,7 @@ function initModel(pathDir) {
   var mN = searchParams.get('mN')
   if(mN) modelName = mN
 
-  loadBytes(getPath("/static/modelsK/", 'MOC.' + modelName + '.json'), 'text', function(buf) {
+  loadBytes(getPath(dir, 'MOC.' + modelName + '.json'), 'text', function(buf) {
     var modelJson = JSON.parse(buf)
     initLive2d(dir, modelJson)
   })
@@ -76,7 +76,7 @@ function init(dir, canvas) {
   // ------------------------
   // start of model rendering
   // ------------------------
-  loadBytes(getPath("/static/modelsK/", modelJson.model), 'arraybuffer', function(buf) {
+  loadBytes(getPath(dir, modelJson.model), 'arraybuffer', function(buf) {
     live2DModel = Live2DModelWebGL.loadModel(buf)
     //document.getElementById('loading').remove()
   })
@@ -103,20 +103,20 @@ function init(dir, canvas) {
   // start loading motions
   // ------------------------
   motionMgr = new L2DMotionManager()
-  loadBytes(getPath("/static/modelsK/", modelJson.motions.idle[0].file), 'arraybuffer', function(buf) {
+  loadBytes(getPath(dir, modelJson.motions.idle[0].file), 'arraybuffer', function(buf) {
     motionIdle = new Live2DMotion.loadMotion(buf)
     // remove fade in/out delay to make it smooth
     motionIdle._$eo = 0
     motionIdle._$dP = 0
   })
   if(modelJson.motions.attack) {
-    loadBytes(getPath("/static/modelsK/", modelJson.motions.attack[0].file), 'arraybuffer', function(buf) {
+    loadBytes(getPath(dir, modelJson.motions.attack[0].file), 'arraybuffer', function(buf) {
       motionClick = new Live2DMotion.loadMotion(buf)
       // remove fade in/out delay to make it smooth
       motionClick._$eo = 0
       motionClick._$dP = 0
 	})} else if ( modelJson.motions.maxtouch) {
-	 loadBytes(getPath("/static/modelsK/", modelJson.motions.maxtouch[0].file), 'arraybuffer', function(buf) {
+	 loadBytes(getPath(dir, modelJson.motions.maxtouch[0].file), 'arraybuffer', function(buf) {
       motionClick = new Live2DMotion.loadMotion(buf)
       // remove fade in/out delay to make it smooth
       motionClick._$eo = 0

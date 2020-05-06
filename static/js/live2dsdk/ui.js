@@ -11,13 +11,13 @@ function getSelectedIndex() {
 }
 
 function GView() {
-	document.getElementById("note").innerHTML = "You are currently viewing Global's censored version of the game";
+	document.getElementById("note").innerHTML = "Viewing Global's censored version of the game";
 	diffView = "g";
 	updateViewer();
 }
 
 function KView() {
-	document.getElementById("note").innerHTML = "You are currently viewing Korea's uncensored version of the game";
+	document.getElementById("note").innerHTML = "Viewing Korean's uncensored version of the game";
 	diffView = "k";
 	updateViewer();
 }
