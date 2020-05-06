@@ -30,13 +30,16 @@ function updateViewer(id) {
 	  mX = $('#offsetX-slider').slider('value'), 
 	  mY = $('#offsetY-slider').slider('value')
   var code = null
+  var download = null
   
   if (diffView == "k") {
 	  viewer.src = 'viewerK.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewerk.html', document.location.toString() + 'viewerk.html')
+	  download = "http://patch.dc.nextfloor.com/1.3.41.evm8ualcvub8/hd_android/asset/character/" + selectedModel +".pck"
   } else {
 	  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewer.html', document.location.toString() + 'viewer.html')
+	  download = "http://patch.dcg.line.games/real_0.0.52_uzfouoivkfvy/hd_mobile/asset/character/" + selectedModel +".pck"
   }
   
 
@@ -63,7 +66,8 @@ function updateViewer(id) {
 
   $('#direct-link').attr('href', viewer.src)
   $('#direct-link').html(viewer.src)
-
+  $('#download-link').attr('href', download)
+  $('#download-link').html("Download " + selectedModel  +".pck")
   
   var i = getSelectedIndex()
   $('#previous').button(i > 0 ? 'enable' : 'disable')
