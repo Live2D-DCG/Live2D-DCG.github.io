@@ -95,6 +95,11 @@
       top: .3em;
     }
 	
+	[class*="col-2"] {
+		margin-bottom: 10px;
+
+}
+	
     iframe {
       max-width: 100%;
       overflow: hidden;
