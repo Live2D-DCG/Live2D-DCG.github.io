@@ -4418,6 +4418,9 @@
             },
             "02": {
                 "title": "Fantasy"
+            },
+            "10": {
+                "title": "Fantasy"
             }
         }
     },
@@ -7692,6 +7695,14 @@
             }
         }
     },
+	"sc187": {
+        "name": "Thetis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc188": {
         "name": "Atalanta",
         "variants": {
@@ -8381,7 +8392,7 @@
         }
     },
 	"sc367": {
-        "name": "Davi",
+        "name": "Archfiend Davi",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8918,6 +8929,14 @@
     },
     "sm153": {
         "name": "Manti",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sm154": {
+        "name": "Gungnir",
         "variants": {
             "01": {
                 "title": "Hot Spring"
