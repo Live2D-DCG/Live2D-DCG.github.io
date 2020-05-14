@@ -2376,6 +2376,20 @@
             }
         }
     },
+	"c231": {
+        "name": "Rhea Silvia",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c232": {
         "name": "Daphne",
         "variants": {
@@ -8177,6 +8191,14 @@
     },
     "sc312": {
         "name": "Tyrving",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc316": {
+        "name": "Wodan",
         "variants": {
             "01": {
                 "title": "Hot Spring"
