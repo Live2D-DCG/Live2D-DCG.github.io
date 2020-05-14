@@ -4471,6 +4471,17 @@
             }
         }
     },
+	"c438": {
+        "name": "Hero Robin",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
 	"c443": {
         "name": "Raffles",
         "variants": {
