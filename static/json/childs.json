@@ -8080,6 +8080,14 @@
             }
         }
     },
+	"sc287": {
+        "name": "Salome",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc289": {
         "name": "Durandal",
         "variants": {
@@ -8208,6 +8216,14 @@
             }
         }
     },
+	"sc315": {
+        "name": "Methuselah",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc316": {
         "name": "Wodan",
         "variants": {
@@ -8298,6 +8314,14 @@
     },
     "sc339": {
         "name": "Dark Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc343": {
+        "name": "Blade Tiamat",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8400,6 +8424,14 @@
             }
         }
     },
+	"sc362": {
+        "name": "Leo",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc364": {
         "name": "Sytry",
         "variants": {
@@ -8474,6 +8506,30 @@
     },
     "sc377": {
         "name": "Iphis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc378": {
+        "name": "Pallas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc379": {
+        "name": "Athena",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc381": {
+        "name": "Love Sitri",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8584,6 +8640,22 @@
             }
         }
     },
+	"sc398": {
+        "name": "Jacheongbi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc400": {
+        "name": "Banshee",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc402": {
         "name": "Noel",
         "variants": {
@@ -8602,6 +8674,14 @@
     },
 	"sc404": {
         "name": "Nine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc405": {
+        "name": "Lancer Luin",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8632,6 +8712,70 @@
             }
         }
     },
+	"sc409": {
+        "name": "Limos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc410": {
+        "name": "Failnaught",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc412": {
+        "name": "Cain",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc414": {
+        "name": "Billy",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc415": {
+        "name": "Annie",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc416": {
+        "name": "Hyenang",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc417": {
+        "name": " Nine Tail Fox",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc418": {
+        "name": "Lurking Mafdet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc419": {
         "name": "Catherine",
         "variants": {
@@ -8650,6 +8794,87 @@
     },
 	"sc421": {
         "name": "Rin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc422": {
+        "name": "Heqet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc423": {
+        "name": "Laima",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc426": {
+        "name": "Ophois",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc429": {
+        "name": "Ziva",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc430": {
+        "name": "Giltine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        
+		}
+    },
+	"sc431": {
+        "name": "Eshu",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc433": {
+        "name": "Pakhet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc434": {
+        "name": "Sweet Leda",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc435": {
+        "name": "Fantasy Sytry",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc436": {
+        "name": "Serket",
         "variants": {
             "01": {
                 "title": "Hot Spring"
