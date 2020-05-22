@@ -325,7 +325,7 @@
         }
     },
 	"c023": {
-        "name": "???",
+        "name": "Caminho",
         "variants": {
             "01": {
                 "title": ""
@@ -1211,19 +1211,19 @@
         }
     },
 	"c110": {
-        "name": "플린스",
+        "name": "Flins",
         "variants": {
             "00": {
-                "title": "미성숙한"
+                "title": "Human"
             },
             "01": {
-                "title": "집념의"
+                "title": ""
             },
             "02": {
-                "title": "챌린저"
+                "title": ""
             },
             "10": {
-                "title": "크리스마스"
+                "title": ""
             }
         }
     },
@@ -2138,6 +2138,20 @@
     },
     "c205": {
         "name": "Merlin",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Otherworldly"
+            },
+            "02": {
+                "title": "Visitor"
+            }
+        }
+    },
+	"c206": {
+        "name": "Jonah",
         "variants": {
             "00": {
                 "title": "Human"
@@ -3250,13 +3264,13 @@
         }
     },
     "c322": {
-        "name": "Pandragon",
+        "name": "Saladin",
         "variants": {
             "10": {
                 "title": "Past"
             },
             "00": {
-                "title": "Phillip"
+                "title": "Human"
             },
             "01": {
                 "title": ""
@@ -4220,6 +4234,17 @@
             }
         }
     },
+	"c413": {
+        "name": "Abel",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
 	"c414": {
         "name": "Billy",
         "variants": {
@@ -4327,6 +4352,17 @@
     },
 	"c423": {
         "name": "Laima",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c424": {
+        "name": "Hephaestus",
         "variants": {
             "01": {
                 "title": ""
@@ -4461,7 +4497,7 @@
         }
     },
 	"c438": {
-        "name": "Mate Semele",
+        "name": "Semele",
         "variants": {
             "01": {
                 "title": ""
@@ -4471,8 +4507,8 @@
             }
         }
     },
-	"c438": {
-        "name": "Hero Robin",
+	"c441": {
+        "name": "Robin",
         "variants": {
             "01": {
                 "title": ""
@@ -4494,7 +4530,7 @@
         }
     },
 	"c447": {
-        "name": "miriam",
+        "name": "Miriam",
         "variants": {
             "01": {
                 "title": ""
@@ -7386,6 +7422,14 @@
     },
     "sc109": {
         "name": "Arethusa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc110": {
+        "name": "Plinth",
         "variants": {
             "01": {
                 "title": "Hot Spring"
