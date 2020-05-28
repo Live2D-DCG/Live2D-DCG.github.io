@@ -1372,6 +1372,9 @@
             },
             "01": {
                 "title": "Earthly"
+            },
+            "02": {
+                "title": ""
             }
         }
     },
@@ -2189,6 +2192,9 @@
             },
             "02": {
                 "title": "Delusional"
+            }
+			"10": {
+                "title": ""
             }
         }
     },
@@ -4531,6 +4537,34 @@
     },
 	"c447": {
         "name": "Miriam",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c448": {
+        "name": "Mircalla",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+			"02": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+	"c449": {
+        "name": "Laura",
         "variants": {
             "01": {
                 "title": ""
@@ -8012,6 +8046,14 @@
             }
         }
     },
+	"sc237": {
+        "name": "Typhon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc238": {
         "name": "Medb",
         "variants": {
@@ -8868,6 +8910,14 @@
             }
         }
     },
+	"sc428": {
+        "name": "Seth",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc429": {
         "name": "Ziva",
         "variants": {
@@ -8887,6 +8937,14 @@
     },
 	"sc431": {
         "name": "Eshu",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc432": {
+        "name": "Moonlight Artemis",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8919,6 +8977,22 @@
     },
 	"sc436": {
         "name": "Serket",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc437": {
+        "name": "Pakhet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc438": {
+        "name": "Semele",
         "variants": {
             "01": {
                 "title": "Hot Spring"
