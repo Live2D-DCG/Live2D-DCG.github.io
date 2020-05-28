@@ -3111,7 +3111,10 @@
                 "title": "Rider"
             },
             "02": {
-                "title": "Vengeful"
+                "title": "Revenge"
+            },
+			"10": {
+                "title": "High Speed"
             }
         }
     },
@@ -3190,6 +3193,9 @@
         "variants": {
             "00": {
                 "title": "Human"
+            },
+			"01": {
+                "title": "Alchemist"
             },
             "02": {
                 "title": "Seeker"
@@ -3801,15 +3807,6 @@
     "c377": {
         "name": "Iphis",
         "variants": {
-            "10": {
-                "title": "Bridal"
-            },
-            "11": {
-                "title": "Shadow"
-            },
-            "89": {
-                "title": "Bridal"
-            },
             "00": {
                 "title": "Human"
             },
@@ -3818,6 +3815,15 @@
             },
             "02": {
                 "title": "Scarlet"
+            },
+			"10": {
+                "title": "Bridal"
+            },
+            "11": {
+                "title": "Shadow"
+            },
+            "89": {
+                "title": "Bridal"
             }
         }
     },
@@ -6554,10 +6560,19 @@
         }
     },
     "m215": {
-        "name": "Auroramim King",
+        "name": "Aurora King",
         "variants": {
             "01": {
-                "title": "Buzzing"
+                "title": "Passionate Ruler"
+            },
+			"02": {
+                "title": "Fervent Ruler"
+            },
+			"88": {
+                "title": "Passionate Ruler "
+            },
+			"89": {
+                "title": "Fervent Ruler"
             }
         }
     },
