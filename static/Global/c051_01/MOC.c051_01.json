@@ -6,6 +6,14 @@
   ],
   "expressions": [
     {
+      "name": "affair",
+      "file": "affair.exp.json"
+    },
+    {
+      "name": "angry",
+      "file": "angry.exp.json"
+    },
+    {
       "name": "fury",
       "file": "fury.exp.json"
     },
@@ -18,8 +26,16 @@
       "file": "sad.exp.json"
     },
     {
+      "name": "serious",
+      "file": "serious.exp.json"
+    },
+    {
       "name": "sigh",
       "file": "sigh.exp.json"
+    },
+    {
+      "name": "superangry",
+      "file": "superangry.exp.json"
     }
   ],
   "motions": {
