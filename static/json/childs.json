@@ -667,6 +667,9 @@
             },
             "02": {
                 "title": "Love-Hate"
+            },
+            "10": {
+                "title": "Nurse"
             }
         }
     },
@@ -709,6 +712,9 @@
             },
             "02": {
                 "title": "Bad Boy"
+            },
+            "12": {
+                "title": "Tybalt"
             }
         }
     },
@@ -1375,6 +1381,12 @@
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": "Romantic"
+            },
+            "89": {
+                "title": "Romantic"
             }
         }
     },
@@ -4571,6 +4583,17 @@
     },
 	"c449": {
         "name": "Laura",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c450": {
+        "name": "",
         "variants": {
             "01": {
                 "title": ""

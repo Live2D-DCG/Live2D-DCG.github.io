@@ -4,6 +4,28 @@
   "textures": [
     "texture_00.png"
   ],
+  "expressions": [
+    {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "sad",
+      "file": "sad.exp.json"
+    },
+    {
+      "name": "shy",
+      "file": "shy.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
+    }
+  ],
   "motions": {
     "attack": [
       {
