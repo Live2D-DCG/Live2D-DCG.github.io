@@ -2709,7 +2709,7 @@
                 "title": "Knight"
             },
             "02": {
-                "title": "Retainer"
+                "title": "Brave"
             }
         }
     },
@@ -3426,10 +3426,10 @@
         "name": "Davi",
         "variants": {
             "01": {
-                "title": "Buried"
+                "title": "Love & Hate"
             },
             "02": {
-                "title": "Emo Sutor"
+                "title": "Ambivalence"
             }
         }
     },
@@ -3493,7 +3493,7 @@
                 "title": "Prophet"
             },
             "02": {
-                "title": "Revelator"
+                "title": "Second Advent"
             }
         }
     },
@@ -3846,10 +3846,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Shadow"
+                "title": ""
             },
             "02": {
-                "title": "Dark"
+                "title": "Darkness Clad"
             }
         }
     },
@@ -3857,10 +3857,10 @@
         "name": "Athena",
         "variants": {
             "01": {
-                "title": "Perfection"
+                "title": ""
             },
             "02": {
-                "title": "Pure White"
+                "title": "Benign Devotion"
             }
         }
     },
@@ -4028,7 +4028,7 @@
         "name": "Davi",
         "variants": {
             "10": {
-                "title": "Black Tears"
+                "title": "Dark Tears"
             },
             "89": {
                 "title": "Altered"
@@ -4045,10 +4045,13 @@
         "name": "Mona",
         "variants": {
             "01": {
-                "title": "White"
+                "title": "Lightbeam"
             },
             "02": {
-                "title": "Photonic"
+                "title": "Heavenly Ray"
+            },
+			"10": {
+                "title": "Radiant"
             }
         }
     },
@@ -4221,10 +4224,10 @@
         "name": "Limos",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Hungry"
             },
             "02": {
-                "title": ""
+                "title": "Full"
             }
         }
     },
