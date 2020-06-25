@@ -1673,6 +1673,20 @@
             }
         }
     },
+	"c155": {
+        "name": "Echo",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Idol"
+            }
+        }
+    },
     "c156": {
         "name": "Elizabeth",
         "variants": {
@@ -2808,6 +2822,20 @@
             },
             "02": {
                 "title": "Howling"
+            }
+        }
+    },
+	"c275": {
+        "name": "Harpy",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Breakout"
             }
         }
     },
@@ -4534,6 +4562,17 @@
             }
         }
     },
+	"c439": {
+        "name": "Saturn",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Advancing"
+            }
+        }
+    },
 	"c441": {
         "name": "Robin",
         "variants": {
@@ -4545,8 +4584,33 @@
             }
         }
     },
+	"c442": {
+        "name": "",
+        "variants": {
+			"00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
 	"c443": {
         "name": "Raffles",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c444": {
+        "name": "",
         "variants": {
             "01": {
                 "title": ""
@@ -8127,6 +8191,14 @@
             }
         }
     },
+	"sc252": {
+        "name": "Arhat",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc253": {
         "name": "Nicole",
         "variants": {
@@ -8423,6 +8495,14 @@
             }
         }
     },
+	"sc333": {
+        "name": "Deborah",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc336": {
         "name": "Pan",
         "variants": {
@@ -8553,6 +8633,14 @@
     },
 	"sc362": {
         "name": "Leo",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc363": {
+        "name": "Lupin",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9034,6 +9122,14 @@
     },
 	"sc438": {
         "name": "Semele",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc443": {
+        "name": "Raffles",
         "variants": {
             "01": {
                 "title": "Hot Spring"
