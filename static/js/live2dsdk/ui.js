@@ -41,7 +41,7 @@ function updateViewer(id) {
   } else {
 	  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewer.html', document.location.toString() + 'viewer.html')
-	  download = "http://patch.dcg.line.games/real_0.0.55_5hne5yrakpxe/hd_mobile/asset/character/" + selectedModel +".pck"
+	  download = "http://patch.dcg.line.games/real_0.0.58_ufilx1jkfvw9/hd_mobile/asset/character/" + selectedModel +".pck"
 	  
   }
   
