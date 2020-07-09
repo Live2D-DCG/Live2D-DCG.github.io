@@ -977,10 +977,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Self-Deprecating"
             },
             "02": {
-                "title": ""
+                "title": "Hollow"
             }
         }
     },
@@ -2968,10 +2968,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Dancer"
             },
             "02": {
-                "title": ""
+                "title": "Leaping"
             }
         }
     },
@@ -3900,13 +3900,13 @@
         }
     },
 	"c381": {
-        "name": "Sitri",
+        "name": "Sytry",
         "variants": {
             "01": {
-                "title": "Love"
+                "title": "Fluttering"
             },
             "02": {
-                "title": "Summer"
+                "title": "Summer Love"
             }
         }
     },
@@ -8768,7 +8768,7 @@
         }
     },
 	"sc381": {
-        "name": "Love Sitri",
+        "name": "Summer Love Sytry",
         "variants": {
             "01": {
                 "title": "Hot Spring"
