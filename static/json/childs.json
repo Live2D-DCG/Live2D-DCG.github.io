@@ -2636,7 +2636,6 @@
             "02": {
                 "title": ""
             },
-			},
             "10": {
                 "title": ""
             },
@@ -3227,10 +3226,10 @@
             "02": {
                 "title": "Seeker"
             },
-			"02": {
+			"88": {
                 "title": "World Boss Skin kr"
             },
-			"02": {
+			"89": {
                 "title": "World Boss Skin kr"
             }
         }
