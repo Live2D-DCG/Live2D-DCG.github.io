@@ -4309,22 +4309,31 @@
 	"c414": {
         "name": "Billy",
         "variants": {
-            "01": {
-                "title": ""
+            "00": {
+                "title": "Human"
             },
-            "02": {
-                "title": ""
+            "01": {
+                "title": "Gunner"
+            },
+			"02": {
+                "title": "Deadshot"
+            },
+            "10": {
+                "title": "Splash"
             }
         }
     },
 	"c415": {
         "name": "Annie",
         "variants": {
-            "01": {
-                "title": ""
+            "00": {
+                "title": "Human"
             },
-            "02": {
-                "title": ""
+            "01": {
+                "title": "Risk Taker"
+            },
+			"02": {
+                "title": "Wild Hunt"
             }
         }
     },
