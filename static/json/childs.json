@@ -4652,6 +4652,23 @@
             }
         }
     },
+	"c446": {
+        "name": "Argos",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+			"88": {
+                "title": ""
+            },
+			"89": {
+                "title": ""
+            }
+        }
+    },
 	"c447": {
         "name": "Miriam",
         "variants": {
@@ -4693,6 +4710,17 @@
     },
 	"c450": {
         "name": "Tragic Rusalka",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c453": {
+        "name": "Mercury",
         "variants": {
             "01": {
                 "title": ""
@@ -7975,6 +8003,14 @@
             }
         }
     },
+	"sc193": {
+        "name": "Virupa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc194": {
         "name": "Ashtoreth",
         "variants": {
@@ -8145,6 +8181,14 @@
     },
     "sc230": {
         "name": "Skuld",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc231": {
+        "name": "Silvia",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9160,8 +9204,32 @@
             }
         }
     },
+	"sc441": {
+        "name": "Robin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc443": {
         "name": "Raffles",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc448": {
+        "name": "Mircalla",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc449": {
+        "name": "Laura",
         "variants": {
             "01": {
                 "title": "Hot Spring"
