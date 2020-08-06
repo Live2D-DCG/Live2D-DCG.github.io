@@ -4338,21 +4338,27 @@
         }
     },
 	"c416": {
-        "name": "Hyenang",
+        "name": "Keino",
         "variants": {
+			"01": {
+                "title": "Human"
+            },
             "01": {
-                "title": ""
+                "title": "Demon Princess"
             },
             "02": {
-                "title": ""
+                "title": "Phantom"
             }
         }
     },
 	"c417": {
-        "name": "Nine Tail Fox",
+        "name": "Tamamo",
         "variants": {
+			"00": {
+                "title": "Human"
+            }
             "01": {
-                "title": ""
+                "title": "Nine-Tailed Fox"
             },
             "02": {
                 "title": ""
@@ -9044,7 +9050,7 @@
         }
     },
 	"sc416": {
-        "name": "Hyenang",
+        "name": "Keino",
         "variants": {
             "01": {
                 "title": "Hot Spring"
