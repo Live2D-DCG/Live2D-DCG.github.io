@@ -4340,7 +4340,7 @@
 	"c416": {
         "name": "Keino",
         "variants": {
-			"01": {
+			"00": {
                 "title": "Human"
             },
             "01": {
@@ -4356,7 +4356,7 @@
         "variants": {
 			"00": {
                 "title": "Human"
-            }
+            },
             "01": {
                 "title": "Nine-Tailed Fox"
             },
@@ -4727,6 +4727,39 @@
     },
 	"c453": {
         "name": "Mercury",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c454": {
+        "name": "Juno",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c455": {
+        "name": "Tiwaz",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c457": {
+        "name": "Odysseus",
         "variants": {
             "01": {
                 "title": ""
