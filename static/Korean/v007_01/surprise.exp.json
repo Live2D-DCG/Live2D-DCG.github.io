@@ -1,0 +1,9 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"arm2_on","val":1},
+		{"id":"panic_on","val":1}
+	]
+}

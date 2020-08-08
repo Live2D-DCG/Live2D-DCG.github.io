@@ -1,0 +1,38 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png",
+    "texture_01.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "file": "v008_06_01.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "01_60": [
+      {
+        "file": "v008_06_01_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "attack": [
+      {
+        "file": "v008_06_02.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "02_60": [
+      {
+        "file": "v008_06_02_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":2700,
+	"fade_out":2700,
+	"params":[
+		{"id":"TR_COCO_R","val":1},
+		{"id":"TR_COCO_CH","val":1}
+	]
+}

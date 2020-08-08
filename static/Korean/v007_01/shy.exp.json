@@ -1,0 +1,11 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"kiss_on_ex","val":1},
+		{"id":"face_hong","val":1},
+		{"id":"face_kiss_lip","val":1},
+		{"id":"eff_on","val":1}
+	]
+}
