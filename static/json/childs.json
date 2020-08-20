@@ -3387,6 +3387,17 @@
             }
         }
     },
+	"c329": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Racer"
+            },
+			"02": {
+                "title": "Dark Horse"
+            }
+        }
+    },
     "c330": {
         "name": "Ottoman",
         "variants": {
@@ -4758,6 +4769,17 @@
             }
         }
     },
+	"c456": {
+        "name": "Clotho",
+        "variants": {
+            "01": {
+                "title": "Mascot"
+            },
+            "02": {
+                "title": "Fateful"
+            }
+        }
+    },
 	"c457": {
         "name": "Odysseus",
         "variants": {
@@ -4766,6 +4788,20 @@
             },
             "02": {
                 "title": ""
+            }
+        }
+    },
+	"c458": {
+        "name": "Zephyros",
+        "variants": {
+            "01": {
+                "title": "Racing"
+            },
+            "02": {
+                "title": "Flurry"
+            },
+			"10": {
+                "title": "Fastest"
             }
         }
     },
@@ -7730,6 +7766,14 @@
             }
         }
     },
+	"sc125": {
+        "name": "Altice",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc126": {
         "name": "Salmacis",
         "variants": {
@@ -7852,6 +7896,14 @@
     },
     "sc154": {
         "name": "Thoth",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc125": {
+        "name": "Echo",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9243,6 +9295,14 @@
             }
         }
     },
+	"sc439": {
+        "name": "Saturn",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc441": {
         "name": "Robin",
         "variants": {
@@ -9269,6 +9329,14 @@
     },
 	"sc449": {
         "name": "Laura",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc450": {
+        "name": "Tragic Rusalka",
         "variants": {
             "01": {
                 "title": "Hot Spring"
