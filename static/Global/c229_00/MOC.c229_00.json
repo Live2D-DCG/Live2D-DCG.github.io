@@ -12,6 +12,20 @@
         "fade_out": 0
       }
     ],
+    "banner": [
+      {
+        "file": "c229_00_banner.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "hit": [
+      {
+        "file": "c229_00_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "idle": [
       {
         "file": "c229_00_idle.mtn",

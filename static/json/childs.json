@@ -4372,7 +4372,10 @@
                 "title": "Nine-Tailed Fox"
             },
             "02": {
-                "title": ""
+                "title": "Bewitching"
+            },
+            "89": {
+                "title": "Nine-Tailed Fox"
             }
         }
     },
@@ -4380,10 +4383,10 @@
         "name": "Mafdet",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Flower of Justice"
             },
             "02": {
-                "title": "Lurking"
+                "title": "Justice Incarnate"
             }
         }
     },
@@ -9143,7 +9146,7 @@
         }
     },
 	"sc417": {
-        "name": " Nine Tail Fox",
+        "name": "Tamamo",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9151,7 +9154,7 @@
         }
     },
 	"sc418": {
-        "name": "Lurking Mafdet",
+        "name": "Justice Mafdet",
         "variants": {
             "01": {
                 "title": "Hot Spring"
