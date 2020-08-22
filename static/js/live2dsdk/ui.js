@@ -35,7 +35,7 @@ function updateViewer(id) {
   if (diffView == "k") {
 	  viewer.src = 'viewerK.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewerk.html', document.location.toString() + 'viewerk.html')
-	  download = "http://patch.dc.nextfloor.com/1.3.52.zk4ky44aruw9//hd_android/asset/character/" + selectedModel +".pck"
+	  download = "http://patch.dc.nextfloor.com/1.3.52.zk4ky44aruw9/hd_android/asset/character/" + selectedModel +".pck"
 	  
   } else {
 	  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
