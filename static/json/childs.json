@@ -2896,13 +2896,13 @@
         }
     },
 	 "c281": {
-        "name": "Tisbe",
+        "name": "Thisbe",
         "variants": {
 		    "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Runaway"
             },
             "02": {
                 "title": "Labyrinth"
@@ -3115,7 +3115,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Black Night"
+                "title": "Dark Night"
             }
         }
     },
@@ -4805,6 +4805,28 @@
             },
 			"10": {
                 "title": "Fastest"
+            }
+        }
+    },
+	"c459": {
+        "name": "Caca",
+        "variants": {
+            "01": {
+                "title": "Chasing"
+            },
+            "02": {
+                "title": "Shadow"
+            }
+        }
+    },
+	"c460": {
+        "name": "Cacus",
+        "variants": {
+            "01": {
+                "title": "Plunderer"
+            },
+            "02": {
+                "title": "Freed"
             }
         }
     },
