@@ -868,7 +868,13 @@
                 "title": "Reigning"
             },
             "02": {
-                "title": "Suppressive"
+                "title": "Conquering"
+            },
+            "88": {
+                "title": "Conquering"
+            },
+            "89": {
+                "title": "Reigning"
             }
         }
     },
@@ -2642,6 +2648,9 @@
             "11": {
                 "title": ""
             },
+			"13": {
+                "title": ""
+            },
             "88": {
                 "title": ""
             },
@@ -3314,7 +3323,7 @@
         "name": "Luna",
         "variants": {
             "01": {
-                "title": "Opposing"
+                "title": "Crescent"
             },
             "02": {
                 "title": "Full Moon"
@@ -4631,6 +4640,10 @@
             "02": {
                 "title": "Thusness"
             }
+			,
+            "11": {
+                "title": "Zen Master"
+            }
         }
     },
 	"c443": {
@@ -4653,6 +4666,9 @@
             "02": {
                 "title": ""
             }
+			"10": {
+                "title": ""
+            }	
         }
     },
 	"c445": {
@@ -4663,6 +4679,9 @@
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": "Office Worker"
             },
 			"88": {
                 "title": ""
@@ -4827,6 +4846,17 @@
             },
             "02": {
                 "title": "Freed"
+            }
+        }
+    },
+	"c461": {
+        "name": "Aurora",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
             }
         }
     },
@@ -7140,6 +7170,23 @@
         "variants": {
             "89": {
                 "title": "Rabbit"
+            }
+        }
+    },
+	"m261": {
+        "name": "Procell",
+        "variants": {
+            "01": {
+                "title": "Fasting"
+            },
+            "02": {
+                "title": "Hellion"
+            },
+            "88": {
+                "title": ""
+            },
+			"89": {
+                "title": ""
             }
         }
     },

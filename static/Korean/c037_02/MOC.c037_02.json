@@ -2,7 +2,21 @@
   "version": "Sample 1.0.0",
   "model": "character.dat",
   "textures": [
-    "texture_00.png"
+    "texture_00.PNG"
+  ],
+  "expressions": [
+    {
+      "name": "fury",
+      "file": "fury.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "joy",
+      "file": "joy.exp.json"
+    }
   ],
   "motions": {
     "attack": [
