@@ -1208,7 +1208,10 @@
             },
             "02": {
                 "title": "Admirable"
-            }
+            },
+			"10": {
+                "title": "Atré Akihabara's mascot style"
+            },
         }
     },
     "c109": {
@@ -7107,6 +7110,105 @@
             },
             "02": {
                 "title": "The Creator's"
+            }
+        }
+    },
+	"m245": {
+        "name": "Tori",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m246": {
+        "name": "Tori",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m247": {
+        "name": "Tori(Yellow)",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m248": {
+        "name": "Tori(Red)",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m249": {
+        "name": "Tori(Purple)",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m250": {
+        "name": "Tori(Blue)",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m251": {
+        "name": "Tori(Green)",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
+            }
+        }
+    },
+	"m251": {
+        "name": "Tori",
+        "variants": {
+            "01": {
+                "title": "Train-type"
+            },
+            "02": {
+                "title": "Train-type"
+            }
+        }
+    },
+	"m245": {
+        "name": "Tori",
+        "variants": {
+            "01": {
+                "title": "Atré Akihabara's mascot"
+            },
+            "02": {
+                "title": "Atré Akihabara's mascot"
             }
         }
     },
