@@ -6,16 +6,23 @@
     "texture_01.png"
   ],
   "motions": {
-    "idle": [
+    "attack": [
       {
-        "file": "v012_01_01.mtn",
+        "file": "m258_89_attack.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
-    "attack": [
+    "hit": [
       {
-        "file": "v012_01_01_60.mtn",
+        "file": "m258_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle": [
+      {
+        "file": "m258_89_idle.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
