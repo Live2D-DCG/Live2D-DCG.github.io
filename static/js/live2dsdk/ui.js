@@ -31,6 +31,7 @@ function updateViewer(id) {
 	  mY = $('#offsetY-slider').slider('value')
   var code = null
   var download = null
+  var shareLink = "https://live2d-dcg.github.io/?model=" + selectedModel
   
   if (diffView == "k") {
 	  viewer.src = 'viewerK.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
@@ -68,6 +69,8 @@ function updateViewer(id) {
 
   $('#direct-link').attr('href', viewer.src)
   $('#direct-link').html(viewer.src)
+  $('#share-link').attr('href', shareLink)
+  $('#share-link').html(shareLink)
   $('#download-link').attr('href', download)
   $('#download-link').html("Download " + selectedModel  +".pck")
   
