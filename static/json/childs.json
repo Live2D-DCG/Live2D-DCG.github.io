@@ -2997,6 +2997,9 @@
             },
             "02": {
                 "title": "Nightmare"
+            },
+			"10": {
+                "title": "Mighty Blade"
             }
         }
     },
@@ -4008,6 +4011,12 @@
             },
 			"12": {
                 "title": "Margarita"
+            },
+			"13": {
+                "title": "Shirotae"
+            },
+			"88": {
+                "title": "World Boss"
             }
         }
     },
@@ -4237,10 +4246,16 @@
         "name": "Luin",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Piercing"
             },
             "02": {
-                "title": "Lancer"
+                "title": "King's Lancer"
+            },
+			"88": {
+                "title": "King's Lancer"
+            },
+            "89": {
+                "title": "Piercing"
             }
         }
     },
@@ -4291,11 +4306,14 @@
 	"c410": {
         "name": "Failnaught",
         "variants": {
+			"00": {
+                "title": "Human"
+            },
             "01": {
-                "title": ""
+                "title": "Proud"
             },
             "02": {
-                "title": ""
+                "title": "Demonic Deadeye"
             }
         }
     },
@@ -4758,6 +4776,34 @@
             },
             "02": {
                 "title": ""
+            }
+        }
+    },
+	"c451": {
+        "name": "Ayane",
+        "variants": {
+            "01": {
+                "title": "Royal Butterfly"
+            },
+            "02": {
+                "title": "Sakuramai"
+            },
+            "10": {
+                "title": "Fylgja"
+            }
+        }
+    },
+	"c452": {
+        "name": "Leifang",
+        "variants": {
+            "01": {
+                "title": "Flying Phoenix"
+            },
+            "02": {
+                "title": "Vermilion Bird"
+            },
+            "10": {
+                "title": "Five-Colored Brilliance"
             }
         }
     },
@@ -9525,8 +9571,32 @@
             }
         }
     },
+	"sc442": {
+        "name": "Nirrti",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc443": {
         "name": "Raffles",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc445": {
+        "name": "Kalaratri",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc446": {
+        "name": "Argos",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9551,6 +9621,38 @@
     },
 	"sc450": {
         "name": "Tragic Rusalka",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc451": {
+        "name": "Ayane",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc452": {
+        "name": "liefeng",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc453": {
+        "name": "Mercury",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc455": {
+        "name": "Tiwaz",
         "variants": {
             "01": {
                 "title": "Hot Spring"

@@ -22,6 +22,13 @@
         "fade_out": 0
       }
     ],
+    "banner": [
+      {
+        "file": "c339_01_banner.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "event": [
       {
         "file": "c339_01_event.mtn",
