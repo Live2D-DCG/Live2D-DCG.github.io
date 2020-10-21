@@ -2,7 +2,7 @@
   "version": "Sample 1.0.0",
   "model": "character.dat",
   "textures": [
-    "texture_00.png"
+    "texture_00.PNG"
   ],
   "motions": {
     "attack": [

@@ -7,6 +7,10 @@
   ],
   "expressions": [
     {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
       "name": "idle",
       "file": "idle.exp.json"
     },

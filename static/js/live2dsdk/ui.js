@@ -36,12 +36,12 @@ function updateViewer(id) {
   if (diffView == "k") {
 	  viewer.src = 'viewerK.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewerk.html', document.location.toString() + 'viewerk.html')
-	  download = "http://patch.dc.nextfloor.com/1.3.55.vwf6lvypnk4a/hd_android/asset/character/" + selectedModel +".pck"
+	  download = "http://patch.dc.nextfloor.com/real_1.3.57.z5hw32cgr7b3/hd_android/asset/character/" + selectedModel +".pck"
 	  
   } else {
 	  viewer.src = 'viewer.html?mN=' + selectedModel + '&size=' + size + '&mS=' + mS  + '&mX=' + mX  + '&mY=' + mY
 	  code = viewer.outerHTML.replace('viewer.html', document.location.toString() + 'viewer.html')
-	  download = "http://patch.dcg.line.games/real_0.0.67_ezwcqd3cwve1/hd_mobile/asset/character/" + selectedModel +".pck"
+	  download = "ttp://patch.dcg.line.games/real_0.0.72.vjmsl18zxt3f/hd_mobile/asset/character/" + selectedModel +".pck"
 	  
   }
   

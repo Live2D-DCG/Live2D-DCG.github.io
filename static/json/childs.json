@@ -2955,6 +2955,9 @@
             },
             "02": {
                 "title": "Battlefield Goddess"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -3056,6 +3059,9 @@
             },
             "02": {
                 "title": "Silence"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -3728,10 +3734,10 @@
         "name": "Lupin",
         "variants": {
             "01": {
-                "title": "Vanguard"
+                "title": "Phantom Thief"
             },
             "02": {
-                "title": ""
+                "title": "Mood Maker"
             }
         }
     },
@@ -4013,7 +4019,7 @@
                 "title": "Margarita"
             },
 			"13": {
-                "title": "Shirotae"
+                "title": "Geranium"
             },
 			"88": {
                 "title": "World Boss"
@@ -4598,7 +4604,7 @@
         "name": "Serket",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Anxious"
             },
             "02": {
                 "title": ""
@@ -4699,10 +4705,13 @@
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Aurora"
             },
             "10": {
                 "title": "Office Worker"
+            },
+			"11": {
+                "title": "Plain Clothes"
             },
 			"88": {
                 "title": ""
@@ -4783,10 +4792,10 @@
         "name": "Ayane",
         "variants": {
             "01": {
-                "title": "Royal Butterfly"
+                "title": ""
             },
             "02": {
-                "title": "Sakuramai"
+                "title": "Peach Blossom"
             },
             "10": {
                 "title": "Fylgja"
@@ -4797,13 +4806,13 @@
         "name": "Leifang",
         "variants": {
             "01": {
-                "title": "Flying Phoenix"
+                "title": ""
             },
             "02": {
                 "title": "Vermilion Bird"
             },
             "10": {
-                "title": "Five-Colored Brilliance"
+                "title": "Five-Colored Mirage"
             }
         }
     },
@@ -4902,10 +4911,38 @@
         "name": "Aurora",
         "variants": {
             "01": {
+                "title": "Memorable"
+            },
+            "02": {
+                "title": "Confessional"
+            },
+            "10": {
+                "title": "Schoolmate"
+            }
+        }
+    },
+	"c473": {
+        "name": "Titania",
+        "variants": {
+            "01": {
                 "title": ""
             },
             "02": {
+                "title": "Exuberant"
+            }
+        }
+    },
+	"c474": {
+        "name": "Hephaestus",
+        "variants": {
+            "01": {
                 "title": ""
+            },
+            "02": {
+                "title": "onflagration"
+            },
+            "10": {
+                "title": "Teacher"
             }
         }
     },
@@ -8914,6 +8951,14 @@
             }
         }
     },
+	"sc329": {
+        "name": "Racer Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc332": {
         "name": "Ganesha",
         "variants": {
@@ -9636,7 +9681,7 @@
         }
     },
 	"sc452": {
-        "name": "liefeng",
+        "name": "Leifeng",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9651,8 +9696,40 @@
             }
         }
     },
+	"sc454": {
+        "name": "Juno",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc455": {
         "name": "Tiwaz",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc456": {
+        "name": "Clotho",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc457": {
+        "name": "Odysseus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc458": {
+        "name": "Zephyros",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10184,6 +10261,262 @@
         "variants": {
             "01": {
                 "title": "Hot Spring"
+            }
+        }
+    },
+    "xc124": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm003": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm004": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm039": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm052": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm054": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm056": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm124": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm125": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm126": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm127": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm128": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm141": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm142": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm143": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm144": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm145": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm146": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm155": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm156": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm157": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm158": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm159": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm189": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm190": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm194": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm195": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm196": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm197": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm198": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm201": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+    "xm227": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
             }
         }
     }
