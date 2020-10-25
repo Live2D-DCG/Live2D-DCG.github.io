@@ -20,9 +20,6 @@ function calculator(){
   
   	// Map Name, Exp, Stamina
 	var mapArray = [
-	["Chapter One 1-8-#",14,3],
-	["Chapter One 2-8-#",25,5],
-	["Chapter One 3-7-#",44,3],
 	["Chapter One 4-6-#",76,9],
 	["Chapter One 5-8-#",99,11],
 	["Chapter One 6-8-#",134,13],
@@ -30,12 +27,10 @@ function calculator(){
 	["Chapter One 8-8-#",227,17],
 	["Chapter Two 1-4-#",351,25],
 	["Chapter Two 2-2-3",366,25],
-	["Chapter Two 2-4-#",397,25],
 	["Chapter Two 3-2-3",381,25],
-	["Chapter Two 4-1-#",396,25],
 	["Chapter Two 4-2-3",401,25],
-	["Chapter Two 4-3-#",406,25],
-	["Chapter Two 4-4#",452,25]
+	["Chapter Two Int. Ch. 1 IV-7",411,25],
+	["Chapter Two Int. Ch. 2 IV-7",452,25]
 	]
   
 	var calculateButton = document.getElementById("calculateBtn");
