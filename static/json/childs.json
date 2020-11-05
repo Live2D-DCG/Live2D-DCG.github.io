@@ -669,7 +669,7 @@
                 "title": "Love-Hate"
             },
             "10": {
-                "title": "Nurse"
+                "title": "Role of the Nurse"
             }
         }
     },
@@ -714,7 +714,7 @@
                 "title": "Bad Boy"
             },
             "12": {
-                "title": "Tybalt"
+                "title": "Role of Tybalt"
             }
         }
     },
@@ -1380,16 +1380,16 @@
         }
     },
     "c125": {
-        "name": "Altice",
+        "name": "Attis",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Earthly"
+                "title": "Comedy"
             },
             "02": {
-                "title": ""
+                "title": "Sworn Blade Hero"
             },
             "10": {
                 "title": "Romantic"
@@ -4634,13 +4634,13 @@
         }
     },
 	"c439": {
-        "name": "Saturn",
+        "name": "Saturn♥",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Dreamer"
             },
             "02": {
-                "title": "Advancing"
+                "title": "Actress"
             }
         }
     },
@@ -4778,13 +4778,13 @@
         }
     },
 	"c450": {
-        "name": "Tragic Rusalka",
+        "name": "Rusalka",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Tragedy"
             },
             "02": {
-                "title": ""
+                "title": "	Heroine"
             }
         }
     },
@@ -4918,6 +4918,34 @@
             },
             "10": {
                 "title": "Schoolmate"
+            }
+        }
+    },
+	"c465": {
+        "name": "Xian'e (Seon-Ah)",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Honorable"
+            },
+            "88": {
+                "title": "World Boss"
+            }
+        }
+    },
+	"c466": {
+        "name": "Nezha",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Lotus Heart"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -8064,7 +8092,7 @@
         }
     },
 	"sc125": {
-        "name": "Altice",
+        "name": "Attis",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -8199,7 +8227,7 @@
             }
         }
     },
-	"sc125": {
+	"sc155": {
         "name": "Echo",
         "variants": {
             "01": {
@@ -9601,7 +9629,7 @@
         }
     },
 	"sc439": {
-        "name": "Saturn",
+        "name": "Saturn♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9665,7 +9693,7 @@
         }
     },
 	"sc450": {
-        "name": "Tragic Rusalka",
+        "name": "Tragedy Rusalka",
         "variants": {
             "01": {
                 "title": "Hot Spring"
