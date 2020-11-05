@@ -4784,7 +4784,7 @@
                 "title": "Tragedy"
             },
             "02": {
-                "title": "	Heroine"
+                "title": "Heroine"
             }
         }
     },
@@ -7224,17 +7224,6 @@
             }
         }
     },
-	"m245": {
-        "name": "Tori",
-        "variants": {
-            "01": {
-                "title": "Atré Akihabara's mascot"
-            },
-            "02": {
-                "title": "Atré Akihabara's mascot"
-            }
-        }
-    },
 	"m246": {
         "name": "Tori",
         "variants": {
@@ -7301,7 +7290,7 @@
             }
         }
     },
-	"m251": {
+	"m252": {
         "name": "Tori",
         "variants": {
             "01": {
@@ -7309,17 +7298,6 @@
             },
             "02": {
                 "title": "Train-type"
-            }
-        }
-    },
-	"m245": {
-        "name": "Tori",
-        "variants": {
-            "01": {
-                "title": "Atré Akihabara's mascot"
-            },
-            "02": {
-                "title": "Atré Akihabara's mascot"
             }
         }
     },
