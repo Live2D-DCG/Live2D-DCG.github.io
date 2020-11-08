@@ -657,7 +657,7 @@
         }
     },
     "c048": {
-        "name": "Nemanhaim",
+        "name": "Neamhain",
         "variants": {
             "00": {
                 "title": "Human"
@@ -4612,7 +4612,7 @@
         }
     },
 	"c437": {
-        "name": "Pakhet",
+        "name": "Eos",
         "variants": {
             "01": {
                 "title": ""
@@ -9591,7 +9591,7 @@
         }
     },
 	"sc437": {
-        "name": "Pakhet",
+        "name": "Eos",
         "variants": {
             "01": {
                 "title": "Hot Spring"
