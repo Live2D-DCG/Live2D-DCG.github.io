@@ -1232,7 +1232,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Persistent"
             },
             "02": {
                 "title": ""
@@ -2651,6 +2651,9 @@
             "11": {
                 "title": ""
             },
+			"12": {
+                "title": ""
+            },
 			"13": {
                 "title": ""
             },
@@ -3045,6 +3048,9 @@
             },
             "02": {
                 "title": "Bloody"
+            },
+			"10": {
+                "title": "Snakepit"
             }
         }
     },
@@ -3716,6 +3722,20 @@
             },
             "02": {
                 "title": "Descended"
+            }
+        }
+    },
+	"c361": {
+        "name": "???",
+        "variants": {
+            "10": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
             }
         }
     },
@@ -4523,22 +4543,37 @@
 	"c429": {
         "name": "Ziva",
         "variants": {
+			"00": {
+                "title": "Human"
+            },
             "01": {
-                "title": ""
+                "title": "Peaceful"
             },
             "02": {
-                "title": ""
+                "title": "Frozen Wasteland"
+            },
+			"10": {
+                "title": "Christmas"
+            },
+			"88": {
+                "title": "Frozen Wasteland"
             }
         }
     },
 	"c430": {
         "name": "Giltine",
         "variants": {
+            "00": {
+                "title": "Human"
+            },
             "01": {
-                "title": ""
+                "title": "Tundra"
             },
             "02": {
-                "title": ""
+                "title": "Ice Field Hunter"
+            },
+			"10": {
+                "title": "Christmas"
             }
         }
     },
@@ -4728,7 +4763,7 @@
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Guard Dog"
             },
 			"88": {
                 "title": ""
@@ -4742,9 +4777,15 @@
         "name": "Miriam",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Exorcist"
             },
             "02": {
+                "title": "Accused"
+            },
+			"10": {
+                "title": "Punishing"
+            },
+			"89": {
                 "title": ""
             }
         }
@@ -4918,6 +4959,17 @@
             },
             "10": {
                 "title": "Schoolmate"
+            }
+        }
+    },
+	"c462": {
+        "name": "Teresa",
+        "variants": {
+            "01": {
+                "title": "Oathsworn"
+            },
+            "02": {
+                "title": "Rosario"
             }
         }
     },
@@ -8717,6 +8769,14 @@
             }
         }
     },
+	"sc279": {
+        "name": "Laufey",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc280": {
         "name": "Tyche",
         "variants": {
@@ -9742,6 +9802,30 @@
             }
         }
     },
+	"sc459": {
+        "name": "Caca",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc460": {
+        "name": "Cacus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc461": {
+        "name": "Memorable Aurora",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sm003": {
         "name": "Fire Dragon",
         "variants": {
@@ -10264,6 +10348,14 @@
     },
     "sm261": {
         "name": "Two-Sided Moa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sm264": {
+        "name": "Procell",
         "variants": {
             "01": {
                 "title": "Hot Spring"

@@ -24,6 +24,10 @@
     {
       "name": "sad",
       "file": "sad.exp.json"
+    },
+    {
+      "name": "shock",
+      "file": "shock.exp.json"
     }
   ],
   "motions": {

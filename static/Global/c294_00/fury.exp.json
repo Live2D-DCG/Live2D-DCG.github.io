@@ -3,6 +3,7 @@
 	"fade_in":0,
 	"fade_out":0,
 	"params":[
-		{"id":"FACE_OFF","val":20}
+		{"id":"off","val":1},
+		{"id":"fury","val":1}
 	]
 }

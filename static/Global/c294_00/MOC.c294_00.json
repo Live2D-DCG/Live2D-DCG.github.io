@@ -32,6 +32,14 @@
     {
       "name": "serious",
       "file": "serious.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
+    },
+    {
+      "name": "superangry",
+      "file": "superangry.exp.json"
     }
   ],
   "motions": {
