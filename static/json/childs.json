@@ -2748,6 +2748,20 @@
             }
         }
     },
+	"c265": {
+        "name": "Mona ?",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c266": {
         "name": "Horus",
         "variants": {
@@ -3466,6 +3480,23 @@
             },
             "02": {
                 "title": ""
+            },
+			"88": {
+                "title": ""
+            }
+        }
+    },
+	"c333": {
+        "name": "Lisa",
+        "variants": {
+		    "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Phantasm"
+            },
+            "02": {
+                "title": "Delusional Dream"
             },
 			"88": {
                 "title": ""
@@ -4688,6 +4719,20 @@
             },
             "02": {
                 "title": "Actress"
+            }
+        }
+    },
+	"c439": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Serendipitous"
+            },
+            "02": {
+                "title": "Resplendent"
+            },
+			"10": {
+                "title": "Belle"
             }
         }
     },
@@ -7481,6 +7526,110 @@
                 "title": ""
             },
 			"89": {
+                "title": ""
+            }
+        }
+    },
+	"m265": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m266": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m267": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m268": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m269": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m270": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m271": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m272": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m273": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m274": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m275": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m276": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+	"m277": {
+        "name": "???",
+        "variants": {
+            "01": {
                 "title": ""
             }
         }
