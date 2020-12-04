@@ -3116,6 +3116,9 @@
     "c300": {
         "name": "Pietas",
         "variants": {
+			"00": {
+                "title": "Human"
+            },
             "01": {
                 "title": "Beloved"
             },
@@ -3743,11 +3746,14 @@
         "name": "Leo",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Kind"
             },
             "02": {
-                "title": ""
-            }
+                "title": "Incubus"
+            },
+			"10": {
+				"title": "Maid"
+			}
         }
     },
 	"c363": {
@@ -4214,10 +4220,10 @@
         "name": "Banshee",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Grieving"
             },
             "02": {
-                "title": ""
+                "title": "Scattering"
             }
         }
     },
@@ -4355,10 +4361,16 @@
         "name": "Cain",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Exorcist"
             },
             "02": {
-                "title": ""
+                "title": "Heretic"
+            },
+			"88": {
+                "title": "Heretic"
+            },
+            "89": {
+                "title": "Exorcist"
             }
         }
     },
@@ -4511,7 +4523,7 @@
         "name": "Hephaestus",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Blacksmith"
             },
             "02": {
                 "title": ""

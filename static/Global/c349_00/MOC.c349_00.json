@@ -42,6 +42,13 @@
         "fade_out": 0
       }
     ],
+    "hit": [
+      {
+        "file": "c349_00_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "idle": [
       {
         "file": "c349_00_idle.mtn",
