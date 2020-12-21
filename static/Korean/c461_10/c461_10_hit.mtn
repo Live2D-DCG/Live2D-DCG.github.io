@@ -1,9 +1,9 @@
 # Live2D Animator Motion Data
 $fps=30
 
-$fadein=1000
+$fadein=0
 
-$fadeout=1000
+$fadeout=0
 
 off=0
 confused=0

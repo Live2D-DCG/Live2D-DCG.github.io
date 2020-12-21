@@ -3,8 +3,10 @@
 	"fade_in":0,
 	"fade_out":0,
 	"params":[
-		{"id":"face1_op","val":30,"def":-30},
 		{"id":"face2_op","val":-30,"def":-30},
+		{"id":"MOUTH_OFF","val":1},
+		{"id":"BROW_OFF","val":1},
+		{"id":"EYE_OFF","val":0},
 		{"id":"eye_hi_op","val":-30,"def":30},
 		{"id":"eye_ball_op","val":-30,"def":30},
 		{"id":"smile_op","val":-30,"def":-30},

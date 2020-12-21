@@ -6,8 +6,8 @@ var selectedModel,
     searchParams = (new URL(document.location.toString())).searchParams,
 	diffView = "k"
 	
-var globalURL = "http://patch.dcg.line.games/real_0.0.79.toit2602itzy/";
-var krURL= "http://patch.dc.nextfloor.com/real_1.3.63.sq2mjamn75dj/";
+var globalURL = "http://patch.dcg.line.games/real_0.0.81.jhxcwa7dvqgz/";
+var krURL= "http://patch.dc.nextfloor.com/real_1.3.65.spd3rdrlnh9a/";
 
 function getSelectedIndex() {
   return modelIds.indexOf(selectedModel)

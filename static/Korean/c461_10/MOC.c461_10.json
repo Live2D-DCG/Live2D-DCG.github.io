@@ -20,6 +20,10 @@
     {
       "name": "serious",
       "file": "serious.exp.json"
+    },
+    {
+      "name": "shock",
+      "file": "shock.exp.json"
     }
   ],
   "motions": {

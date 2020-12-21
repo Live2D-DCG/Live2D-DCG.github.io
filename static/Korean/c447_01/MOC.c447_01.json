@@ -7,6 +7,18 @@
   ],
   "expressions": [
     {
+      "name": "angry",
+      "file": "angry.exp.json"
+    },
+    {
+      "name": "cry",
+      "file": "cry.exp.json"
+    },
+    {
+      "name": "fury",
+      "file": "fury.exp.json"
+    },
+    {
       "name": "idle",
       "file": "idle.exp.json"
     },
@@ -21,6 +33,10 @@
     {
       "name": "shock",
       "file": "shock.exp.json"
+    },
+    {
+      "name": "sigh",
+      "file": "sigh.exp.json"
     },
     {
       "name": "smile",

@@ -1235,10 +1235,10 @@
                 "title": "Persistent"
             },
             "02": {
-                "title": ""
+                "title": "Venturer"
             },
             "10": {
-                "title": ""
+                "title": "Christmas"
             }
         }
     },
@@ -3543,10 +3543,10 @@
         "name": "Tiamat",
         "variants": {
             "01": {
-                "title": ""
+                "title": "One Sword"
             },
             "02": {
-                "title": "Venerable Blade"
+                "title": "Slashing"
             }
         }
     },
@@ -3760,7 +3760,7 @@
         }
     },
 	"c361": {
-        "name": "Caduceus?",
+        "name": "Caduceus",
         "variants": {
             "10": {
                 "title": ""
@@ -4624,10 +4624,13 @@
         "name": "Eshu",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Skiing"
             },
             "02": {
-                "title": "Gliding"
+                "title": "Snow"
+            },
+            "10": {
+                "title": "Christmas"
             }
         }
     },
@@ -5027,6 +5030,17 @@
             },
             "02": {
                 "title": "Rosario"
+            }
+        }
+    },
+	"c464": {
+        "name": "Arhat",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Enduring"
             }
         }
     },
@@ -8219,7 +8233,7 @@
         }
     },
 	"sc110": {
-        "name": "Plinth",
+        "name": "Flins",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9227,7 +9241,7 @@
         }
     },
 	"sc343": {
-        "name": "Blade Tiamat",
+        "name": "One Sword Tiamat",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -9764,7 +9778,7 @@
 		}
     },
 	"sc431": {
-        "name": "Eshu",
+        "name": "Skiing Eshu",
         "variants": {
             "01": {
                 "title": "Hot Spring"
