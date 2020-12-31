@@ -10059,6 +10059,38 @@
             }
         }
     },
+	"sc465": {
+        "name": "Xian'e (Seon-Ah)",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc466": {
+        "name": "Nezha",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc473": {
+        "name": "Exuberant Titania",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc474": {
+        "name": "Hephaestus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sm003": {
         "name": "Fire Dragon",
         "variants": {

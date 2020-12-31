@@ -14,12 +14,24 @@
       "file": "idle.exp.json"
     },
     {
+      "name": "irritation",
+      "file": "irritation.exp.json"
+    },
+    {
+      "name": "nonsense",
+      "file": "nonsense.exp.json"
+    },
+    {
       "name": "serious",
       "file": "serious.exp.json"
     },
     {
       "name": "smile",
       "file": "smile.exp.json"
+    },
+    {
+      "name": "teach",
+      "file": "teach.exp.json"
     }
   ],
   "motions": {

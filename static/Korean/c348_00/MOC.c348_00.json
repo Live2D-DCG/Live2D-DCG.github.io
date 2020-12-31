@@ -18,8 +18,16 @@
       "file": "idle.exp.json"
     },
     {
+      "name": "pretense",
+      "file": "pretense.exp.json"
+    },
+    {
       "name": "shock",
       "file": "shock.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
     }
   ],
   "motions": {
