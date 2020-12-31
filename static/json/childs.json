@@ -5072,6 +5072,53 @@
             }
         }
     },
+	"c469": {
+        "name": "Aria♥",
+        "variants": {
+            "01": {
+                "title": "Brilliant"
+            },
+            "02": {
+                "title": "Frozen Gale"
+            }
+        }
+    },
+	"c470": {
+        "name": "Neptune♥",
+        "variants": {
+            "01": {
+                "title": "Sparkling"
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c471": {
+        "name": "Mars♥",
+        "variants": {
+            "01": {
+                "title": "Shining"
+            },
+            "02": {
+                "title": "Snowfall"
+            },
+            "88": {
+                "title": "Snowfall"
+            }
+        }
+    },
+	"c472": {
+        "name": "Venus♥",
+        "variants": {
+            "01": {
+                "title": "Dazzling"
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
 	"c473": {
         "name": "Titania",
         "variants": {
@@ -5094,6 +5141,17 @@
             },
             "10": {
                 "title": "Teacher"
+            }
+        }
+    },
+	"c475": {
+        "name": "Saturn♥",
+        "variants": {
+            "01": {
+                "title": "Dawn"
+            },
+            "02": {
+                "title": "Frosty"
             }
         }
     },

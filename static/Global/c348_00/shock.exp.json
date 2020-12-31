@@ -5,6 +5,7 @@
 	"params":[
 		{"id":"PARAM_EYE_FACE","val":-30},
 		{"id":"PARAM_BROW_FACE","val":-30},
-		{"id":"PARAM_MOUTH_FACE","val":-30}
+		{"id":"PARAM_MOUTH_FACE","val":-30},
+		{"id":"PARAM_TEAR_FACE_","val":0}
 	]
 }
