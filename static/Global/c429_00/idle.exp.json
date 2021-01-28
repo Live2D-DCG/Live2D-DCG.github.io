@@ -3,6 +3,9 @@
 	"fade_in":0,
 	"fade_out":0,
 	"params":[
-		{"id":"OFF","val":0}
+		{"id":"off","val":0},
+		{"id":"angry","val":0},
+		{"id":"confused","val":0},
+		{"id":"serious","val":0}
 	]
 }

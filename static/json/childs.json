@@ -4529,13 +4529,16 @@
         }
     },
 	"c422": {
-        "name": "Heqet",
+        "name": "Heket",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Temptress"
             },
             "02": {
-                "title": ""
+                "title": "Mother"
+            },
+            "88": {
+                "title": "Mother"
             }
         }
     },
@@ -4649,10 +4652,10 @@
         "name": "Pakhet",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Peppy"
             },
             "02": {
-                "title": "Gliding"
+                "title": "Cutesy"
             }
         }
     },
@@ -4660,10 +4663,10 @@
         "name": "Leda",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Sweet"
             },
             "02": {
-                "title": "Sweet"
+                "title": "Lovely"
             }
         }
     },
@@ -4693,10 +4696,10 @@
         }
     },
 	"c437": {
-        "name": "Eos",
+        "name": "Euros",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Cute"
             },
             "02": {
                 "title": ""
@@ -9787,7 +9790,7 @@
         }
     },
 	"sc422": {
-        "name": "Heqet",
+        "name": "Heket",
         "variants": {
             "01": {
                 "title": "Hot Spring"
