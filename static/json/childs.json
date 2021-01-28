@@ -2355,12 +2355,15 @@
                 "title": "Wandering"
             }
         }
-    },
+    }, 
     "c224": {
         "name": "Loki",
         "variants": {
             "01": {
                 "title": "Dark Prince"
+            },
+            "02": {
+                "title": "Abyssal"
             }
         }
     },
@@ -4564,6 +4567,17 @@
             }
         }
     },
+    "c425": {
+        "name": "New Seth?",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
 	"c426": {
         "name": "Ophois",
         "variants": {
@@ -4714,6 +4728,15 @@
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "11": {
+                "title": "Regressed"
+            },
+            "12": {
+                "title": "Young"
             }
         }
     },
@@ -5036,6 +5059,17 @@
             }
         }
     },
+    "c463": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Paradise Lost"
+            },
+            "02": {
+                "title": "Venerable"
+            }
+        }
+    },
 	"c464": {
         "name": "Arhat",
         "variants": {
@@ -5072,6 +5106,17 @@
             },
             "10": {
                 "title": ""
+            }
+        }
+    },
+    "c467": {
+        "name": "Ziva",
+        "variants": {
+            "01": {
+                "title": "Cruel"
+            },
+            "02": {
+                "title": "Blazing"
             }
         }
     },
@@ -5155,6 +5200,32 @@
             },
             "02": {
                 "title": "Frosty"
+            }
+        }
+    },
+    "c489": {
+        "name": "Loki",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "11": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -9277,6 +9348,14 @@
             }
         }
     },
+    "sc334": {
+        "name": "Phantasm Lisa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc336": {
         "name": "Pan",
         "variants": {
@@ -9910,6 +9989,14 @@
             }
         }
     },
+    "sc440": {
+        "name": "Serendipitous Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc441": {
         "name": "Robin",
         "variants": {
@@ -9944,6 +10031,14 @@
     },
 	"sc446": {
         "name": "Argos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc447": {
+        "name": "Miriam",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10056,6 +10151,14 @@
     },
 	"sc461": {
         "name": "Memorable Aurora",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc462": {
+        "name": "Teresa",
         "variants": {
             "01": {
                 "title": "Hot Spring"

@@ -22,6 +22,10 @@
       "file": "idle.exp.json"
     },
     {
+      "name": "nonsense",
+      "file": "nonsense.exp.json"
+    },
+    {
       "name": "pain",
       "file": "pain.exp.json"
     },

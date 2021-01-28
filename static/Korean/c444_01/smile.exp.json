@@ -10,11 +10,13 @@
 		{"id":"F_OFF_MOUTH","val":1},
 		{"id":"F_OFF_WHITE","val":0},
 		{"id":"EMO_A","val":0},
+		{"id":"nonsense","val":0},
 		{"id":"sigh","val":0},
 		{"id":"pain","val":0},
 		{"id":"smile","val":1},
 		{"id":"angry","val":0},
 		{"id":"serious","val":0},
-		{"id":"fury","val":0}
+		{"id":"fury","val":0},
+		{"id":"TEMPT_ON","val":0}
 	]
 }
