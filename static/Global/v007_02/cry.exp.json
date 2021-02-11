@@ -1,0 +1,11 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":1000,
+	"fade_out":1000,
+	"params":[
+		{"id":"eyelid","val":-30},
+		{"id":"eye_tear","val":1},
+		{"id":"mouse_smile","val":1},
+		{"id":"shine_on_off","val":0,"def":1}
+	]
+}

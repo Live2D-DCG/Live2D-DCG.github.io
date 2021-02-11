@@ -1,0 +1,40 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "expressions": [
+    {
+      "name": "cry",
+      "file": "cry.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    }
+  ],
+  "motions": {
+    "01": [
+      {
+        "file": "v007_02_01.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "attack": [
+      {
+        "file": "v007_02_01_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle": [
+      {
+        "file": "v007_02_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

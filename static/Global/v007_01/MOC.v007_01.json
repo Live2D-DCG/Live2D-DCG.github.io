@@ -1,0 +1,143 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "expressions": [
+    {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "kiss",
+      "file": "kiss.exp.json"
+    },
+    {
+      "name": "shy",
+      "file": "shy.exp.json"
+    },
+    {
+      "name": "surprise",
+      "file": "surprise.exp.json"
+    }
+  ],
+  "motions": {
+    "01": [
+      {
+        "file": "v007_01_01.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "01_60": [
+      {
+        "file": "v007_01_01_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "02": [
+      {
+        "file": "v007_01_02.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "02_60": [
+      {
+        "file": "v007_01_02_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "03": [
+      {
+        "file": "v007_01_03.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "03_60": [
+      {
+        "file": "v007_01_03_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "04": [
+      {
+        "file": "v007_01_04.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "04_60": [
+      {
+        "file": "v007_01_04_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "05": [
+      {
+        "file": "v007_01_05.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "05_60": [
+      {
+        "file": "v007_01_05_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "06": [
+      {
+        "file": "v007_01_06.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "06_60": [
+      {
+        "file": "v007_01_06_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "07": [
+      {
+        "file": "v007_01_07.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "07_60": [
+      {
+        "file": "v007_01_07_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "attack": [
+      {
+        "file": "v007_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle": [
+      {
+        "file": "v007_01_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

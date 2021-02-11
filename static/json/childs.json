@@ -4705,13 +4705,13 @@
         "name": "Sytry",
         "variants": {
             "01": {
-                "title": "Fantasy"
+                "title": "Fancy"
             },
             "02": {
-                "title": "Fantasy"
+                "title": "Maid"
             },
             "10": {
-                "title": "Fantasy"
+                "title": "Heartfelt"
             }
         }
     },
@@ -4722,7 +4722,13 @@
                 "title": "Anxious"
             },
             "02": {
-                "title": ""
+                "title": "Maid"
+            },
+            "10": {
+                "title": "Agape"
+            },
+            "89": {
+                "title": "Agape"
             }
         }
     },
@@ -7832,57 +7838,57 @@
         }
     },
     "m278": {
-        "name": "",
+        "name": "Ox",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Water Drop"
             },
             "02": {
-                "title": ""
+                "title": "Water Cloud"
             }
         }
     },
     "m279": {
-        "name": "",
+        "name": "Ox",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Ember"
             },
             "02": {
-                "title": ""
+                "title": "Flame"
             }
         }
     },
     "m280": {
-        "name": "",
+        "name": "Ox",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Sprout"
             },
             "02": {
-                "title": ""
+                "title": "Leaf"
             }
         }
     },
     "m281": {
-        "name": "",
+        "name": "Ox",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Sparkle"
             },
             "02": {
-                "title": ""
+                "title": "Sunlight"
             }
         }
     },
     "m282": {
-        "name": "",
+        "name": "Ox",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Star Shade"
             },
             "02": {
-                "title": ""
+                "title": "Moon Shade"
             }
         }
     },
@@ -10056,7 +10062,7 @@
         }
     },
 	"sc435": {
-        "name": "Fantasy Sytry",
+        "name": "Fancy Sytry",
         "variants": {
             "01": {
                 "title": "Hot Spring"
