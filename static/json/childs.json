@@ -2286,6 +2286,20 @@
             }
         }
     },
+    "c218": {
+        "name": "Alf",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Happy"           
+            }
+        }
+    },
     "c219": {
         "name": "Ymir",
         "variants": {
@@ -3312,6 +3326,9 @@
     "c318": {
         "name": "Bari",
         "variants": {
+            "00": {
+                "title": "Human"
+            },
             "10": {
                 "title": "Equinoctial"
             },
@@ -5031,6 +5048,9 @@
             },
             "02": {
                 "title": "Freed"
+            },
+            "10": {
+                "title": "Cow"
             }
         }
     },
@@ -5120,6 +5140,20 @@
             }
         }
     },
+    "c468": {
+        "name": "Metis",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "True"
+            }
+        }
+    },
 	"c469": {
         "name": "Aria♥",
         "variants": {
@@ -5200,6 +5234,23 @@
             },
             "02": {
                 "title": "Frosty"
+            }
+        }
+    },
+    "c476": {
+        "name": "Nephthys",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Peaceful"
+            },
+            "88": {
+                "title": ""
             }
         }
     },
@@ -7776,6 +7827,61 @@
         "name": "???",
         "variants": {
             "01": {
+                "title": ""
+            }
+        }
+    },
+    "m278": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m279": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m280": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m281": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m282": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
                 "title": ""
             }
         }
