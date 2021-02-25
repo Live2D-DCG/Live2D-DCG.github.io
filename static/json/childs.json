@@ -5260,6 +5260,40 @@
             }
         }
     },
+    "c479": {
+        "name": "Maupin",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "20": {
+                "title": "University Student"
+            }
+        }
+    },
+    "c480": {
+        "name": "Bradamante",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "20": {
+                "title": "University Student"
+            }
+        }
+    },
     "c489": {
         "name": "Loki",
         "variants": {
@@ -9596,6 +9630,14 @@
             }
         }
     },
+    "sc361": {
+        "name": "Caduceus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc362": {
         "name": "Leo",
         "variants": {
@@ -10271,6 +10313,14 @@
     },
     "sc462": {
         "name": "Teresa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc464": {
+        "name": "Arhat",
         "variants": {
             "01": {
                 "title": "Hot Spring"
