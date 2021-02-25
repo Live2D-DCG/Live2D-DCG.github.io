@@ -2307,10 +2307,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Oblivion"
+                "title": "Ice Blade"
             },
             "02": {
-                "title": "Gouged"
+                "title": "Psychopath"
             }
         }
     },
@@ -4739,7 +4739,7 @@
                 "title": "Cute"
             },
             "02": {
-                "title": ""
+                "title": "Joyful"
             }
         }
     },
@@ -10078,7 +10078,7 @@
         }
     },
 	"sc437": {
-        "name": "Eos",
+        "name": "Euros",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10293,6 +10293,38 @@
             }
         }
     },
+    "sc469": {
+        "name": "Aria",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc470": {
+        "name": "Neptune♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc471": {
+        "name": "Mars♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc472": {
+        "name": "Venus♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc473": {
         "name": "Exuberant Titania",
         "variants": {
@@ -10303,6 +10335,14 @@
     },
 	"sc474": {
         "name": "Hephaestus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc475": {
+        "name": "Saturn♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
