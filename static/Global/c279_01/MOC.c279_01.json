@@ -19,6 +19,13 @@
         "fade_out": 0
       }
     ],
+    "event_c279_1": [
+      {
+        "file": "c279_01_event_c279_1.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "hit": [
       {
         "file": "c279_01_hit.mtn",

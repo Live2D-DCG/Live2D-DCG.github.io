@@ -1731,13 +1731,13 @@
         "name": "Semele",
         "variants": {
             "00": {
-                "title": "Adolecent"
+                "title": "Human"
             },
             "01": {
                 "title": "Daybreak"
             },
             "02": {
-                "title": "Little Devil"
+                "title": "Little Demon"
             }
         }
     },
@@ -2060,10 +2060,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Exorcist"
             },
             "02": {
-                "title": ""
+                "title": "Virupaksa"
+            },
+            "10": {
+                "title": "Tathagatagarbha"
             }
         }
     },
@@ -2906,13 +2909,13 @@
         }
     },
 	"c278": {
-        "name": "Hella",
+        "name": "Hel",
         "variants": {
             "01": {
-                "title": "Workhorse"
+                "title": "Bespoke"
             },
             "02": {
-                "title": "Proto"
+                "title": ""
             }
         }
     },
@@ -2923,10 +2926,16 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Bespoke"
             },
             "02": {
-                "title": ""
+                "title": "Customized"
+            },
+            "88": {
+                "title": "Customized"
+            },
+            "89": {
+                "title": "Bespoke"
             }
         }
     },
@@ -3804,6 +3813,9 @@
             },
 			"10": {
 				"title": "Maid"
+			},
+			"11": {
+				"title": "Butler"
 			}
         }
     },
@@ -4428,11 +4440,11 @@
 	"c413": {
         "name": "Abel",
         "variants": {
-            "01": {
-                "title": ""
+            "00": {
+                "title": "Human"
             },
-            "02": {
-                "title": ""
+            "21": {
+                "title": "Impassioned"
             }
         }
     },
@@ -10930,9 +10942,211 @@
 	"sm264": {
         "name": "Procell",
         "variants": {
+
             "01": {
                 "title": "Hot Spring"
             }
+        }
+    },
+    "v002": {
+        "name": "Virupa",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v003": {
+        "name": " Artemis",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            },
+            "02": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v004": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            },
+            "02": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v005": {
+        "name": "Black silhouette",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+    "v006": {
+        "name": "Black silhouette",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+    "v007": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Fancy Sytry"
+            },
+            "02": {
+                "title": "Serket"
+            },
+            "03": {
+                "title": "Sytry & Serket"
+            },
+            "04": {
+                "title": "Morgan & Serket"
+            },
+            "05": {
+                "title": "Morgan & Serket"
+            }
+        }
+    },
+    "v008": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Arhat"
+            },
+            "02": {
+                "title": "Bathory and ???"
+            },
+            "03": {
+                "title": "Semele"
+            },
+            "04": {
+                "title": "Arhat"
+            },
+            "05": {
+                "title": "Semele"
+            }
+        }
+    },
+    "v009": {
+        "name": "Attis & Rusalka",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            },
+            "02": {
+                "title": "Cutscene"
+            },
+            "03": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v010": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Frej & Mitra"
+            },
+            "02": {
+                "title": "Frej & Mitra"
+            },
+            "03": {
+                "title": "landscape"
+            },
+            "04": {
+                "title": "Arhat"
+            },
+            "05": {
+                "title": "Nirrti"
+            },
+            "06": {
+                "title": "Arhat"
+            }
+        }
+    },
+    "v011": {
+        "name": "Tiwaz",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v012": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Mitra"
+            },
+            "02": {
+                "title": "Aurora"
+            },
+            "03": {
+                "title": "Mitra"
+            }
+        }
+    },
+    "v013": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Mitra, Kalaratri & ??? "
+            }
+        }
+    },
+    "v014": {
+        "name": "Arhat & Mitra",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v015": {
+        "name": "Idols",
+        "variants": {
+            "01": {
+                "title": "Aria"
+            },
+            "02": {
+                "title": "Neptune"
+            },
+            "03": {
+                "title": "Mars"
+            },
+            "04": {
+                "title": "Arhat"
+            },
+            "05": {
+                "title": "Venus"
+            },
+            "06": {
+                "title": "Saturn"
+            }
+        }
+    },
+    "v016": {
+        "name": "Mitra & Loki",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            },
+            "02": {
+                "title": "Cutscene"
+            },
+            "03": {
+                "title": "Cutscene"
+            },
+            "04": {
+                "title": "Cutscene"
+            }   
         }
     },
     "xc124": {
