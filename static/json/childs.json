@@ -5306,6 +5306,51 @@
             }
         }
     },
+    "c481": {
+        "name": "Wyatt",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Gunslinger"
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+    "c482": {
+        "name": "Theophano",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Eccentric "
+            }
+        }
+    },
+    "c483": {
+        "name": "???",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c489": {
         "name": "Loki",
         "variants": {
