@@ -2559,7 +2559,7 @@
         "name": "Orcus",
         "variants": {
             "01": {
-                "title": "지하의"
+                "title": "Underworld"
             }
         }
     },
@@ -2915,7 +2915,7 @@
                 "title": "Bespoke"
             },
             "02": {
-                "title": ""
+                "title": "Prototype"
             }
         }
     },
@@ -3296,11 +3296,11 @@
             "02": {
                 "title": "Seeker"
             },
-			"88": {
-                "title": "World Boss Skin kr"
+			"02": {
+                "title": "Formal"
             },
 			"89": {
-                "title": "World Boss Skin kr"
+                "title": "Formal"
             }
         }
     },
@@ -5173,7 +5173,7 @@
         }
     },
 	"c469": {
-        "name": "Aria♥",
+        "name": "Aria",
         "variants": {
             "01": {
                 "title": "Brilliant"
@@ -5351,6 +5351,63 @@
             }
         }
     },
+	"c484": {
+        "name": "Judas",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c485": {
+        "name": "Yuna",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Umbral"
+            },
+            "02": {
+                "title": "Midnight"
+            },
+            "10": {
+                "title": "Venusian"
+            }
+        }
+    },
+	"c486": {
+        "name": "Kubaba",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Gallop"
+            },
+            "02": {
+                "title": "Stormer"
+            },
+            "10": {
+                "title": "Hightail"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
     "c489": {
         "name": "Loki",
         "variants": {
@@ -5373,6 +5430,20 @@
                 "title": ""
             },
             "89": {
+                "title": ""
+            }
+        }
+    },
+	"c492": {
+        "name": "He Xiangu",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
                 "title": ""
             }
         }
@@ -6720,13 +6791,13 @@
         }
     },
     "m148": {
-        "name": "Won",
+        "name": "",
         "variants": {
             "01": {
-                "title": "Noise"
+                "title": "Noise Won"
             },
             "02": {
-                "title": "Noise"
+                "title": "Noise Peak"
             }
         }
     },
@@ -9279,6 +9350,14 @@
             }
         }
     },
+	"sc278": {
+        "name": "Hel",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc279": {
         "name": "Laufey",
         "variants": {
@@ -10376,6 +10455,14 @@
             }
         }
     },
+    "sc463": {
+        "name": "Lost Eve",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc464": {
         "name": "Arhat",
         "variants": {
@@ -10394,6 +10481,14 @@
     },
 	"sc466": {
         "name": "Nezha",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc467": {
+        "name": "Cruel Ziva",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10450,6 +10545,14 @@
     },
     "sc475": {
         "name": "Saturn♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc489": {
+        "name": "Loki",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10721,7 +10824,7 @@
         }
     },
     "sm148": {
-        "name": "Won",
+        "name": "Noise",
         "variants": {
             "01": {
                 "title": "Hot Spring"

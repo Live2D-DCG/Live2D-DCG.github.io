@@ -4,10 +4,35 @@
   "textures": [
     "texture_00.png"
   ],
+  "expressions": [
+    {
+      "name": "affair",
+      "file": "affair.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "pain",
+      "file": "pain.exp.json"
+    },
+    {
+      "name": "sigh",
+      "file": "sigh.exp.json"
+    }
+  ],
   "motions": {
     "attack": [
       {
         "file": "c317_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "event_c317_1": [
+      {
+        "file": "c317_01_event_c317_1.mtn",
         "fade_in": 0,
         "fade_out": 0
       }

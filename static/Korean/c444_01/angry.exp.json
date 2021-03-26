@@ -17,6 +17,10 @@
 		{"id":"angry","val":1},
 		{"id":"serious","val":0},
 		{"id":"fury","val":0},
+		{"id":"eye_fury","val":0},
+		{"id":"superfury","val":0},
+		{"id":"sulky","val":0},
+		{"id":"surprise","val":0},
 		{"id":"TEMPT_ON","val":0}
 	]
 }

@@ -42,6 +42,18 @@
       "file": "smile.exp.json"
     },
     {
+      "name": "sulky",
+      "file": "sulky.exp.json"
+    },
+    {
+      "name": "superfury",
+      "file": "superfury.exp.json"
+    },
+    {
+      "name": "surprise",
+      "file": "surprise.exp.json"
+    },
+    {
       "name": "tempt",
       "file": "tempt.exp.json"
     }
