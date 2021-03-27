@@ -6,7 +6,7 @@ var canvasSize = 1000,
     modelY = 0.1,
     motionIdle = null, motionClick = null
 
-function totsugeki() {
+function animation() {
   if(motionMgr !== null && motionClick !== null) {
     motionMgr.startMotion(motionClick)
   }
