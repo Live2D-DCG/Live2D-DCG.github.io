@@ -34,7 +34,7 @@ function calculator(){
 	["Chapter 3 - 2-III-5",467,25],
 	["Chapter 3 - 2-III-6",467,25],
 	["Chapter 3 - 2-III-7",520,25],
-	["Chapter 3 - 2-III-8",520,25],
+	["Chapter 3 - 2-III-8",520,25]
 	]
   
 	var calculateButton = document.getElementById("calculateBtn");
