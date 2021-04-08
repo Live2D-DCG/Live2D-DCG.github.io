@@ -5341,7 +5341,7 @@
         }
     },
     "c483": {
-        "name": "???",
+        "name": "Artemisia",
         "variants": {
             "00": {
                 "title": "Human"
@@ -5350,7 +5350,7 @@
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Victorious"
             }
         }
     },
@@ -5407,6 +5407,23 @@
                 "title": ""
             },
             "89": {
+                "title": ""
+            }
+        }
+    },
+	"c488": {
+        "name": "Dryades",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "20": {
                 "title": ""
             }
         }

@@ -8,7 +8,7 @@ var selectedModel,
 	
 
 var globalURL = "https://patch.dcg.line.games/real_0.0.91.lkwqhbxjsztg/";
-var krURL= "https://patch.dc.nextfloor.com/real_1.3.79.iczl6ju73917/";
+var krURL= "https://patch.dc.nextfloor.com/real_1.3.81.xek4ym55dhnx/";
 
 
 function getSelectedIndex() {
