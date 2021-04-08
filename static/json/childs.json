@@ -4610,11 +4610,14 @@
 	"c426": {
         "name": "Ophois",
         "variants": {
+			"00": {
+                "title": "Human"
+            },
             "01": {
-                "title": ""
+                "title": "Hasty"
             },
             "02": {
-                "title": ""
+                "title": "Pioneer"
             }
         }
     },
