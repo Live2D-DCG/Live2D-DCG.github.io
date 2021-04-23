@@ -1,6 +1,6 @@
 ﻿{
     "c000": {
-        "name": "Hero",
+        "name": "Master",
         "variants": {
             "10": {
                 "title": "Mysterious"
@@ -15,7 +15,7 @@
                 "title": "Summer Pants"
             },
             "14": {
-                "title": "Wedding Dress"
+                "title": "Dress"
             },
             "01": {
                 "title": ""
@@ -325,7 +325,7 @@
         }
     },
 	"c023": {
-        "name": "Caminho",
+        "name": "Camineu",
         "variants": {
             "01": {
                 "title": ""
@@ -2380,7 +2380,7 @@
                 "title": "Dark Prince"
             },
             "02": {
-                "title": "Abyssal"
+                "title": "Dark Conspiracy"
             }
         }
     },
@@ -4625,10 +4625,16 @@
         "name": "Seth",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Substitute"
             },
             "02": {
-                "title": ""
+                "title": "Avatar"
+            },
+            "88": {
+                "title": "Avatar"
+            },
+            "89": {
+                "title": "Substitute"
             }
         }
     },
@@ -4687,10 +4693,10 @@
         "name": "Artemis",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Moonlight"
             },
             "02": {
-                "title": "Moonlight"
+                "title": "Berserk"
             }
         }
     },
@@ -4762,7 +4768,7 @@
         "name": "Semele",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Mate"
             },
             "02": {
                 "title": ""
@@ -8546,6 +8552,14 @@
             }
         }
     },
+	"sc073": {
+        "name": "Navi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc074": {
         "name": "Quirinus",
         "variants": {
@@ -10292,7 +10306,7 @@
         }
     },
 	"sc439": {
-        "name": "Saturn♥",
+        "name": "Dreamer Saturn♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10516,7 +10530,7 @@
         }
     },
     "sc469": {
-        "name": "Aria",
+        "name": "Brilliant Aria",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10524,7 +10538,7 @@
         }
     },
     "sc470": {
-        "name": "Neptune♥",
+        "name": "Sparkling Neptune♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10532,7 +10546,7 @@
         }
     },
     "sc471": {
-        "name": "Mars♥",
+        "name": "Shining Mars♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10540,7 +10554,7 @@
         }
     },
     "sc472": {
-        "name": "Venus♥",
+        "name": "Dazzling Venus♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10564,7 +10578,7 @@
         }
     },
     "sc475": {
-        "name": "Saturn♥",
+        "name": "Dawn Saturn♥",
         "variants": {
             "01": {
                 "title": "Hot Spring"
