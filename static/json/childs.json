@@ -5474,6 +5474,37 @@
             }
         }
     },
+	"c493": {
+        "name": "Messier",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Emperor"
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+	"c494": {
+        "name": "Rosanna",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Inclusive"
+            }
+        }
+    },
     "m001": {
         "name": "Fire Bat",
         "variants": {
@@ -9136,6 +9167,14 @@
             }
         }
     },
+	"sc206": {
+        "name": "Jonah",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc208": {
         "name": "Firo",
         "variants": {
@@ -9170,6 +9209,14 @@
     },
     "sc216": {
         "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc218": {
+        "name": "Alf",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -10529,6 +10576,14 @@
             }
         }
     },
+	"sc468": {
+        "name": "Metis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc469": {
         "name": "Brilliant Aria",
         "variants": {
@@ -10579,6 +10634,14 @@
     },
     "sc475": {
         "name": "Dawn Saturn♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc476": {
+        "name": "Nephthys",
         "variants": {
             "01": {
                 "title": "Hot Spring"

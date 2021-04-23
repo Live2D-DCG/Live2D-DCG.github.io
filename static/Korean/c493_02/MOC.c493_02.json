@@ -8,28 +8,21 @@
   "motions": {
     "attack": [
       {
-        "file": "c428_01_attack.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "banner": [
-      {
-        "file": "c428_01_banner.mtn",
+        "file": "c493_02_attack.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "hit": [
       {
-        "file": "c428_01_hit.mtn",
+        "file": "c493_02_hit.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "idle": [
       {
-        "file": "c428_01_idle.mtn",
+        "file": "c493_02_idle.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
