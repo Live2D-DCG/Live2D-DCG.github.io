@@ -12,6 +12,10 @@
     {
       "name": "idle",
       "file": "idle.exp.json"
+    },
+    {
+      "name": "sad",
+      "file": "sad.exp.json"
     }
   ],
   "motions": {

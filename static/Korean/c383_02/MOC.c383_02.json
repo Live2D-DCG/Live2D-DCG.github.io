@@ -7,6 +7,10 @@
   ],
   "expressions": [
     {
+      "name": "angry",
+      "file": "angry.exp.json"
+    },
+    {
       "name": "confused",
       "file": "confused.exp.json"
     },
@@ -23,13 +27,6 @@
     "attack": [
       {
         "file": "c383_02_attack.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "banner": [
-      {
-        "file": "c383_02_banner.mtn",
         "fade_in": 0,
         "fade_out": 0
       }

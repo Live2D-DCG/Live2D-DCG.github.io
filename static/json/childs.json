@@ -4597,12 +4597,24 @@
         }
     },
     "c425": {
-        "name": "New Seth?",
+        "name": "Legion Seth",
         "variants": {
             "01": {
                 "title": ""
             },
             "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
                 "title": ""
             }
         }
@@ -5502,6 +5514,20 @@
             },
             "02": {
                 "title": "Inclusive"
+            }
+        }
+    },
+	"c497": {
+        "name": "Wodan",
+        "variants": {
+            "01": {
+                "title": "Philosopher"
+            },
+            "02": {
+                "title": "Perfected"
+            },
+            "10": {
+                "title": "Dreamer"
             }
         }
     },

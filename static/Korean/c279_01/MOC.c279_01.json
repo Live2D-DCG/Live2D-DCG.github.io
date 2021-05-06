@@ -4,6 +4,16 @@
   "textures": [
     "texture_00.png"
   ],
+  "expressions": [
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "serious",
+      "file": "serious.exp.json"
+    }
+  ],
   "motions": {
     "attack": [
       {
@@ -15,6 +25,13 @@
     "banner": [
       {
         "file": "c279_01_banner.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "event_c279_1": [
+      {
+        "file": "c279_01_event_c279_1.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
