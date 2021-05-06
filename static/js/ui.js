@@ -7,7 +7,7 @@ var selectedModel,
 	diffView = "k"
 	
 
-var globalURL = "https://patch.dcg.line.games/real_0.0.93.cazekd5weitp/";
+var globalURL = "https://patch.dcg.line.games/real_0.0.94.4jqi5bsa8sel/";
 var krURL= "https://patch.dc.nextfloor.com/real_1.3.85.3frxuqkqjdri/";
 
 

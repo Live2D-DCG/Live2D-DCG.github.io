@@ -2728,7 +2728,7 @@
         "name": "Lisa",
         "variants": {
             "01": {
-                "title": "??? 5★ Animation"
+                "title": "5★ Animation"
             }
         }
     },
@@ -6122,7 +6122,7 @@
         }
     },
     "m066": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Piglet Kukuri"
@@ -7723,6 +7723,14 @@
         }
     },
     "m238": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+	"m239": {
         "name": "Aurora King",
         "variants": {
             "89": {
@@ -9443,6 +9451,14 @@
     },
     "sc274": {
         "name": "Bast",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc275": {
+        "name": "Harpy",
         "variants": {
             "01": {
                 "title": "Hot Spring"
