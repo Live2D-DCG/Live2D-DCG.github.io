@@ -4,10 +4,31 @@
   "textures": [
     "texture_00.png"
   ],
+  "expressions": [
+    {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
+    }
+  ],
   "motions": {
     "attack": [
       {
         "file": "c319_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "event_c319": [
+      {
+        "file": "c319_01_event_c319.mtn",
         "fade_in": 0,
         "fade_out": 0
       }

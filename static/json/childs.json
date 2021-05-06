@@ -4924,16 +4924,16 @@
         "name": "Mircalla",
         "variants": {
             "00": {
-                "title": ""
+                "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Cunning"
             },
 			"02": {
-                "title": ""
+                "title": "Seductive"
             },
             "88": {
-                "title": ""
+                "title": "Seductive"
             }
         }
     },
@@ -4941,10 +4941,10 @@
         "name": "Laura",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Determined"
             },
             "02": {
-                "title": ""
+                "title": "Chaser"
             }
         }
     },
