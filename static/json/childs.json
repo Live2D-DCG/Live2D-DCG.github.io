@@ -2201,7 +2201,7 @@
                 "title": "Otherworldly"
             },
             "02": {
-                "title": "Visitor"
+                "title": "Talking"
             }
         }
     },
@@ -3505,7 +3505,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Exorcist"
             },
             "02": {
                 "title": ""
@@ -4854,10 +4854,10 @@
         "name": "Raffles",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Phantom Thief"
             },
             "02": {
-                "title": ""
+                "title": "Phantom"
             }
         }
     },
@@ -5514,6 +5514,34 @@
             },
             "02": {
                 "title": "Inclusive"
+            }
+        }
+    },
+	"c495": {
+        "name": "Cat-Sith",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Grumpy"
+            }
+        }
+    },
+	"c496": {
+        "name": "Cu-Sith",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Happy"
             }
         }
     },
@@ -10690,6 +10718,38 @@
             }
         }
     },
+	"sc479": {
+        "name": "Maupin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc480": {
+        "name": "Bradamante",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc481": {
+        "name": "Wyatt",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sc482": {
+        "name": "Theophano",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
 	"sc489": {
         "name": "Loki",
         "variants": {
@@ -11139,7 +11199,7 @@
         }
     },
     "sm205": {
-        "name": "발프",
+        "name": "Barf",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -11163,7 +11223,15 @@
         }
     },
     "sm212": {
-        "name": "룬",
+        "name": "Rune",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+	"sm215": {
+        "name": "Aurora King",
         "variants": {
             "01": {
                 "title": "Hot Spring"
