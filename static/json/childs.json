@@ -2150,7 +2150,7 @@
         }
     },
     "c200": {
-        "name": "Seshet",
+        "name": "Seshat",
         "variants": {
             "00": {
                 "title": "Human"
@@ -2206,7 +2206,7 @@
         }
     },
     "c208": {
-        "name": "Pyro",
+        "name": "Firo",
         "variants": {
             "00": {
                 "title": "Human"
@@ -2231,7 +2231,7 @@
             "02": {
                 "title": "Delusional"
             },
-			"10": {
+	    "10": {
                 "title": ""
             }
         }
@@ -3290,16 +3290,16 @@
     "c315": {
         "name": "Methuselah",
         "variants": {
-		    "01": {
+	    "01": {
                 "title": "Alchemist"
             },
             "02": {
                 "title": "Seeker"
             },
-			"02": {
+	    "10": {
                 "title": "Formal"
             },
-			"89": {
+	    "89": {
                 "title": "Formal"
             }
         }
@@ -3310,7 +3310,7 @@
             "00": {
                 "title": "Human"
             },
-			"01": {
+	    "01": {
                 "title": "Alchemist"
             },
             "02": {
@@ -7428,7 +7428,7 @@
         }
     },
     "m200": {
-        "name": "Anhk",
+        "name": "Ankh",
         "variants": {
             "00": {
                 "title": "Human"
