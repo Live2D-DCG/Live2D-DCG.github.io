@@ -5,13 +5,6 @@
     "texture_00.png"
   ],
   "motions": {
-    "attack": [
-      {
-        "file": "xm056_01_attack.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
     "die": [
       {
         "file": "xm056_01_die.mtn",
@@ -33,9 +26,51 @@
         "fade_out": 0
       }
     ],
-    "walk": [
+    "lose": [
       {
-        "file": "xm056_01_walk.mtn",
+        "file": "xm056_01_lose.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "move": [
+      {
+        "file": "xm056_01_move.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "reaction": [
+      {
+        "file": "xm056_01_reaction.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "skill1_00": [
+      {
+        "file": "xm056_01_skill1_00.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "skill2_00": [
+      {
+        "file": "xm056_01_skill2_00.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "stun": [
+      {
+        "file": "xm056_01_stun.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "win": [
+      {
+        "file": "xm056_01_win.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
