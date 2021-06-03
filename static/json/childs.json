@@ -3508,10 +3508,10 @@
                 "title": "Exorcist"
             },
             "02": {
-                "title": ""
+                "title": "Capturing"
             },
 			"88": {
-                "title": ""
+                "title": "Capturing"
             }
         }
     },
@@ -3826,7 +3826,7 @@
                 "title": "Phantom Thief"
             },
             "02": {
-                "title": "Mood Maker"
+                "title": "Vanguard"
             }
         }
     },
@@ -5556,6 +5556,34 @@
             },
             "10": {
                 "title": "Dreamer"
+            }
+        }
+    },
+    "c503": {
+        "name": "Mori Bari",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Memento"
+            },
+            "88": {
+                "title": "Memento"
+            }
+        }
+    },
+    "504": {
+        "name": "Marduk",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Reigning"
             }
         }
     },
