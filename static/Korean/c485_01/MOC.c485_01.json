@@ -13,6 +13,10 @@
     {
       "name": "idle",
       "file": "idle.exp.json"
+    },
+    {
+      "name": "pain",
+      "file": "pain.exp.json"
     }
   ],
   "motions": {

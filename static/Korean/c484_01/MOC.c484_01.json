@@ -18,6 +18,10 @@
       "file": "idle.exp.json"
     },
     {
+      "name": "joy",
+      "file": "joy.exp.json"
+    },
+    {
       "name": "smile",
       "file": "smile.exp.json"
     }

@@ -2,9 +2,13 @@
   "version": "Sample 1.0.0",
   "model": "character.dat",
   "textures": [
-    "texture_00.png"
+    "texture_00.PNG"
   ],
   "expressions": [
+    {
+      "name": "angry",
+      "file": "angry.exp.json"
+    },
     {
       "name": "fury",
       "file": "fury.exp.json"
@@ -16,6 +20,10 @@
     {
       "name": "joy",
       "file": "joy.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
     }
   ],
   "motions": {

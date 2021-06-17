@@ -6,6 +6,8 @@
 		{"id":"off","val":0},
 		{"id":"confused","val":0},
 		{"id":"sad","val":0},
-		{"id":"serious","val":0}
+		{"id":"serious","val":0},
+		{"id":"pretense","val":0},
+		{"id":"angry","val":0}
 	]
 }

@@ -1,5 +1,10 @@
 {
 	"type":"Live2D Expression",
 	"fade_in":0,
-	"fade_out":0
+	"fade_out":0,
+	"params":[
+		{"id":"OP","val":0},
+		{"id":"ANGRY","val":0},
+		{"id":"pain","val":0}
+	]
 }

@@ -4,6 +4,7 @@
 	"fade_out":0,
 	"params":[
 		{"id":"OP","val":1},
-		{"id":"ANGRY","val":1}
+		{"id":"ANGRY","val":1},
+		{"id":"pain","val":0}
 	]
 }

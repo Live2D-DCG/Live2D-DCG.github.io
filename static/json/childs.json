@@ -5532,7 +5532,7 @@
         }
     },
 	"c496": {
-        "name": "Cu-Sith",
+        "name": "Lassie",
         "variants": {
             "00": {
                 "title": "Human"
@@ -5556,6 +5556,43 @@
             },
             "10": {
                 "title": "Dreamer"
+            }
+        }
+    },
+    "c501": {
+        "name": "Ragaraja",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "c502": {
+        "name": "Dogyehwa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Shaman"
+            },
+            "10": {
+                "title": "Defected"
             }
         }
     },

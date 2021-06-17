@@ -7,6 +7,9 @@
 		{"id":"EB_L_OP","val":1},
 		{"id":"LIP_OP","val":1},
 		{"id":"EYE_BALL_OP","val":1},
-		{"id":"confused_OP","val":1}
+		{"id":"angry_OP","val":0},
+		{"id":"confused_OP","val":1},
+		{"id":"smile_OP","val":0},
+		{"id":"joy_op","val":0}
 	]
 }
