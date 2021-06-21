@@ -1,4 +1,4 @@
-﻿{
+{
     "c000": {
         "name": "Master",
         "variants": {
@@ -2660,10 +2660,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Exorcist"
             },
             "02": {
-                "title": ""
+                "title": "Altruism"
             },
             "10": {
                 "title": ""
@@ -2678,10 +2678,10 @@
                 "title": ""
             },
             "88": {
-                "title": ""
+                "title": "Altruism"
             },
             "89": {
-                "title": ""
+                "title": "Exorcist"
             }
         }
     },
@@ -4783,10 +4783,10 @@
                 "title": "Mate"
             },
             "02": {
-                "title": ""
+                "title": "Enchant"
             },
             "10": {
-                "title": ""
+                "title": "Dress-up"
             },
             "11": {
                 "title": "Regressed"
@@ -10809,6 +10809,22 @@
     },
 	"sc482": {
         "name": "Theophano",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc483": {
+        "name": "Artemisia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc488": {
+        "name": "Dryades",
         "variants": {
             "01": {
                 "title": "Hot Spring"
