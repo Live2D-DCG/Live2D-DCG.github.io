@@ -6,55 +6,39 @@
   ],
   "expressions": [
     {
-      "name": "angry",
-      "file": "angry.exp.json"
-    },
-    {
-      "name": "confused",
-      "file": "confused.exp.json"
-    },
-    {
-      "name": "haah",
-      "file": "haah.exp.json"
-    },
-    {
       "name": "idle",
       "file": "idle.exp.json"
     },
     {
       "name": "serious",
       "file": "serious.exp.json"
-    },
-    {
-      "name": "tempt",
-      "file": "tempt.exp.json"
     }
   ],
   "motions": {
     "attack": [
       {
-        "file": "c503_01_attack.mtn",
+        "file": "c505_01_attack.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "banner": [
       {
-        "file": "c503_01_banner.mtn",
+        "file": "c505_01_banner.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "hit": [
       {
-        "file": "c503_01_hit.mtn",
+        "file": "c505_01_hit.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "idle": [
       {
-        "file": "c503_01_idle.mtn",
+        "file": "c505_01_idle.mtn",
         "fade_in": 0,
         "fade_out": 0
       }

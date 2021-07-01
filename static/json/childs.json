@@ -5624,6 +5624,37 @@
             }
         }
     },
+    "c505": {
+        "name": "Boreas",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Blustery"
+            },
+            "10": {
+                "title": "Napping"
+            }
+        }
+    },
+    "c506": {
+        "name": "Notos",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Stormy"
+            }
+        }
+    },
     "m001": {
         "name": "Fire Bat",
         "variants": {
