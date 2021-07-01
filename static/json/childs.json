@@ -4902,13 +4902,13 @@
         "name": "Argos",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Fierce"
             },
             "02": {
-                "title": "Guard Dog"
+                "title": "Bodyguard"
             },
 			"88": {
-                "title": ""
+                "title": "Bodyguard"
             },
 			"89": {
                 "title": ""
@@ -5003,10 +5003,10 @@
         "name": "Mercury",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Warmhearted"
             },
             "02": {
-                "title": ""
+                "title": "Embracing"
             }
         }
     },
