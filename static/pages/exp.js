@@ -29,12 +29,14 @@ function calculator(){
 	["Chapter Two 2-2-3",366,25],
 	["Chapter Two 3-2-3",381,25],
 	["Chapter Two 4-2-3",401,25],
-	["Chapter Two Int. Ch. 1 IV-7",411,25],
+	["Chapter Two Int. Ch. 2 III-5",406,25],
+	["Chapter Two Int. Ch. 2 III-6",406,25],
 	["Chapter Two Int. Ch. 2 IV-7",452,25],
-	["Chapter 3 - 2-III-5",467,25],
-	["Chapter 3 - 2-III-6",467,25],
-	["Chapter 3 - 2-III-7",520,25],
-	["Chapter 3 - 2-III-8",520,25]
+	["Chapter Two Int. Ch. 2 IV-8",452,25],
+	["Chapter 4 - 1-III-5",504,25],
+	["Chapter 4 - 1-III-6",504,25],
+	["Chapter 4 - 1-IV-7",560,25],
+	["Chapter 4 - 1-IV-8",560,25]
 	]
   
 	var calculateButton = document.getElementById("calculateBtn");
