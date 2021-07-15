@@ -5014,10 +5014,16 @@
         "name": "Juno",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Lord"
             },
             "02": {
-                "title": ""
+                "title": "Pleading"
+            },
+            "88": {
+                "title": "Pleading"
+            },
+            "89": {
+                "title": "Lord"
             }
         }
     },
@@ -5025,10 +5031,16 @@
         "name": "Tiwaz",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Lady"
             },
             "02": {
-                "title": ""
+                "title": "Passionate"
+            },
+            "10": {
+                "title": "Fancy"
+            },
+            "11": {
+                "title": "Queen"
             }
         }
     },
@@ -5047,10 +5059,10 @@
         "name": "Odysseus",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Onlooker"
             },
             "02": {
-                "title": ""
+                "title": "Neutral"
             }
         }
     },
@@ -5652,6 +5664,37 @@
             },
             "02": {
                 "title": "Stormy"
+            }
+        }
+    },
+    "c507": {
+        "name": "Phorcys",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Leisurely"
+            },
+            "10": {
+                "title": "Full Frontal"
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+    "c508": {
+        "name": "Chandraghanta",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Radiant"
             }
         }
     },
