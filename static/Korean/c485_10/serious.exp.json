@@ -7,6 +7,8 @@
 		{"id":"serious_op","val":30,"def":-30},
 		{"id":"pain_op","val":-30,"def":-30},
 		{"id":"sad_op","val":-30,"def":-30},
-		{"id":"confused_op","val":-30,"def":-30}
+		{"id":"confused_op","val":-30,"def":-30},
+		{"id":"angry_op","val":-30,"def":-30},
+		{"id":"cry_op","val":-30,"def":-30}
 	]
 }

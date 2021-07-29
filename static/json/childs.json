@@ -5051,7 +5051,7 @@
                 "title": "Mascot"
             },
             "02": {
-                "title": "Fateful"
+                "title": "Destiny"
             }
         }
     },
@@ -5073,7 +5073,7 @@
                 "title": "Racing"
             },
             "02": {
-                "title": "Flurry"
+                "title": "Gale"
             },
 			"10": {
                 "title": "Fastest"
@@ -5695,6 +5695,43 @@
             },
             "02": {
                 "title": "Radiant"
+            }
+        }
+    },
+    "c509": {
+        "name": "Strigoi",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Immortal"
+            },
+            "10": {
+                "title": "Bloody"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "c510": {
+        "name": "Kresnik",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Grieving"
+            },
+            "10": {
+                "title": "Smoker"
             }
         }
     },
@@ -10897,6 +10934,22 @@
             }
         }
     },
+    "sc485": {
+        "name": "Umbral Yuna",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc486": {
+        "name": "Gallop Kubaba",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc488": {
         "name": "Dryades",
         "variants": {
@@ -11505,7 +11558,7 @@
         }
     },
     "v007": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Fancy Sytry"
@@ -11525,13 +11578,13 @@
         }
     },
     "v008": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Arhat"
             },
             "02": {
-                "title": "Bathory and ???"
+                "title": "Bathory and Unknown"
             },
             "03": {
                 "title": "Semele"
@@ -11559,7 +11612,7 @@
         }
     },
     "v010": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Frej & Mitra"
@@ -11590,7 +11643,7 @@
         }
     },
     "v012": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Mitra"
@@ -11599,12 +11652,12 @@
                 "title": "Aurora"
             },
             "03": {
-                "title": "Mitra"
+                "title": "Mitra crying"
             }
         }
     },
     "v013": {
-        "name": "",
+        "name": " ",
         "variants": {
             "01": {
                 "title": "Mitra, Kalaratri & ??? "
@@ -11657,6 +11710,33 @@
             "04": {
                 "title": "Cutscene"
             }   
+        }
+    },
+    "v017": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            },
+            "02": {
+                "title": "Seth"
+            } 
+        }
+    },
+    "v018": {
+        "name": "Dogyehwa",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            } 
+        }
+    },
+    "v019": {
+        "name": "",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            }
         }
     },
     "xc124": {
