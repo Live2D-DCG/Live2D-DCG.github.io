@@ -7,8 +7,8 @@ var selectedModel,
 	diffView = "k"
 	
 
-var globalURL = "https://patch.dcg.line.games/real_0.0.99.vq5sr4wryfmk/";
-var krURL= "https://patch.dc.nextfloor.com/real_1.3.91.1ylk9ron0lkx/";
+var globalURL = "https://patch.dcg.line.games/real_0.1.01.b2fnhzq692vi/";
+var krURL= "https://patch.dc.nextfloor.com/real_1.3.94.krx2ycri4d2c/";
 
 
 function getSelectedIndex() {
