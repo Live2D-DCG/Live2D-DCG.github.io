@@ -2666,10 +2666,10 @@
                 "title": "Altruism"
             },
             "10": {
-                "title": ""
+                "title": "(Suhana)"
             },
             "11": {
-                "title": ""
+                "title": "(Kumari Suhana)"
             },
 			"12": {
                 "title": ""
@@ -4505,6 +4505,9 @@
             "02": {
                 "title": "Bewitching"
             },
+            "10": {
+                "title": "Summery"
+            },
             "89": {
                 "title": "Nine-Tailed Fox"
             }
@@ -4839,12 +4842,11 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Nirodhasatya"
             },
             "02": {
-                "title": "Thusness"
-            }
-			,
+                "title": "Tathata"
+            },
             "11": {
                 "title": "Zen Master"
             }
@@ -4879,10 +4881,10 @@
         "name": "Kalaratri",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Pitch-dark"
             },
             "02": {
-                "title": "Aurora"
+                "title": "First Dawn"
             },
             "10": {
                 "title": "Office Worker"
@@ -4891,10 +4893,10 @@
                 "title": "Plain Clothes"
             },
 			"88": {
-                "title": ""
+                "title": "Luminous"
             },
 			"89": {
-                "title": ""
+                "title": "Pitch-dark"
             }
         }
     },
@@ -5732,6 +5734,28 @@
             },
             "10": {
                 "title": "Smoker"
+            }
+        }
+    },
+    "c511": {
+        "name": "Philotes",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Friendly"
+            }
+        }
+    },
+    "c512": {
+        "name": "Turan",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Independent"
             }
         }
     },
@@ -10623,7 +10647,7 @@
         }
     },
 	"sc442": {
-        "name": "Nirrti",
+        "name": "Nirodhasatya Nirrti",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -11660,7 +11684,7 @@
         "name": " ",
         "variants": {
             "01": {
-                "title": "Mitra, Kalaratri & ??? "
+                "title": "Mitra, Kalaratri & Titania"
             }
         }
     },
