@@ -1689,10 +1689,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Singing"
             },
             "02": {
-                "title": "Idol"
+                "title": "Girl Group"
             }
         }
     },
@@ -2887,10 +2887,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Fugitive"
             },
             "02": {
-                "title": "Breakout"
+                "title": "Escape"
             }
         }
     },
@@ -4506,7 +4506,7 @@
                 "title": "Bewitching"
             },
             "10": {
-                "title": "Summery"
+                "title": "Summer"
             },
             "89": {
                 "title": "Nine-Tailed Fox"
@@ -5756,6 +5756,66 @@
             },
             "02": {
                 "title": "Independent"
+            }
+        }
+    },
+    "c513": {
+        "name": "Acrasia",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Supreme"
+            },
+            "10": {
+                "title": "Consummate"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "c514": {
+        "name": "Duessa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Deceitful "
+            }
+        }
+    },
+    "c515": {
+        "name": "Strigoi",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Immortal"
+            },
+            "10": {
+                "title": "Bloody"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -10519,6 +10579,14 @@
     },
 	"sc423": {
         "name": "Laima",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc425": {
+        "name": "Legion Seth",
         "variants": {
             "01": {
                 "title": "Hot Spring"
