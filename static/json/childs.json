@@ -5794,7 +5794,7 @@
         }
     },
     "c515": {
-        "name": "Strigoi",
+        "name": "Archimago"
         "variants": {
             "00": {
                 "title": "Human"
@@ -5803,10 +5803,10 @@
                 "title": ""
             },
             "02": {
-                "title": "Immortal"
+                "title": ""
             },
             "10": {
-                "title": "Bloody"
+                "title": ""
             },
             "87": {
                 "title": ""
