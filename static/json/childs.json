@@ -1980,6 +1980,20 @@
             }
         }
     },
+    "c186": {
+        "name": "Erebus",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Master"
+            }
+        }
+    },
     "c187": {
         "name": "Thetis",
         "variants": {
@@ -2174,6 +2188,20 @@
             },
             "02": {
                 "title": "Green"
+            }
+        }
+    },
+    "c203": {
+        "name": "Harmonia",
+        "variants": {
+            "01": {
+                "title": "Human"
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
+                "title": "Serene"
             }
         }
     },
@@ -2675,7 +2703,7 @@
                 "title": ""
             },
 			"13": {
-                "title": ""
+                "title": "Innocent"
             },
             "88": {
                 "title": "Altruism"
@@ -4873,7 +4901,7 @@
                 "title": ""
             },
 			"10": {
-                "title": ""
+                "title": "Uniform"
             }	
         }
     },
@@ -5111,10 +5139,10 @@
         "name": "Aurora",
         "variants": {
             "01": {
-                "title": "Memorable"
+                "title": "Remembering"
             },
             "02": {
-                "title": "Confessional"
+                "title": "Confessing"
             },
             "10": {
                 "title": "Schoolmate"
@@ -8258,19 +8286,19 @@
         }
     },
 	"m264": {
-        "name": "Procell",
+        "name": "Procel",
         "variants": {
             "01": {
-                "title": "Fasting"
+                "title": "Devouring"
             },
             "02": {
-                "title": "Hellion"
+                "title": "Abyssal"
             },
             "88": {
-                "title": ""
+                "title": "Abyssal"
             },
 			"89": {
-                "title": ""
+                "title": "Devouring"
             }
         }
     },
@@ -10859,7 +10887,7 @@
         }
     },
 	"sc461": {
-        "name": "Memorable Aurora",
+        "name": "Remembering Aurora",
         "variants": {
             "01": {
                 "title": "Hot Spring"
@@ -11595,7 +11623,7 @@
         }
     },
 	"sm264": {
-        "name": "Procell",
+        "name": "Procel",
         "variants": {
 
             "01": {
