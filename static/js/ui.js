@@ -10,7 +10,6 @@ var selectedModel,
 var globalURL = "https://patch.dcg.line.games/real_0.1.06.mofssmozovat/";
 var krURL= "https://patch.dc.nextfloor.com/real_1.3.98.7chm5wxe9vms/";
 
-
 function getSelectedIndex() {
   return modelIds.indexOf(selectedModel)
 }
