@@ -5517,6 +5517,43 @@
             }
         }
     },
+	"c490": {
+        "name": "Hongryeon",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Willful"
+            },
+            "10": {
+                "title": "Estranged"
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+	"c491": {
+        "name": "Janghwa",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Adrift"
+            },
+            "10": {
+                "title": "Ephemeral"
+            }
+        }
+    },
 	"c492": {
         "name": "He Xiangu",
         "variants": {
