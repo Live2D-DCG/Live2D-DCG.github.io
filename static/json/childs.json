@@ -2583,6 +2583,17 @@
             }
         }
     },
+    "c239": {
+        "name": "Dianus",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "White Night"
+            }
+        }
+    },
 	"c241": {
         "name": "Orcus",
         "variants": {
@@ -5183,7 +5194,7 @@
         }
     },
 	"c465": {
-        "name": "Xian'e (Seon-Ah)",
+        "name": "Sunah",
         "variants": {
             "01": {
                 "title": ""
@@ -5887,6 +5898,17 @@
             }
         }
     },
+    "c517": {
+        "name": "Grendel",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Invader"
+            }
+        }
+    },
     "m001": {
         "name": "Fire Bat",
         "variants": {
@@ -6118,6 +6140,9 @@
             },
             "02": {
                 "title": "Lazy Fused"
+            },
+            "10": {
+                "title": "Summer"
             }
         }
     },
@@ -11118,8 +11143,32 @@
             }
         }
     },
-	"sc489": {
+    "sc489": {
         "name": "Loki",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc493": {
+        "name": "Messier",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc494": {
+        "name": "Rosanna",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc497": {
+        "name": "Philosopher Wodan",
         "variants": {
             "01": {
                 "title": "Hot Spring"
