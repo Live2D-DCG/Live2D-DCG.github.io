@@ -5,6 +5,13 @@
     "texture_00.png"
   ],
   "motions": {
+    "attack": [
+      {
+        "file": "xm056_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
     "die": [
       {
         "file": "xm056_01_die.mtn",
@@ -64,6 +71,13 @@
     "stun": [
       {
         "file": "xm056_01_stun.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "walk": [
+      {
+        "file": "xm056_01_walk.mtn",
         "fade_in": 0,
         "fade_out": 0
       }

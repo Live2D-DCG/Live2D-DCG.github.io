@@ -7,6 +7,7 @@
 		{"id":"smile_On","val":0},
 		{"id":"angry_ON","val":0},
 		{"id":"irrtation_On","val":0},
-		{"id":"serious_ON","val":1}
+		{"id":"serious_ON","val":1},
+		{"id":"confused_On","val":0}
 	]
 }

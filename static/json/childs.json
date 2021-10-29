@@ -2793,6 +2793,17 @@
             }
         }
     },
+    "c261": {
+        "name": "Sarasu",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c262": {
         "name": "Daphnis",
         "variants": {
@@ -5906,6 +5917,29 @@
             },
             "02": {
                 "title": "Invader"
+            }
+        }
+    },
+    "c520": {
+        "name": "Ishimi",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": "Omnipotent"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -11939,6 +11973,14 @@
     },
     "v019": {
         "name": "",
+        "variants": {
+            "01": {
+                "title": "Cutscene"
+            }
+        }
+    },
+    "v020": {
+        "name": "Ishimi",
         "variants": {
             "01": {
                 "title": "Cutscene"
