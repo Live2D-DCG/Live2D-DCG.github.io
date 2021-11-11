@@ -3044,13 +3044,13 @@
         "name": "Natalis",
         "variants": {
             "01": {
-                "title": "Warring"
+                "title": "Initiator"
             },
             "02": {
-                "title": "Battlefield Goddess"
+                "title": "Revelator"
             },
             "10": {
-                "title": ""
+                "title": "En Garde"
             }
         }
     },
@@ -3618,7 +3618,18 @@
             }
         }
     },
-	"c343": {
+    "c342": {
+        "name": "Yami",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c343": {
         "name": "Tiamat",
         "variants": {
             "01": {
