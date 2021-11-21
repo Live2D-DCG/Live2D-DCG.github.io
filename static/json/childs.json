@@ -8398,7 +8398,7 @@
             }
         }
     },
-	"m264": {
+    "m264": {
         "name": "Procel",
         "variants": {
             "01": {
@@ -8410,112 +8410,112 @@
             "88": {
                 "title": "Abyssal"
             },
-			"89": {
+            "89": {
                 "title": ""
             }
         }
     },
-	"m265": {
-        "name": "???",
+    "m265": {
+        "name": "Mimic",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m266": {
-        "name": "???",
+    "m266": {
+        "name": "Kali Yuga",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m267": {
-        "name": "???",
+    "m267": {
+        "name": "Basilisk",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m268": {
-        "name": "???",
+    "m268": {
+        "name": "Sneaker Fighter",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m269": {
-        "name": "???",
+    "m269": {
+        "name": "Cure Cube",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m270": {
-        "name": "???",
+    "m270": {
+        "name": "Poison Cube",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m271": {
-        "name": "???",
+    "m271": {
+        "name": "Evil Cube",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m272": {
-        "name": "???",
+    "m272": {
+        "name": "Honey Cube",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m273": {
-        "name": "???",
+    "m273": {
+        "name": "Pie Cube",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m274": {
-        "name": "???",
+    "m274": {
+        "name": "Cube Moa",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m275": {
-        "name": "???",
+    "m275": {
+        "name": "Poison Ampoule",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m276": {
-        "name": "???",
+    "m276": {
+        "name": "Toy Ampoule",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
-	"m277": {
-        "name": "???",
+    "m277": {
+        "name": "Gillotine",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chibi"
             }
         }
     },
@@ -9705,7 +9705,7 @@
     "sc221": {
         "name": "Jana",
         "variants": {
-            "03": {
+            "01": {
                 "title": "Hot Spring"
             }
         }
@@ -11986,7 +11986,7 @@
         }
     },
     "v019": {
-        "name": "",
+        "name": "Strigoi",
         "variants": {
             "01": {
                 "title": "Cutscene"
