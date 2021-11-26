@@ -3654,17 +3654,20 @@
     "c344": {
         "name": "Isolde",
         "variants": {
-            "10": {
-                "title": "Summer Spike"
-            },
-            "89": {
-                "title": "Summer Spike"
-            },
-            "01": {
+			"01": {
                 "title": "White Handed"
             },
             "02": {
                 "title": "Nova"
+            },
+            "10": {
+                "title": "Summer Spike"
+            },
+			"88": {
+                "title": "Summer Spike"
+            },
+            "89": {
+                "title": "Summer Spike"
             }
         }
     },
@@ -3679,6 +3682,12 @@
             },
             "02": {
                 "title": "Gambler"
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -5957,6 +5966,31 @@
             },
             "02": {
                 "title": "Invader"
+            }
+        }
+    },
+	"c518": {
+        "name": "Shani",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+	"c519": {
+        "name": "Orion",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
             }
         }
     },
