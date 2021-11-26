@@ -12369,6 +12369,22 @@
             }
         }
     },
+    "xc283": {
+        "name": "Morgan",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc286": {
+        "name": "Verdelet",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc289": {
         "name": "Durandal",
         "variants": {
