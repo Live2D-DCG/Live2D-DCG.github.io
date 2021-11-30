@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DCG Live2D GIF Maker</title>
+
+  <link rel="stylesheet" href="static/css/style.css">
+
+  <script src="static/js/live2dsdk/live2d.min.js"></script>
+  <script src="static/js/live2dsdk/Live2DFramework.js"></script>
+  <script src="static/js/live2dsdk/PlatformManager.js"></script>
+  <script src="static/js/live2dsdk/ModelSettingJson.js"></script>
+
+  <script type="text/javascript">
+    var doDraw = true;
+  </script>
+	<script src="static/js/live2dsdk/yukimiku.2d.js"></script>
+
+  <script src="static/js/pngScript.js"></script>
+  <script src="static/js/customTexture.js"></script>
+  <script src="static/js/expr.js"></script>
+
+  <script type="text/javascript" src="static/js/jszip/dist/jszip.js"></script>
+  <script type="text/javascript" src="static/js/jszip/test/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="static/js/jszip/vendor/FileSaver.js"></script>
+
+
+  <body onload="initModelKR()">
+    <canvas id="canvas" class="maxwidth" width="500px" height="800px" style="margin: 10px;" onclick="totsugeki()"></canvas>
+    <select id="modelMotions" class="select-motions" style="display: none;"></select>
+    <script>
+            let canvas = document.getElementById("canvas");
+    </script>
+
+    <p>
+      <a href="./static/scripts/res/textureList.txt">[Child list]</a>
+      <a href="./static/scripts/res/textureListTeen.txt">[Global version list]</a>
+      <a href="./static/scripts/res/textureListExpr.txt">[Child list only with expressions]</a>
+    </p>
+
+    <div>
+      mN   : <input id="mN" type="text" name="mN" autofocus=true>
+      Spa file? <input id="isSpa" type="checkbox" name="isSpa">
+      Global version? <input id="isTeen" type="checkbox" name="isTeen">
+    </div>
+    <div>width : <input id="width" type="number" name="width"></div>
+    <div>height : <input id="height" type="number" name="height"></div>
+    <div>mS   : <input id="mS" type="number" name="mS"></div>
+    <div>mX   : <input id="mX" type="number" name="mX"></div>
+    <div>mY   : <input id="mY" type="number" name="mY"></div>
+
+    <script>
+      var searchParams = (new URL(window.location.href)).searchParams;
+      document.getElementById('mN').value = searchParams.get('mN') || 'c501_02';
+      document.getElementById('width').value = searchParams.get('width') || 800;
+      document.getElementById('height').value = searchParams.get('height') || 800;
+      document.getElementById('mS').value = searchParams.get('mS') || 1;
+      document.getElementById('mX').value = searchParams.get('mX') || 0;
+      document.getElementById('mY').value = searchParams.get('mY') || 0;
+      if (searchParams.get('isTeen') === "true")
+        document.getElementById('isTeen').checked = true;
+      else
+        document.getElementById('isTeen').checked = false;
+    </script>
+
+    <script>
+      function reload() {
+        mN = document.getElementById('mN').value;
+        width = document.getElementById('width').value;
+        height = document.getElementById('height').value;
+        mS = document.getElementById('mS').value;
+        mX = document.getElementById('mX').value;
+        mY = document.getElementById('mY').value;
+        newLink = location.protocol + '//' + location.host + location.pathname;
+        if (document.getElementById('isSpa').checked) {
+          newLink = location.protocol + '//' + location.host + location.pathname.slice(0, -1 * 'gifChild.html'.length) + 'gifSpa.html';
+        }
+        newLink = newLink + '?mN=' + mN + '&width=' + width + '&height=' + height + '&mS=' + mS + '&mX=' + mX + '&mY=' + mY;
+        if (document.getElementById('isTeen').checked) {
+          newLink = newLink + '&isTeen=true'
+        }
+        location.href = newLink;
+      };
+    </script>
+
+    <div><button type="button" name="reload" onclick="javascript:reload();">Reload Child</button></div>
+
+    <p></p>
+    <div>Enable Expressions</div>
+    <div id="exprs">
+    </div>
+
+    <p></p>
+    <div>
+      Capture & Save this image 
+      <button type="button" name="saveImage" onclick="javascript:getPNGImage();">save image</button>
+    </div>
+
+    <p></p>
+    <div>Motion Preview</div>
+    <div id="previewButton">
+      <button type="button" name="attackPreview" onclick="javascript:doDraw=true;motionMgr.startMotion(motionClick);">attack motion</button>
+      <button type="button" name="idlePreview" onclick="javascript:doDraw=true;motionMgr.startMotion(motionIdle);">idle motion</button>
+      <button type="button" name="hitPreview" onclick="javascript:doDraw=true;motionMgr.startMotion(motionHit);">hit motion</button>
+    </div>
+    <div>
+      <button type="button" name="stopPreview" onclick="javascript:doDraw=doDraw?false:true;">stop motion</button>
+      <button type="button" name="defaultPreview" onclick="javascript:doDraw=true;motionMgr.startMotion(motionDefault);">default image (10 sec)</button>
+    </div>
+
+    <p>Capture full motion images by real frame (typically 30 fps, 33.3 ms)</p>
+
+    <div id="HQLSButton">
+      <button type="button" name="attackHQLS" onclick="javascript:getPNGsFull('attack');">get FULL attack motion PNGs</button>
+      <button type="button" name="idleHQLS" onclick="javascript:getPNGsFull('idle');">get FULL idle motion PNGs</button>
+      <button type="button" name="hitHQLS" onclick="javascript:getPNGsFull('hit');">get FULL hit motion PNGs</button>
+    </div>
+
+    <p>... or set grabCount and grabRate manually</p>
+
+    <div>grabCount     : <input id="grabLimit" type="number" name="grabLimit" value="100"></div>
+    <div>grabRate (ms) : <input id="grabRate" type="number" name="grabRate" value="30"></div>
+
+    <div id="LQHSButton">
+      <button type="button" name="attackLQHS" onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'attack');">get attack motion PNGs by frame</button>
+      <button type="button" name="idleLQHS" onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'idle');">get idle motion PNGs by frame</button>
+      <button type="button" name="hitLQHS" onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'hit');">get hit motion PNGs by frame</button>
+      <button type="button" name="nowLQHS" onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, '');">get frame PNGs from now on</button>
+    </div>
+
+    <p></p>
+    <div>Choose custom texture files (If you want to use):</div>
+    <div>
+      <input type="file" id="textures" name="textures" accept="image/png" multiple onchange="handleFiles(this.files)">
+    </div>
+
+    <p></p>
+
+    <a href="https://ace9934.github.io/webp-duration-changer">webp duration changer site</a>
+
+    <p>Change Background Color</p>
+
+    <div>
+      <button type="button" name="greenBackground" onclick="javascript:document.body.style.backgroundColor = '#00b140'">Green</button>
+      <button type="button" name="blueBackground" onclick="javascript:document.body.style.backgroundColor = '#0047bb'">Blue</button>
+      <button type="button" name="whiteBackground" onclick="javascript:document.body.style.backgroundColor = '#ffffff'">White</button>
+      <button type="button" name="whiteBackground" onclick="javascript:document.body.style.backgroundColor = '#000000'">Black</button>
+    </div>
+
+    <p></p>
+
+    <footer>
+    Destiny Child is owned by Shiftup Corp | DCG-tGIF.github.io is project By Remain </br>
+    DCG-tGIF based on <a href="https://live2d-dcg.github.io">Live2D viewer project</a> by u/ToxicWayz on Reddit, and Live2D cubism v2 api by <a href="https://github.com/live2d-dcg" target="_blank">Arsylk</a>. </br>
+    If you have any questions, please reply on <a href="https://gall.dcinside.com/mgallery/board/view/?id=su&no=1093925">this post</a>, or contact to <a href="mailto:ace993494@gmail.com" target="_blank">ace993494@gmail.com</a> </br>
+    <a href="https://github.com/ace012/dcg-tgif-maker" target="_blank">Destiny Child GIF Maker Tools & Manuals</a> <a href="https://github.com/dcg-tgif/dcg-tgif.github.io">Source code</a>
+  
+    </footer>
+
+  </body>
+
+</html>

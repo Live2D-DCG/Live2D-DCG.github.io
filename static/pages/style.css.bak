@@ -44,10 +44,6 @@
 	  margin: 5px;
 	}
 	
-	#ui-id-1{
-		padding-top: 5px;
-	}
-	
 	li {
 	  display: inline;
 	}
