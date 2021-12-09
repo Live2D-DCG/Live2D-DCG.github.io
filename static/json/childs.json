@@ -5245,14 +5245,14 @@
             }
         }
     },
-	"c465": {
+    "c465": {
         "name": "Sunah",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Loyal"
             },
             "02": {
-                "title": "Honorable"
+                "title": "Upright"
             },
             "88": {
                 "title": "World Boss"
@@ -5263,10 +5263,10 @@
         "name": "Nezha",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Carefree"
             },
             "02": {
-                "title": "Lotus Heart"
+                "title": "Yearning"
             },
             "10": {
                 "title": ""
@@ -5938,24 +5938,6 @@
         "variants": {
             "00": {
                 "title": "Human"
-            },
-            "01": {
-                "title": ""
-            },
-            "02": {
-                "title": ""
-            },
-            "10": {
-                "title": ""
-            },
-            "87": {
-                "title": ""
-            },
-            "88": {
-                "title": ""
-            },
-            "89": {
-                "title": ""
             }
         }
     },
@@ -5984,7 +5966,7 @@
             }
         }
     },
-	"c519": {
+    "c519": {
         "name": "Orion",
         "variants": {
             "01": {
@@ -6014,6 +5996,40 @@
                 "title": ""
             },
             "89": {
+                "title": ""
+            }
+        }
+    },
+    "c521": {
+        "name": "Gegute",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": "Progenitor"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "c522": {
+        "name": "Dalia",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
                 "title": ""
             }
         }
