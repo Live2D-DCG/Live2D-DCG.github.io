@@ -5255,7 +5255,7 @@
                 "title": "Upright"
             },
             "88": {
-                "title": "World Boss"
+                "title": "Upright"
             }
         }
     },
@@ -5267,9 +5267,6 @@
             },
             "02": {
                 "title": "Yearning"
-            },
-            "10": {
-                "title": ""
             }
         }
     },
@@ -11109,7 +11106,7 @@
         }
     },
 	"sc465": {
-        "name": "Xian'e (Seon-Ah)",
+        "name": "Sunah",
         "variants": {
             "01": {
                 "title": "Hot Spring"
