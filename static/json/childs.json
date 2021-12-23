@@ -1183,6 +1183,9 @@
             },
             "02": {
                 "title": "Praising"
+            },
+            "10": {
+                "title": "Miracle"
             }
         }
     },
@@ -6025,6 +6028,42 @@
         "variants": {
             "01": {
                 "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c523": {
+        "name": "Nicole",
+        "variants": {
+            "01": {
+                "title": "Epiphany"
+            },
+            "02": {
+                "title": "Reincarnation"
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+    "c524": {
+        "name": "Pepita",
+        "variants": {
+            "01": {
+                "title": "Polar"
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c525": {
+        "name": "Grilla",
+        "variants": {
+            "01": {
+                "title": "Predator"
             },
             "02": {
                 "title": ""
