@@ -21,22 +21,22 @@ function calculator(){
   	// Map Name, Exp, Stamina
 	var mapArray = [
 	["Chapter One 4-6-#",76,9],
-	["Chapter One 5-8-#",99,11],
-	["Chapter One 6-8-#",134,13],
-	["Chapter One 7-8-#",192,15],
-	["Chapter One 8-8-#",227,17],
-	["Chapter Two 1-4-#",351,25],
-	["Chapter Two 2-2-3",366,25],
-	["Chapter Two 3-2-3",381,25],
-	["Chapter Two 4-2-3",401,25],
+	//["Chapter One 5-8-#",99,11],
+	//["Chapter One 6-8-#",134,13],
+	//["Chapter One 7-8-#",192,15],
+	//["Chapter One 8-8-#",227,17],
+	//["Chapter Two 1-4-#",351,25],
+	//["Chapter Two 2-2-3",366,25],
+	//["Chapter Two 3-2-3",381,25],
+	//["Chapter Two 4-2-3",401,25],
 	["Chapter Two Int. Ch. 2 III-5",406,25],
 	["Chapter Two Int. Ch. 2 III-6",406,25],
 	["Chapter Two Int. Ch. 2 IV-7",452,25],
 	["Chapter Two Int. Ch. 2 IV-8",452,25],
-	["Chapter 4 - 1-III-5",504,25],
-	["Chapter 4 - 1-III-6",504,25],
-	["Chapter 4 - 1-IV-7",560,25],
-	["Chapter 4 - 1-IV-8",560,25]
+	["Chapter 4 - 5-III-5",589,25],
+	["Chapter 4 - 5-III-6",589,25],
+	["Chapter 4 - 5-IV-7",643,25],
+	["Chapter 4 - 5-IV-8",643,25]
 	]
   
 	var calculateButton = document.getElementById("calculateBtn");
