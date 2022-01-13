@@ -3876,15 +3876,24 @@
 	"c361": {
         "name": "Caduceus",
         "variants": {
-            "10": {
-                "title": ""
-            },
             "01": {
-                "title": "Devourer"
+                "title": "Devouring"
             },
             "02": {
-                "title": ""
-            }
+                "title": "Black Snake"
+            },
+            "10": {
+                "title": "Weaponized"
+            },
+            "87": {
+                "title": "Weaponized"
+            },
+            "88": {
+                "title": "Black Snake"
+            },
+            "89": {
+                "title": "Devouring"
+            },
         }
     },
 	"c362": {
@@ -5241,10 +5250,16 @@
         "name": "Arhat",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Magnificent"
             },
             "02": {
-                "title": "Enduring"
+                "title": "Immortal"
+            },
+            "10": {
+                "title": "Bodhisattva"
+            },
+            "11": {
+                "title": "Naive"
             }
         }
     },
