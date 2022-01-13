@@ -6070,6 +6070,40 @@
             }
         }
     },
+    "c526": {
+        "name": "Rani",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": "Princess"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "c527": {
+        "name": "Reynard",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "m001": {
         "name": "Fire Bat",
         "variants": {
