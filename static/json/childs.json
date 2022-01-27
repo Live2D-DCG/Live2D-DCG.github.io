@@ -2451,6 +2451,20 @@
             }
         }
     },
+    "c228": {
+        "name": "Vivian",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c229": {
         "name": "Brownie",
         "variants": {
@@ -2489,10 +2503,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Tempting"
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": "The Great"
             }
         }
     },
@@ -4551,7 +4568,7 @@
             "01": {
                 "title": "Gunner"
             },
-			"02": {
+	"02": {
                 "title": "Deadshot"
             },
             "10": {
@@ -4568,7 +4585,7 @@
             "01": {
                 "title": "Risk Taker"
             },
-			"02": {
+	"02": {
                 "title": "Wild Hunt"
             }
         }
@@ -4913,7 +4930,7 @@
             "02": {
                 "title": "Resplendent"
             },
-			"10": {
+	"10": {
                 "title": "Belle"
             }
         }
@@ -4922,10 +4939,10 @@
         "name": "Robin",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Ritual Sword"
             },
             "02": {
-                "title": ""
+                "title": "Hero"
             }
         }
     },
