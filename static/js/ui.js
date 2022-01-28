@@ -4,11 +4,43 @@ var selectedModel,
     modelIds = [],
     assets = {},
     searchParams = (new URL(document.location.toString())).searchParams,
-	diffView = "k"
-	
+	  diffView = "k",
 
-var globalURL = "https://patch.dcg.line.games/real_0.1.19.ueq6m5pc3xt0/";
-var krURL= "https://patch.dc.nextfloor.com/real_1.4.17.6s9hjpmjowzx/";
+ 
+// ===== Script to get the the server URL =====
+/*
+
+const url = "https://version-integ.nextfloor.com/api/api_version/getClientVersionInfo"
+
+const globalOptions = {
+    method: 'POST',
+    body: "gameCd=DCG&os=android&clientVersion=2.8.6",
+    headers: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+    }
+}
+
+const koreanOptions = {
+    method: 'POST',
+    body: "packageSignature=34%3A77%3A71%3AAD%3A8B%3A73%3A24%3A15%3A7F%3A65%3A85%3A4E%3A9B%3ADB%3A4A%3AD9%3AE5%3A5C%3A96%3A81&gameCd=DC&os=android&clientVersion=2.9.0",
+    headers: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+    }
+}
+
+fetch(url,globalOptions,)
+    .then(res => res.json())
+    .then(resData => console.log(`const globalURL = "${resData.data.patch_addr}"`))
+
+fetch(url,koreanOptions)
+    .then(res => res.json())
+    .then(resData => console.log(`const krURL = "${resData.data.patch_addr}"`))
+
+*/
+
+const krURL = "https://patch.dc.nextfloor.com/real_1.4.18.mobwah51c2fu/"
+const globalURL = "https://patch.dcg.line.games/real_0.1.21.rzgppni3u5bv/"
+
 
 function getSelectedIndex() {
   return modelIds.indexOf(selectedModel)
