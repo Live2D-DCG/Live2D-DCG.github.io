@@ -4,7 +4,7 @@ var selectedModel,
     modelIds = [],
     assets = {},
     searchParams = (new URL(document.location.toString())).searchParams,
-	  diffView = "k",
+	  diffView = "k"
 
  
 // ===== Script to get the the server URL =====
