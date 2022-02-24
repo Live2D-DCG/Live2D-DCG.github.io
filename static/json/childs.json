@@ -760,6 +760,20 @@
             }
         }
     },
+    "c055": {
+        "name": "Minerva",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c056": {
         "name": "Jeanne d'Arc",
         "variants": {
@@ -1789,12 +1803,6 @@
     "c167": {
         "name": "Chang'e",
         "variants": {
-            "10": {
-                "title": "Banyan"
-            },
-            "11": {
-                "title": "Beautiful"
-            },
             "00": {
                 "title": "Human"
             },
@@ -1803,6 +1811,12 @@
             },
             "02": {
                 "title": "Incarnated"
+            },
+            "10": {
+                "title": "Midnight"
+            },
+            "11": {
+                "title": "Beautiful"
             }
         }
     },
@@ -2327,7 +2341,7 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Full"
             },
             "02": {
                 "title": "Happy"           
@@ -2848,7 +2862,7 @@
                 "title": ""
             },
             "01": {
-                "title": ""
+                "title": "SD"
             },
             "02": {
                 "title": ""
@@ -2984,6 +2998,9 @@
 	"c278": {
         "name": "Hel",
         "variants": {
+            "00": {
+                "title": "Human"
+            },
             "01": {
                 "title": "Bespoke"
             },
@@ -3333,9 +3350,6 @@
     "c311": {
         "name": "Khepri",
         "variants": {
-            "89": {
-                "title": "Vicious"
-            },
             "00": {
                 "title": "Human"
             },
@@ -3343,6 +3357,12 @@
                 "title": "Dark Luster"
             },
             "02": {
+                "title": "Vicious"
+            },
+            "10": {
+                "title": ""
+            },
+            "89": {
                 "title": "Vicious"
             }
         }
@@ -3600,16 +3620,21 @@
 	"c334": {
         "name": "Lisa",
         "variants": {
-		    "00": {
-                "title": "Human"
-            },
             "01": {
-                "title": "Phantasm"
+                "title": "Fantasy Dream"
             },
             "02": {
-                "title": "Delusional Dream"
+                "title": "Disillusioned"
+            }
+        }
+    },
+    "c335": {
+        "name": "Hathor",
+        "variants": {
+            "01": {
+                "title": ""
             },
-			"88": {
+            "02": {
                 "title": ""
             }
         }
@@ -4925,13 +4950,13 @@
         "name": "Mona",
         "variants": {
             "01": {
-                "title": "Serendipitous"
+                "title": "Perfect"
             },
             "02": {
-                "title": "Resplendent"
+                "title": "Lovely"
             },
-	"10": {
-                "title": "Belle"
+	        "10": {
+                "title": "Exquisite"
             }
         }
     },
@@ -5323,10 +5348,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Whispering"
             },
             "02": {
-                "title": "True"
+                "title": "Truth"
             }
         }
     },
@@ -5432,13 +5457,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Cheerful"
             },
             "02": {
                 "title": "Peaceful"
             },
             "88": {
-                "title": ""
+                "title": "Peaceful"
             }
         }
     },
@@ -5973,6 +5998,17 @@
             }
         }
     },
+    "c516": {
+        "name": "Erysichthon",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c517": {
         "name": "Grendel",
         "variants": {
@@ -6127,6 +6163,28 @@
     },
     "c527": {
         "name": "Reynard",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c528": {
+        "name": "Zemyna",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c529": {
+        "name": "Kubera",
         "variants": {
             "01": {
                 "title": ""
