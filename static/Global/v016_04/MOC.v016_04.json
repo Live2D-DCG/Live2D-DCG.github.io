@@ -1,0 +1,23 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "motions": {
+    "01": [
+      {
+        "file": "v016_04_01.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "01_60": [
+      {
+        "file": "v016_04_01_60.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}
