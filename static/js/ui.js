@@ -38,8 +38,8 @@ fetch(url,koreanOptions)
 
 */
 
-const krURL = "https://patch.dc.nextfloor.com/real_1.4.20.347am31efo4f/"
-const globalURL = "https://patch.dcg.line.games/real_0.1.23.wu2a0rldwexn/"
+const krURL = "https://patch.dc.nextfloor.com/real_1.4.24.qcbr556asxvd/"
+const globalURL = "https://patch.dcg.line.games/real_0.1.26.pnl9jq4otqjo/"
 
 
 function getSelectedIndex() {
