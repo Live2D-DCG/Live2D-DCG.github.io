@@ -327,6 +327,9 @@
 	"c023": {
         "name": "Camineu",
         "variants": {
+            "00": {
+                "title": ""
+            },
             "01": {
                 "title": ""
             }
@@ -1528,6 +1531,14 @@
             },
             "02": {
                 "title": "Showdown"
+            }
+        }
+    },
+    "c134": {
+        "name": "???",
+        "variants": {
+            "00": {
+                "title": ""
             }
         }
     },
@@ -3636,6 +3647,9 @@
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": "Ascendant"
             }
         }
     },
@@ -4717,9 +4731,21 @@
         "name": "Laima",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Swift"
             },
             "02": {
+                "title": "Persistent"
+            },
+            "10": {
+                "title": "Flawless"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
                 "title": ""
             }
         }
@@ -6190,6 +6216,20 @@
                 "title": ""
             },
             "02": {
+                "title": ""
+            }
+        }
+    },
+    "c534": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
                 "title": ""
             }
         }
@@ -8294,6 +8334,9 @@
 	"m227": {
         "name": "Crocell",
         "variants": {
+            "01": {
+                "title": ""
+            },
             "89": {
                 "title": "Fire"
             }
@@ -12521,8 +12564,32 @@
             }
         }
     },
+    "xc242": {
+        "name": "Ailill",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc246": {
         "name": "Krampus",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc247": {
+        "name": "Myrina",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc253": {
+        "name": "Nicole",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -12569,6 +12636,22 @@
             }
         }
     },
+    "xc292": {
+        "name": "Luin",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc294": {
+        "name": "Bathory",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc297": {
         "name": "Red Queen",
         "variants": {
@@ -12585,6 +12668,30 @@
             }
         }
     },
+    "xc305": {
+        "name": "Rita",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc312": {
+        "name": "Tyrving",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc317": {
+        "name": "Babel",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc318": {
         "name": "Praying Bari",
         "variants": {
@@ -12595,6 +12702,38 @@
     },
     "xc319": {
         "name": "Willow Doryeong",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc348": {
+        "name": "Mars♥",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc349": {
+        "name": "Saturn♥",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc350": {
+        "name": "Neptune♥",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc351": {
+        "name": "Venus♥",
         "variants": {
             "10": {
                 "title": "Puppet"
