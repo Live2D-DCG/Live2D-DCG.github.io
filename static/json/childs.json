@@ -2636,6 +2636,9 @@
             },
             "02": {
                 "title": "White Night"
+            },
+            "10": {
+                "title": "Sugar"
             }
         }
     },
@@ -6221,7 +6224,7 @@
         }
     },
     "c534": {
-        "name": "???",
+        "name": "Legend",
         "variants": {
             "01": {
                 "title": ""
