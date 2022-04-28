@@ -2258,6 +2258,9 @@
             },
             "02": {
                 "title": "Talking"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -4643,6 +4646,12 @@
             },
             "02": {
                 "title": "Phantom"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": "Talking"
             }
         }
     },
@@ -5096,6 +5105,9 @@
             },
 			"10": {
                 "title": "Punishing"
+            },
+            "11": {
+                "title": "Talking"
             },
 			"87": {
                 "title": "Punishing"
@@ -5833,6 +5845,9 @@
             },
             "10": {
                 "title": "Defected"
+            },
+            "11": {
+                "title": ""
             }
         }
     },
@@ -6214,6 +6229,28 @@
     },
     "c529": {
         "name": "Kubera",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c530": {
+        "name": "Kanaloa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c532": {
+        "name": "Anubis",
         "variants": {
             "01": {
                 "title": ""
