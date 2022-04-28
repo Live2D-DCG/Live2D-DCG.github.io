@@ -5537,13 +5537,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Grenade"
             },
             "02": {
                 "title": "Gunslinger"
             },
             "88": {
-                "title": ""
+                "title": "Gunslinger"
             }
         }
     },
@@ -5554,10 +5554,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Innocent"
             },
             "02": {
-                "title": "Eccentric "
+                "title": "Quirky"
             }
         }
     },
@@ -5568,10 +5568,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Commander"
             },
             "02": {
-                "title": "Victorious"
+                "title": "Claw Commander"
             }
         }
     },
@@ -5633,19 +5633,19 @@
         }
     },
 	"c488": {
-        "name": "Dryades",
+        "name": "Driades",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Carefree Fairy"
             },
             "02": {
-                "title": ""
+                "title": "Tomboy Fairy"
             },
             "20": {
-                "title": ""
+                "title": "Cosplaying"
             }
         }
     },
@@ -11467,7 +11467,7 @@
         }
     },
     "sc488": {
-        "name": "Dryades",
+        "name": "Driades",
         "variants": {
             "01": {
                 "title": "Hot Spring"
