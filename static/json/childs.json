@@ -2258,6 +2258,9 @@
             },
             "02": {
                 "title": "Talking"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -4635,7 +4638,7 @@
 	"c416": {
         "name": "Keino",
         "variants": {
-			"00": {
+            "00": {
                 "title": "Human"
             },
             "01": {
@@ -4643,6 +4646,12 @@
             },
             "02": {
                 "title": "Phantom"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
             }
         }
     },
@@ -5094,8 +5103,11 @@
             "02": {
                 "title": "Slanderous"
             },
-			"10": {
+	"10": {
                 "title": "Punishing"
+            },
+            "11": {
+                "title": ""
             },
 			"87": {
                 "title": "Punishing"
@@ -5833,6 +5845,9 @@
             },
             "10": {
                 "title": "Defected"
+            },
+            "11": {
+                "title": ""
             }
         }
     },
@@ -6214,6 +6229,28 @@
     },
     "c529": {
         "name": "Kubera",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c530": {
+        "name": "Kanaloa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c532": {
+        "name": "Anubis",
         "variants": {
             "01": {
                 "title": ""
