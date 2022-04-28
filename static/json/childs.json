@@ -4638,7 +4638,7 @@
 	"c416": {
         "name": "Keino",
         "variants": {
-			"00": {
+            "00": {
                 "title": "Human"
             },
             "01": {
@@ -4651,7 +4651,7 @@
                 "title": ""
             },
             "87": {
-                "title": "Talking"
+                "title": ""
             }
         }
     },
@@ -5103,11 +5103,11 @@
             "02": {
                 "title": "Slanderous"
             },
-			"10": {
+	        "10": {
                 "title": "Punishing"
             },
             "11": {
-                "title": "Talking"
+                "title": ""
             },
 			"87": {
                 "title": "Punishing"
