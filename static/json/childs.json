@@ -4551,6 +4551,9 @@
             },
             "02": {
                 "title": "Full"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -5396,7 +5399,7 @@
             }
         }
     },
-	"c469": {
+    "c469": {
         "name": "Aria",
         "variants": {
             "01": {
@@ -5407,6 +5410,9 @@
             },
             "10": {
                 "title": "Tip Top"
+            },
+            "11": {
+                "title": "School Uniform"
             }
         }
     },
@@ -5608,13 +5614,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Umbral"
+                "title": "Dark Shadow"
             },
             "02": {
-                "title": "Midnight"
+                "title": "Apathetic Shade"
             },
             "10": {
-                "title": "Venusian"
+                "title": "Light of Hope"
             }
         }
     },
@@ -5625,22 +5631,22 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Gallop"
+                "title": "Chaser"
             },
             "02": {
-                "title": "Stormer"
+                "title": "Top Speed"
             },
             "10": {
-                "title": "Hightail"
+                "title": "Shotgun"
             },
             "87": {
-                "title": ""
+                "title": "Shotgun"
             },
             "88": {
-                "title": ""
+                "title": "Top Speed"
             },
             "89": {
-                "title": ""
+                "title": "Chaser"
             }
         }
     },
@@ -5770,30 +5776,30 @@
         }
     },
 	"c495": {
-        "name": "Cat-Sith",
+        "name": "Catsi",
         "variants": {
             "00": {
-                "title": "Human"
+                "title": "Pactmaker"
             },
             "01": {
-                "title": ""
+                "title": "Problem Kitty"
             },
             "02": {
-                "title": "Grumpy"
+                "title": "Freed Kitty"
             }
         }
     },
 	"c496": {
-        "name": "Lassie",
+        "name": "Lassi",
         "variants": {
             "00": {
-                "title": "Human"
+                "title": "Pactmaker"
             },
             "01": {
-                "title": ""
+                "title": "Dreaming Poppy"
             },
             "02": {
-                "title": "Happy"
+                "title": "Happy Poppy"
             }
         }
     },
@@ -6270,6 +6276,29 @@
                 "title": ""
             },
             "10": {
+                "title": ""
+            }
+        }
+    },
+    "c539": {
+        "name": "Belial",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
                 "title": ""
             }
         }
