@@ -4553,7 +4553,7 @@
                 "title": "Full"
             },
             "10": {
-                "title": ""
+                "title": "Satisfied"
             }
         }
     },
@@ -4777,25 +4777,25 @@
         }
     },
     "c425": {
-        "name": "Legion Seth",
+        "name": "Seth",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Punishing"
             },
             "02": {
-                "title": ""
+                "title": "Sacrificing"
             },
             "10": {
-                "title": ""
+                "title": "Legion"
             },
             "87": {
-                "title": ""
+                "title": "Legion"
             },
             "88": {
-                "title": ""
+                "title": "Sacrificing"
             },
             "89": {
-                "title": ""
+                "title": "Punishing"
             }
         }
     },
@@ -5751,13 +5751,13 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Glorious"
             },
             "02": {
-                "title": "Emperor"
+                "title": "Empress"
             },
             "88": {
-                "title": ""
+                "title": "Empress"
             }
         }
     },
@@ -5768,10 +5768,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Merciful"
             },
             "02": {
-                "title": "Inclusive"
+                "title": "Embracing"
             }
         }
     },
@@ -5807,10 +5807,10 @@
         "name": "Wodan",
         "variants": {
             "01": {
-                "title": "Philosopher"
+                "title": "Returning"
             },
             "02": {
-                "title": "Perfected"
+                "title": "Perfect"
             },
             "10": {
                 "title": "Dreamer"
