@@ -1357,8 +1357,14 @@
     "c122": {
         "name": "Samuel",
         "variants": {
+            "00": {
+                "title": "Human"
+            },
             "01": {
                 "title": "Observant"
+            },
+            "02": {
+                "title": ""
             }
         }
     },
@@ -2729,6 +2735,23 @@
             }
         }
     },
+    "c250": {
+        "name": "Jenny",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
     "c251": {
         "name": "Ganymede",
         "variants": {
@@ -3729,6 +3752,9 @@
             "10": {
                 "title": "Summer Spike"
             },
+            "11": {
+                "title": ""
+            },
 			"88": {
                 "title": "Summer Spike"
             },
@@ -3740,20 +3766,26 @@
     "c345": {
         "name": "Anemone",
         "variants": {
-            "10": {
-                "title": "Sunrise"
-            },
             "01": {
                 "title": "Midsummer"
             },
             "02": {
                 "title": "Gambler"
             },
-            "88": {
+            "10": {
+                "title": "Sunrise"
+            },
+            "11": {
                 "title": ""
             },
-            "89": {
+            "87": {
                 "title": ""
+            },
+            "88": {
+                "title": "Gambler"
+            },
+            "89": {
+                "title": "Sunrise"
             }
         }
     },
@@ -4078,14 +4110,15 @@
     "c372": {
         "name": "Davi",
         "variants": {
-            "10": {
-                "title": "Sports Bikini"
-            },
+
             "01": {
                 "title": "School Swimsuit"
             },
             "02": {
                 "title": "Summer"
+            },
+            "10": {
+                "title": "Sports Bikini"
             }
         }
     },
@@ -5054,7 +5087,10 @@
             },
 			"10": {
                 "title": "Uniform"
-            }	
+            },
+			"11": {
+                "title": ""
+            }
         }
     },
 	"c445": {
@@ -5829,6 +5865,9 @@
             "10": {
                 "title": ""
             },
+            "11": {
+                "title": ""
+            },
             "87": {
                 "title": ""
             },
@@ -6276,6 +6315,28 @@
                 "title": ""
             },
             "10": {
+                "title": ""
+            }
+        }
+    },
+    "c537": {
+        "name": "Elysion",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Captain"
+            }
+        }
+    },
+    "c538": {
+        "name": "Salos",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
                 "title": ""
             }
         }
