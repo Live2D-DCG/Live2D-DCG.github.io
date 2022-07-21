@@ -52,3 +52,7 @@ JOY_BROW=0
 JOY_EYE=0
 JOY_EYE_CL=-30
 JOY_EYE_BALL_X=0
+main_eye_op=30
+pain_op=-30
+serious_op=-30
+pretense_op=-30

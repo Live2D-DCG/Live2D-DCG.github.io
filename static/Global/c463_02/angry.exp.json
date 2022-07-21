@@ -5,6 +5,7 @@
 	"params":[
 		{"id":"face_op","val":-30,"def":30},
 		{"id":"sigh_op","val":-30,"def":-30},
-		{"id":"angry_op","val":30,"def":-30}
+		{"id":"angry_op","val":30,"def":-30},
+		{"id":"smile_op","val":-30,"def":-30}
 	]
 }

@@ -5857,39 +5857,39 @@
         "name": "Ragaraja",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Passionate"
             },
             "02": {
-                "title": ""
+                "title": "Detached"
             },
             "10": {
-                "title": ""
+                "title": "The Wisdom"
             },
             "11": {
                 "title": ""
             },
             "87": {
-                "title": ""
+                "title": "The Wisdom"
             },
             "88": {
-                "title": ""
+                "title": "Detached"
             },
             "89": {
-                "title": ""
+                "title": "Passionate"
             }
         }
     },
     "c502": {
-        "name": "Dogyehwa",
+        "name": "To Keika",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Psychic"
             },
             "02": {
-                "title": "Shaman"
+                "title": "Ghost-Calling"
             },
             "10": {
-                "title": "Defected"
+                "title": "Ghost"
             },
             "11": {
                 "title": ""
@@ -5931,24 +5931,24 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Sprinting"
             },
             "02": {
-                "title": "Blustery"
+                "title": "Sweeping"
             },
             "10": {
-                "title": "Napping"
+                "title": "Resting"
             }
         }
     },
     "c506": {
-        "name": "Notos",
+        "name": "Notus",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Leading"
             },
             "02": {
                 "title": "Stormy"
