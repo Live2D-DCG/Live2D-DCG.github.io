@@ -4,6 +4,13 @@
 	"fade_out":0,
 	"params":[
 		{"id":"FACE_CHANGE","val":1},
-		{"id":"EMOTION_s_angry","val":1}
+		{"id":"eye_ball_op","val":1,"def":1},
+		{"id":"EMOTION_SIGH","val":0},
+		{"id":"EMOTION_SAD","val":0},
+		{"id":"EMOTION_FURY","val":0},
+		{"id":"EMOTION_angry","val":0},
+		{"id":"EMOTION_s_angry","val":1},
+		{"id":"EMOTION_irritation","val":0},
+		{"id":"EMOTION_shy","val":0}
 	]
 }

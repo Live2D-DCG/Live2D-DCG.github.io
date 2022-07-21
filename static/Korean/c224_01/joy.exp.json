@@ -17,6 +17,8 @@
 		{"id":"JOY_EYE_BALL_X","val":0},
 		{"id":"JOY_EYE_BALL_Y","val":0},
 		{"id":"main_eye_op","val":30,"def":30},
-		{"id":"pain_op","val":-30,"def":-30}
+		{"id":"pain_op","val":-30,"def":-30},
+		{"id":"serious_op","val":-30,"def":-30},
+		{"id":"pretense_op","val":-30,"def":-30}
 	]
 }

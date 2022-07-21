@@ -18,6 +18,8 @@
 		{"id":"confused","val":1},
 		{"id":"pain","val":0},
 		{"id":"cry","val":0},
-		{"id":"serious","val":0}
+		{"id":"serious","val":0},
+		{"id":"joy","val":0},
+		{"id":"PARAM_irritation","val":0}
 	]
 }

@@ -802,6 +802,18 @@
             },
             "02": {
                 "title": "Blackstar"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -3696,6 +3708,17 @@
             }
         }
     },
+    "c337": {
+        "name": "Freyja",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c338": {
         "name": "Pomona",
         "variants": {
@@ -4227,6 +4250,9 @@
             },
             "02": {
                 "title": "Battle Kitty"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -4933,6 +4959,9 @@
             },
             "02": {
                 "title": "Cutesy"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6296,6 +6325,17 @@
     },
     "c532": {
         "name": "Anubis",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c533": {
+        "name": "Oneiroi",
         "variants": {
             "01": {
                 "title": ""

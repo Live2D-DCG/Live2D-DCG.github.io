@@ -13,6 +13,8 @@
 		{"id":"BROW_OFF","val":0},
 		{"id":"SMILE","val":0},
 		{"id":"SERIOUS","val":0},
+		{"id":"IRRITATION","val":0},
+		{"id":"CONFUSED","val":0},
 		{"id":"MOUTH_OFF","val":0}
 	]
 }

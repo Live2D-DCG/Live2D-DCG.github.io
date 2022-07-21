@@ -1,0 +1,10 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"SMILE","val":1},
+		{"id":"MOUTH_OFF","val":1},
+		{"id":"BROW_OFF","val":1}
+	]
+}

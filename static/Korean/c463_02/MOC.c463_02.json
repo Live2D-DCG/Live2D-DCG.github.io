@@ -17,6 +17,10 @@
     {
       "name": "sigh",
       "file": "sigh.exp.json"
+    },
+    {
+      "name": "smile",
+      "file": "smile.exp.json"
     }
   ],
   "motions": {
