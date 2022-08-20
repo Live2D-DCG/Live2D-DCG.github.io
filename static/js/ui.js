@@ -39,8 +39,8 @@ fetch(url,koreanOptions)
 */
 
 
-const krURL = "https://patch.real.dckr.shiftupcorp.com/real.33.gvghj4qgofsg/"
-const globalURL = "https://patch.real.dcgl.shiftupcorp.com/real.65.82vcntb45eqp/"
+const krURL = "https://patch.real.dckr.shiftupcorp.com/real.42.cg3otgh742qv/"
+const globalURL = "https://patch.real.dcgl.shiftupcorp.com/real.76.vhsul1xgy68z/"
 
 function getSelectedIndex() {
   return modelIds.indexOf(selectedModel)
