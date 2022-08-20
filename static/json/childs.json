@@ -1373,10 +1373,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": "Observant"
+                "title": "Materialistic"
             },
             "02": {
-                "title": ""
+                "title": "Covetous"
             }
         }
     },
@@ -2748,19 +2748,19 @@
         }
     },
     "c250": {
-        "name": "Genie",
+        "name": "Xenie",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Underwater"
             },
             "02": {
-                "title": ""
+                "title": "Water Sprite"
             },
             "88": {
-                "title": ""
+                "title": "Water Sprite"
             }
         }
     },
@@ -3785,7 +3785,7 @@
                 "title": "Summer Spike"
             },
             "11": {
-                "title": ""
+                "title": "Enchanting"
             },
 			"88": {
                 "title": "Summer Spike"
@@ -3808,10 +3808,10 @@
                 "title": "Sunrise"
             },
             "11": {
-                "title": ""
+                "title": "Burning Passion"
             },
             "87": {
-                "title": ""
+                "title": "Burning Passion"
             },
             "88": {
                 "title": "Gambler"
@@ -5910,7 +5910,7 @@
                 "title": "The Wisdom"
             },
             "11": {
-                "title": ""
+                "title": "Frustrated"
             },
             "87": {
                 "title": "The Wisdom"
@@ -5936,7 +5936,7 @@
                 "title": "Ghost"
             },
             "11": {
-                "title": ""
+                "title": "School Uniform"
             }
         }
     },
@@ -6381,10 +6381,10 @@
         "name": "Elysion",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Captain"
             },
             "02": {
-                "title": "Captain"
+                "title": "Freed"
             }
         }
     },
