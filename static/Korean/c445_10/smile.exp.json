@@ -1,9 +1,15 @@
 {
 	"type":"Live2D Expression",
-	"fade_in":00,
-	"fade_out":00,
+	"fade_in":0,
+	"fade_out":0,
 	"params":[
 		{"id":"IDLE_OFF","val":1},
-		{"id":"SMILE_ON","val":1}
+		{"id":"CONFUSED","val":0},
+		{"id":"AFFAIR","val":0},
+		{"id":"SMILE_ON","val":1},
+		{"id":"MOUTH_OFF","val":0},
+		{"id":"EYEBALL_OFF","val":0},
+		{"id":"BROW_OFF","val":0},
+		{"id":"EYEBROW_OFF","val":0}
 	]
 }
