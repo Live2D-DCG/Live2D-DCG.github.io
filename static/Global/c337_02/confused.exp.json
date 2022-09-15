@@ -1,0 +1,21 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"HEAD_ROTATE","val":0},
+		{"id":"EYE_R_CONTROL","val":0},
+		{"id":"EYE_R_FORM","val":30,"def":30},
+		{"id":"EYE_L_CONTROL","val":30,"def":30},
+		{"id":"EYE_L_FORM","val":0},
+		{"id":"EYE_X","val":30,"def":30},
+		{"id":"EYE_Y","val":0},
+		{"id":"BLOW_CONTROL","val":-30},
+		{"id":"MOUTH_OPEN","val":0},
+		{"id":"MOUTH_OP","val":1},
+		{"id":"BROW_OP","val":1},
+		{"id":"CONFUSED","val":1},
+		{"id":"SERIOUS","val":0},
+		{"id":"ANGRY","val":0}
+	]
+}
