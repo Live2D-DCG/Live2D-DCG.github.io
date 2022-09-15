@@ -804,13 +804,13 @@
                 "title": "Blackstar"
             },
             "10": {
-                "title": ""
+                "title": "Night of Drinking"
             },
             "87": {
-                "title": ""
+                "title": "Night of Drinking"
             },
             "88": {
-                "title": ""
+                "title": "Blackstar"
             },
             "89": {
                 "title": ""
@@ -2437,16 +2437,16 @@
         }
     },
     "c223": {
-        "name": "Ea",
+        "name": "Air",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": "Drifting"
+                "title": "River's Flow"
             },
             "02": {
-                "title": "Wandering"
+                "title": "Roaming Waters"
             }
         }
     }, 
@@ -3715,10 +3715,10 @@
         "name": "Freyja",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Mascot"
             },
             "02": {
-                "title": ""
+                "title": "Sprinter"
             }
         }
     },
@@ -4261,7 +4261,7 @@
                 "title": "Battle Kitty"
             },
             "10": {
-                "title": ""
+                "title": "Inca Rose"
             }
         }
     },
@@ -4488,10 +4488,10 @@
         "name": "Jacheongbi",
         "variants": {
             "01": {
-                "title": ""
+                "title": "String"
             },
             "02": {
-                "title": "Singer"
+                "title": "Gayageum"
             }
         }
     },
@@ -4970,7 +4970,7 @@
                 "title": "Cutesy"
             },
             "10": {
-                "title": ""
+                "title": "Lovely Summer"
             }
         }
     },
@@ -5409,6 +5409,9 @@
             },
             "02": {
                 "title": "Dejected"
+            },
+            "10": {
+                "title": "Autumn"
             }
         }
     },
@@ -6138,7 +6141,7 @@
                 "title": ""
             },
             "02": {
-                "title": ""
+                "title": "Luscious"
             }
         }
     },
@@ -6353,7 +6356,7 @@
         }
     },
     "c533": {
-        "name": "Oneiroi",
+        "name": "Oneiros",
         "variants": {
             "01": {
                 "title": ""
@@ -6392,10 +6395,10 @@
         "name": "Sallos",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Sagacious"
             },
             "02": {
-                "title": ""
+                "title": "Salacious"
             }
         }
     },
