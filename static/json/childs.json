@@ -1981,7 +1981,17 @@
             },
             "02": {
                 "title": "Greedy"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
             }
+            
         }
     },
     "c183": {
@@ -4248,6 +4258,9 @@
             },
             "02": {
                 "title": "Summer Love"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6421,6 +6434,17 @@
                 "title": ""
             },
             "89": {
+                "title": ""
+            }
+        }
+    },
+    "c540": {
+        "name": "Verita",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
                 "title": ""
             }
         }
@@ -12694,6 +12718,14 @@
             }
         }
     },
+    "xc176": {
+        "name": "Eshu",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc180": {
         "name": "Mammon",
         "variants": {
@@ -12854,6 +12886,14 @@
             }
         }
     },
+    "xc296": {
+        "name": "Hildr",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc297": {
         "name": "Red Queen",
         "variants": {
@@ -12872,6 +12912,14 @@
     },
     "xc305": {
         "name": "Rita",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc311": {
+        "name": "Khepri",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -12904,6 +12952,22 @@
     },
     "xc319": {
         "name": "Willow Doryeong",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc336": {
+        "name": "Pan",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc345": {
+        "name": "Anemone",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -12950,8 +13014,48 @@
             }
         }
     },
+    "xc370": {
+        "name": "Sunbeach Mona",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc377": {
+        "name": "Iphis",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc391": {
         "name": "Party Star Medb",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc398": {
+        "name": "Jacheongbi",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc422": {
+        "name": "Heket",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc426": {
+        "name": "Ophois",
         "variants": {
             "10": {
                 "title": "Puppet"
