@@ -6502,6 +6502,72 @@
             }
         }
     },
+    "c544": {
+        "name": "Virupa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c557": {
+        "name": "Rufus",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
+            }
+        }
+    },
+    "ig003": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Best Dressers"
+            }
+        }
+    },
+    "ig011": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Shall we dance?"
+            }
+        }
+    },
+    "ig012": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": "Davi's dinner time"
+            }
+        }
+    },
+    "ig013": {
+        "name": "???",
+        "variants": {
+            "01": {
+                "title": "Spectacular New Year's Eve party"
+            }
+        }
+    },
     "m001": {
         "name": "Fire Bat",
         "variants": {
