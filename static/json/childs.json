@@ -3511,6 +3511,9 @@
             "11": {
                 "title": "Banshee"
             },
+            "12": {
+                "title": "Spirit Guide"
+            },
             "89": {
                 "title": "Equinoctial"
             },
@@ -5913,6 +5916,45 @@
             }
         }
     },
+    "c497": {
+        "name": "Sol",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Bounty Hunter"
+            },
+            "10": {
+                "title": "Hellfire God"
+            },
+            "87": {
+                "title": "Hellfire God"
+            }
+        }
+    },
+    "c498": {
+        "name": "Ramlethal",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Brigadier"
+            }
+        }
+    },
+    "c500": {
+        "name": "Millia",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Iron Maiden"
+            }
+        }
+    },
     "c501": {
         "name": "Ragaraja",
         "variants": {
@@ -6047,10 +6089,10 @@
         }
     },
     "c509": {
-        "name": "Strigoi",
+        "name": "Strigoy",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Scarlet Blood"
             },
             "02": {
                 "title": "Immortal"
@@ -6059,24 +6101,24 @@
                 "title": "Bloody"
             },
             "87": {
-                "title": ""
+                "title": "Bloody"
             },
             "88": {
-                "title": ""
+                "title": "Immortal"
             },
             "89": {
-                "title": ""
+                "title": "Scarlet Blood"
             }
         }
     },
     "c510": {
-        "name": "Kresnik",
+        "name": "Krsnik",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Adversary"
             },
             "02": {
-                "title": "Grieving"
+                "title": "Martyr"
             },
             "10": {
                 "title": "Smoker"
