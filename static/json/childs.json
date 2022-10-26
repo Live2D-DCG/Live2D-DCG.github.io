@@ -11840,6 +11840,30 @@
             }
         }
     },
+    "sc498": {
+        "name": "Sol",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc499": {
+        "name": "Ramlethal",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc500": {
+        "name": "Millia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sm003": {
         "name": "Fire Dragon",
         "variants": {
