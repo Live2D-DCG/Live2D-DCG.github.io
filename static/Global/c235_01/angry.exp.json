@@ -1,0 +1,17 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"PARAM_EYE_OPEN","val":0},
+		{"id":"PARAM_EYE_BALL","val":30,"def":30},
+		{"id":"PARAM_EYE_BALL_LIGHT","val":0},
+		{"id":"PARAM_MOUTH","val":0},
+		{"id":"PARAM_BROW","val":0},
+		{"id":"EYEBALL_OP","val":1},
+		{"id":"MOUTH_OP","val":1},
+		{"id":"ANGRY","val":1},
+		{"id":"CONFUSED","val":0},
+		{"id":"EX_EF","val":0}
+	]
+}
