@@ -8,11 +8,13 @@
 		{"id":"EXPRESSION","val":0},
 		{"id":"EYE_OFF","val":0},
 		{"id":"EYE_SHD_OP","val":1},
+		{"id":"EYE_SZ","val":0},
 		{"id":"MOUTH_OFF","val":1},
 		{"id":"BROW_OFF","val":1},
 		{"id":"ANGRY","val":0},
 		{"id":"SHY","val":1},
 		{"id":"SMILE","val":0},
-		{"id":"SERIOUS","val":0}
+		{"id":"SERIOUS","val":0},
+		{"id":"CONFUSED","val":0}
 	]
 }
