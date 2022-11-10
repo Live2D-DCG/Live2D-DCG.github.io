@@ -1553,9 +1553,18 @@
         }
     },
     "c134": {
-        "name": "???",
+        "name": "Mentes",
         "variants": {
             "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
                 "title": ""
             }
         }
@@ -1753,6 +1762,9 @@
             },
             "02": {
                 "title": "Empress"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6058,33 +6070,33 @@
         }
     },
     "c507": {
-        "name": "Phorcys",
+        "name": "Phorcus",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Stand-In Shrine Maiden"
             },
             "02": {
-                "title": "Leisurely"
+                "title": "Imbiber"
             },
             "10": {
-                "title": "Full Frontal"
+                "title": "Boozer"
             },
             "88": {
-                "title": ""
+                "title": "Imbiber"
             }
         }
     },
     "c508": {
-        "name": "Chandraghanta",
+        "name": "Chandra",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Shaman"
             },
             "02": {
-                "title": "Radiant"
+                "title": "Blade of Vengeance"
             }
         }
     },
@@ -6129,10 +6141,10 @@
         "name": "Philotes",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Indecisive"
             },
             "02": {
-                "title": "Friendly"
+                "title": "Befriending"
             }
         }
     },
@@ -6140,10 +6152,10 @@
         "name": "Turan",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Confident"
             },
             "02": {
-                "title": "Independent"
+                "title": "Liberated"
             }
         }
     },
@@ -6396,6 +6408,15 @@
             },
             "10": {
                 "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -6494,6 +6515,17 @@
             }
         }
     },
+    "c541": {
+        "name": "Arhat",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
     "c543": {
         "name": "Megaera",
         "variants": {
@@ -6507,6 +6539,28 @@
     },
     "c544": {
         "name": "Virupa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c547": {
+        "name": "Demeter",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c549": {
+        "name": "Danu",
         "variants": {
             "01": {
                 "title": ""
