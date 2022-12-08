@@ -1858,6 +1858,15 @@
             },
             "11": {
                 "title": "Beautiful"
+            },
+            "12": {
+                "title": "Ravishing"
+            },
+            "87": {
+                "title": "Ravishing"
+            },
+            "88": {
+                "title": "Incarnated"
             }
         }
     },
@@ -5337,6 +5346,15 @@
             },
             "11": {
                 "title": "Queen"
+            },
+            "12": {
+                "title": "Bridal"
+            },
+            "86": {
+                "title": "Bridal"
+            },
+            "87": {
+                "title": "Fancy"
             }
         }
     },
@@ -6548,6 +6566,17 @@
             }
         }
     },
+    "c545": {
+        "name": "Ariel",
+        "variants": {
+            "01": {
+                "title": "Watcher"
+            },
+            "02": {
+                "title": "Messenger"
+            }
+        }
+    },
     "c547": {
         "name": "Demeter",
         "variants": {
@@ -6567,6 +6596,31 @@
             },
             "02": {
                 "title": ""
+            }
+        }
+    },
+    "c550": {
+        "name": "Scrouge",
+        "variants": {
+			"00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": "Blessed"
+            },
+            "02": {
+                "title": "Fiesta"
+            }
+        }
+    },
+    "c552": {
+        "name": "Bunny Ophois",
+        "variants": {
+            "01": {
+                "title": "Black"
+            },
+            "02": {
+                "title": "White"
             }
         }
     },
@@ -6597,7 +6651,7 @@
         "name": "Soul Carta",
         "variants": {
             "01": {
-                "title": "Best Dressers"
+                "title": "Best Dresser"
             }
         }
     },
@@ -6613,7 +6667,7 @@
         "name": "???",
         "variants": {
             "01": {
-                "title": "Davi's dinner time"
+                "title": "Davi's Special Party Time"
             }
         }
     },
@@ -6621,7 +6675,7 @@
         "name": "???",
         "variants": {
             "01": {
-                "title": "Spectacular New Year's Eve party"
+                "title": "Eventful Year-end Party"
             }
         }
     },
