@@ -1,0 +1,11 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"EMT_OFF","val":1},
+		{"id":"EMT_CFSD","val":0},
+		{"id":"EMT_SMILE","val":0},
+		{"id":"EMT_Pain","val":1}
+	]
+}
