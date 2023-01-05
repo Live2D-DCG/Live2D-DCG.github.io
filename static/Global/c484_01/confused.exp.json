@@ -3,6 +3,7 @@
 	"fade_in":0,
 	"fade_out":0,
 	"params":[
+		{"id":"eye_op","val":0},
 		{"id":"EB_OP","val":1},
 		{"id":"EB_L_OP","val":1},
 		{"id":"LIP_OP","val":1},
@@ -10,6 +11,8 @@
 		{"id":"angry_OP","val":0},
 		{"id":"confused_OP","val":1},
 		{"id":"smile_OP","val":0},
-		{"id":"joy_op","val":0}
+		{"id":"joy_op","val":0},
+		{"id":"pain","val":0},
+		{"id":"affiar_op","val":0}
 	]
 }
