@@ -6,14 +6,14 @@
     "texture_01.png"
   ],
   "motions": {
-    "01": [
+    "idle": [
       {
         "file": "v020_01_01.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
-    "01_60": [
+    "attack": [
       {
         "file": "v020_01_01_60.mtn",
         "fade_in": 0,
