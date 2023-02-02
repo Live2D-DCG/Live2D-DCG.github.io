@@ -758,6 +758,12 @@
             },
             "02": {
                 "title": "Clairvoyant"
+            },
+            "10": {
+                "title": ""
+            },
+            "11": {
+                "title": ""
             }
         }
     },
@@ -2376,6 +2382,32 @@
             },
             "02": {
                 "title": "Emperor"
+            }
+        }
+    },
+	"c213": {
+        "name": "Naga",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -5167,6 +5199,9 @@
             },
             "11": {
                 "title": "Zen Master"
+            },
+            "12": {
+                "title": ""
             }
         }
     },
@@ -6572,6 +6607,9 @@
     "c541": {
         "name": "Arhat",
         "variants": {
+			"00": {
+                "title": "Human"
+            },
             "01": {
                 "title": ""
             },
@@ -6696,6 +6734,42 @@
     },
     "c560": {
         "name": "Neith",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c561": {
+        "name": "Morgan",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c562": {
+        "name": "Salmacis",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            }
+        }
+    },
+    "c563": {
+        "name": "Mint",
         "variants": {
             "01": {
                 "title": ""
