@@ -4,10 +4,35 @@
   "textures": [
     "texture_00.png"
   ],
+  "expressions": [
+    {
+      "name": "angry",
+      "file": "angry.exp.json"
+    },
+    {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
+      "name": "idle",
+      "file": "idle.exp.json"
+    },
+    {
+      "name": "serious",
+      "file": "serious.exp.json"
+    }
+  ],
   "motions": {
     "attack": [
       {
         "file": "c283_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "banner": [
+      {
+        "file": "c283_02_banner.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
