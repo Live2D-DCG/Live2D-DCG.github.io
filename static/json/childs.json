@@ -2705,10 +2705,10 @@
         "name": "Dianus",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Nocturnal"
             },
             "02": {
-                "title": "White Night"
+                "title": "Midnight Sun"
             },
             "10": {
                 "title": "Sugar"
@@ -2935,10 +2935,10 @@
         "name": "Sarasu",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Heaven"
             },
             "02": {
-                "title": ""
+                "title": "Reality"
             }
         }
     },
@@ -6062,16 +6062,19 @@
         }
     },
     "c503": {
-        "name": "Mori Bari",
+        "name": "Bari",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Obedient"
             },
             "02": {
-                "title": "Memento"
+                "title": "Haughty"
+            },
+			"10": {
+                "title": "Summer Solstice"
             },
             "88": {
-                "title": "Memento"
+                "title": "Haughty"
             }
         }
     },
@@ -6082,10 +6085,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Aspiring Goddess"
             },
             "02": {
-                "title": "Reigning"
+                "title": "Governing Goddess"
             }
         }
     },
@@ -6211,36 +6214,36 @@
         }
     },
     "c513": {
-        "name": "Acrasia",
+        "name": "Akrasia",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Worshipped"
             },
             "02": {
-                "title": "Supreme"
+                "title": "Almighty"
             },
             "10": {
-                "title": "Consummate"
+                "title": "War Goddess"
             },
             "87": {
-                "title": ""
+                "title": "War Goddess"
             },
             "88": {
-                "title": ""
+                "title": "Almighty"
             },
             "89": {
-                "title": ""
+                "title": "Worshipped"
             }
         }
     },
     "c514": {
-        "name": "Duessa",
+        "name": "Duetsha",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Con Artist"
             },
             "02": {
-                "title": "Deceitful "
+                "title": "Deceiver"
             }
         }
     },
@@ -6267,10 +6270,10 @@
         "name": "Grendel",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Retaliator"
             },
             "02": {
-                "title": "Invader"
+                "title": "Aggressor"
             }
         }
     },
@@ -6303,22 +6306,22 @@
         "name": "Ishimi",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Draconic"
             },
             "02": {
-                "title": ""
+                "title": "False"
             },
             "10": {
-                "title": "Omnipotent"
+                "title": "Transforming"
             },
             "87": {
-                "title": ""
+                "title": "Transforming"
             },
             "88": {
-                "title": ""
+                "title": "False"
             },
             "89": {
-                "title": ""
+                "title": "Draconic"
             }
         }
     },
