@@ -3597,12 +3597,12 @@
             "00": {
                 "title": "Human"
             },
-			"01": {
+		"01": {
                 "title": "Praying"
             },
             "02": {
                 "title": "Prayer"
-            }
+            },
             "10": {
                 "title": "Equinoctial"
             },
@@ -3612,10 +3612,10 @@
             "12": {
                 "title": "Spirit Guide"
             },
-			"87": {
+		"87": {
                 "title": "Spirit Guide"
             },
-			"88": {
+		"88": {
                 "title": "Banshee"
             },
             "89": {
