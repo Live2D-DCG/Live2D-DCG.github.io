@@ -1783,6 +1783,15 @@
             },
             "10": {
                 "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
+                "title": ""
             }
         }
     },
@@ -3247,6 +3256,15 @@
             },
             "02": {
                 "title": "Butler"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
             }
         }
     },
@@ -3579,6 +3597,12 @@
             "00": {
                 "title": "Human"
             },
+			"01": {
+                "title": "Praying"
+            },
+            "02": {
+                "title": "Prayer"
+            }
             "10": {
                 "title": "Equinoctial"
             },
@@ -3588,15 +3612,16 @@
             "12": {
                 "title": "Spirit Guide"
             },
+			"87": {
+                "title": "Spirit Guide"
+            },
+			"88": {
+                "title": "Banshee"
+            },
             "89": {
                 "title": "Equinoctial"
-            },
-            "01": {
-                "title": "Praying"
-            },
-            "02": {
-                "title": "Prayer"
             }
+
         }
     },
     "c319": {
@@ -4904,6 +4929,9 @@
             "02": {
                 "title": "Mother"
             },
+			"10": {
+                "title": ""
+            },
             "88": {
                 "title": "Mother"
             }
@@ -5081,6 +5109,9 @@
             },
             "02": {
                 "title": "Lovely"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -5593,6 +5624,9 @@
             },
             "02": {
                 "title": "Truth"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6771,6 +6805,34 @@
     "c563": {
         "name": "Mint",
         "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c5644": {
+        "name": "Dike",
+        "variants": {
+			"00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c565": {
+        "name": "Freyja",
+        "variants": {
+			"00": {
+                "title": ""
+            },
             "01": {
                 "title": ""
             },
@@ -13389,6 +13451,22 @@
             }
         }
     },
+	"xc364": {
+        "name": "Sweet Sytry",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc366": {
+        "name": "Hard Worker Deino",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc370": {
         "name": "Sunbeach Mona",
         "variants": {
@@ -13397,8 +13475,24 @@
             }
         }
     },
+	"xc372": {
+        "name": "School Swimsuit Davi",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc377": {
         "name": "Iphis",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc382": {
+        "name": "Catgirl Neamhain",
         "variants": {
             "10": {
                 "title": "Puppet"
