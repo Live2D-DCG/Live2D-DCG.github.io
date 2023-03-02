@@ -3835,16 +3835,16 @@
         "name": "Yami",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Full Bloom"
             },
             "02": {
-                "title": ""
+                "title": "Phantosmia"
             },
             "10": {
                 "title": ""
             },
             "11": {
-                "title": ""
+                "title": "Dark Scent"
             }
         }
     },
@@ -6361,25 +6361,25 @@
         }
     },
     "c521": {
-        "name": "Gegute",
+        "name": "Zegati",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Resisting"
             },
             "02": {
-                "title": ""
+                "title": "Free"
             },
             "10": {
-                "title": "Progenitor"
+                "title": "Torrent"
             },
             "87": {
-                "title": ""
+                "title": "Torrent"
             },
             "88": {
-                "title": ""
+                "title": "Free"
             },
             "89": {
-                "title": ""
+                "title": "Resisting"
             }
         }
     },
@@ -6387,10 +6387,10 @@
         "name": "Dalia",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Dashing"
             },
             "02": {
-                "title": ""
+                "title": "Charging"
             }
         }
     },
