@@ -37,6 +37,12 @@
     "c001": {
         "name": "Mona",
         "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
             "12": {
                 "title": "Seaside"
             },
@@ -48,18 +54,18 @@
             },
             "17": {
                 "title": "Petit"
-            },
-            "01": {
-                "title": ""
-            },
-            "02": {
-                "title": "Battlesuit"
             }
         }
     },
     "c002": {
         "name": "Lisa",
         "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
             "10": {
                 "title": "Seaside"
             },
@@ -71,12 +77,6 @@
             },
             "00": {
                 "title": ""
-            },
-            "01": {
-                "title": ""
-            },
-            "02": {
-                "title": "Battlesuit"
             }
         }
     },
@@ -103,6 +103,9 @@
             },
             "17": {
                 "title": "Mini"
+            },
+            "18": {
+                "title": "Cheerleader"
             },
             "89": {
                 "title": "Lucifer"
@@ -874,6 +877,12 @@
             },
             "02": {
                 "title": "Midnight"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
             }
         }
     },
@@ -2101,9 +2110,6 @@
     "c187": {
         "name": "Thetis",
         "variants": {
-            "89": {
-                "title": "Sorrowful"
-            },
             "00": {
                 "title": "Human"
             },
@@ -2111,6 +2117,18 @@
                 "title": "Greiving"
             },
             "02": {
+                "title": "Sorrowful"
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
+            },
+            "89": {
                 "title": "Sorrowful"
             }
         }
@@ -4170,6 +4188,9 @@
             },
             "02": {
                 "title": "Lovey-Dovey"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6590,6 +6611,9 @@
             },
             "02": {
                 "title": "Freed"
+            },
+            "10": {
+                "title": "Sorrowful"
             }
         }
     },
@@ -6833,6 +6857,28 @@
 			"00": {
                 "title": ""
             },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c566": {
+        "name": "Europa",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c567": {
+        "name": "Lo",
+        "variants": {
             "01": {
                 "title": ""
             },
@@ -13451,6 +13497,14 @@
             }
         }
     },
+    "xc355": {
+        "name": "Guardian Chang'e",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
 	"xc364": {
         "name": "Sweet Sytry",
         "variants": {
@@ -13507,8 +13561,32 @@
             }
         }
     },
+    "xc397": {
+        "name": "Christmas Leda",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc398": {
         "name": "Jacheongbi",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc410": {
+        "name": "Failnaught",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc415": {
+        "name": "Annie",
         "variants": {
             "10": {
                 "title": "Puppet"
