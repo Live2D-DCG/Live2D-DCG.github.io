@@ -2100,10 +2100,10 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Controller"
             },
             "02": {
-                "title": "Master"
+                "title": "Ruler"
             }
         }
     },
@@ -2329,10 +2329,10 @@
                 "title": "Human"
             },
             "02": {
-                "title": ""
+                "title": "Guardian"
             },
             "88": {
-                "title": "Serene"
+                "title": "Peaceful"
             }
         }
     },
@@ -4190,7 +4190,7 @@
                 "title": "Lovey-Dovey"
             },
             "10": {
-                "title": ""
+                "title": "So Sicktry"
             }
         }
     },
@@ -4383,7 +4383,7 @@
                 "title": "Summer Love"
             },
             "10": {
-                "title": ""
+                "title": "Enchanting"
             },
             "87": {
                 "title": ""
@@ -6489,22 +6489,22 @@
         "name": "Rani",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Stern"
             },
             "02": {
-                "title": ""
+                "title": "Black Tiger"
             },
             "10": {
-                "title": "Princess"
+                "title": "Beloved Daughter"
             },
             "87": {
-                "title": ""
+                "title": "Beloved Daughter"
             },
             "88": {
-                "title": ""
+                "title": "Black Tiger"
             },
             "89": {
-                "title": ""
+                "title": "Stern"
             }
         }
     },
@@ -6512,10 +6512,10 @@
         "name": "Reynard",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Crafty"
             },
             "02": {
-                "title": ""
+                "title": "Selfish"
             }
         }
     },
