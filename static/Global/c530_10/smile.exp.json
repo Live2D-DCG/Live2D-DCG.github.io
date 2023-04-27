@@ -1,0 +1,16 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"BROW_X","val":-4.08},
+		{"id":"BROW_Y","val":-8.88},
+		{"id":"BROW_Z","val":-5.52},
+		{"id":"R_EYE_CLOSE","val":-24.24,"def":-30},
+		{"id":"L_EYE_CLOSE","val":-22.8,"def":-30},
+		{"id":"EYEBROW_B_DW","val":13.8},
+		{"id":"MOUTH_OFF","val":1},
+		{"id":"SMILE","val":1},
+		{"id":"SERIOUS","val":0}
+	]
+}

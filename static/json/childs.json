@@ -3817,13 +3817,13 @@
         "name": "Hathor",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Peerless Power"
             },
             "02": {
-                "title": ""
+                "title": "Extinction"
             },
             "10": {
-                "title": "Ascendant"
+                "title": "Assured Victory"
             }
         }
     },
@@ -3835,6 +3835,9 @@
             },
             "02": {
                 "title": "Farm Sheep"
+            },
+			"10": {
+                "title": ""
             },
 			"89": {
                 "title": "Farm Sheep"
@@ -4864,10 +4867,10 @@
                 "title": "Phantom"
             },
             "10": {
-                "title": ""
+                "title": "Chancing"
             },
             "87": {
-                "title": ""
+                "title": "Chancing"
             }
         }
     },
@@ -4968,16 +4971,16 @@
                 "title": "Persistent"
             },
             "10": {
-                "title": "Flawless"
+                "title": "Pure Love"
             },
             "87": {
-                "title": ""
+                "title": "Pure Love"
             },
             "88": {
-                "title": ""
+                "title": "Biased"
             },
             "89": {
-                "title": ""
+                "title": "Swift"
             }
         }
     },
@@ -6123,6 +6126,9 @@
             "11": {
                 "title": "Frustrated"
             },
+			"86": {
+                "title": "Frustrated"
+            },
             "87": {
                 "title": "The Wisdom"
             },
@@ -6527,6 +6533,15 @@
             },
             "02": {
                 "title": ""
+            },
+            "10": {
+                "title": ""
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
+                "title": ""
             }
         }
     },
@@ -6545,22 +6560,22 @@
         "name": "Kanaloa",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Lord"
             },
             "02": {
-                "title": ""
+                "title": "Wild"
             },
             "10": {
-                "title": ""
+                "title": "Bikini"
             },
             "87": {
-                "title": ""
+                "title": "Bikini"
             },
             "88": {
-                "title": ""
+                "title": "Wild"
             },
             "89": {
-                "title": ""
+                "title": "Lord"
             }
         }
     },
@@ -6790,6 +6805,20 @@
             }
         }
     },
+    "c558": {
+        "name": "Glinda",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
+                "title": ""
+            }
+        }
+    },
     "c560": {
         "name": "Neith",
         "variants": {
@@ -6883,6 +6912,25 @@
                 "title": ""
             },
             "02": {
+                "title": ""
+            }
+        }
+    },
+	"c568": {
+        "name": "Glinda",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+	"c570": {
+        "name": "???",
+        "variants": {
+            "01": {
                 "title": ""
             }
         }
@@ -13102,6 +13150,14 @@
             }
         }
     },
+	"xc091": {
+        "name": "Myra",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc101": {
         "name": "Syrinx",
         "variants": {
@@ -13457,6 +13513,14 @@
             }
         }
     },
+	"xc347": {
+        "name": "Prophet Dana",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc348": {
         "name": "Mars♥",
         "variants": {
@@ -13507,6 +13571,14 @@
     },
 	"xc364": {
         "name": "Sweet Sytry",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc365": {
+        "name": "Dark Buster Lisa",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -13579,6 +13651,14 @@
     },
     "xc410": {
         "name": "Failnaught",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc414": {
+        "name": "Billy",
         "variants": {
             "10": {
                 "title": "Puppet"
