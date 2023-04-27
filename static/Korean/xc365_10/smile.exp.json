@@ -1,0 +1,9 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"face_change","val":-30},
+		{"id":"face_mouth","val":-30}
+	]
+}
