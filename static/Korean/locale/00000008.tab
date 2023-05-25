@@ -1,0 +1,2218 @@
+﻿// key	CHARACTER_NAME_	CHARACTER_SKIN_DESCRIPTION_
+c000_01	_Master	The flat-broke demon's fashion sense is always out of the question.
+c000_10	Mysterious_Master	A strangely familiar-looking girl's outfit.
+c000_11	Girl's School_Master	A blazer uniform made for students attending a prestigious school for girls.
+c000_12	Swimsuit_Master	
+c000_13	_Master	
+c000_14	Dress_Master	
+c000_15	_Master	
+c000_16	_Master	
+c001_01	_Mona	A refined uniform for the lazy demon slave driver.
+c001_02	Battlesuit_Mona	Succubus Mona is ready to roll ♥
+c001_12	Seaside_Mona	The woman of the hour, clad in a skin-tight swimsuit.\Just what you need to turn up the heat!
+c001_14	Teacher_Mona	Outfit worn by Mona, the strict succubus.
+c001_16	Swimsuit_Mona	Sexy bikini worn by the woman who leaves tongues wagging.\Your summer's about to heat up!
+c001_17	Petit_Mona	Mona's childhood form created from her biological information!
+c002_00	_Lisa	Succubus Lisa's secret pajamas.
+c002_01	_Lisa	A gorgeous uniform worn by the capable,\super S-class succubus.
+c002_02	Battlesuit_Lisa	The stats of the capable, super S-class succubus increased!
+c002_10	Seaside_Lisa	A sexy bikini worn by the woman who turns many heads.\Forecast for summer: excitement!
+c002_11	Student_Lisa	Succubus Lisa's honor student uniform.
+c002_12	Summer Camp_Lisa	Lisa's finely designed swimsuit.\Stands up to the summer heat!
+c003_01	_Davi	Davi is just so cute, no matter what she wears!
+c003_02	Battlesuit_Davi	Lovely Davi's cuteness factor\just went through the roof!
+c003_10	Seaside_Davi	Davi, the girl of the hour, in her own bikini.\Go and have fun with a demon!
+c003_11	Student_Davi	School uniform for Davi, now in the throes of adolescence.
+c003_13	Summer Dream_Davi	Davi's full-body bathing suit emphasizing functionality.
+c003_14	Lucifer_Davi	The Archfiend's look as imagined\in Davi's hopes and dreams!
+c003_15	Satan_Davi	Lethal Davi's imagination, a dream within a dream.
+c003_16	Crimson_Davi	Davi's imagination, a crimson flower that blossomed from a dream.
+c003_17	Mini_Davi	A Davi made from a fragment of Archfiend Davi.\Is it just me, or does this look familiar?
+c003_18	Cheerleader_Davi	Don't get me wrong! I'm not cheering for Master at all!\Davi's cheerleading uniform, solely used for Mona.
+c003_89	Lucifer_Davi	The Archfiend's look as imagined\in Davi's hopes and dreams!
+c004_00	_Jennifer	A sporty skirt that is a perfect match for her.
+c004_01	Neighborly_Cheoyong	An extra stretchy combat suit for a rampaging Child.
+c004_02	Warmharted_Cheoyong	A special combat suit that boost the power of her weapons.
+c005_00	Natsume_Sawaki	Squirt guns don't come with an aiming function, so watch out!
+c005_01	Zooming_Mars	Depending on the mood when worn,\may result in a rampage, so watch out!
+c005_02	Rampaging_Mars	Locked and loaded! Now it's time for revenge!
+c007_00	Kyosuke_Kaga	Phoenix's signature casual wear made of fire.
+c007_01	Hot_Phoenix	Phoenix's signature costume!\Just don't say it's similar!
+c007_02	Fiery_Phoenix	Phoenix's signature costume made of fire!
+c008_00	Kyoko_Wakatsuki	The handgrip of her accessory is amazing!
+c008_01	Warrior_Frigga	Frigga's soul glows white.
+c008_02	Militant_Frigga	Frigga's fight spirit shines white.
+c009_00	Jin_Uto	You can fight as long as you have the will to do so, even with a replica gun!
+c009_01	Mercenary_Hector	The customer is responsible for any damage or injuries that result.
+c009_02	Fixer_Hector	A costume with maximum durability for mercenaries who risk their life in battle.
+c010_00	Marika_Takanashi	An outfit for nurses who live their life to the fullest.
+c010_01	Bluffing_Demeter	Now that I'm a nurse, maybe I should try administering a shot.
+c010_02	Vain_Demeter	Demeter's combat suit discovered in a secret hospital.
+c011_00	Fusako_Haito	A sincere medical student's combat suit. Wearing them causes a series of mistakes.
+c011_01	Volunteer_Deino	A combat suit of a hardworking girl. Even hard workers make mistakes.
+c011_02	Devoted_Deino	A combat suit of an enthusiastic girl. Even enthusiastic workers make mistakes.
+c012_00	Ryuzo_Muto	A coat for a veteran detective.
+c012_01	Hotblooded_Agamemnon	A costume for Agamemnon.\Ready to fight, whenever and wherever.
+c012_02	Final_Agamemnon	Bring it on, anytime.\Agamemnon's true costume.
+c013_00	Kasumi_Sakuragawa	A brilliant girl who indifference to fashion sense is actually adorable.
+c013_01	Moonless_Artemis	A jet black nightgown for a quiet evening.
+c013_02	Lunar_Artemis	A moonlight nightgown for a chilly evening.
+c014_00	Katsumi_Tohdoh	A military costume from Astraea's pactmaker.
+c014_01	Starry_Astraea	The cross charm is Astraea's symbol.
+c014_02	Galaxy_Astraea	A pearl-black costume that brings out Astraea's strict nature.
+c015_01	Seasonal_Helena	Her standard outfit made with attention to every detail.
+c017_00	Mad Dog_Komugi	Give her a bath once a week if you don't like the smell of dogs.
+c017_01	Guard Dog_Cu Sith	"Believe in me! Feel the guard dog's fighting spirit!"
+c017_02	Defender_Cu Sith	"Once I bite down, I never let go! Feel the guard dog's fighting spirit!"
+c018_00	Yayoi_Yagami	Costume of a melancholy doll maker.
+c018_01	Little_Korra	Costume of the puppeteer Korra.\The option to make puppets talk is also available.
+c018_02	Immature_Korra	Costume of the puppeteer Korra. Its sister product is a possessed puppet.
+c019_00	Shizune_Urushibara	This new teacher's outfit is dripping with enthusiasm.
+c019_01	Frenzied_Eris	Combat suit for the merciless Eris.
+c019_02	Raging_Eris	Combat suit for the merciless Eris. The flames of rage boosted her Power.
+c020_00	Aisa_Yukawa	Dice serve as an adequate weapon for a lazy beast.
+c020_01	Dangerous_Fortuna	Gambling Fortuna's lucky outfit.
+c020_02	Gambling_Fortuna	Gambling Fortuna's luckiest outfit.\She's never lost when wearing it.
+c022_00	Yutaka_Sakamaki	"I'm the futon fairy. Join me in my futon paradise!"
+c022_01	Lazy_Mayahuel	Excessive gaming has a negative effect on the eyesight of developing pretty boys.
+c022_02	Woeful_Mayahuel	Mayahuel has leveled up. His stat increase is complete, too.
+c022_10	Maid Mode_Mayahuel	Pretty-boy Mayahuel's pretty-girl romance game costume.\He's totally into it.
+c023_00	_Camineu	
+c023_01	_Camineu	
+c024_00	Neighbor_Rufus	
+c024_01	_Rufus	
+c024_02	Archduke_Rufus	
+c026_00	Kagamino_Arisa	Haven't gone out in a while? This skirt is highly recommended.
+c026_01	Delightful_Eos	The Soul Loss brooch is a biological treasure among treasures.
+c026_02	Delirious_Eos	"Take a good look at the brooch. Notice anything different?"
+c027_00	Kageko_Kurokasa	"My skirt's blowing open! But it's fine!"
+c027_01	Awakened_Cynthia	This unisex cape for superheroes is flying off the shelves.
+c027_02	Genuine_Cynthia	"So you want to be a superhero? Well, first you'll need a cape!"
+c028_00	Mikoto_Kenmochi	An everyday combat suit for this regal lady.
+c028_01	Successful_Leda	Leda's nice body is hard to quit!
+c028_02	Shining_Leda	Leda has a nice body! And who wouldn't want to be trampled by those legs!
+c028_10	Day Dream_Leda	"Kneel before Queen Leda, the woman of your fantasies!"
+c029_00	Harue_Asahina	There's nothing like a Child who exhibits elegance from the start.
+c029_01	Night_Selene	The moon goddess is clad in clouds.
+c029_02	Lunar_Selene	The moon goddess is clad in light.
+c030_00	Sarah_J.	A detective? That hunting cap is cute.
+c030_01	Roaming_Detective Girl	This exclusive costume for the\Wandering Detective Girl makes her indestructible!
+c030_02	Tom-Boy_Detective Girl	This exclusive costume for the\Hardboiled Lil' Detective boosts her case-solving rate to 100%.
+c031_00	_Runt	"I never forget the master's kindness ♥ He still has a tail!"
+c031_01	Innocent_Freyja	Makes you want to chase anything that moves. Wear with caution!
+c031_02	Pure_Freyja	Makes you meow when speaking. Wear with caution!
+c032_00	Sana_Tanikawa	The best choice for the mature spirit world is a retro look.
+c032_01	Lively_Alecto	"Call me anytime, master! I have my maid uniform on 24-7!"
+c032_02	Non-Stop_Alecto	A maid's uniform makes you fearless!
+c033_00	Sae_Momoki	The color green soothes the pain of a girl who can't forget her first love.
+c033_01	Tranquil_Diana	This pure young girl will become queen of the forest.
+c033_02	Reclusive_Diana	This pure young girl will become the guardian deity of the forest.
+c034_00	Tomomi_Okawachi	A costume of a daydreaming librarian. Reading is a daydreamer's sacred duty.
+c034_01	Lazy_Mnemosyne	Mnemosyne's body-hugging combat suit.
+c034_02	Haughty_Mnemosyne	Mnemosyne's body-hugging combat suit has a slimming effect.
+c035_00	Kanna_Kirishima	The ribbon is a reminder of the love of the father she left behind.
+c035_01	Dawn_Persephone	An outfit perfect for any negotiation.
+c035_02	Bound_Persephone	Can we interest you in the\latest trend in the Infernal Realm?
+c036_00	Saya_Imamiya	This costume hides everything. Now there's no need to worry about your figure.
+c036_01	Squandering_Hermes	This costume from Hermes,\the used clothes dealer, shows how little she cares about fashion.
+c036_02	Buyer_Hermes	This costume from Hermes,\the used clothes dealer, shows how little she cares about trends.
+c036_10	Collector_Hermes	A limited edition jersey made just for Hermes
+c037_00	_Judas	Creepy cute casual wear worn by Judas, king of the backstreets.
+c037_01	_Judas	Causes profuse sweating but who cares? Real men use lasers!
+c037_02	Dark Lord_Judas	If gets too hot outside, it's time to take it off.
+c038_00	Alicia_Bradley	A vacation outfit that screams fun in the sun.
+c038_01	Spiteful_Calypso	Just the costume you'd expect from the girl who insists blue is the color of vivid love.
+c038_02	Charming_Calypso	Love requires courage. But I don't plan on drowning at sea...
+c039_00	Yuri_Morita	This outfit transforms its wearer into a confident career woman.
+c039_01	Furious_Morrigan	She wore this after hearing it was supposed to be ladylike, but now she feels deceived.
+c039_02	Devout_Morrigan	She wore this after hearing it was supposed to look attractive, but now she feels deceived.
+c040_00	Shizuka Takagi	This uniform is a must for office workers strict about how work is done. That's the rule!
+c040_01	Lawful_Shamash	Who in the world decided that rabbits are righteous animals?
+c040_02	Law-Abiding_Shamash	Righteous rabbits show no mercy. "Eat my bunny punch!"
+c041_00	_Mattie	Welcome to Darktown. Can I interest you in this elegant fur coat?
+c041_01	Night_Tiamat	Watch out! Her outfit is so black,\it's hard to tell where her belt is.
+c041_02	Abyssal_Tiamat	The old trope "beautiful babe behind the mask" works every time.
+c043_00	Marika_Yonai	This cosplay outfit would probably be a hit in America!
+c043_01	Conceited_Hera	"Hey you!\Yeah, you! No, not you! I'm talking to YOU!"
+c043_02	Egotistical_Hera	You haven't been truly put to the test until you've stared down the barrel of a gun and smiled!
+c044_00	Hiroyuki_Nishiyama	Flat broke as usual, and zero fashion sense.
+c044_01	Aimless_Pantheon	Nothing really changed, even after becoming a Child.
+c044_02	Vagabond_Pantheon	A flat-broke dual-blade wielder can't afford to let his guard down!
+c045_00	Hino_Aria	Try flashing that well-rehearsed smile when the cameras barge into the training room.
+c045_01	Singing_Aria	A pop star's sweat is the fruit of her labors!
+c045_02	Delightful_Aria	Everyone's been waiting! Time to take the stage!
+c045_10	Christmas_Aria	Noel〜Noel〜♪\Human and Devil alike, come enjoy the concert Aria Live!
+c045_11	Highlight_Aria	I'm giving it my all! Let's do this together!\"L-O-V-E! Lovely Aria!"
+c045_12	Breaktime_Aria	The fateful day when she met Planet Party.
+c045_13	Lovely Star_Aria	An endless concert. An encore just for you,\and the one under the bright lights.
+c045_89	Highlight_Aria	
+c047_00	Ran_Kagami	A costume for a woman who just can't say no.
+c047_01	Smoldering_Hestia	A costume for the girl who wants everyone she dislikes to burn with envy...or fire.
+c047_02	White Flame_Hestia	A costume the color of white-hot magnesium.
+c048_00	Mei_Urae	An outfit that has been cursed by a wretched young girl. Makes a great souvenir.
+c048_01	Melancholy_Neamhain	Pessimistic, masochistic, snarky. The total package.
+c048_02	Love-Hate_Neamhain	There's no poison more deadly than love, and she's got plenty of both.
+c048_10	Role of the Nurse_Neamhain	Costume for playing the role of the Nurse in the play Romeo and Juliet.\I'm not Frej's nurse.
+c049_00	_Rosseta	If you're looking for peace of mind, try this on for size.
+c049_01	Lost_Maat	Don't make a habit out of wearing this habit in God's presence.
+c049_02	Blind Faith_Maat	Even demons need a breather sometimes.
+c049_10	Abyssal_Maat	An outfit born from the darkness\lurking within Maat.
+c050_02	Tyrannical_Od	Od's true form.
+c051_00	_Frej	Frej after reverting to child form in order to conserve his magic.
+c051_01	_Frej	Only the great Frej could pull off a mesh T-shirt like this!
+c051_02	Bad Boy_Frej	Yes, it is I, Bad Boy Frej, the great demon of the Infernal Realm!
+c051_12	Role of Tybalt_Frej	Costume for playing the role of Tybalt in the play Romeo and Juliet.\Lisa's looking at me.
+c051_21	Cursed Doll_Frej	
+c052_00	Mikio_Harashinai	The wrath of a salesperson, normally kept hidden beneath suit and tie.
+c052_01	Dramatic_Berit	If someone who looks like this ever approaches you,\run away and don't look back.
+c052_02	Deceptive_Berit	Do NOT accept invitations from boys dressed like\this, no matter how cute they may be.
+c053_00	Chie_Amamiya	No amount of beautiful clothes can hope to fill the hole in her heart.
+c053_01	Hesitant_Metis	Resembles a doll in more ways than one. Never says a word, because she never needs to.
+c053_02	Clairvoyant_Metis	Resembles a doll in more ways than one.\A lot of work went into her skirt, and it shows.
+c054_00	_Ichitaka	Trains every day to better serve her master. Nin-nin!
+c054_01	Guardian_Legend	A distinctly un-ninja-like ninja costume made with devotion to her master.
+c054_02	Heroic_Legend	The legend of Legendary Legend begins today...legendarily.
+c056_00	Mia_Saotome	Everyone knows no demon can withstand a nun habit.
+c056_01	Martyr_Jeanne d'Arc	If only she WOULD actually fight like a demon...
+c056_02	Sacrificial_Jeanne d'Arc	Even a demon would be receptive to the gospels coming from one as devout from her.
+c057_00	_Lan Fei	Don't defy her, if you know what's good for you.
+c057_01	_Lan Fei	How's anyone supposed to focus on shopping with a store owner like this?
+c057_02	Blackstar_Lan Fei	Two words: lethal beauty.
+c057_10	Night of Drinking_Lan Fei	She does whatever it takes to get what she wants.\Such is Lan Fei.
+c057_87	Night of Drinking_Lan Fei	She does whatever it takes to get what she wants.\Such is Lan Fei.
+c057_88	Blackstar_Lan Fei	Two words: lethal beauty.
+c057_89	_Lan Fei	How's anyone supposed to focus on shopping with a store owner like this?
+c058_00	_Nirrti	Exorcist training clothes.
+c058_01	Exorcist_Nirrti	An outfit that perfectly expresses what that Child is all about.
+c058_02	Rakshasa_Nirrti	Become one with the blade.
+c060_00	Rurimi_Sakakibara	Dressed all in white from head to toe.
+c060_01	Counterattack_Tisiphone	Be wary about approaching from behind!
+c060_02	Avenger_Tisiphone	A woman as deadly as she is beautiful.
+c061_00	Shion_Fujiwara	Spreading the most beautiful heavy metal throughout the world.
+c061_01	Underground_Siren	If you want to perform on the world's stage, you'd better be dressed for the occasion!
+c061_02	Midnight_Siren	Feeling demonically inspired!
+c062_00	Atsuko_Sashikawa	Strongly recommended for those who wish to spend their school days between love and envy.
+c062_01	Fragrant_Europa	Remember to watch for thorns even on the most beautiful of flowers...
+c062_02	Alluring_Europa	You don't see what's so beautiful? You may want to get your head examined.
+c063_00	Akimi_Inokuchi	Casual wear for shy girls.
+c063_01	Timid_Freesia	Don't forget to affix postage when you mail a letter.
+c063_02	Speculative_Freesia	If you mean what you say, you don't need more than a single sentence.
+c064_00	Iwai_Akiko	A costume that elevates Medusa's glamour to even greater heights.
+c064_01	Reigning_Medusa	Medusa's formal combat suit.
+c064_02	Conquering_Medusa	A combat suit that contains Medusa's fighting spirit.
+c064_88	Conquering_Medusa	If you're gonna run, do it now.
+c064_89	Reigning_Medusa	
+c065_00	Amu_Amamiya	Being a grown-up is hard.
+c065_01	Blooming_Erato	A blooming beauty.
+c065_02	Profuse_Erato	Did you find some perfume that goes well with this outfit?
+c066_00	_Yohei Kurozaki	Chess is a game of deception. Don't be fooled by that smile.
+c066_01	Self-Righteous_Aten	Give 'em your best poker face. Don't let your feelings give you away.
+c066_02	Machiavellian_Aten	1 + 1 = 2! Now, don't you feel smarter?
+c067_00	Sakuji_Kusano	Forbidden for young guys in good health.
+c067_01	Unknown_Thanatos	Black is the color of death and decay.
+c067_02	Trancendent_Thanatos	Black is the color of rest and eternal peace.
+c068_00	Shiori_Sato	Thanks to the apron, the clothes were saved, but the food was not.
+c068_01	Challenger_Ambrosia	Did you know that sausages are actually really hard to cook?
+c068_02	Gourmet_Ambrosia	Can I have some dessert?
+c069_00	Ryohei_Kirihara	Wrenches are tools, not weapons.
+c069_01	Restorative_Ptah	This wrench isn't a tool. It's a weapon.
+c069_02	Tuning_Ptah	For fools with loose screws, I've got just the wrench to tighten them up.
+c072_00	Hirotsugu_Nakayamamoto	Why would you think I'm being bullied?
+c072_01	Explorer_Fenrir	Combat suit for nihilists of few words.
+c072_02	Shadow_Fenrir	I may not survive this battle, but I'm taking the enemy down with me!
+c073_00	Futaba_An	A pessimistic general store shopkeeper.
+c073_01	Self-Deprecating_Navi	Navi's cold dress, laden with sighs.
+c073_02	Hollow_Navi	A dress made of the tears Navi has shed.
+c074_00	Yoshiko_Yoshida	A true cheerleader can work with anything.
+c074_01	Cheerful_Quirinus	Did you know sunfish and demons are best buds?
+c074_02	Passionate_Quirinus	For the demon who wants a personal cheering squad!
+c075_01	Odorous_Taha	A black halter-neck mini-dress chosen personally by Taha.
+c082_00	Yu_Kano	Put this on to increase your powers of perception, as well as your share of bad luck.
+c082_01	Artisanal_Calchas	A casual, yet well-engineered jacket with distinctive red armbands.
+c082_02	Prophetic_Calchas	Calchas's cool, casual, cream-colored coa...er, jacket.
+c083_00	Rei_Kamisaka	All bags are subject to inspection. And yes, firearms will be confiscated!
+c083_01	Battlefield_Neith	Put this on and watch your thirst for battle shoot up.
+c083_02	Tactician_Neith	This outfit raises your Power, with a slight trade-off: You'll have trouble discerning enemies from allies.
+c086_00	Kyoko_Harada	Never have soup made by unauthorized witches.
+c086_01	Seasoned_Goga	Food is sincerity! Goga's combat fatigues.
+c086_02	Flavored_Goga	Food is love! Goga's combat fatigues.
+c087_01	Pure-White_Ninurta	Ninurta's lucky outfit for surviving heated battles.
+c090_00	Keito_Rindo	Keep on living, no matter what lies in your way.
+c090_01	Resurgent_Vulcan	A costume that captures that classic Muppet feel.
+c090_02	Reviving_Vulcan	A Renaissance look that captures that classic Muppet feel.
+c091_00	Miyamori_Yuriko	An outfit displaying Myra's true toughness.
+c091_01	Guardian_Myra	A simple outfit displaying Myra's full ferocity.
+c091_02	Loyal_Myra	Myra's power has been unleashed. No one can come close to her now.
+c092_01	Hygienic_Eames	A combat suit that makes abundantly clear how good Eames is with a sword.
+c095_00	Kumiko_Kudo	Scratches or not, I'll work as hard as it takes!
+c095_01	Hotblooded_Vesta	Put this on to challenge anyone at all to a duel!
+c095_02	Passionate_Vesta	Combat suit that is entirely focused on victory.
+c099_00	Marin_Okazawa	What's wrong with a pop star playing heavy metal?
+c099_01	Bored_Melpomene	When I put this on, my voice got updated!
+c099_02	Roaring_Melpomene	Can't headbang without long hair!
+c101_00	Nanami_Kasugai	Won't you be her guardian angel?
+c101_01	Naive_Syrinx	Combat suit for the kindhearted Syrinx.
+c101_02	Praising_Syrinx	Combat suit for Syrinx after she decided\to show kindness to humans and demons alike.
+c101_10	Miracle_Syrinx	Her kindness can melt even winter.
+c106_01	Vengeful_Medeia	Comes with a doll who talks when the wearer does.
+c106_02	Plotting_Medeia	Comes with a doll that was cursed along with this outfit.
+c107_00	Masato_Teshigawara	Not even sunglasses can hide his empty thoughts.
+c107_01	Glittering_Apollo	Dancer Apollo’s combat suit. Once they start grooving, his hips won't stop moving.
+c107_02	Admirable_Apollo	Sun Dancer Apollo’s combat suit. It's hard to look away from...you know.
+c110_00	Sakuma_Yoshihiro	A teddy bear maker of some renown.
+c110_01	Persistent_Flins	Form over function.\This leather suit is a study of style.
+c110_02	Venturer_Flins	No chance of keeping the cold out.\This leather suit is an experiment in passionate design.
+c110_10	Christmas_Flins	Leather suit for a man so fiery he melts the Christmas Eve snow.
+c112_00	Seiichiro_Kurusu	Agonizingly thinking about "truth" is the sign of a growing boy.
+c112_01	Truth-Seeker_Elias	Combat suit made with the agony of Truth-Seeker Elias.
+c112_02	Sage_Elias	Combat suit made with the will of Elias, guardian of wisdom.
+c113_00	Kayano_Mido	An outfit worn by a Child's pactmaker.
+c115_00	Shino_Tsurumaki	My secret to soft, white skin? Die young!
+c115_01	Sorrowful_Sonnet	Makes every member of the audience feel sad, regardless of what is being performed.
+c115_02	Reconciliatory_Sonnet	Makes every member of the audience want to burst into tears, regardless of what is being performed.
+c116_01	Perceptive_Pluto	Pluto's basic combat uniform.
+c117_00	Himiko_Kiba	Young witches tend to be easy prey for demons...
+c117_01	Loyal_Yaga	A witch is nothing without her broom, and a broom is nothing without a witch. Any questions?
+c117_02	Pious_Yaga	The official witch's uniform.
+c120_00	Tsubomi_Kisaragi	In flower language, morning glories supposedly mean "good news."
+c120_01	Meadow_Flora	Flora's combat suit. Smells like wildflowers.
+c120_02	Free_Flora	Flora's combat suit. Smells like spring sunshine.
+c121_00	Norio_Nonomura	When you feel like being alone, try this "forlorn musical prodigy" look on for size.
+c121_01	Night_Muse	Instruments are for playing, not shaking.
+c121_02	Thundering_Muse	A costume for Muse that makes you look cool, even if you only know E minor.
+c122_01	Materialistic_Samael	Samael's basic combat uniform.
+c122_02	Covetous_Samael	Samael's combat suit, which lets her utilize\the full extent of her natural power.
+c122_10	Bunny-Eared_Samael	An outfit that draws out Samael's hidden charms,\though she herself isn't a huge fan.
+c123_00	Kaneko_Kaneda	What's a megaphone-wielding boss supposed to do?
+c123_01	Creative_Baphomet	A costume for Baphomet, who refuses to be satisfied with anything dull, antiquated, or obsolete.
+c123_02	Cheering_Baphomet	A costume for Baphomet, who tirelessly seeks to push the boundaries of fashion.
+c124_00	_Eve	If a pretty young girl asks you for directions, be kind.
+c124_01	Forbidden_Eve	Only Eve could wear a pumpkin skirt and still make it look hot.
+c124_02	Original Sin_Eve	Raises Power, but impedes your sense of direction.
+c124_10	Cyan Rose_Eve	The cold light of dawn. A dream of blue rose petals.
+c125_00	Seiji_Sengoku	High-schooler who has a crush on Rusalka's pactmaker.
+c125_01	Comedy_Attis	Attis' blade, refined by a pure heart.
+c125_02	Sworn Blade Hero_Attis	A sword on which love for Rusalka has been sworn.
+c125_10	Romantic_Attis	My feelings remain unchanged, despite this love's thorn-laden path!
+c125_89	Romantic_Attis	I shall let none be an obstacle to my love!
+c126_00	Momomi Hoshida	The cheerful smile of a young girl who has overcome first heartbreak's pain.
+c126_01	Your_Salmacis	A mass-market magical girl suit. Available at toy stores everywhere.
+c126_02	Your Exclusive_Salmacis	A Salmacis-exclusive suit that no toy store could hope to match.
+c127_00	Natsuki_Oguri	Having a cat around makes even the rainiest days shine.
+c127_01	Wild_Bastet	Why is everyone pretending to not see me...?
+c127_02	Phantom Night_Bastet	If you want to wear this outfit, you need to master your catwalk. I mean a REAL catwalk.
+c127_10	Second Coming_Bastet	Bastet's pharaoh costume, stitched with magical golden thread.
+c129_01	Honorable_Nike	Nike's standard outfit.
+c130_00	Kagura_Maganuma	White hair at a young age is the mark of a true musician.
+c130_01	Strategic_Genius	A combat suit for Genius, the peerless musician.
+c130_02	Master_Genius	A combat suit for Genius, the perfectionist artist.
+c131_00	Akihiko_Oda	An outfit worn by Osiris's pactmaker.
+c131_01	Returned_Osiris	Osiris's basic combat uniform.
+c132_00	Akihiro_Oda	There is no better outfit for dancing the days away.
+c132_01	Composed_Midas	A suit for Midas that exudes quiet elegance.
+c132_02	Aesthetic_Midas	A suit for Midas that is fit for a banquet.
+c133_00	Ayaka_Mitsukuni	An outfit for volleyball, NOT dodgeball.
+c133_01	Armageddon_Titania	Appears to literally shine when worn by Titania.
+c133_02	Showdown_Titania	A combat suit for Titania, the self-proclaimed figurehead of the Archfiend Contest.
+c134_00	_Nakagawa Misaki	
+c135_00	Miori Kaname	Little sister’s outfit that has cats on it.
+c135_01	Warrior_Valkyrie	A combat suit for Valkyrie, a proud warrior who fights for none other than you.
+c135_02	Loner_Valkyrie	A combat suit for Valkyrie, a lofty warrior who still fights for none other than you.
+c139_00	Shiho_Shinohara	Shy or not, why not try it on just once?
+c139_01	Floral_Pomona	Found Pomona hiding among the flower petals.
+c139_02	Hidden_Pomona	Found Pomona hiding in the forest.
+c140_01	Guarding_Nodens	Nodens' standard costume.
+c141_00	Yumi_Iteya	An outfit imbued with the heartbreak of the archery prodigy who outshot the man she harbored feelings for.
+c141_01	Monolouging_Amor	A combat suit for Amor, the solitary player who never misses a shot.
+c141_02	One Sided_Amor	A combat suit for Amor, the demon who never misses a shot, but HAS missed love's glorious touch.
+c142_00	Ruiiko Nejime	With dark circles under her eyes, she bears a striking resemblance to a certain second-fiddle demon.
+c142_01	Night Maiden_Hypnos	Is it just me...or have we met once upon a dream?
+c142_02	Dreamer_Hypnos	Is it just me...or have we met once upon a nightmare?
+c144_01	Night Festival_Medea	A costume that will turn any grade-schooler into a witch. Kids love it!
+c147_00	Toji_Gonda	"Please let me know if you have any questions."\Th-thanks, I'm just looking...
+c147_01	Frenzied_Baal	A combat suit for Baal, who seems like he might destroy everything in sight.
+c147_02	Bloody_Baal	A combat suit for Baal, who seems like he might rip everything to shreds.
+c148_00	Juria_Kitazume	Graffiti is a pure expression of youthful freedom! I will NOT have you refer to this as a "scrawl"!
+c148_01	Harlequin_Inanna	There's just something about this outfit that makes you want to rest your head on it.
+c148_02	Tyrannical_Inanna	A perfect example of the kind of expression you DON'T want to make in a picture.
+c149_00	Hideka_Ebina	New teachers are always sent to the frontlines.
+c149_01	Indecisive_Rusalka	In the water, you never get lost.
+c149_02	Confessing_Rusalka	Right now, there's no stage in the world where Rusalka can't sing.
+c152_00	_Hebe	Come to Bar Replay for the finest critical hits.
+c153_00	Shiho_Shiozuka	With these maps, there's nowhere I can't go!
+c153_01	Adventurer_Epona	To the ends of the Infernal Realm! With the lightest possible bag!
+c153_02	Wandering_Epona	Wherever I walk, that's my path. Wherever I am, that's my destination!
+c154_00	Takashi_Taichi	Even rookie detectives can tell a lot from a person's clothes.
+c154_01	Stern_Thoth	Charm so refined, it'll take your breath away.
+c154_02	Severe_Thoth	Charisma so severe, it'll take your breath away.
+c155_00	Kanae_Amane	An outfit worn by a Echo's pactmaker.
+c155_01	Singing_Echo	Echo's standard outfit.
+c155_02	Girl Group_Echo	Echo's Awakened form.
+c156_00	Kiriko_Kikyoutani	A mysterious beauty who gives the impression of\having been witness to many unspeakable things.
+c156_01	Autocratic_Elizabeth	A combat suit for Elizabeth, the noblewoman who sneers at the world.
+c156_02	Empress_Elizabeth	A combat suit for Elizabeth, the empress who imparts orders to demons.
+c158_00	Mikako_Kameuchi	I want to fall in love, not go swimming...
+c158_01	Dreaming_Naias	If you've got something in your sights, that's when it's time to break out the flippers!
+c158_02	Märchen_Naias	I just caught me a handsome man! Oh, wait, it was just me...
+c158_10	Marine Flower_Naias	A gorgeous dress\for the greedy Naias.
+c159_00	Mortal Realm_Semele	Scheming Semele's flared purple skirt.
+c159_01	Daybreak_Semele	A retro leather skirt that complements Semele's hair color.
+c159_02	Little Demon_Semele	A Little Devil outfit that fully unlocks Semele's power.
+c161_01	Judging_Justitia	Justitia's standard costume.
+c164_00	Nao_Shinonome	Hold me tight and don't let go, from the top of my head to the tips of my toes!
+c164_01	Bound_Ishtar	A combat suit for Ishtar, trapped in her own mind.
+c164_02	Liberated_Ishtar	A combat suit for Ishtar, who has finally spread her wings.
+c167_00	_Mei	When it comes to setting the table, speed is everything! After all, who wants to eat cold dumplings?!
+c167_01	Sunny_Chang'e	A dress for Chang'e, who remembers everything about the spring you spent together.
+c167_02	Incarnated_Chang'e	A dress for Chang'e, who dreams of spending spring with you.
+c167_10	Midnight Beauty_Chang'e	Chang'e's cerise skirt for the upcoming spring.\Your Chang'e stands at the end of the harsh winter.
+c167_12	Ravishing_Chang'e	A lonely white flower blooms in the winter cold.\And within the petals, an icy enchantress.
+c167_87	Ravishing_Chang'e	A lonely white flower blooms in the winter cold.\And within the petals, an icy enchantress.
+c167_88	Incarnated_Chang'e	A dress for Chang'e, who dreams of spending spring with you.
+c169_00	Asuna_Kagamino	A fragment of desire who kind of looks like me, but has a completely different smile.
+c169_01	Happy_Euros	I made some chocolate just for you.
+c169_02	Glorious_Euros	I poured my heart into this chocolate. I really hope you eat it...
+c172_00	Kasane_Karakasa	The slums don't suit me. But even they need a ray of hope, right?
+c172_01	Shining_Yuna	This kind young girl shines like a sunbeam even in the face of demons.
+c172_02	Glittering_Yuna	The naive young girl shines like the heavens even in the face of demons.
+c173_00	_Reika Takagi	Sturm and drang! Kids hang on to chocolate with their lives!
+c173_01	Small_Daoine Sidhe	Locked, loaded, and ready to play!
+c173_02	Kid Sister_Daoine Sidhe	If you want to enjoy your demon life, you have to get up off your demon duff!
+c173_10	Dangerous_Daoine Sidhe	A costume Daoine Sidhe wears exclusively for going out.\Note the highly dangerous lollipops.
+c174_00	Casual_A.I	Her offstage outfit isn't at all what you might think.
+c174_01	_A.I	An ostentatious stage outfit for A.I, a reporter of the secret Night World.
+c174_02	Limited_A.I	A darker stage outfit for A.I, the intrepid reporter with the smiling facade.
+c174_11	Summer Vacation_A.I	
+c175_00	Yoshihiko_Ikariyama	A rich security guard? Talk about a useless job.
+c175_01	Guardian_Red Cross	A combat suit for Red Cross made out of elegant fabric.
+c175_02	Sentinel_Red Cross	A combat suit for Red Cross made out of sophisticated fabric.
+c176_01	Eye Catching_Eshu	A neon-colored jacket from the Night World.
+c176_02	Dealer_Eshu	A milk-colored jacket that just doesn't fit into the Night World.
+c178_00	Reiko_Yukawa	True intelligence shines in silence.
+c178_01	Mirage_Morgana	So light it barely feels like you're wearing anything! Be careful it doesn't float away.
+c178_02	Fantasy_Morgana	Fits so well you'd swear it was made of fog! Be careful it doesn't dissipate.
+c180_00	Takao_Hozan	This is no ordinary bag. This is a Clutch Bag.
+c180_01	Ambitious_Mammon	More vivacious! More ostentatious!
+c180_02	Greedy_Mammon	More ostentatious! More glamorous!
+c183_00	Tatsuko_Tamogami	Clothes for the runaway shrine maiden. Make sure not to leave any part unprotected.
+c183_01	Preacher_Dana	Winged clothes for the goddess in your life. Only the Chosen Ones can wear it.
+c183_02	Declarative_Dana	A holy robe for the goddess in your life. Exudes an aura that can only be called "divine."
+c184_00	Tamae_Tatsunami	If you want the sighing option, you'll have to pay extra.
+c184_01	Wandering_Elysion	Everyone knows you should put on your swimsuit before going in the ocean.
+c184_02	Paradise_Elysion	What do you need to navigate the sea in search of freedom?
+c185_01	Foolhardy_Hermod	So this is the kind of person you don't want to meet in an alley...
+c186_01	Controller_Erebus	A custom-made collar needed to maintain control\of her ferocious guard dog.
+c186_02	Ruler_Erebus	Her dear dog Lovely spews fire when angry, so be careful.
+c187_00	Sayori_Mizutani	An outfit worn by Thetis's pactmaker.
+c187_01	Grieving_Thetis	Thetis's best dress, dyed in a beautiful deep-sea blue.
+c187_02	Sorrowful_Thetis	A Thetis-exclusive dress adorned with coral and pearls.
+c187_89	Sorrowful_Thetis	A Thetis-exclusive dress adorned with coral and pearls.
+c188_00	Sachika_Tsuchida	Just putting it on fills you with a sense of justice.
+c188_01	Charging_Atalanta	Atalanta's hammer of justice, designed to target evildoers only.
+c188_02	Renowned Assistant_Atalanta	Atalanta's hammer of justice, designed to target evil demons only.
+c189_01	Bound_Kratos	The difference between this outfit and a prison uniform? These stripes are vertical.
+c189_02	Liberated_Kratos	I wonder if I could get away with punishing the succubi in this outfit...?
+c190_00	Hiromi_Yuki	She may be sickly, but she hasn't given up on her dreams.
+c190_01	Mimic_Isis	This lovely dress for Isis is flying off the shelves.
+c190_02	Actress_Isis	Isis won this dress when she was awarded Rookie of the Year. Now available at stores everywhere.
+c191_00	Reina_Kubodzuka	The outfit Sekhmet wears exclusively for her part-time job.
+c191_01	Destructive_Sekhmet	Sekhmet's casual clothes.
+c191_02	Furious_Sekhmet	Sekhmet's combat suit...which looks a lot like casual clothes.
+c193_00	Exorcist-in-Training_Virupa	An exorcist whose potential was discovered by Cain.
+c193_01	Exorcist_Virupa	The treasured sword of the exorcist Virupa, that excises worldly desires.
+c193_02	Virupaksa_Virupa	The treasured sword of the exorcist Virupa, that slices through evil spirits.
+c193_10	Tathagatagarbha_Virupa	The treasured sword of Virupa, who defeats evil and holds fast to Buddhist teachings.
+c194_00	Reika_Kuroki	A dress with puffy sleeves that feels like wearing a cloud.
+c194_01	White_Ashtoreth	Ashtoreth's white dress, designed to make her bramble blades stand out.
+c194_02	Pure White_Ashtoreth	Ashtoreth's pure-white battle dress, replete with flared-out frills.
+c195_00	Claire_Shishihara	A little lost lion and a crying young maiden\are the most beautiful creatures in the world.
+c195_01	Little Princess_Cybele	Please don't wake the sleeping maiden and her lion.
+c195_02	Dark Princess_Cybele	Wear this, and you too can be a renowned lion tamer!
+c195_20	Claire_Shishihara	The little lost lion and miserable young maiden are the cutest things in the world.
+c196_00	Yukimi_Shiratori	I really go for the neat and clean types...
+c196_01	Floral_Idun	Sweet apples. The forbidden fruit.
+c196_02	Alluring_Idun	A dress made just for beautiful Idun.
+c198_00	Nao_Nara	Casual wear designed to hide your darkest thoughts.
+c198_01	Silent_Zelos	She makes the disheveled look feel almost elegant. And dangerous...
+c198_02	Turncoat_Zelos	Zelos's combat suit. No, she didn't forget to button them.
+c199_00	Hikaru_Nijihara	A plain country girl with stars in her eyes...and over her head.
+c199_01	Western_Aurora	A costume for Aurora, who shines like a star.
+c199_02	Benevolent_Aurora	A costume for Aurora, who burns bright like a newly formed star.
+c200_00	Masami_Kajihara	Casual clothes for the brilliant detective.
+c200_01	Running_Seshat	A combat suit for Seshat, the brilliant detective.
+c200_02	Fixer_Seshat	A combat suit for Seshat, the brilliant detective of the Infernal Realm.
+c202_00	Shoko_Shoji	If I could have every demon's attention! Please be wary of the girl in the strange dress!
+c202_01	Mirror_Victorix	It looks white to you? Really?
+c202_02	Green_Victorix	It looks blue to you? You might want to get your eyes checked...
+c203_01	Guardian_Harmonia	Her trusty rifle can even shoot down distant targets with a single shot.
+c203_02	Peaceful_Harmonia	The terrifying, three-headed dog\only really listens to Harmonia.
+c203_88	Peaceful_Harmonia	I won't tolerate abuse of the weak.\Even if it's happening to a demon.
+c205_00	Yu_Yuki	The only friends the crybaby young boy had were through video games...
+c205_01	Otherworldly_Merlin	You got Merlin's combat suit!
+c205_02	Visitor_Merlin	You got the legendary sorcerer Merlin's combat suit!
+c206_00	Casual_Jonah	Jonah during her days of debauchery in Harlem Street prior to becoming an exorcist.
+c206_02	Talking_Jonah	Jonah's hoodie with cute ears attached to it.
+c208_00	Kyosuke_Kaga	An everyday combat suit for the hot-blooded young man.
+c208_01	Hot_Firo	A combat suit for Firo, man of action.
+c208_02	Fiery_Firo	A fully-armored combat suit for Firo, the man who burns with passion.
+c209_00	Fumika_Fuwa	A literate young girl who dreams of being a librarian.
+c209_01	Dreaming_Hecate	A combat suit for Hecate, the witch with big dreams.
+c209_02	Delusional_Hecate	A combat suit for Hecate, the witch with grand delusions.
+c210_00	Sumire_Koh	Now I know what I want to be when I grow up, thanks to a fantasy novel I read.
+c210_01	Abyssal_Tartarus	Tartarus's armor, bestowed upon her from the abyss.
+c210_02	Emperor_Tartarus	Armor of Tartarus, the emperor who imparts orders to the Infernal Realm.
+c214_00	Masajuro_Hoshizaki	There are two things you need to be a good cleaner: undying passion, and a silk hat.
+c214_01	Experimental_Jupiter	There are two things you need to be a proper gentleman: a stylish suit, and a briefcase full of secrets.
+c214_02	Dominating_Jupiter	There are two things you need to be a proper gentleman: an old-fashioned silk hat, and a case full of secrets.
+c214_10	Gambler_Jupiter	The secrets to her unbroken winning streak are hidden inside this dangerous case.
+c215_00	Immature_Surtr	A poncho handmade by Surtr, who hails from the South.
+c216_00	Mayo_Ogata	Werewolf's pactmaker, a top circus star.
+c216_01	Moonlight_Werewolf	A wolf that sinks into the shadows.
+c216_02	Samhain_Werewolf	Werewolf came to visit on a night when she awakened to her animalistic nature.
+c218_00	Mortal Realm_Alf	An outfit worn by Child Alf's pactmaker.
+c218_01	Full_Alf	An outfit filled with Alf's love. It brings a smile to its wearer's face.
+c218_02	Happy_Alf	A custom outfit that conveys Alf's wish to find the perfect groom.
+c219_00	Hikawa_Ryou	A calm and collected young businessman.
+c219_01	Ice Blade_Ymir	A blade of ice, emblematic of Ymir's emotions.
+c219_02	Psychopath_Ymir	The true nature of this ice-cold Child is that of a psychopath.
+c220_00	Mutsumi_Mugikura	You're always alone on the court!
+c220_01	Zooming_Atropos	Battle uniform for Atropos, who always runs straight toward victory.
+c220_02	Charging_Atropos	Battle uniform for Atropos, who always charges ahead in her effort to be the best.
+c221_00	Kii_Yanagawa	Don't worry. It's not MY blood...
+c221_01	Full Moon_Jana	My imagination has come true! Jana's combat suit, created by the imagination of a sophomore high school girl.
+c221_02	Full Bloom_Jana	A costume for Jana, the swordswoman. The black butterflies represent the god of pestilence...
+c222_00	Kaya_Kanebuchi	I always go out of my way for name brands, whether or not they look good on me.
+c222_01	Hypnotic_El Dorado	A costume that is 49.9% gold, made just for El Dorado.
+c222_02	Golden_El Dorado	A costume that is 99.9% gold, made just for El Dorado. Only those who are worthy can wear it.
+c223_00	Piscine Abode_Asari	A timid young lady who dreams of traveling the world.\She went backpacking overseas after making a pact.
+c223_01	River's Flow_Air	A traveler drifting as a flowing river.
+c223_02	Roaming Waters_Air	A wanderer ever roaming below the waters.
+c224_00	Mortal Realm_Loki	
+c224_01	Dark Prince_Loki	A combat suit for Loki, the dark prince. He always keeps his cards, and his conspiracies, close to his chest.
+c224_02	Dark Conspiracy_Loki	
+c225_00	Part-Timer_Rudolph	The (secret) outfit he wears for his Christmas job.
+c225_01	Uninvited_Rudolph	Rudolph the runaway's working clothes. Those aren't presents he's got in that bag.
+c225_02	Night Thief_Rudolph	Thieving Rudolph's working clothes. His new wings mean he can't carry as much as before.
+c226_01	Plundering_Ragnar	Ragnar's standard outfit.
+c227_00	Mai_Domeki	As long as I have Dad's police uniform and nightstick, I'm not afraid of anything.
+c227_01	Righteous_Mafdet	Mafdet's combat suit. Even if you've done nothing wrong, her withering gaze is enough to make you sweat.
+c227_02	Dogmatic_Mafdet	Mafdet's combat suit. Losing the sunglasses improves her accuracy rate.
+c228_00	Shimizu_Oliver	A baguette she packed when she left France.\Its expiration date is a secret.
+c228_01	Involved_Vivian	A combat outfit for tea-loving Vivian.\Her tea is hotter than you think.
+c228_02	Concealing_Vivian	A special hat made especially for her because she hates the sun.\It never comes off.
+c229_00	_Barry	Mice hear everything you have to say at night. And also during the day.
+c229_01	Info Broker_Brownie	Sailor uniform for Brownie, resident info broker.
+c229_02	Delivery Girl_Brownie	A special sailor uniform for Brownie, deliveryperson.
+c229_10	Postie_Brownie	I'm Brownie, and I deal in all sorts of information!\Love letters, others' private lives, scandals, weak points... I've got it all!
+c230_00	Eiko_Utsugi	Young girls' sailor uniforms contain the key to destroying the universe...
+c230_01	Cursed_Skuld	Skuld's combat suit, cursed by destiny.
+c230_02	Extinct_Skuld	Skuld's combat suit, now with 100% more visibility.
+c231_00	Immature_Rhea Silvia	I can seduce the demon with the scent of blue roses.
+c231_01	Tempting_Rhea Silvia	The staunch determination of a girl hidden in her soft feathers.\It emits a chilling blue scent.
+c231_02	Temptress_Rhea Silvia	The enrapturing ideals of a girl soaring on black wings.
+c231_10	The Great_Rhea Silvia	Special costume of Rhea Silvia who is prepared to become a great mother.
+c232_00	Kanon_Kameike	There's no keeping this beautiful pop star's good looks hidden under a hat.
+c232_01	Fantasy_Daphne	In a faraway utopia, this outfit is all the rage.
+c232_02	Utopian_Daphne	Eyewitness: Goddess wearing a white dress in a utopia...
+c233_00	Azusa_Aoi	The proper beachside outfit.
+c233_01	Lightning_Arges	Arges's combat suit. I-It's no use looking at me like that!
+c233_02	Corona_Arges	Arges's wet combat suit. Wait, why are they wet?
+c234_00	Goro_Godai	Hey, it's a demon! Or maybe not?
+c234_01	Militant_Hercules	A combat suit of Hercules, ancient warrior.
+c234_02	Triumphant_Hercules	A combat suit of Hercules, warrior of Sparta.
+c235_00	Tomoka_Togashi	Casual wear for the detective with inhuman strength.
+c235_01	Explosive_Danu	Costume for the self-centered Danu. Keep your hands to yourself if you don't want to get burned.
+c235_02	Antihero_Danu	Costume for Danu, the unconventional warrior.
+c237_00	Mortal Realm_Typhon	The demon Typhon, transformed into a human.
+c237_01	Night Festival_Typhon	A gothic-styled cream-white suit coordinated to fit the Halloween atmosphere.
+c237_02	Samhain_Typhon	A pitch black Holloween suit reminding one of a night of Samhain.
+c238_00	_Medb	A casual-style disguise for Medb, designed to help her move about the Mortal Realm.
+c238_01	Harmony_Medb	A costume for Medb, stuffed to the frills with all the adorableness of a Halloween pop star.
+c238_02	Prima_Medb	A costume for Medb, filled with the playfulness of a group of trick or treaters.
+c238_10	Samhain_Medb	The star of Halloween is here to celebrate every demon's favorite holiday ♪
+c239_01	Nocturnal_Dianus	It wouldn't be an exaggeration\to say the bazooka is another Dianus.
+c239_02	Midnight Sun_Dianus	A rocket's worth a thousand words!
+c239_10	Sugar_Dianus	A special costume worn on Valentine's Day.\It comes with a bazooka made of chocolate.
+c241_01	Underworld_Orcus	
+c242_00	Mortal Realm_Ailill	The demon Allyl, disguised as a young human girl.
+c242_01	Magician_Ailill	The liar Ailill's magician outfit.
+c242_02	Parade_Ailill	Halloween cheer squad Ailill's parade outfit.
+c246_00	_Christmas Fairy	A Christmas fairy who appeared out of nowhere one Christmas day.
+c246_01	Deceptive_Krampus	Put on this hat, and you too can be Santa!
+c246_02	False_Krampus	Krampus's true form. Being tricked doesn't seem so bad now, right?
+c246_10	Nightmare_Krampus	Merry Christmas, and a happy nightmare!
+c246_11	Naughty_Krampus	A Christmas demon who came to destroy everything good about Christmas!
+c246_88	Nightmare_Krampus	Merry Christmas, and a happy nightmare!
+c246_89	Naughty_Krampus	A Christmas demon who came to destroy everything good about Christmas!
+c247_00	Miriya_Misaki	Myrina's pactmaker, looking stylish\in her sailor blouse and pleated skirt.
+c247_01	Glorious_Myrina	Myrina's full, glorious royal dress.
+c247_02	Autocratic_Myrina	Myrina's full formal dress, befitting a dignified ruler.
+c250_01	Underwater_Xenie	A most playful smile is\eagerly pointed this way.
+c250_02	Water Sprite_Xenie	Xenie finds herself sunburned,\having lost track of time from all the fun.
+c250_88	Water Sprite_Xenie	Watch your step in front of Xenie.
+c251_01	Hermit_Ganymede	Ganymede's basic combat uniform.
+c252_00	Casual_Arhat	Casual clothes exorcist Arhat wears in the secular world.\They have an elegant and cute charm.
+c252_01	Exorcist_Arhat	The color white represents a mind free of all worry and anguish.
+c252_02	Altruism_Arhat	Arhat's palm attack for punishing evil.
+c252_10	_Suhana	The body of a young girl containing Arhat's transmigrated mind.
+c252_11	Kumari_Suhana	A red skirt worn by the incarnation of a goddess.
+c252_12	Innocent_Arhat	
+c252_13	Innocent_Arhat	Because she has nothing more to learn, she teaches everything she knows.
+c252_88	Altruism_Arhat	Our sworn enemies shall be eradicated without exception.
+c252_89	Exorcist_Arhat	May mankind be saved and every wicked desire excised.
+c253_01	Holy_Nicole	Nicole's Christmas work clothes. Presents are selected at random.
+c253_02	Saint_Nicole	Christmas work clothes for delivering presents.\Each and every one's a winner!
+c253_10	Christmas Eve_Nicole	Battle outfit of Nicole, who arrived on Christmas Eve as a messenger of God.
+c253_89	Christmas Eve_Nicole	What is it? Do you want a present? Hmm, what to do?\The only present I have for demons is the whip of love.
+c254_01	_Davi	0
+c254_02	_Nameless Child	
+c255_01	Prologue_Mona	0
+c256_01	_Lisa	0
+c257_01	Colony Leader_Carlos	You discovered Carlos's outfit in a basement beneath even the Infernal Realm itself.
+c257_02	Colony Leader_Carlos	A traditional robe of Carlos's. The secrets of its creation are known only in the Infernal Realm.
+c258_01	Imaginative_Pixie	A winged outfit for pixies born from imagination.
+c258_02	Ideal_Pixie	A winged outfit for pixies born from ideals.
+c261_01	Heaven_Sarasu	The lady of the flower garden of Heaven, which has the power of resurrection.\And she is the garden herself.
+c261_02	Reality_Sarasu	Long ago, she was a demon who could hear the truth from the lies.
+c262_00	Kitagawa_Midori	Daphnis's blazer and enamel shoes.
+c262_01	Knight_Daphnis	Possessing a determined heart, she rises up to protect the one she loves.\The very image of a Greek heroine.
+c262_02	Brave_Daphnis	A brave knight advances toward the enemy to protect her precious bonds.
+c262_88	Brave_Daphnis	
+c265_01	SD_Mona	
+c266_00	_Horus	The demon Horus, disguised as a human.
+c266_01	Desert_Horus	An outfit just for Horus, who fears neither heat nor sun.
+c266_02	Ra_Horus	A combat suit for Horus patterned after the sun god.
+c267_00	Queen of the Nile_Cleopatra	Cleopatra herself, who ruled all of Egypt long ago.
+c267_01	Transmigration_Cleopatra	An outfit for Cleopatra that takes Horus's tastes into account.
+c267_02	Pharaoh_Cleopatra	A pharaoh's outfit that symbolizes Cleopatra's authority.
+c267_10	Sun_Cleopatra	Cleopatra enjoying the protection of the obelisks.
+c267_89	Sun_Cleopatra	Cleopatra enjoying the protection of the obelisks.
+c269_01	Chaotic_Pixie	A winged outfit for pixies born from chaos.
+c269_02	Cosmos_Pixie	A winged outfit for pixies born from space.
+c270_01	Light_Pixie	A winged outfit for pixies born from light.
+c270_02	Platinum_Pixie	A winged outfit for pixies born from brilliant light.
+c271_01	Silent_Pixie	A winged outfit for pixies born from silence.
+c271_02	Sapphire_Pixie	A winged outfit for pixies born from sapphire.
+c272_01	Sprout_Pixie	A winged outfit for pixies born from newly-budded leaves.
+c272_02	Verdure_Pixie	A winged outfit for pixies born from verdant greenery.
+c274_00	_Bast	A going-out outfit for the outgoing Bast!
+c274_01	Singing_Bast	A costume made for Bast by tracing her hazy cat memories.
+c274_02	Howling_Bast	An outfit for Bast imitating Cleopatra.
+c275_00	Miyu_Torii	Formerly in a pop star group,\she's now the lead singer for an indie band.
+c275_01	Fugitive_Harpy	This is what the outlaw Harpy looks like.\Contact the wannabe demon the moment you see her!
+c275_02	Escape_Harpy	Harpy has escaped from her prison!\Do not get involved with the escapee!
+c277_00	_Leuce	Casual wear for Leuce, who just wants to get away from it all.
+c277_01	Lowly Nymph_Leuce	Leuce's official Working Adult uniform.
+c277_02	Partner_Leuce	Leuce's uniform after being subjected to the harsh realities of society.
+c278_01	Bespoke_Hel	The custom uniform for android Hel.
+c278_02	Prototype_Hel	The modified uniform for android Hel.
+c279_01	Bespoke_Laufey	Android Laufey's order-made costume.
+c279_02	Customized_Laufey	Android Laufey's customized costume.
+c279_88	Customized_Laufey	How utterly rude.\I will have to teach you some manners.
+c279_89	Bespoke_Laufey	Oh, look. What an interesting visitor.\Welcome! Thank you for coming.
+c280_01	Innocent_Tyche	Let's play together!
+c280_02	Dreaming_Tyche	Let's explore dreams together!
+c281_00	Sonoda_Hikari	Searching for paradise with a sun that's mine alone...
+c281_01	Runaway_Thisbe	The sadness of a girl hidden by a black hood.
+c281_02	Labyrinth_Thisbe	The flowers that bloom in paradise surely bloom more beautifully than these.
+c283_00	Chikako_Nagihara	The uniform for the staff at Cafe de petit.
+c283_01	Maid_Morgan	A maid uniform that Verdelet had custom-"maid" for Morgan.
+c283_02	Servant_Morgan	An exclusive maid outfit for Morgan that shines brightest when next to Verdelet.
+c283_10	Loyal Keeper_Morgan	A combat suit for Morgan, who serves but one master.
+c283_12	Classic Servant_Morgan	A combat suit for loyal Morgan,\the monochromatic servant.
+c283_89	Loyal Keeper_Morgan	A combat suit for Morgan, who serves but one master.
+c285_01	Initiator_Natalis	The dignity of Natalis overseeing the majestic battlefield stands out.
+c285_02	Revelator_Natalis	The jewels Natalis wears are all from her collection.
+c285_10	Guide_Natalis	An outfit for Natalis, the guide leading those to the stage of honor.
+c285_11	Fortune of War_Natalis	Heroes of hell.\Raise thine eyes to glance upon Natalis, the goddess of war fortune.
+c286_00	_Verdelet	The owner of maid café Café de Petit.
+c286_01	Waiting_Verdelet	Verdelet's pristine suit.
+c286_02	Butler_Verdelet	A combat suit for Verdelet,\your supremely capable aide.
+c287_00	Futaba_Hikaru	Promising modern dance trainee\outfitted with training attire.
+c287_01	Dancer_Salome	Dancer Salome's outfit, so dazzlingly beautiful, it's almost blinding.
+c287_02	Leaping_Salome	Dancer Salome's outfit, leading souls into temptation.
+c287_88	Leaping_Salome	Dancer Salome's outfit, leading souls into temptation.
+c287_89	Dancer_Salome	Dancer Salome's outfit, so dazzlingly beautiful, it's almost blinding.
+c289_00	_Durandal	His form in the Mortal Realm, patterned after Rufus.
+c289_01	Illusory_Durandal	A combat suit for Durandal, who always maintains his dignity, no matter what.
+c289_02	Nightmare_Durandal	An ash-colored combat suit that draws out Durandal's power to its utmost.
+c289_10	Mighty Blade_Durandal	A combat suit for Durandal, who strikes terror into demons.
+c290_00	Mortal Realm_Brigid	Brigid after converting to child form in order to conserve her magic.
+c290_01	Glamorous_Brigid	A scarlet rose that blooms in the Infernal Realm.\Brigid's rose dress in deep crimson.
+c290_02	Scarlet_Brigid	A blood-red rose that blooms with pleasure.\Brigid's ball gown that blooms with beauty.
+c292_00	_Luin	"Have at you!" The bamboo sword and armor Luin uses at kendo.
+c292_01	Blind Faith_Luin	This calm silhouette is so dark it resembles a shadow.
+c292_02	Spear of Vengeance_Luin	The drooping red silk is proof of Luin's undying loyalty.
+c294_00	Hanazono_Sayoko	A typical class president who always upholds the school rules, no matter how strict.
+c294_01	Lady_Bathory	A gothic dress for Bathory, overflowing with elegance.
+c294_02	Bloody_Bathory	Formal wear for Bathory, as dark as the night itself.
+c294_10	Snake Pit_Bathory	The black snake feeds on pain and anger.\It raised its head from atop its coiled body.
+c295_00	Asagiri_Theresa	The blazer of the Saint Michael's School for Girls uniform really suits her.
+c295_01	Dreaming_Unknown	Unknown after falling into an endless sleep.\What kind of dreams might she be seeing?
+c295_02	Silent_Unknown	Unknown flashing a smile.\She might just wake up sooner than you think...
+c296_00	Rei_Kurashiki	The case contains an anti-materiel rifle... I mean, an ordinary cello.
+c296_01	Gunslinger_Hildr	Hildr's maid outfit. Goes wonderfully with her anti-materiel rifles.
+c296_02	Sniper_Hildr	All ready for battle! Will she be taking aim at you?
+c299_00	_Santa Claus	Santa's part-time job costume. Offers presents in exchange for souls.
+c299_01	Memorable_Santa Claus	Why is Santa dressed in blue, you ask? It's not like he can ONLY wear red, you know.
+c299_02	Satan_Santa Claus	Santa Claus dressed all in black. Instead of presents, he hands out nightmares! Yay!
+c300_00	Problem Solver_Tio	She's a problem solver melding into the Underground in the guise of a maid.
+c300_01	Beloved_Pietas	Clothes make the soldier. A combat maid outfit for the veteran problem solver.
+c300_02	Devoted_Pietas	A true professional always keeps their apron pristine!
+c301_01	Indomitable_Jacheongbi	Jacheongbi the warrior's old-fashioned firearms.
+c301_02	Revolutionary_Jacheongbi	Jacheongbi the warrior's state-of-the-art firearms.
+c302_00	Kuroi_Akira	
+c302_01	Dark Night_Atum	
+c305_01	Guiding_Rita	Rita's baptism outfit.\Its bell-line skirt is modeled after church bells.
+c305_02	Dark Saint_Rita	The dark baptismal Rita has no fear\of the evil fang approaching in silence.
+c305_10	Paradise Exiled_Rita	There can be no return—only dreams\of eternal utopia's blissful scent.
+c305_89	Paradise Exiled_Rita	There can be no return—only dreams\of eternal utopia's blissful scent.
+c308_00	Mortal Realm_Kubaba	Jet black suit of Kubaba, chairperson of the Saint Michael's School for Girls.
+c308_01	Rider_Kubaba	Kubaba, hardened by more battles than she cares to count, and her favorite motorcycle.
+c308_02	Revenge_Kubaba	Speed it up!\Anyone who can't keep up gets left behind!
+c308_10	High Speed_Kubaba	Kubaba, burning with a need for vengeance, and her roaring motorcycle.
+c310_00	Takanashi_Kana	Stepped in a puddle? No problem!\Bes has got her pactmaker's raincoat and boots.
+c310_01	Spring_Bes	Bes on her soft cushion, her heart ever in a dream.
+c310_02	Blossom_Bes	Bes on her fluffy cushion, surrounded by spring flowers.
+c311_00	_Khepri	Khepri's miniskirt, distinguished by its high-contrast black and white pattern.
+c311_01	Dark Luster_Khepri	Khepri's full-body suit. Its primary colors represent darkness and light.
+c311_02	Vicious_Khepri	Vicious Khepri's final form.
+c311_10	Chilling_Khepri	Khepri's costume for a vacation after hunting.\Desigend with convenience in mind.
+c311_89	Vicious_Khepri	Vicious Khepri's final form.
+c312_00	Ichigo_Ihara	A timid high school girl studying to become a patissiere.
+c312_01	Cynical_Tyrving	A knife used solely for cutting Tyrving's whipped cream cakes.
+c312_02	Cursed Sword_Tyrving	A knife used solely for cutting Tyrving's strawberry cream cakes.
+c314_01	Debut_Mona	0
+c315_01	Alchemist_Methuselah	Methuselah's wanderer duster. It's ideal for long journeys.
+c315_02	Seeker_Methuselah	Methuselah's travel coat.
+c315_10	Formal Gentleman_Methuselah	Methuselah's pristine suit.\It's usually worn on formal occasions.
+c315_89	Formal Gentleman_Methuselah	Methuselah's high-class Inverness cape.
+c316_00	Mortal Realm_Wodan	The demon Wodan, disguised as a young human girl.
+c316_01	Alchemist_Wodan	The outfit of Wodan, head of the Rebirth Lab,\who can change Childs and demons into their desired forms.
+c316_02	Seeker_Wodan	The outfit of the alchemist Wodan, who is ever in pursuit of transcendental beauty.
+c317_00	Father_Babila	Striking abbey vestment in stark contrast to a most calm disposition.
+c317_01	Hypocrite_Babel	A dark soul concealed behind a gentle smile.
+c317_02	False Prophet_Babel	A pearl-gray uniform unfitting a soul so dark.
+c318_01	Praying_Bari	A traditional costume for Bari to say her prayers.
+c318_02	Prayer_Bari	A traditional costume for Bari as she lets destiny guide her.
+c318_10	Equinoctial_Bari	A costume for Bari, who was guided by the voices of the dead through an impassable door.
+c318_11	Banshee_Bari	Can you hear them?\Can you hear the cries of the dead right behind you...?
+c318_12	Spirit Guide_Bari	A traditional costume for Bari, who guides the dead.
+c318_89	Equinoctial_Bari	A costume for Bari, who was guided by the voices of the dead\through a door impassable to the living.
+c319_00	_Willow Doryeong	My hometown is not some village,\but the Infernal Realm.
+c319_01	Reincarnated_Willow Doryeong	A blue kimono for Willow Doryeong as he repeats life and death.
+c319_02	Guardian_Willow Doryeong	A blue kimono for Willow Doryeong as he guards the Hades Flower.
+c321_01	Crescent_Luna	A special pearl-colored dress and pumps just for Luna.
+c321_02	Full Moon_Luna	A special dress for Luna\with a dark-red lace shawl.
+c324_01	Newbie_Mona	A fresh outfit worn by Mona in the field during the start of her aide career.
+c324_02	Rookie_Mona	A lovely outfit worn by Mona in the field during the start of her aide career.
+c324_21	Hurt_Mona	Mona Costume
+c329_01	Racer_Davi	A suit that helps one endure the harsh D1 racing environment.
+c329_02	Dark Horse_Davi	An improved version of Amos Island's handmade suit.
+c332_01	Maverick_Ganesha	Cha-CHING!\The official exorcist garb Ganesha dons when off chasing tales of riches.
+c332_02	Nandikesvara_Ganesha	The exorcist garb of an overjoyed Ganesha.\Still an official exorcist outfit, surprisingly enough.
+c333_00	Exorcist-in-Training_Deborah	A limited-edition white mini dress.
+c333_01	Exorcist_Deborah	A combat suit meeting Deborah's meticulous standards.
+c333_02	Capturing_Deborah	A custom-made combat suit for the noble Deborah.
+c333_88	Capturing_Deborah	You have blasphemed the name of the Lord! Did you think I'd forgive you?
+c334_01	Fantasy Dream_Lisa	Lisa's wings spread as she seeks to retrieve the precious treasure she lost.
+c334_02	Disillusioned_Lisa	Lisa's sword gleams and the will to retrieve her precious treasure illuminates the world.
+c335_01	Peerless Power_Hathor	Hathor is a descendant of the Minotaur.\She is fascinating in her strength.
+c335_02	Extinction_Hathor	A combat suit for a fight she cannot afford to lose.\Its defense is directly correlated to how revealing it is.
+c335_10	Assured Victory_Hathor	An outfit that ensures victory with a spirited attack.\She can wear it upon turning 19.
+c336_01	Field_Pan	A spring-colored dress for Pan, who watches the field.
+c336_02	Farm Sheep_Pan	A glimmering, silver dress full of spring flowers.
+c336_89	Field_Pan	For the sake of peace, I will protect you.
+c337_01	Mascot_Freyja	With this frilly costume,\I've got a meownopoly on cuteness!
+c337_02	Sprinter_Freyja	A special uniform for Freyja\that's perfect for sprinting.
+c338_01	Pure White_Pomona	Pomona's pure white dress that's like a sweetly blooming flower.
+c338_02	Pure Bride_Pomona	Pomona's pure white dress that's like a gorgeous flower in bloom.
+c339_01	Love & Hate_Davi	Another Davi. She bears a heart hateful of Mona.
+c339_02	Ambivalence_Davi	Another Davi. She sports Mona's favorite color.
+c342_01	Full Bloom_Yami	Yami's maroon feathers bloom\with a saccharine, rich aroma.
+c342_02	Phantosmia_Yami	Yami's wings could be heard fluttering\from the profusion of red flowers in the Infernal Realm's abyss.
+c342_11	Dark Scent_Yami	The instant she unleashes all of her hidden magic power,\a rich, alluring fragrance envelops the area.
+c343_01	One Sword_Tiamat	A dress for Tiamat, who slashes at all she sees.
+c343_02	Slashing_Tiamat	A dress for the tyrant Tiamat, who swings her blade mercilessly.
+c344_01	White Hands_Isolde	Isolde's sailor-style three-piece bikini,\the star of Summer Scandal.
+c344_02	Nova_Isolde	Lock-on to a sizzling summer!\A summer bikini for Isolde aimed straight for your heart.
+c344_10	Summer Spike_Isolde	Think you can handle this?\Prepare for Isolde's challenge: the final spike!
+c344_11	Enchanting_Isolde	A bewitching bikini for Isolde that's straight out of a dream.
+c344_89	Summer Spike_Isolde	Think you can handle this?\Prepare for Isolde's challenge: the final spike!
+c345_01	Midsummer_Anemone	The cutting edge of both swimsuit fashion\and protection against UV rays.
+c345_02	Gambler_Anemone	A luxurious lace bikini for Anemone.
+c345_10	Sunrise_Anemone	Anemone's white swimsuit, the hottest thing on the summer beach.
+c345_11	Burning Passion_Anemone	A gorgeous and charming swimsuit for Anemone that's straight out of a dream.
+c345_87	Burning Passion_Anemone	A gorgeous and charming swimsuit for Anemone that's straight out of a dream.
+c345_88	Gambler_Anemone	A luxurious lace bikini for Anemone.
+c345_89	Sunrise_Anemone	Anemone's white swimsuit, the hottest thing on the summer beach.
+c346_01	Blocking_Tristan	Tristan after bulking up 400% due to the side effects of the Alter Ade.
+c346_02	Solitary_Tristan	Tristan, all ready for summer vacation.\There's something about this form that seems to sap away motivation.
+c347_01	Prophet_Dana	The garments of a goddess manifested while yet a prophet.
+c347_02	Second Advent_Dana	The garments of a goddess who has once again descended upon us.
+c348_00	Trainee_Mars♥	Mars♥'s trainee outfit.
+c348_01	Pretty_Mars♥	Don't forget to practice too!\Getting closer to being the ideal pop star every single day!
+c348_02	Sweet Devi_Mars♥	Eternally the center of attention!\Catch the fans' eyes with a captivating performance!
+c348_10	Sweet Love_Mars♥	Giving you some sweet, sweet loving♥\Mars♥'s special concert attire.
+c349_00	Trainee_Saturn♥	Saturn♥'s trainee outfit.
+c349_01	Mysterious_Saturn♥	Newly reborn as a pop star and showing off already!
+c349_02	Starlight_Saturn♥	Shining brighter than anyone else at the concert, just for Maestro!
+c350_00	Trainee_Neptune♥	Neptune♥'s trainee outfit.
+c350_01	Hard Worker_Neptune♥	Master! I'm a pop star now! Watch me go!
+c350_02	Pure Smile_Neptune♥	I'll put my heart and soul into this song. I wonder if the master will hear it?
+c351_00	Trainee_Venus♥	Venus♥'s trainee outfit.
+c351_01	Naive_Venus♥	I love to have fun!\Watch my innocent performance!
+c351_02	Heavenly Flower_Venus♥	Here comes the prodigy pop star!\Don't take your eyes off my glamorous performance!
+c352_00	Producer_Maestro	Maestro's business suit as a humble producer.
+c353_00	Yoko_Tsukasa	Charlotte's ordinary,\gullible pactmaker.
+c353_01	_Charlotte	A costume for Charlotte, a knight whose loyalty knows no bounds.
+c353_02	Glorious_Charlotte	A costume for Charlotte, a knight descended from azure skies.
+c354_01	Needfire_Demeter	Demeter's combat suit imbued with a purifying flame.
+c354_02	Crimson_Demeter	Demeter's combat suit red with a raging fire.
+c354_10	Mad Nurse_Demeter	A mad nurse's combat suit created from ill will.
+c354_89	Crimson_Demeter	Demeter's combat suit red with a raging fire.
+c355_01	Guardian_Chang'e	A new, motherly form for Chang'e, who protects the hot springs town together with Mei.
+c355_02	Inugami_Chang'e	An evolved form for Guardian Chang'e, who fights alongside a lion-dog and Wukong.
+c358_01	_HATSUNE MIKU	A stage outfit for a virtual singer. Her songs can even soothe the hearts of demons!
+c358_02	Diva_HATSUNE MIKU	A stage outfit for a virtual singer. Listen as her heavenly voice resounds across the world!
+c359_01	_SNOW MIKU	A shrine maiden outfit reminiscent of a red-crested white crane. Strikes a dignified and beautiful figure.
+c359_02	Snow Priestess_SNOW MIKU	A shrine maiden outfit reminiscent of a red-crested white crane. Her dancing brings peace of mind to those fortunate enough to witness it.
+c360_01	Liberated_Maat	A refined combat suit for Maat, who has broken free from the chains that bind her.
+c360_02	Descended_Maat	A holy combat suit for Maat, a god newly descended upon this realm.
+c360_10	Chasm_Maat	Maat's final destination after her long search for truth.\See for yourself how far down the abyss goes...
+c361_01	Devouring_Caduceus	Caduceus descends, flapping its wings,\casting a dark shadow.
+c361_02	Black Snake_Caduceus	Caduceus with a black halo\descends upon your world.
+c361_10	Weaponized_Caduceus	Mitra with Caduceus's wings.
+c361_87	Weaponized_Caduceus	Meaningless creatures,\welcome to the viper's den.
+c361_88	Black Snake_Caduceus	Don't ignore your boiling desires.\They give you the strength you need.
+c361_89	Devouring_Caduceus	The idol of the weak\in the deepest part of the terrible place.
+c362_01	Kind_Leo	His bag is full of junk.\Leo's casual wear.
+c362_02	Incubus_Leo	He lacks confidence in battle.\Battle coat for the cowardly Leo.
+c362_10	Maid_Leo	Hi! I'm the incubus...\I mean, succubus, Leo!
+c362_11	Butler_Leo	Leo in gentleman's attire for escorting a noble lady.
+c363_01	Phantom Thief_Lupin	The work suit of Phantom Thief Lupin that matches the night sky.
+c363_02	Vanguard_Lupin	If you ever see Phantom Thief Lupin, that means your treasure already belongs to her...
+c364_01	Sweet_Sytry	A miniskirt as white as a young maiden's pure love.
+c364_02	Lovey-Dovey_Sytry	The white represents a young maiden's pure love, and the red her passionate love.
+c364_10	So_Sicktry	So Sick, So Sick So Sick. So Sick!
+c365_01	Dark Buster_Lisa	Dark Buster Unit No. 1, Lisa.\A weapon designed to take out the Archfiend himself.
+c365_02	Devil Buster_Lisa	Devil Buster Unit No. 1, Lisa.\A weapon designed to take out the Archfiend himself.
+c366_01	Hard Worker_Deino	Where there's a will, there's a way!\Hard work DOES pay off!
+c366_02	Hopeful_Deino	A combat suit for Deino, a disaster prevention Child.\Leave all fire hazards to her!
+c367_01	Archfiend_Davi	The Archfiend's look as imagined in Davi's hopes and dreams!
+c367_02	True Archfiend_Davi	I awakened to my power as the true Archfiend!\After all, there's no Archfiend more powerful than the one I thought up.
+c367_88	True Archfiend_Davi	
+c367_89	Archfiend_Davi	
+c369_00	_Old Lady	
+c370_01	Sunbeach_Mona	A vivacious summer swimsuit for Mona.
+c370_02	Diver_Mona	A blazing summer, dazzling skin, and precious memories.
+c370_10	Hot Pink_Mona	Won't you go diving with me?\A pink summer swimsuit that's hotter than summer.
+c370_89	Sunbeach_Mona	
+c371_01	Bikini_Lisa	A bold two-piece bikini for Lisa. Ushering in an exhilarating summer.
+c371_02	Vacation_Lisa	A cool, sea blue swimsuit. This will be a summer to remember.
+c371_10	Wetsuit_Lisa	Lisa's dazzlingly white wetsuit. Except she doesn't use it to go diving.
+c372_01	School Swimsuit_Davi	Works fine with every kind of pose!\Davi's summer-only swimsuit.
+c372_02	Summer_Davi	True summer's only just beginning!\My summer's only just beginning!
+c372_10	Sports Bikini_Davi	Let's play beach volleyball!\A sporty swimsuit for Davi.
+c373_01	Ruffian_Midas	A new and improved Midas, powered up by a renewed pact.\He looks like a different person!
+c373_02	Black-Winged Messenger_Midas	Void and peace... Be wrapped in vision and dream!\A costume for the Black-Winged Messenger Midas.
+c374_01	Bridal_Hildr	A white wedding dress Hildr, who became a bride,\will show only to the person she loves.
+c374_02	Pure Bride_Hildr	Marriage is an eternal vow of love.\I'll mess up anyone who dares to break it!
+c377_00	Mortal Realm_Iphis	Iphis's form in the Mortal Realm.
+c377_01	Romantic_Iphis	Iphis's formal attire to accept her bride.
+c377_02	Scarlet_Iphis	Iphis's scarlet battle uniform, used when protecting her bride.
+c377_10	Bridal_Iphis	Iphis when she herself became a pure bride.
+c377_11	Shadow_Iphis	Iphis donning a wedding dress\tainted black by darkness.
+c377_89	Bridal_Iphis	I've finally found love. It may not be easy, but I'll never let go.
+c378_00	Katsuragi_Touka	A girl who is anxious about meeting her mother again after her parents divorced.
+c378_01	_Pallas	Battle armor of Pallas, who desires desperation and destruction.
+c378_02	Darkness Clad_Pallas	Battle armor of Pallas, imbued with the darkness of the black spear.
+c379_01	_Athena	Battle armor of Athena, who protects all with a great shield.
+c379_02	Benign Devotion_Athena	Battle armor of Athena, who becomes a shield of sincere and blameless intent.
+c381_01	Fluttering_Sytry	Sytry's titillating bikini look.
+c381_02	Summer Love_Sytry	Summer means beach!\Beach means swimsu—I mean, love!
+c381_10	Enchanting_Sytry	Sytry's sweetly dangerous scent.
+c382_01	Catgirl_Neamhain	An outfit that exudes Frej's magic power from every inch of it.
+c382_02	Battle Kitty_Neamhain	An outfit for a bloodthirsty, moody person.
+c382_10	Inca Rose_Neamhain	A party dress dripping with grace\in an eye-catching red.
+c383_01	Resurrected_Frej	A costume designed to withstand Frej's newfound magic power.
+c383_02	Unleashed_Frej	Frej's become even more powerful,\though it doesn't seem like he's realized it himself.
+c383_11	Cursed Doll_Frej	What happened to Frej's sexy body?
+c384_01	Prototype_Narvi	Prototype form of the android Narvi.
+c384_02	Customized_Narvi	Customized form of the android Narvi.
+c385_01	_Marie Rose	A punk-ish outfit for Marie where the mis-matching is part of the charm.
+c385_02	Battlesuit_Marie Rose	Marie's combat suit. The perfect combination of functionality and fashion.
+c385_10	Swimsuit_Marie Rose	An old-fashioned school swimsuit that complements Marie wonderfully.
+c385_11	Russian Blue_Marie Rose	A cool-blue swimsuit for Marie adorned with white polka dots.
+c385_12	Minuet_Marie Rose	A cute pink and white swimsuit for Marie.
+c386_01	_Kasumi	Kasumi's ninja outfit. Designed for mobility first and foremost,\only the leader of the clan is permitted to wear it.
+c386_02	Immaculate White_Kasumi	Kasumi's ninja outfit. The wearer must ensure it stays pristine white,\no matter how fierce a kumite she may be engaged in.
+c386_10	Geranium_Kasumi	A cherry blossom-colored swimsuit for Kasumi that leaves little to the imagination.
+c386_11	Nemophila_Kasumi	A cute swimsuit for Kasumi that wraps\a pale white mist around a vivid sky blue.
+c386_12	Margarita_Kasumi	An ostentatious swimsuit for Kasumi that glitters as brightly as the sun.
+c386_13	_Kasumi	Is she truly Kasumi? Or is she…
+c386_88	_Kasumi？	Is she truly Kasumi? Or is she…
+c387_01	_Honoka	A blazer required by Honoka's school.
+c387_02	Casual_Honoka	Honoka's school uniform, with jacket removed to lighten the load.
+c387_10	Moo-Moo Denim_Honoka	A swimsuit for Honoka that gently cradles everyone's dreams.
+c387_11	Delphinium_Honoka	A lovely pale blue swimsuit for Honoka.
+c390_01	Witch_Eochaid	What could be hiding inside the pumpkin?
+c390_02	Death March_Eochaid	Magic is illusion! Tricks are fun!\Did you enjoy Eochaid's magic show?
+c390_88	Death March_Eochaid	
+c391_01	Party Star_Medb	Pajamas that unleash maximum magic power.
+c391_02	Party Night_Medb	The festive outfit Medb wears as she enjoys All Hallows' Eve.
+c392_01	Altered_Davi	A new Davi born from a mysterious cocoon.
+c392_02	Neo_Davi	A new Davi who faced emptiness and spreads wings of deepest black.
+c392_10	Dark Tears_Davi	Davi, shedding black tears as she grieves.\Will the words of Mona, her utmost love, reach her?
+c392_89	Altered_Davi	A new Davi born from a mysterious cocoon.
+c393_01	Lightbeam_Mona	A dress shining with a light that leads Mona towards a new future.
+c393_02	Heavenly Ray_Mona	A spectacular dress that won't lose its light even in the midst of despair.
+c393_10	Radiant_Mona	Mona's past form that shines on, even in the harsh environs of the Infernal Realm.
+c394_01	Courtesan_Bathory	A stylish, gorgeous kimono worn by courtesans.\Bathory only seems to think it's a nice dress.
+c394_02	Supreme Courtesan_Bathory	Only those who possess great beauty as well as the poise and skills of geisha\are called Supreme Courtesan. This is Bathory at her most exquisite.
+c395_01	Mysterious Student_Eve	Uniform for a famous private high school made through imitation.
+c395_02	Pink Blazer_Eve	A blazer that looks perfect on Eve.
+c396_01	Dancing Maiden_Werewolf	Werewolf took the form of a shrine maiden in order to grant a young man's wish. The shrine maiden outfit is filled with the holy power of Toshigami, the god of the new year.
+c396_02	Oracle_Werewolf	Werewolf has refined her skills as a shrine maiden.\Positively dripping with good fortune, she is now even more powerful!
+c397_01	Christmas_Leda	Leda put on a Santa suit\to give everyone presents.
+c397_02	Sexy Santa_Leda	Leda's Santa suit, but sexier!\It's a present in and of itself.
+c398_01	String_Jacheongbi	Jacheongbi holding a gayageum made from empress tree.
+c398_02	Gayageum_Jacheongbi	Jacheongbi, who is now a gayageum player.
+c400_01	Grieving_Banshee	Clothes tinged by the tears a grieving Banshee shed\for the family she left behind.
+c400_02	Scattering_Banshee	Clothes filled with Banshee's prayer to protect her family.
+c401_01	_SNOW MIKU	Shimmering Winter Snow Dress
+c401_02	PRINCESS_SNOW MIKU	Guardian Winter Princess Dress
+c402_01	_Noel	Noel's Costume.
+c402_02	Fourth Squadron_Noel	Noel's NOL Fourth Squadron Costume.
+c402_10	_μ-12	Noel's Successor of the Azure Costume.
+c403_01	_Makoto	Makoto's Costume.
+c403_02	NOL Intel Dept_Makoto	Makoto's Battle Costume, contrary to her Intelligence Department status.
+c404_01	_Nine	Nine's Costume.
+c404_02	Six Heroes_Nine	Nine's Six Heroes Costume.
+c405_01	Piercing_Luin	Combat suit of Luin, who will cut down every attacker.
+c405_02	King's Lancer_Luin	Combat suit of Luin, who will mercilessly cut down any foe in her way.
+c405_88	King's Lancer_Luin	Combat suit of Luin, who will mercilessly cut down any foe in her way.
+c405_89	Piercing_Luin	Combat suit of Luin, who will leave not a single attacker standing.
+c406_01	_Serval	Serval's Costume.
+c406_02	Savanna_Serval	Savanna Serval's Costume.
+c407_01	_Raccoon	Raccoon's Costume.
+c407_02	Arboreal_Raccoon	Arboreal Raccoon's Costume.
+c408_01	_Fennec	Fennec's Costume.
+c408_02	Desert_Fennec	Desert Fennec's Costume.
+c409_01	Hungry_Limos	I've still got lots of growing to do ♥\I want more—waaay more ♥
+c409_02	Full_Limos	Old-fashioned, cream-filled, whatever!\I wanna eat my favorite donuts until I burst ♥
+c409_10	Satisfied_Limos	You're full. Already? Come on, let me treat you to some more delicious food.
+c410_00	Mortal Realm_Failnaught	Failnaught who has now become a trainee at Luin's dojo.
+c410_01	Proud_Failnaught	Battle suit of the proud archer, Failnaught.
+c410_02	Demonic Deadeye_Failnaught	Battle suit of Demonic Deadeye, Failnaught.
+c412_00	Priest_Cain	Priest of the Vatican branch of the Exorcist Society.
+c412_01	Exorcist_Cain	Priest's attire received from the Exorcist Society.
+c412_02	Heretic Inquisitor_Cain	Attire received from the Exorcist Society for the inquisition of heretics.
+c412_88	Heretic Inquisitor_Cain	Attire received from the Exorcist Society for the inquisition of heretics.
+c412_89	Exorcist_Cain	Priest's attire received from the Exorcist Society.
+c413_00	_Abel	
+c413_21	Impassioned_Abel	
+c414_00	Mortal Realm_Billy	The demon Billy, disguised as a girl of the Mortal Realm.
+c414_01	Gunner_Billy	Surefire!\Billy's costume for water gun battles.
+c414_02	Deadshot_Billy	No escape for her prey!\Billy's costume for water gun battles.
+c414_10	Splash_Billy	Anything to win!\Billy's costume for water gun battles.
+c414_89	Splash_Billy	Anything to win!\Billy's costume for water gun battles.
+c415_00	Mortal Realm_Annie	The demon Annie, disguised as a girl of the Mortal Realm.
+c415_01	Risk Taker_Annie	The epitome of the hydro shooter.\Annie's costume for water gun battles.
+c415_02	Wild Hunt_Annie	The trinity of water, self, and water gun.\Annie's costume for water gun battles.
+c416_00	Mortal Realm_Keino	The demon Keino, disguised as a girl of the Mortal Realm.\She's holding a mysterious sewing box.
+c416_01	Demon Princess_Keino	You can hear the sound of scissors from the darkness...
+c416_02	Phantom_Keino	Poisoned scissors are aiming for you.
+c416_10	Chancing_Keino	Keino awakened to her inner power.\The scissors have grown even creepier.
+c416_87	Chancing_Keino	Keino's eight extraordinary meridians have become active.\The power that once lay hidden within her is now palpable.
+c417_00	Human Form_Tamamo	The spirit Tamamo disguised as a human woman.\Her beauty is comparable to that of a courtesan.
+c417_01	Nine-Tailed Fox_Tamamo	A great spirit of legend known as the nine-tailed fox.
+c417_02	Bewitching_Tamamo	A spirit so captivating, a single glance is enough to bewitch anyone.
+c417_10	Summer_Tamamo	A ponytail worn high to stay cool in summer.
+c417_87	Summer_Tamamo	A ponytail worn high to stay cool in summer.
+c417_89	Nine-Tailed Fox_Tamamo	The audacity you have to assault me!
+c418_01	Flower of Justice_Mafdet	Upon fusing with the bow of a miracle-working monk,\Mafdet was reborn.
+c418_02	Justice Incarnate_Mafdet	Upon fusing with the bow of a miracle-working monk,\Mafdet became justice incarnate.
+c419_01	Cheating_Catherine	A seductive dress that makes guys fall head over heels.
+c419_02	Inverted & Devilish_Catherine	Catherine's wedding dress, made of pure love.
+c420_01	Girlfriend_Katherine	A chic outfit, perfect for a woman devoted to her career.
+c420_02	Pure Bride_Katherine	A pure white wedding dress.
+c420_10	Wild Crimson_Katherine	Katherine in a scarlet dress that embodies\the new possibilities that await her.
+c420_89	Wild Crimson_Katherine	Katherine in a scarlet dress that embodies\the new possibilities that await her.
+c421_01	_Rin	A cute, light blue dress with a sailor collar.
+c421_02	Pure_Rin	Rin in her wedding dress, looking like an angel.
+c422_01	Temptress_Heket	A dress for Heket, who seduces men around the world.
+c422_02	Mother_Heket	A dress for Heket, a mother with a wish for mankind to flourish.
+c422_88	Mother_Heket	Well, hello there. What do you say we solve the declining birth rate problem?
+c423_01	Swift_Laima	A dress for Laima, who fights swiftly yet beautifully.
+c423_02	Persistent_Laima	Laima's combat suit that makes her look as sharp as she was in her prime.
+c423_10	Pure Love_Laima	Laima was captured, modified, and brainwashed by a human.
+c423_87	Pure Love_Laima	Laima was captured, modified, and enhanced by Makiko Manyuda.\She cannot distinguish dreams from reality.
+c423_88	Biased_Laima	The weak are a fetish for her, but she is also one of them.
+c423_89	Swift_Laima	A demon who has been stalking Master\because she has a weakling fetish.
+c424_01	Blacksmith_Hephaestus	
+c425_01	Punishing_Seth	Seth's enhanced sword\with a Universe Skill.
+c425_02	Sacrificing_Seth	Seth's enhanced armor\with a Universe Skill.
+c425_10	Legion_Seth	Armor of a cursed knight\that protects an idol's shrine.
+c425_87	Legion_Seth	Now is a time of distress.
+c425_88	Sacrificing_Seth	Now is a time of distress.
+c425_89	Punishing_Seth	Behold! My master avenges himself.
+c426_00	Duoh_Vera	A new suit that Ophois managed to get on a second attempt.
+c426_01	Hasty_Ophois	A special outfit that helps its wearer stay ahead of the game.
+c426_02	Pioneer_Ophois	A special outfit that complements the Pioneer's glamorous looks.
+c428_01	Substitute_Seth	Seth's divine outfit, crafted from linen, a popular shroud material.
+c428_02	Avatar_Seth	Seth's linen outfit, modeled after the robe of the angel of disasters.
+c428_88	Avatar_Seth	The Lord shall bring judgment down upon you.
+c428_89	Substitute_Seth	Confess your sins and repent with your death.
+c429_00	Mortal Realm_Ziva	Ziva, who has likened herself to a queen of the Mortal Realm.
+c429_01	Peaceful_Ziva	An exquisite dress that accentuates Ziva's elegance.
+c429_02	Frozen Wasteland_Ziva	A ravishing dress that brings out Ziva's grace.
+c429_10	Christmas_Ziva	Ziva's most dazzling dress. Its colors paint a wintry Christmas Eve.
+c429_88	Frozen Wasteland_Ziva	A love that resists the coldest of chills.\Ziva's light, abating the freezing cold.
+c430_00	Mortal Realm_Giltine	Giltine, passing as a woman of the Mortal Realm.
+c430_01	Tundra_Giltine	A down coat perfect for hunting in the tundra.
+c430_02	Ice Field Hunter_Giltine	A down coat suited for hunting in an ice field.
+c430_10	Christmas_Giltine	A down coat for a demon hunter who enjoys Christmas.
+c431_01	Skiing_Eshu	A ski resort costume for Eshu, who bustles about the snowy field.
+c431_02	Snow_Eshu	A ski resort costume for Eshu, who's unfazed in a blizzard.
+c431_10	Christmas_Eshu	A ski resort costume for Eshu, who fully enjoys Christmas Eve.
+c432_01	Moonlight_Artemis	The wings of a goddess who quietly follows her prey from behind the clouds.
+c432_02	Berserk_Artemis	The wings of an angry goddess who rips apart her prey.
+c433_01	Peppy_Pakhet	A costume for Pakhet that's as sexy as it is cute.
+c433_02	Cutesy_Pakhet	A costume for Pakhet that dials up the cuteness to 11.
+c433_10	Lovely Summer_Pakhet	Pakhet's very first, meticulously selected swimsuit.
+c434_01	Sweet_Leda	The charming, chocolate-loving Leda.
+c434_02	Lovely_Leda	Leda, who is sweetly mesmerizing.
+c435_01	Fancy_Sytry	A maid costume for Sytry, who invites you into a sweet fantasy.
+c435_02	Maid_Sytry	A maid costume for Sytry, who captivates the men of the world.
+c435_10	Heartfelt_Sytry	Love is close to me.\True form of Sytry, who discovered love.
+c436_01	Anxious_Serket	A costume for Serket, who's curious what love truly is.
+c436_02	Maid_Serket	A maid costume for Serket, who was influenced by Sytry.
+c436_10	Agape_Serket	You're my only salvation.\True form of Serket, who discovered love.
+c436_89	Agape_Serket	You're my only salvation.\True form of Sytry, who discovered love.
+c437_01	Cute_Euros	Euros dressed up in a cute costume.
+c437_02	Joyful_Euros	Euros dressed up in a joyous costume.
+c438_01	Mate_Semele	Semele's wedding dress for marrying Loki.\Please, accept me, Loki.
+c438_02	Enchant_Semele	I want to be your bride.\Semele's wedding dress that shows her intense desire for Loki's love.
+c438_10	Dress-up_Semele	A bold black dress worn by Chairperson "Abigail" of Saint Michael's.
+c438_11	Degenerated_Semele	No more memories. No desires. The only thing left in her now is...
+c438_12	Young_Semele	What I wanted then was a friend to talk to.
+c439_01	Dreamer_Saturn♥	Theatrical costume for Saturn♥,\who dreamed of playing Juliet.
+c439_02	Actress_Saturn♥	Theatrical costume for Saturn♥ who has completely become Juliet.
+c440_01	Perfect_Mona	Mona looks as lovely as a flower in full bloom.
+c440_02	Lovely_Mona	Mona looks as dreamy as a flower bathed in moonlight.
+c440_10	Exquisite_Mona	Mona on a dreamy journey, surrounded by a flurry of fluttering petals.
+c441_01	Ritual Sword_Robin	To protect the justice of world,\Robin of Justice lifted her sword!
+c441_02	Hero_Robin	A light gleams amidst the shadows.\It is the light of Robin's just and noble blade.
+c442_00	_Empress	Clothes she wore in the olden days pursuing truth with her friend.
+c442_01	Nirodhasatya_Nirrti	Nirrti's jeweled sword that severs all pain.
+c442_02	Tathata_Nirrti	Nirrti's jeweled sword that eradicates all evil and helps her achieve the state of Śūnyatā (Emptiness).
+c442_10	Neighbor_Nirrti	Nirrti's outfit for going out.\Kalaratri picked it out for her.
+c442_11	Zen Master_Nirrti	I'll collect my mind and stay grounded, even in the secular world.
+c443_01	Phantom Thief_Raffles	As the sound of an electric guitar pierces the silence of the night, the Phantom Thief descends upon the twilight city.
+c443_02	Phantom_Raffles	Don't let the Phantom's guitar draw you in, or you risk the loss of both your valuables and your heart.
+c444_01	_Mitra	
+c444_10	Uniform_Mitra	
+c444_11	_Mitra	
+c445_01	Pitch-dark_Kalaratri	Kalaratri has drawn her sword in the darkness to protect her goddess.
+c445_02	First Dawn_Kalaratri	Kalaratri's sword illuminates the path in front of her and her goddess.
+c445_10	Office Worker_Kalaratri	She's going to have more mouths to feed.\Kalaratri's continues to shoulder a greater and greater burden.
+c445_11	Casual_Kalaratri	A new Chinese teacher at Saint Michael's School.\She's prickly, but strangely popular among the students.
+c445_88	Luminous_Kalaratri	I'm the goddess's shadow,\a dead star reflecting her light.
+c445_89	Pitch-dark_Kalaratri	Dear Goddess, take your dwelling.\I'm your footstool.
+c446_01	Fierce_Argos	The sword of Gatekeeper Argos, who guards the secret island.
+c446_02	Bodyguard_Argos	The fang of Bodyguard Argos, the protector of the secret island, glows.
+c446_88	Bodyguard_Argos	You have set foot on this secret island uninvited.\Beware the fang that guards it.
+c447_01	Exorcist_Miriam	A nun's habit, worn with a promise to herself that she would achieve the will of Heaven.
+c447_02	Slanderous_Miriam	Not everyone in a nun's habit is kind.
+c447_10	Punishing_Miriam	I shall whip corrupt souls to give them peace.
+c447_11	_Miriam	
+c447_87	Punishing_Miriam	Sinners, await your punishment.
+c447_89	Punishing_Miriam	Sinners, await your punishment.
+c448_00	Casual_Mircalla	Mircalla's chosen attire for her special outing.
+c448_01	Cunning_Mircalla	Mircalla's slip dress specially prepared for you.
+c448_02	Seductive_Mircalla	Mircalla's seductive figure entrances your mind.
+c448_88	Seductive_Mircalla	Ooh, you smell good.\Mind if I take a sip of your blood?
+c449_01	Determined_Laura	Laura's special outfit with long-lasting comfort.
+c449_02	Chaser_Laura	Laura's special outfit for her active lifestyle.
+c450_01	Tragedy_Rusalka	Rusalka, playing the role of the tragic Juliet.
+c450_02	Heroine_Rusalka	Rusalka, utterly transformed into Juliet, the heroine.
+c451_01	_Ayane	Ayane, flitting in the night sky as splendidly as a butterfly.
+c451_02	Peach Blossom_Ayane	A combat suit for Ayane, the very vision of a cherry blossom falling in a spring breeze.
+c451_10	Fylgja_Ayane	A ninja who tracked down a summer resort. Is beach volleyball part of the mission?
+c452_01	_Leifang	A combat suit for Leifang, inspired by a phoenix twirling in the heavens.
+c452_02	Vermilion Bird Mirage_Leifang	A combat suit for Leifang, emblazoned with the feathers of the Vermilion Bird.
+c452_10	Five Colored Brilliance_Leifang	A swimsuit for Leifang as red as a blazing sun.
+c453_01	Warmhearted_Mercury	Handmade swimsuit from Amos Island that feels cool in the summer heat.
+c453_02	Embracing_Mercury	Mercury's parasol that depicts the ocean's beauty.
+c454_01	Lord_Juno	Tropical fashion that only\Juno could pull off.
+c454_02	Pleading_Juno	Limited-edition tropical fashion\only sold on Amos Island.
+c454_88	Pleading_Juno	I'll make it quick if you behave.
+c454_89	Lord_Juno	I'll make it quick if you behave.
+c455_01	Lady_Tiwaz	A costume Juno ordered specially for Tiwaz.
+c455_02	Passionate_Tiwaz	A custom-made costume perfect for Amos Island's warm weather.
+c455_10	Fancy_Tiwaz	A summer night event just for you.\Is it possible not to fall in love with her?
+c455_11	Queen_Tiwaz	A costume custom-made to be worn when arguing with Juno.
+c455_12	Bridal_Tiwaz	A cute yet sophisticated wedding dress\tailored for her marriage to Juno.
+c455_86	Bridal_Tiwaz	A cute yet sophisticated wedding dress\tailored for her marriage to Juno.
+c455_87	Fancy_Tiwaz	A summer night event just for you.\Is it possible not to fall in love with her?
+c456_01	Mascot_Clotho	The casino's mascot Clotho in a bunny girl outfit.
+c456_02	Destiny_Clotho	Clotho in her service uniform, ready to serve her guests.
+c457_01	Onlooker_Odysseus	A tailcoat providing comfort even when dealing with heavy workloads.
+c457_02	Neutral_Odysseus	A tailcoat that brings out a butler's elegance.
+c458_01	Racing_Zephyros	Zephyros's special suit that's resistant to the salty air of the island.
+c458_02	Gale_Zephyros	A special machine that Tiwaz has built for Zephyros.
+c458_10	Fastest_Zephyros	My only challenge is myself!\The machine Zephyros uses to challenge her limits.
+c459_01	Chaser_Cacia	Cacia's bullets follow their targets\to the end of the Infernal Realm.
+c459_02	Shadow_Cacia	Be careful if you hear whizzing sounds in the city at night.\They could be the sound of Cacia's bullets.
+c460_01	Marauder_Cacus	A scythe used by Cacus, the Witch of Hell, to cut down greedy demons.
+c460_02	Freedom_Cacus	The infernal flames surrounding Cacus, the Witch, burn greedy demons.
+c460_10	Boss Cow_Cacus	A costume her sister got her in celebration of the new year.
+c460_88	Freedom_Cacus	The city rings with ominous screams\as the witch's burning scythe glows red.
+c461_01	Remembering_Aurora	The image of Aurora in Mitra's memories.
+c461_02	Confessing_Aurora	I can hear Aurora's wings flitting beyond my subconscious.
+c461_10	Mate_Aurora	Saint Michael's new school uniform
+c462_01	Sworn_Theresa	Theresa's sword forged in her will.\It pierces all to protect herself.
+c462_02	Rosary_Theresa	Theresa's sword shines\to lead the lost lamb back on the right path.
+c463_01	Lost Paradise_Eve	A scarlet sword used by the elegant but deadly demon, Eve.
+c463_02	Dejected_Eve	Eve's blue sword shines at the end of the sky.
+c463_10	Autumn_Eve	A beautiful outfit that Eve has prepared to wear to celebrate the full moon tonight.
+c464_01	Magnificent_Arhat	Arhat's lance that discerns evil from good\and purges impurities.
+c464_02	Immortal_Arhat	Arhat's lance that repels evil spirits\and punishes the army of demons.
+c464_10	Bodhisattva_Arhat	Arhat inside her mind.\She's surrounded by a light that's as pure and tranquil as water.
+c464_11	Naive_Arhat	Casual clothes for Arhat who dreams of a new beginning.\They reflect Kalaratri's frugality.
+c465_01	Loyal_Sunah	An outfit specially designed to resist all temptation.
+c465_02	Upright_Sunah	An outfit specially designed to show the wearer's respect toward her master.
+c465_88	Upright_Sunah	Sunah's decision to serve only one master.
+c466_01	Carefree_Nezha	A high-performance outfit. Specially made with flexible fabric for the energetic Nezha.
+c466_02	Yearning_Nezha	A combat suit specially made for Nezha.
+c467_01	Severe_Ziva	The sleeping witch Ziva has awoken in the midst of a blizzard.
+c467_02	Burning_Ziva	The demon Ziva's hands twirl in the air,\creating and manipulating both hot and cold energies.
+c468_00	Chie_Amamiya	A dress from the brand Chie models for exclusively.
+c468_01	Whispering_Metis	Metis looks stern with her lips pressed together. What are her true feelings?
+c468_02	Truth_Metis	The usually expressionless Metis is smiling warmly.
+c469_01	Brilliant_Aria	Aria's Planet Party outfit\that gleams with dreams and passion.
+c469_02	Frozen Gale_Aria	A Planet Party outfit for Aria.\She makes the crowd go wild with an encore.
+c469_10	Tip Top_Aria	It's thanks to every one of you\that I could spread the wings of my dreams at last.
+c469_11	School Uniform_Aria	Aria is wearing the cute school uniform of the Ashram that she's recently joined.
+c469_87	Tip Top_Aria	It's thanks to every one of you\that I could spread the wings of my dreams at last.
+c470_01	Sparkling_Neptune♥	A Planet Party stage costume for the end of the year performance.
+c470_02	Snowy_Neptune♥	Wings of hope reaching out to spread Planet Party's music.
+c471_01	Shining_Mars♥	Mars♥'s Planet Party outfit that glitters like the stars.
+c471_02	Snowfall_Mars♥	Fans scream and swoon every time Mars♥ flaps her wings.
+c471_88	Snowfall_Mars♥	Spreads her wings and takes the leap, performing as a group with the others onstage.
+c472_01	Dazzling_Venus♥	A Planet Party stage costume that reflects Venus♥'s cheerful personality.
+c472_02	Winter_Venus♥	Venus♥'s stage outfit with wings that embody freedom.
+c473_01	Overtaker_Titania	A shining spear that penetrates darkness. Now, is Titania's time.
+c473_02	High Spirit_Titania	The light is back! Titania's shield repels the night and ushers in the morning.
+c474_01	Blacksmith_Hephaestus	Perseverance is another name for Hephaestus's hammer.
+c474_02	Blazing_Hephaestus	A true blacksmith rules the fire in the dark.
+c474_10	Teacher_Hephaestus	A chemistry teacher at Saint Michael's School. She's terrible at teaching.
+c474_87	Blazing_Hephaestus	Nothing's more meaningless than the pathetic struggle of a feeble soul.
+c474_88	Blazing_Hephaestus	Nothing's more meaningless than the pathetic struggle of a feeble soul.
+c474_89	Blacksmith_Hephaestus	Weak and meaningless things, turn to ashes and fade.
+c475_01	Dawn_Saturn♥	A Planet Party stage outfit that embodies Saturn♥'s wishes.
+c475_02	Frosty_Saturn♥	A leader outfit with wings attached to it, to lift its wearer's singing voice on the wind.
+c476_00	Tsumiki_Tsubokura	A grad student who is busy doing research every day.\She is Metis' pactmaker's aunt.
+c476_01	Cheerful_Nephthys	Nephthys's kind smile comes to mind\through the bittersweet chocolate.
+c476_02	Peaceful_Nephthys	Let me thaw your frozen heart like chocolate that melts on the tongue.
+c476_88	Peaceful_Nephthys	I've got sweet chocolate for everyone! Come on, let's have fun!
+c479_00	Fencer_Tachibana Kiyomi	"I'll prove myself through perseverance." A fencing uniform that embodies Kiyomi's determination.
+c479_01	Tenacious_Maupin	Maupin's sword awarded to a glorious victor.
+c479_02	Legendary_Maupin	Maupin's one-of-a-kind sword.\It forever remains as a legend alongside its owner.
+c479_20	Undergraduate_Tachibana Kiyomi	Kiyomi always wears a tracksuit\to stay on her toes.
+c480_00	Fencer_Kenzaki Karen	For now, she looks awkward in a fencing uniform,\but she dreams of one day being like her idol, Kiyomi.
+c480_01	Lovely_Bradamante	Bradamante's sword that dances as freely as the wind.
+c480_02	Carefree_Bradamante	A sword forged in Bradamante's heart.\It cuts through everything that causes her agony.
+c480_20	Undergraduate_Kenzaki Karen	As usual, Karen looks as lovely as sunshine.
+c481_00	Okuno_Osamichi	The more drawings Osamichi creates, the closer he gets to his dream.
+c481_01	Grenade_Wyatt	A grenade launcher\that reflects Wyatt's preference for more firepower.
+c481_02	Gunslinger_Wyatt	Wyatt's grenade launcher can blow up\even the thickest metal gate.
+c481_88	Gunslinger_Wyatt	Life itself is a battle! Don't fall back, soldier!
+c482_00	Takuwa_Takuro	It's hard to tell what she's thinking\behind her innocent, smiley face.
+c482_01	Innocent_Theophano	Theophano welcomes you with a beautiful smile on her face.
+c482_02	Quirky_Theophano	What is Theophano really thinking behind her beguiling smile?
+c483_00	Kurumigawa_Kurumi	A college student who's into cosplay.\Her gaming skills are pro-level.
+c483_01	Commander_Artemisia	A uniform for Artemisia, the decisive commander.
+c483_02	Claw Commander_Artemisia	A uniform for Artemisia, the unbeatable commander.
+c484_01	_Judas	
+c485_01	Dark Shadow_Yuna	The moment the light of hope fell and was swallowed in darkness,\a shadow was born from Yuna's unconscious.
+c485_02	Apathetic Shade_Yuna	The shadow born from Yuna's unconscious\gently enveloped her lonesome heart.
+c485_10	Light of Hope_Yuna	Having escaped the influence of evil, Yuna searches for the light of hope.
+c486_01	Chaser_Kubaba	Kubaba's beloved motorcycle peels off with the violent force of a storm.
+c486_02	Top Speed_Kubaba	Clear the way!\Kubaba's trusty motorcycle speeds by at top gear.
+c486_10	Shotgun_Kubaba	The power of her prime, recovered with Babel's secret potion.
+c486_87	Shotgun_Kubaba	If anyone's keen to die, I'll turn 'em into swiss cheese.
+c486_88	Top Speed_Kubaba	The biggest battle in history is starting.\Glory will only go to the survivors.
+c486_89	Chaser_Kubaba	You wanna sit on the throne? Then risk it all!
+c488_00	Kayamori_Kaede	A handsome college student who looks right at home cosplaying as a girl.
+c488_01	Carefree Fairy_Driades	The everyday life of Dryad, who spends her days freewheeling.
+c488_02	Tomboy Fairy_Driades	Shackles that restrict Dryad's selfish, uneasy behavior.
+c488_20	Cosplaying_Kayamori Kaede	Kayamori Kaede's girl cosplay.\Where have we seen this character before?
+c489_01	_Loki	A foolish man prayed to God\and a demon descended, surrounded by a freezing wind from Hell.
+c489_02	Dark Conspiracy_Loki	A foolish man prayed to God\and a demon descended, swinging a scythe.
+c489_10	Abyssal_Loki	In pitch-black darkness, the demon Loki descended,\flapping his wings.
+c489_11	Hermit_Loki	A great chain binds the Devil but when the time comes,\he'll break out of his restraints and wreak havoc on the earth once more.
+c489_87	Abyssal_Loki	Without God, the wilderness is as terrifying as the maw of a starving ghost.
+c489_88	Dark Conspiracy_Loki	Can you hear the voice of the demon luring you to the maze?
+c489_89	_Loki	Come with me.\I'll show you the most wondrous hell of all.
+c490_00	_Konoike Hana	
+c490_01	Assistant_Guren	
+c491_00	_Konoike Misato	
+c491_01	Mourning_Souka	
+c492_00	_He Xiangu	
+c493_00	Hoshikawa_Kirara	Casual wear comfortable to sit and study in for a long time.
+c493_01	Glorious_Messier	A long spear powerful enough to stop a rebel army with a single thrust.
+c493_02	Empress_Messier	A legendary cloak believed to be passed down in the royal family of Putena.
+c493_88	Empress_Messier	I'll protect my people and country in the name of my royal family.
+c494_00	_Fumino Tamaki	A lecture outfit worn by a gentle, but charismatic professor.
+c494_01	Merciful_Rosanna	Putena's traditional clothes worn by empresses and imperial consorts.
+c494_02	Embracing_Rosanna	Rosanna's clothes made from the finest fabric produced in Putena.
+c495_00	Russian Blue_Silk	A Russian blue being watched at an animal shelter.
+c495_01	Problem Kitty_Catsi	Don't be fooled by a kitty's smile.
+c495_02	Freed Kitty_Catsi	She may be a Child, but you should still put a bell on her collar.
+c496_00	Retriever_Poppy	A golden retriever being watched at an animal shelter.
+c496_01	Dreaming Poppy_Lassi	Lassi smiles, clad in a white dress.
+c496_02	Happy Poppy_Lassi	If someone's happy, Lassi is, too.
+c497_01	Returning_Wodan	A classic coat that shows Wodan's refined taste in fashion.
+c497_02	Perfect_Wodan	Wodan's classic coat made from mysterious,\alchemically-produced fabric.
+c497_10	Dreamer_Wodan	Pupil Wodan's work clothes.
+c498_01	_Sol	The Ruthless Striker overpowers all opponents with savage force.
+c498_02	Bounty Hunter_Sol	A former scientist who now makes his living as a bounty hunter.\He wields the trusty Outrage Mk.Ⅱ.
+c498_10	Hellfire God_Sol	Sol takes this form when he unleashes his power with the Dragon Install. He subdues his opponents with the overwhelming might of an enraged god.
+c498_87	Hellfire God_Sol	Sol takes this form when he unleashes his power with the Dragon Install.\He subdues his opponents with the overwhelming might of an enraged god.
+c499_01	_Ramlethal	Brigade leader of a special squad for Illyria.
+c499_02	Brigadier_Ramlethal	Ramlethal enters battle with a pair of greatswords at her side.\She forces her way through, suppressing and laying waste to all.
+c500_01	_Millia	She's brought together members of the old Assassin's Guild after becoming the director of the Post-War Administration Bureau.
+c500_02	Iron Maiden_Millia	She silently and quickly slaughters her enemies with her hair,\which she can manipulate as she pleases thanks to Forbidden Magic.
+c501_01	Passionate_Ragaraja	Renge, fortune-teller of the Chikamiya Shrine,\deems casual sportswear appropriate for work.
+c501_02	Detached_Ragaraja	"Nirvana can be found in this world."
+c501_10	The Wisdom_Ragaraja	The right foot in hell, the left in paradise.
+c501_11	Frustrated_Ragaraja	A costume for Ragaraja, who drowned the sorrows of reality in drink.
+c501_87	The Wisdom_Ragaraja	Let us save the masses with the hellfire that torches off sins.
+c501_88	Detached_Ragaraja	Surrender, demon!
+c501_89	Passionate_Ragaraja	Love-Stained Ruler Ragaraja_Life is transient, and man cannot escape his sins.
+c502_01	Psychic_To Keika	She's an utter fledgling shrine maiden.\Does she have what it takes?
+c502_02	Ghost-Calling_To Keika	You're more attached to a dress you buy\with money you worked for.
+c502_10	Ghost_To Keika	Another side of To Keika,\who was possessed by the spirit of a nameless shrine maiden.
+c502_11	School Uniform_To Keika	To Keika is wearing the school uniform of the Ashram, which she joined, following her teacher, Ragaraja. The uniform itself looks rather ordinary.
+c503_01	Obedient_Bari	Bari in clothes that enchant and subjugate demons.
+c503_02	Haughty_Bari	Bari is arrogant before demons despite being a Child.
+c503_10	Summer Solstice_Bari	Bari enjoys the height of summer in her daring swimsuit.
+c503_88	Haughty_Bari	You may reach ever greater bliss with me.
+c504_00	University Sponsor_Marduk	SUDO University's mystery sponsor is actually\a demon fashioning herself a god in the Mortal Realm.
+c504_01	Aspiring Goddess_Marduk	This demon making like a god in the Mortal Realm\carries an academic book to appear educated.
+c504_02	Governing Goddess_Marduk	Marduk, who wants to be a god in the Mortal Realm\in her magic power-amplifying combat form.
+c505_00	_Kitasato Fuuka	An ace sprinter of Capital University's cycling club.
+c505_01	Sprinting_Boreas	Animal print clothes that embody the cheetah, the king of speed.
+c505_02	Sweeping_Boreas	Boreas runs, leaving a cloud\of golden dust behind her.
+c505_10	Resting_Boreas	Boreas is resting under the shade after an intense race.
+c506_00	_Minaoka Sayaka	A lonely climber of Capital University's cycling club.
+c506_01	Leading_Notus	Notus's black jacket that conjures up the image of a lone panther.
+c506_02	Stormy_Notus	Notus comes and goes in a dark wind.
+c507_00	Shrine Maiden_Sulhee	Sulhee is a seaside shrine maiden, who loves alcohol.\Her real name is Satomi Sakamura.
+c507_01	Stand-In Shrine Maiden_Phorcus	Phorcus is meant to guard the village in the shrine maiden's stead.\However, she has no clue how to use a katana or shuriken.
+c507_02	Imbiber_Phorcus	Phorcus downs some sake in the summer sun.\Yet, no matter how much she drinks, sober she remains.
+c507_10	Boozer_Phorcus	Phorcus sips on sake within a small shrine,\donning a straw hat to shield against the summer sun.
+c507_88	Imbiber_Phorcus	Hey! Why not join me for a drink?
+c508_01	Shaman_Chandra	A shaman who swore revenge on the demon who killed her family.
+c508_02	Blade of Vengeance_Chandra	A shaman who sharpens the blade of her vengeance to protect the village.
+c509_01	Scarlet Blood_Strigoy	A classic suit with a design\that reflects Strigoy's sophistication.
+c509_02	Immortal_Strigoy	Strigoy's white suit dripping in elegance and opulence.\Few could wear it as she does.
+c509_10	Bloody_Strigoy	The Vampire Queen made perfectly flawless\by the power of the Elixir.
+c509_87	Bloody_Strigoy	An ominous flapping of wings can be heard from the ruined castle.
+c509_88	Immortal_Strigoy	I am the last soldier and guardian of this cursed castle.
+c509_89	Scarlet Blood_Strigoy	You darken my door uninvited, but I welcome you to this cursed castle.
+c510_01	Adversary_Krsnik	A vampire hunter's work attire.\Without this, there is little desire to do the job.
+c510_02	Martyr_Krsnik	While a vampire hunter,\Krsnik's own vampire blood boils.
+c510_10	Smoker_Krsnik	Even vampire hunters\need to switch off sometimes.
+c511_01	Indecisive_Philotes	Summer often has evening showers\but I don't really mind.
+c511_02	Befriending_Philotes	With a cloak to keep off the rain,\why not go for a stroll on an overcast afternoon?
+c512_01	Confident_Turan	A rain dress that lifts your spirits even on damp days.
+c512_02	Liberated_Turan	Shall we chase the end of that rainbow?
+c513_01	Worshipped_Akrasia	An outfit for Akrasia, in whom resides the light of healing.
+c513_02	Almighty_Akrasia	Only devoted believers\can see Akrasia's halo.
+c513_10	War Goddess_Akrasia	Merciful Akrasia takes the whip of love in hand.
+c513_87	War Goddess_Akrasia	Merciful Akrasia takes the whip of love in hand.
+c513_88	Almighty_Akrasia	Mercy for the faithful, judgment for the treacherous.
+c513_89	Worshipped_Akrasia	Lift your heads, ye who are lost in darkness.\The light shines upon you.
+c514_01	Con Artist_Duetsha	When I meet someone that pisses me off,\my favorite baseball bat here starts spouting flames.
+c514_02	Deceiver_Duetsha	This is what I use to punish any defiant demon worshippers!
+c515_00	_Archimago	
+c516_02	Luscious_Erysichthon	Erysichthon's combat suit is...\full of holes like a tasty sweet?
+c517_01	Retaliator_Grendel	Do you really think you can outrun this bullet?
+c517_02	Aggressor_Grendel	The madwoman Grendel's dual pistols\let no prey escape.
+c518_01	Unlucky_Sunny	
+c520_01	Draconic_Ishimi	An ancient demon who lives for vengeance.
+c520_02	False_Ishimi	Her eyes see through all falsehood.
+c520_10	Transforming_Ishimi	Ishimi's original form.\She's been known to forget herself from time to time.
+c520_87	Transforming_Ishimi	The snake who hid underwater donned a dragon's horn and rose to the heavens.
+c520_88	False_Ishimi	The purer someone is, the more useful they are.
+c520_89	Draconic_Ishimi	Once I've bitten a soul,\it can never leave my side.
+c521_01	Resisting_Zegati	Light but sturdy leather suit in which you can\walk a thousand miles.
+c521_02	Free_Zegati	The way she dresses reflects her desire\to live a free, unrestrained life.
+c521_10	Torrent_Zegati	Like the clouds or a gale,\she rushes forth unbound.
+c521_87	Torrent_Zegati	I bow down to no one.
+c521_88	Free_Zegati	It's particularly in my free time that I sense my true self.
+c521_89	Resisting_Zegati	No one can satisfy me.\What I want is me. Just me.
+c522_01	Dashing_Dalia	Once I fix my sights on something, I don't ever give up on it.
+c522_02	Charging_Dalia	Dalia's horns, which reflect\her defiant determination to alter destiny.
+c523_01	Epiphany_Nicole	Nicole's tights that keep her legs warm in winter.
+c523_02	Reincarnation_Nicole	A latest model sleigh that's been custom-made to help find a runaway sleigh-puller.
+c523_88	Reincarnation_Nicole	Merry Christmas!\I'm sorry, but I'll bring you your present next time.
+c524_01	Polar_Pepita	Pepita's cape coat that embodies\the classic elegance of the Santa Claus family.
+c524_02	White Rain_Pepita	Pepita's cape coat that keeps its wearer warm\even in the middle of a raging blizzard.
+c525_01	Predator_Grilla	Clothes for Grilla the demon who wants to become O Holy Nightmare.
+c525_02	Snowfall_Grilla	Wings of nightmares created during centuries of harsh hermetic training that she's performed.
+c526_01	Stern_Rani	The cute bell was a gift from Daddy.\It makes a pretty, crisp sound.
+c526_02	Black Tiger_Rani	Her brothers' special combat suit.\No need to worry about getting hurt with this on.
+c526_10	Beloved Daughter_Rani	Rani, who loves flowers, is particularly fond of this dress.\It practically screams baby sibling.
+c526_87	Beloved Daughter_Rani	Flowers are falling like snow...\Could it be a present from Daddy?
+c526_88	Black Tiger_Rani	If you make me mad,\my family won't stand for it!
+c526_89	Stern_Rani	Are you looking for a beating?\'Cause I'm warning you. I'm super strong!
+c527_01	Crafty_Reynard	Reynard's fluffy, sleek tail.\So long as she has that, she can put anyone under her spell.
+c527_02	Selfish_Reynard	A combat suit for the uncontrollable Reynard.\It affords a surprisingly tough defense.
+c529_01	Northern_Kubera	She may look slovenly, but she's the most intelligent of the exorcists.
+c529_02	Wise_Kubera	Kubera is expected to follow in the footsteps of the Great Wizard Merlin.
+c530_01	Lord_Kanaloa	Regular Kanaloa.\She is disguised as an ordinary human.
+c530_02	Wild_Kanaloa	Kanaloa in a state of emergency.\She's let out her tentacles to harness all of her power.
+c530_10	Bikini_Kanaloa	Kanaloa in a swimsuit. When she's tired, she relaxes by spending time in a swimsuit.
+c533_01	_Oneiros	
+c537_01	Captain_Elysion	A maritime look for Elysion, who's psyched up and ready to go.
+c537_02	Freed_Elysion	Shall we embark on a journey for paradise?
+c538_01	Sagacious_Sallos	Guardian spirit of the Holy Relic Chronohoplon.
+c538_02	Salacious_Sallos	Pigtails for extra cuteness!
+c539_01	Chaotic_Belial	Belial, the supreme power of the Infernal Realm, is making moves in the Mortal Realm.
+c539_02	Destructive_Belial	A slightly fancier version of Belial's outfit for her stay in the Mortal Realm.
+c539_10	Executioner_Belial	Executioner Belial's true form. She radiates charisma as a Consul of the Infernal Realm.
+c539_87	Executioner_Belial	Executioner Belial's true form. She radiates charisma as a Consul of the Infernal Realm.
+c539_88	Destructive_Belial	A slightly fancier version of Belial's outfit for her stay in the Mortal Realm.
+c539_89	Chaotic_Belial	Belial, the supreme power of the Infernal Realm, is making moves in the Mortal Realm.
+c545_01	Watcher_Ariel	Ariel the Watcher, watching over Mortal Realm on behalf of Heaven.
+c545_02	Messenger_Ariel	Ariel the Messenger, carrying out missions from Heaven.
+c550_00	_Carol	Like any other day,\Carol's attire is perfectly ready for the courtroom.
+c550_01	Blessed_Scrouge	The sound of Scrooge's bell\rings with warmth on frosty winter days.
+c550_02	Fiesta_Scrouge	If only Christmas never ended...\What was her present?!
+c552_01	Black Bunny_Ophois	A bunny girl outfit\obtained using an outfit voucher.
+c552_02	White Bunny_Ophois	A pure white bunny girl outfit\considered a symbol of good fortune.
+m001_01	Obese_Fire Bat	It's so hot!
+m001_02	Giant_Fire Bat	A Fire Bat's weak point is its stomach!
+m002_01	Obese_Ice Bat	It's so cold!
+m002_02	Giant_Ice Bat	An Ice Bat's weak point is also its stomach!
+m003_01	Furious_Fire Dragon	An angry Fire Dragon. Wraps itself in flames for extra protection.
+m003_02	Enraged_Fire Dragon	An angry Fire Dragon. Don't let the flames distract from the stripes on its armor (it worked hard on those).
+m004_01	Cold-Blooded_Ice Dragon	A cold-blooded Ice Dragon. Hardens itself with ice for extra protection.
+m004_02	Subzero_Ice Dragon	A cold-blooded Ice Dragon. Keep an eye out for the stripes under its ice armor (it worked hard on those).
+m005_01	_YumNyam	A stuffed Yummeow.
+m005_02	_AdoNyam	A stuffed Yimmeow. Don't try to take any of its candy. At least not if you want to keep your hand.
+m006_01	Noisy_Long-Ears	Noisy Long-Ears.
+m006_02	Mad_Big-Ears	Mad Big-Ears. Comes with optional bib.
+m007_00	_Teddy	A cursed stuffed animal that has been incongruously named "Teddy."
+m007_01	Tattered_Teddy	Teddy, cursed stuffed animal at large. The torn part of its head acts as the doorway for its soul.
+m007_02	Chaotic_King Teddy	Teddy, cursed stuffed animal at large. Two parts fluff, five parts vengeful spirits.
+m008_01	Strawberry_Gelatin	A moving gelatin costume. Its real body is the nucleus on the inside.
+m008_02	Strawberry_Jelly	A moving jelly costume. Be careful not to let it melt from humidity!
+m009_01	Soda Pop_Gelatin	A moving gelatin costume. Its real body is the large eyeball.
+m009_02	Soda Pop_Jelly	A moving jelly costume. Be careful not to get it wet, or you'll be in for a shocking surprise!
+m010_01	Soda Pop_Pudding	Blueberry-flavored monster custard.
+m010_02	Soda Pop_Poison	Poisonous blueberry-flavored monster custard.
+m011_01	Strawberry_Pudding	Strawberry-flavored monster custard.
+m011_02	Strawberry_Poison	Poisonous strawberry-flavored monster custard.
+m012_01	One-Year_Dondon	Battle suit for One-Year Dondon. Dries up after the year has passed.
+m012_02	Multi-Year_Dondon	Battle suit for Multi-Year Dondon. Changes colors in the fall.
+m013_01	Carrot_Ragdoll	A stuffed animal sold with a set of carrots.
+m013_02	Famished_Ragdoll	A stuffed animal that lost its carrots, only to see its price go up.
+m015_01	Solar_Sandfox	A winged desert fox suit born in the heat of the sun.
+m015_02	Fairy_Sandfox	A winged desert fox suit that went on to become a fairy.
+m017_01	Justice_Root	A fluffy outfit worn by Righteous Luto.
+m017_02	Airtight_Root	A fluffy outfit worn by Airtight Luto. Its real body consists of just its feet.
+m018_01	Fate_Pom	A combat suit of destiny made exclusively with naturally curly hair.
+m018_02	Destiny_Pom	Dye it all you want, but there's nothing to be done about the hair.
+m021_01	Idle_Donkey	A combat suit for Idle Donkee, who loves to kill time by playing his grass whistle.
+m021_02	Pleasure-Seeking_Donkey	A combat suit for a Donkee who has learned the joys of song.
+m022_01	Free_Puppy	"Scars are the mark of a true warrior." Vintage combat suit for old-fashioned dog fairies.
+m022_02	Obedient_Puppy	"Loyalty is a privilege reserved for dogs." This combat suit is made for loyal, trustworthy dog fairies.
+m023_01	Crescent_Lizard	This Crescent Lizard was first discovered in a polluted city.
+m023_02	Stone Crescent_Lizard	This Crescent Lizard was first discovered in the ruins of an abandoned town.
+m025_01	Warrior_Berry	The sweetest part of a strawberry is the very tip.
+m025_02	Berserker_Berry	There's nothing sweet about this berry...
+m026_01	Lazy_Chick	A combat suit for Lazy Chick. Try not to sweep them up off the floor when cleaning
+m026_02	Lazy_Fused Chick	Multiple Lazy Chicks coming together to form the perfect plump fit.
+m026_10	Summer_Chick	The sunglasses a lazy chick wears when sagging off on the beach.
+m027_01	_Mandrake Seeds	A combat suit for Mandrake Seed. Make sure you wear it properly.
+m027_02	_Mandrake Plants	A costume for Mandrake Plants. I don't think it would suit me...
+m028_01	Ouro_Squirrel	A combat suit for Ouro Squirrel. Keep that neck wrapped up if you want to stay warm throughout winter.
+m028_02	Ouro_Tiger	A combat suit for Ouro Tiger. Wrap around your waist to warm up your whole body.
+m029_01	Glowing_Tooth	A combat suit for Glowing Tooth. Glows in the dark.
+m029_02	Flaming_Tooth	A combat suit for Fiery Tooth. The blue flames are incredibly warm.
+m030_01	Green_Ball	A combat suit for Green Ball. Made from real emerald.
+m030_02	E-Green_Ball	A combat suit for E-Green Ball. Made from refined emerald.
+m031_01	Dreary_Tree	A combat suit for a Tree that has constantly been giving to others. Miserably shabby.
+m031_02	Old_Tree	A combat suit for Old Tree. Woodpeckers are its natural enemy, not weapons.
+m035_01	Barbaric_Gremlin	A helmet that's bigger than a Gremlin's stomach.
+m035_02	Chief_Gremlin	A helmet that's bigger than a Gremlin's stomach. The ostentatious feathers represent the Gremlin's status.
+m036_01	Voice_Messenger	A combat suit worn by Messenger. Makes your voice lower.
+m036_02	Deadly Voice_Messenger	A combat suit worn by Messenger. Makes your voice heavier.
+m037_01	Dark Night_Chaser	A combat suit for Chaser. I could swear I saw these in the back alley that one night...
+m037_02	Nightmare_Chaser	A combat suit for Chaser. I once had a dream where lazy demons were chasing me around.
+m038_00	Akihiko Akabane	Found this casual exorcist outfit in a back alley in the Mortal Realm.
+m038_01	White Winged_Diablo	Diablo's glittering fourth eye sees exactly what you desire.
+m038_02	Black Winged_Diablo	Diablo's glittering sixth eye sees into your deepest instincts.
+m038_10	Evil Flower_Diablo	Those who are born to evil must follow the laws of evil.\A reborn evil flower. Everything you see is intentional.
+m039_01	Destructive_Kali Yuga	An outfit that fully expresses Kali Yuga's ferocity.
+m039_02	Extinct_Kali Yuga	An outfit that fully expresses Kali Yuga's untamed brutality.
+m040_00	Isao_Takusari	Casual wear for a writhing Chainkiller.
+m040_01	Standard_Chain Killer	A combat suit for a Chainkiller with out-of-control vices.
+m040_02	Custom_Chain Killer	A combat suit for a Chainkiller who has attained enlightenment.
+m045_00	Junko_Takeuchi	A costume for the woman who desires the fragrance of melancholy blossoms.
+m045_01	Lonely_Bouquet	A combat suit made from the bouquet of a woman got betrayed.
+m045_02	Obsessed_Bouquet	A combat suit made from the bouquet of a vengeful woman.
+m047_01	Mysterious_Egg	A combat suit worn by Mystery Egg. Its real body is a mystery...and an egg.
+m047_02	Columbus_Egg	A combat suit worn by Columbus Egg. Its real body is a vicious, newly-hatched chick.
+m048_01	Back_Bunny	Cute Bunny buns.
+m048_02	Front_Bunny	Try to look away from that adorable behind. Just try!
+m049_00	Tetsuji_Akiyama	Casual wear imbued with the obsession of an unattractive mathematician.
+m049_01	Old_Skull	A combat suit for Skull, just hanging around.
+m049_02	Fresh_Skull	A combat suit for Skull, just hanging around. How're you supposed to fight in this?
+m050_00	Akio_Yamaguchi	A lifestyle costume for the unmarried greengrocer in your neighborhood.
+m050_01	Dawn_Guillotine	All I need to be happy is a chance to use my guillotine. Any takers?
+m050_02	Midday_Guillotine	All I need to be happy is a chance to use my guillotine. If you ever need a head chopped off, you know where to find me.
+m051_00	Wakako_Kyogoku	A supremely unlucky business suit. Occasionally haunted by the Grim Reaper.
+m051_01	Seething_Hades	Hades' combat suit that lacks a physical form. Everything but the head and wings has burned away.
+m051_02	Purgatory_Hades	Hades' combat suit that lacks a physical form. Literally too hot to touch.
+m051_10	Dead End_Hades	A dead end for Hades, who got even closer to darkness.
+m052_01	Desert_Basilisk	The scale of a Basilisk specialized for desert life.
+m052_02	Plains_Basilisk	An evolved Basilisk scale. Utterly invincible.
+m053_00	Enka_Mizukami	Hydra's pactmaker.\She protects the small and the weak with her fists.
+m053_01	Chaotic_Hydra	A monster discovered at the Saint Michael's School for Girls, its identity unknown.
+m053_02	Greedy_Hydra	It can carry a simple conversation on days when it's in a good mood.
+m054_00	Morishige_Mariko	An office outfit made for veteran teachers.
+m054_01	Judge_Gomorrah	Gomorrah's cross, emitting a sulfurous smell.
+m054_02	Extinct_Gomorrah	Gomorrah's cross, burning with the fires of hell.
+m056_00	Makiko_Manyuda	Casual wear for Abaddon the tyrant. Reeks of something suspicious.
+m056_01	Villainous_Abaddon	Abaddon's combat suit. Its soul is somewhere in the muzzle.
+m056_02	Heavy Fire_Abaddon	Abaddon's combat suit. What does a fighting machine need with a soul?
+m057_00	Kotaro_Kurotatsu	Even starving demons will feel better after seeing a uniform like this.
+m057_01	Blue Shadow_Olga	Scales for Olga, designed to disappear amidst the night.
+m057_02	Black Shadow_Olga	Scales for Olga, designed to disappear into the shadows of the clouds.
+m057_10	Azure Night_Olga	The dark dragon takes human form on azure nights.
+m059_00	_Screw Needle	A sharp screw. Gained the soul of a Bazooka after being fitted onto a demon's heel.
+m059_01	Green Helmet_Bazooka	A sturdy hard hat made for Bazookas. Even in demon warfare, you can never be too careful.
+m059_02	Red Helmet_Bazooka	A hard helmet made for Bazookas. Watch out for stray bullets.
+m061_01	Strawberry_Syringe	A strawberry-flavored syringe filled to bursting with strawberry juice.
+m061_02	Strawberry_Syringe	A strawberry-flavored syringe filled to bursting with strawberry juice. Did we mention the juice has extra strawberry pulp?
+m062_01	Grape_Syringe	A grape-flavored syringe filled to bursting with grape juice.
+m062_02	Grape_Syringe	A grape-flavored syringe filled to bursting with grape juice. The juice contains grated grape skin for extra texture.
+m063_00	_Syringe	You found one of Demeter's used syringes at an abandoned hospital.
+m063_01	Poison_Ampoule	A combat suit that power up Ampoule's allies.
+m063_02	New Poison_Ampoule	A combat suit that power up Ampoule's allies. Just be careful not to power up enemies too.
+m064_01	Piglet_Pukli	Pukli the piglet's sheen is all done by laser.
+m064_02	Piglet_Pukli Jin	The ribbon gives Pukli just the right touch of freshness.
+m065_01	Piglet_Kokuri	Kokuri the piglet's shiny laser.
+m065_02	Piglet_Kokuri Jin	The ribbon gives Kokuri just the right touch of freshness.
+m066_01	Piglet_Kukuri	Rose-colored leather for Kukuri the piglet.
+m066_02	Piglet_Kukuri Jin	The ribbon gives Kukuri just the right touch of warmth.
+m067_01	Aqua_Food	An Aqua Food seed that exudes a watery aura.
+m067_02	B. Aqua_Food	An italicized water spirit that grew after planting Aqua Food.
+m068_01	Dark_Food	A Dark Food seed that exudes a nighttime aura.
+m068_02	B. Dark_Food	An italicized water spirit that grew after planting Dark Food.
+m069_01	Light_Food	A Light Food seed that exudes an aura of dawn.
+m069_02	B. Light_Food	An italicized dawn spirit that grew after planting Light Food.
+m070_01	Bound_Red Chain	A chain that has tied up a fire soul.
+m070_02	Liberated_Red Chain	A chain that has freed a fire soul.
+m071_01	Bound_Green Chain	A chain that has tied up a tree soul.
+m071_02	Liberated_Green Chain	A chain that has freed a tree soul.
+m072_01	Bound_Blue Chain	A chain that has tied up an ocean soul.
+m072_02	Liberated_Blue Chain	A chain that has freed an ocean soul.
+m073_01	Cure_Cube	Cure Cube's pointy combat suit. Make sure not to step on it.
+m073_02	Cure_Cube	Cure Cube's pointy combat suit. You really, really don't want to step on it.
+m074_01	Poison_Cube	Poison Cube's irritating combat suit. Be careful not to step on it in the middle of the night.
+m074_02	Poison_Cube	Poison Cube's irritating combat suit. Be careful not to step on it in while sleepwalking.
+m075_01	Evil_Cube	Aqua Cube's damp combat suit. Cool to the foot.
+m075_02	Evil_Cube	Aqua Cube's damp combat suit. Extremely cool to the foot.
+m076_01	Honey_Cube	Honey Cube's shiny combat suit. Very handy during blackouts.
+m076_02	Honey_Cube	Honey Cube's shiny combat suit. Also works as a flashlight in a pinch.
+m077_01	Cube_Moa	The combined form of multiple rolling cubes.
+m077_02	Big Cube_Moa	The combined form of multiple rolling cubes. Even louder than before.
+m077_10	Gloomy_Moa	The full force of Moa's hidden tenacity, unleashed.
+m078_01	Emerald_Cocoon	A cocoon for fairies born from emeralds.
+m078_02	Emerald_Brooch	A fairy brooch made out of emeralds.
+m080_01	Ruby_Cocoon	A cocoon for fairies born from rubies.
+m080_02	Ruby_Brooch	A fairy brooch made out of rubies.
+m081_01	Citrine_Cocoon	A cocoon for fairies born from yellow quartz.
+m081_02	Citrine_Brooch	A fairy brooch made out of yellow quartz.
+m082_01	Sapphire_Cocoon	A cocoon for fairies born from sapphire.
+m082_02	Sapphire_Brooch	A fairy brooch made out of sapphire.
+m083_01	Amethyst_Cocoon	A cocoon for fairies born from amethyst.
+m083_02	Amethyst_Brooch	A fairy brooch made out of amethyst.
+m084_01	Pie_Cube	Pie Cube's fluffy combat suit. Touching it may make the time pass quickly.
+m084_02	Pie_Cube	Pie Cube's fluffy combat suit. Fits entirely in your pocket.
+m086_01	Bound_Light Chain	A chain that has tied up a firefly soul.
+m086_02	Liberated_Light Chain	A chain that has freed a firefly soul.
+m087_01	Bound_Dark Chain	A chain that has tied up a shadow soul.
+m087_02	Liberated_Dark Chain	A chain that has freed a shadow soul.
+m089_01	Piglet_Mukuri	Mukuri the piglet's gentle laser.
+m089_02	Piglet_Mukuri Jin	The ribbon gives Mukuri just the right touch of coolness.
+m090_01	Piglet_Fukli	Fukli the piglet's dim leather.
+m090_02	Piglet_Fukli Jin	The ribbon gives Fukli just the right touch of comfort.
+m092_01	Mint_Syringe	A sap syringe filled to bursting with mint.
+m092_02	Mint_Syringe	A sap syringe filled to bursting with mint. Don't forget to get your shots!
+m093_01	Apple_Syringe	A glowing light syringe filled to bursting with apple vinegar.
+m093_02	Apple_Syringe	A glowing light syringe filled to bursting with apple vinegar made from autumn-roasted apples.
+m095_01	Soda Pop_Syringe	A water syringe brimming with clean carbonated water.
+m095_02	Soda Pop_Syringe	A water syringe filled to bursting with carbonated water.
+m096_01	Light_Ball	A combat suit for Light Ball. Made from yellow quartz.
+m096_02	E. Light_Ball	A combat suit for E-Light Ball. Made from refined yellow quartz.
+m097_01	Blue_Ball	A combat suit for Blue Ball. Made from real sapphire.
+m097_02	E. Blue_Ball	A combat suit for E-Blue Ball. Made from refined sapphire.
+m098_01	Purple_Ball	A combat suit for Purple Ball. Made from real amethyst.
+m098_02	E. Purple_Ball	A combat suit for E-Purple Ball. Made from refined amethyst.
+m100_01	Red_Ball	A combat suit for Red Ball. Made from real ruby.
+m100_02	E. Red_Ball	A combat suit for E-Red Ball. Made from refined ruby.
+m101_01	Small_Red Bloop	Red Bloop's combat suit. Tastes like delicious grindstone sludge.
+m101_02	Big_Red Bloop	Big Red Bloop's combat suit. Tastes like a delicious stinging sensation.
+m102_01	Small_Blue Bloop	Blue Bloop's combat suit. Tastes like delicious attitude.
+m102_02	Big_Blue Bloop	Big Blue Bloop's combat suit. Tastes like delicious unease.
+m103_01	Small_Yellow Bloop	Yellow Bloop's combat suit. Tastes like delicious acidity.
+m103_02	Big_Yellow Bloop	Big Yellow Bloop's combat suit. Tastes like delicious sourness.
+m104_01	Small_Purple Bloop	Purple Bloop's combat suit. Tastes like delicious austerity.
+m104_02	Big_Purple Bloop	Big Purple Bloop's combat suit. Tastes like delicious bitterness.
+m105_01	Small_Green Bloop	Green Bloop's combat suit. Tastes like delicious freshness.
+m105_02	Big_Green Bloop	Big Green Bloop's combat suit. Tastes like delicious refreshment...ness.
+m107_01	Green_Food	A Green Food seed that exudes a grassy aura.
+m107_02	B. Green_Food	An italicized field spirit that grew after planting Green Food.
+m109_01	Fire_Food	A Green Food seed that exudes pure flame energy.
+m109_02	B. Fire_Food	An italicized flame spirit that grew after planting Fire Food.
+m110_01	_Gron	A combat suit born out of Gron's wild fancies.
+m110_02	Gron_Gron	A combat suit born out of Gron's wild fancies. Once again, Gron dreams of agriculture.
+m111_01	_Firon	A combat suit born out of Firon's wild fancies.
+m111_02	Firon_Firon	A combat suit born out of Firon's wild fancies.\Once again, Firon dreams of warm days.
+m112_01	_Bluron	A combat suit born out of Bluron's wild fancies.
+m112_02	Bluron_Bluron	A combat suit born out of Bluron's wild fancies. Once again, Bluron dreams of pristine rivers.
+m113_01	Daron	A combat suit born out of Daron's wild fancies.
+m113_02	Daron_Daron	A combat suit born out of Daron's wild fancies. Once again, Daron dreams of space.
+m114_01	_Liron	A combat suit born out of Liron's wild fancies.
+m114_02	Liron_Liron	A combat suit born out of Liron's wild fancies. Once again, Liron dreams of grand ideas.
+m116_01	Dispenser_Bow-Wow	Don't be fooled by its soft-looking ears. They're actually Bow-Wow's iron fists.
+m116_02	Champion_Bow-Wow	I bet you those champion gloves and belt could fetch a pretty good price...
+m117_01	G. Cat_Dummy	This Growcat's a fake!
+m117_02	G. Cat_Devil	The Growcat's real body is hiding in the shadows.
+m118_01	Katana_Slasher	Silent Slasher's sharp sword.
+m118_02	Stubborn_Slasher	Silent Slasher's super-blue shuriken.
+m119_01	Katana_Ninja	Lonely Ninja's sharp sword.
+m119_02	Stubborn_Ninja	Lonely Ninja's super-blue shuriken.
+m120_01	Katana_Assassin	Harsh Assassin's sharp sword.
+m120_02	Stubborn_Assassin	Harsh Assassin's super-blue shuriken.
+m121_01	Katana_Warrior	Upright Warrior's sharp sword.
+m121_02	Stubborn_Warrior	Upright Warrior's super-blue shuriken.
+m123_01	Katana_Shadow	Dangerous Shadow's sharp sword.
+m123_02	Stubborn_Shadow	Dangerous Shadow's super-blue shuriken.
+m124_01	Red_Watcher	Watcher combat suit, made from incessant hellfire.
+m124_02	Hellfire_Watcher	Watcher combat suit, made from the fires of purgatory.
+m125_01	Blue_Watcher	Watcher combat suit, made from the chill of fresh snow.
+m125_02	Freezing_Watcher	Watcher combat suit, made from the Ice Queen's frost.
+m126_01	Darkness_Watcher	Watcher combat suit, made from witch's cloth.
+m126_02	Darkest_Watcher	Watcher combat suit, made from the eyes of a demon.
+m127_01	Green_Watcher	Watcher combat suit, made from a cursed bog.
+m127_02	Dark Green_Watcher	Watcher combat suit, made from a poisonous devilplant.
+m128_01	Light_Watcher	Watcher combat suit, made from the eyes of a wild beast.
+m128_02	Sun_Watcher	Watcher combat suit, made from talons of sunlight.
+m130_01	Red_Popper	You got a combat suit for Popper from a jack-in-the-box. They're still warm.
+m130_02	Fire_Popper	Fire Popper's mouth is actually a portal to his hometown, the fires of Mount Magma.
+m131_01	Blue_Popper	You got a combat suit for Popper from a jack-in-the-box. They're still fresh.
+m131_02	Aqua_Popper	Aqua Popper's mouth is actually a portal to his hometown, the duck pond.
+m132_01	Green_Popper	You got a combat suit for Popper from a jack-in-the-box. They're still raw.
+m132_02	Grass_Popper	Grass Popper's mouth is actually a portal to his hometown, the plains of Mexico.
+m133_01	Yellow_Popper	You got a combat suit for Popper from a jack-in-the-box. They're still lustrous.
+m133_02	Light_Popper	Light Popper's mouth is actually a portal to his hometown, the black spots in the sun.
+m134_01	Black_Popper	You got a combat suit for Popper from a jack-in-the-box. They seem shabby.
+m134_02	Dark_Popper	Dark Popper's mouth is actually a portal to his hometown, the community graveyard.
+m136_00	Katsuko_Kagiwada	You found Lady's casual wear at an abandoned fair.
+m136_01	Bound_Lady	Lady's bondage gear. Do not break the seal...
+m136_02	Mad_Lady	Lady's bondage gear.\Make sure to seal it tight to keep all the berserker rage inside.
+m137_01	Bowtie_Bellboy	You're going to fight a bowtie without a top hat?
+m137_02	Mad_Bellboy	It's important to mind your manners, even on the battlefield. Everyone knows suspenders are the mark of a true gentleman.
+m137_10	Gravekeeper_Bellboy	24-hour surveillance to ensure remains aren't dug up.
+m139_01	Flashy_Aurora Bloop	Splendid jelly armor for Aurora Bloop.
+m141_00	Munetaka_Mushikabe	The secrets to ultimate independence are NOT, repeat, NOT hidden inside the camera.
+m141_01	Dream_Halloween	An evil monster born from Halloween's nightmares.
+m141_02	Nightmare_Halloween	A fake monster dreamed up by Halloween, who's all bluff and no brawn.
+m142_01	Red_Revenge Girl	Revenge Girl's red combat suit. The color symbolizes the avenger's anger.
+m142_02	Flame_Revenge Girl	Revenge Girl's red combat suit. The color symbolizes the avenger's blood.
+m143_01	Blue_Revenge Girl	Revenge Girl's blue combat suit. The color symbolizes the avenger's grief.
+m143_02	Flood_Revenge Girl	Revenge Girl's blue combat suit. The color symbolizes the avenger's heart.
+m144_01	Green_Revenge Girl	Revenge Girl's green combat suit. The color symbolizes the avenger's enmity.
+m144_02	Bloom_Revenge Girl	Revenge Girl's green combat suit. The color symbolizes the avenger's spite.
+m145_01	Light_Revenge Girl	Revenge Girl's gold combat suit. The color symbolizes the avenger's punishment.
+m145_02	Flash_Revenge Girl	Revenge Girl's gold combat suit. The color symbolizes the avenger's violence.
+m146_01	Purple_Revenge Girl	Revenge Girl's purple combat suit. The color symbolizes the avenger's curse.
+m146_02	Darkness_Revenge Girl	Revenge Girl's purple combat suit. The color symbolizes the avenger's rancor.
+m148_01	Noise_Won	Noise One's speaker. Cannot adjust the volume.
+m148_02	Noise_Peak	Noise Peak's speaker. The destitute demon's sole prized possession.
+m149_01	DJ_Hertz	You picked up Hertz's keyboard at a Mortal Realm dance club.
+m149_02	Revolution_Hertz	You picked up Hertz's turntable at an Infernal Realm dance club.
+m150_01	Fake_Hat-Trick	Hat-Trick's combat suit. Isn't it nice how they pinpoint his weak point?
+m150_02	Checkmate_Hat-Trick	Hat-Trick's harsh combat suit. The only way to win is to face your opponent head-on!
+m151_01	Mad Bunny_Arms	Madbunny's standard form.
+m151_02	Mad Bunny_Spirit	Madbunny's Awakened form.
+m152_01	Sneaker_Fighter	Don't be fooled by the fluffy ears.\Fighter's fists feel like they're made of iron.
+m152_02	Sneaker_Champion	Don't be fooled by the adorable ears.\Champion's fists feel like they're made of iron.
+m152_10	Midnight_Fighter	If you see rabbit ears, hide first. The dangerous fists that punch through the darkness.
+m153_01	Bad Dream_Manti	A set of claws for Manty, made by a certain someone's nightmares.
+m153_02	Nightmare_Manti	A set of claws for Manty, found in an unhappy man's nightmares.
+m154_00	Yano_Mayomi	Sharp-tongued vlogger.
+m154_01	Dark_Gungnir	Black cannot be tainted. It is the ultimate color of justice!\Black wings dyed in Gungnir's will.
+m154_02	Red_Gungnir	Red, like the blood flowing within, is the ultimate color of justice!\Red wings dyed in Gungnir's obsession.
+m155_01	Small_Red Drop	A combat suit for Red drop. Made by Davi out of ketchup.
+m155_02	Small_Red Drop	The heart and soul Davi put into the ketchup gives Red drop energy.
+m156_01	Small_Yellow Drop	A combat suit for Yellow Drop. Made by Davi out of broken eggshells.
+m156_02	Small_Yellow Drop	The sadness Davi put into the eggshells gives Yellow Drop energy.
+m157_01	Small_Green Drop	A combat suit for Green Drop. Made by Davi out of leftover spinach.
+m157_02	Small_Green Drop	The distress Davi put into the spinach gives Green Drop energy.
+m158_01	Small_Blue Drop	A combat suit for Blue Drop. Made by Davi out of spilled water.
+m158_02	Small_Blue Drop	The regret Davi put into the water gives Blue Drop energy.
+m159_01	Small_Purple Drop	A combat suit for Purple Drop. Made by Davi out of grape skins.
+m159_02	Small_Purple Drop	The murderous intent Davi put into the grape skins gives Purple Drop energy.
+m160_01	Small_Aurora Drop	Cute jelly armor for Aurora Drop.
+m160_02	Small_Aurora Drop	Cute jelly armor for Aurora Drop. Made by Davi with love.
+m161_01	Small_Red Blobbie	You found a Small Red Blobbie in a bag of candy hidden by Davi.
+m161_02	Small_Red Blobbie	You found a Small Red Blobbie in a bag of candy hidden by Davi.
+m162_01	Small_Yellow Blobbie	You found a Small Yellow Blobbie in a bunch of flower petals left behind by Apollo.
+m162_02	Small_Yellow Blobbie	A Small Yellow Blobbie combat suit. Rumor has it they were made from a shooting star.
+m163_01	Small_Green Blobbie	You found a Small Green Blobbie in some spinach Davi threw away in secret.
+m163_02	Small_Green Blobbie	A Small Green Blobbie combat suit. Rumor has it they were once worn by an Emerald Palace guard.
+m164_01	Small_Blue Blobbie	You found a Small Blue Blobbie in one of Lisa's perfume bottles.
+m164_02	Small_Blue Blobbie	A Small Blue Blobbie combat suit. Rumor has it they were found inside a glacier.
+m165_01	Small_Purple Blobbie	One stormy day, a Small Purple Blobbie fell from the sky.
+m165_02	Small_Purple Blobbie	A Small Purple Blobbie fell from the Milky Way.
+m166_01	Small_Aurora Blobbie	Mona never actually found it inside an Antarctic glacier.
+m166_02	Small_Aurora Blobbie	It might actually have been found inside an Antarctic glacier...
+m167_01	Small_Red Heart	Red Heart's rose-colored jelly armor.
+m167_02	Small_Red Heart	Red Heart's rose-colored jelly armor. The heart represents my love.
+m168_01	Small_Yellow Heart	Yellow Heart's shiny jelly armor.
+m168_02	Small_Yellow Heart	Yellow Heart's shiny jelly armor. Also makes a great dining light.
+m169_01	Small_Green Heart	Green Heart's refreshing jelly armor.
+m169_02	Small_Green Heart	Green Heart's refreshing jelly armor. Just the thing to comfort a glum demon.
+m170_01	Small_Blue Heart	Blue Heart's moist jelly armor.
+m170_02	Small_Blue Heart	Blue Heart's moist jelly armor. Keeps tough demon skin safe.
+m171_01	Small_Purple Heart	Purple Heart's soft jelly armor.
+m171_02	Small_Purple Heart	Purple Heart's soft jelly armor. Great for treating insomnia.
+m172_01	Small_Aurora Heart	Aurora Heart's jelly armor that shines like the aurora.
+m172_02	Small_Aurora Heart	Aurora Heart's aurora-colored jelly armor. An excellent teaser.
+m173_01	Big_Red Heart	Red Heart’s rose-colored jelly armor. Sullen and moody.
+m173_02	Big_Red Heart	Red Heart's rose-colored jelly armor. Just try to beat this heat.
+m174_01	Big_Yellow Heart	Yellow Heart's shiny jelly armor. So mad it's practically fuming.
+m174_02	Big_Yellow Heart	Yellow Heart's shiny jelly armor. The light of hope shines bright within its bosom.
+m175_01	Big_Green Heart	Green Heart's shiny jelly armor. Really takes to the weakest demons.
+m175_02	Big_Green Heart	Green Heart's shiny jelly armor. Smells like nature.
+m176_01	Big_Blue Heart	Blue Heart's shiny jelly armor. Sings a mean accompaniment at karaoke.
+m176_02	Big_Blue Heart	Blue Heart’s shiny jelly armor. Its song of triumph is a real show stopper.
+m177_01	Big_Purple Heart	Purple Heart's shiny jelly armor. Kind of a loner.
+m177_02	Big_Purple Heart	Purple Heart's shiny jelly armor. Loner or not, it refuses to cry in sadness.
+m178_01	Big_Aurora Heart	Aurora Heart's jelly armor that glitters like the aurora.
+m178_02	Big_Aurora Heart	Aurora Heart's jelly armor that shines in the colors of the aurora. Never gets stiff shoulders, since it doesn't HAVE shoulders.
+m185_01	Silent_Actyon	The standard form of Actyon, protector of virgins.
+m185_02	Reclusive_Actyon	Actyon after surging in power thanks to Diana's blessing.
+m185_10	Dark Night_Actyon	The leather of Actyon that protects the forest in the silence of the night.
+m187_01	Drifting_Dagon	Scales for Dagon after achieving open ocean enlightenment.
+m187_02	Wandering_Dagon	Scales for Dagon after achieving deep-sea enlightenment.
+m188_01	Ancient_Gold Coin	A combat suit for a gold coin engraved with an ancient ruler's face.
+m188_02	Greedy_Gold Coin	Rejoice, for none but Lord Mammon issued this coin!
+m189_01	Startling_Mimic	A treasure chest that will guard your precious belongings.
+m189_02	Horror_Mimic	A treasure chest that will guard your sole prized possession.
+m190_01	Hot-Blooded_Boxer	Boxer's combat suit. Made with stolen treasure.
+m190_02	Fiery_Boxer	Boxer's combat suit. Made with ill-gotten gains.
+m191_00	Chimera's_Tombstone	Chimera's Tombstone, now with extra vengeful spirits.
+m191_01	Silent_Chimera	You found Chimera's combat suit at an abandoned gravesite.
+m191_02	Apocalyptic_Chimera	You found Chimera's combat suit at a witch's grave.
+m192_01	Flame King_Blood Dragon	A Blood Dragon's combat suit. Purified with kingsfire.
+m192_02	Flame Emperor_Blood Dragon	A Blood Dragon's combat suit. Purified with the emperor's flames.
+m193_01	Yackety_Pompoms	Pompom's combat suit. Made with hand-plucked cat fur.
+m193_02	Jabbering_Pompoms	Pompom's combat suit. Made with hand-plucked demon hair.
+m194_01	Green-Feathered_Gron	A combat suit born out of Gron's woodland dreams.
+m194_02	Green Winged_Gron	A combat suit born out of Gron's prairie dreams.
+m195_01	Light-Feathered_Liron	A combat suit born out of Liron's moonlight dreams.
+m195_02	Light-Winged_Liron	A combat suit born out of Liron's sunlight dreams.
+m196_01	Red-Feathered_Firon	A combat suit born out of Firon's match-burning dreams.
+m196_02	Red-Winged_Firon	A combat suit born out of Firon's campfire dreams.
+m197_01	Water-Feathered_Charonn	A combat suit born out of Charonn's storm dreams.
+m197_02	Water-Winged_Charonn	A combat suit born out of Charonn's lake dreams.
+m198_01	Black-Feathered_Daron	A combat suit born out of Daron's blackest night dreams.
+m198_02	Black-Winged_Daron	A combat suit born out of Daron's darkest night dreams.
+m199_01	Ice King_Azure Dragon	Azure Dragon's combat suit. Baptized in the king's own holy water.
+m199_02	Ice Emperor_Azure Dragon	Azure Dragon's combat suit. Baptized in the king's finest ale.
+m200_00	_Ankh	A mysterious Canopus vase in which Ankh's pactmaker sleeps.
+m200_01	Guard_Ankh	Ankh's crossed arms are so tough that they can never be un-crossed.
+m200_02	Enforcer_Ankh	Ankh's crossed arms are tougher than the toughest chain.
+m201_00	Mister_Screw	A screw that gives off just a hint of magic.\You can almost see it twitching.
+m201_01	Bombing_Mech Commander	The defeated soldier's battle never ends...
+m201_02	Blasting_Mech Commander	The defeated soldier's revenge begins now!
+m202_00	_Screw	A screw that gives off just a hint of magic.\You can see it rattling.
+m202_01	Armed_Mech Soldier	Master's orders are absolute!\Mech Soldier's battle begins now.
+m202_02	Teeth Armed_Mech Soldier	Master's will is absolute!\Mech Soldier's battle begins now.
+m203_00	_Cymbal	Bremen's pactmaker.
+m203_01	Twirling_Bremen	Its anthropomorphic cymbal silhouette is very attractive.
+m203_02	Spinning_Bremen	Magic world, magic cymbals, magic Bremen...
+m206_01	Relentless_Boss Pig	A funky outfit for a plucky pig.
+m206_02	Murderous_Boss Pig	A crazy outfit for a heroic pig.
+m211_01	Archer_Angel Lot	The heart-tipped arrow of the seeker of love,\Angel Lot, pointed at you.
+m211_02	Sharpshooter_Angel Lot	The heart-tipped arrow of the warrior of love, Angel Lot, pointed at you.
+m212_01	Emerald_Rune	One of Cleopatra's servants, decorated in emerald.
+m212_02	Pharaoh_Rune	One of Cleopatra's servants, sworn to protect the pharaoh's throne.
+m215_01	Passionate Ruler_Aurora King	A ruler holds close to his ambition, rora!\Au am a passionate ruler with great dreams, rora!
+m215_02	Fervent Ruler_Aurora King	Run towards the sunset, rora!\Follow close to this fervent ruler, rora!
+m215_88	Fervent Ruler_Aurora King	Run towards the sunset, rora!\Follow close to this fervent ruler, rora!
+m215_89	Passionate Ruler_Aurora King	A ruler holds close to his ambition, rora!\Au am a passionate ruler with great dreams, rora!
+m216_01	Silent_Fairy	Siiilent legs... Hoooly arms...
+m216_02	Holiday_Fairy	Never underestimate the power of fairy prayer.
+m217_01	Silent_Red Nose	You can almost feel the pride of being the world's fastest reindeer.
+m217_02	Holiday_Red Nose	Powered up to pull the world's biggest sled.
+m223_01	Good Kid's_Gift Bag	A giant tooth for the Gift Bag that only eats those on the nice list.
+m223_02	Bad Kid's_Gift Bag	A looong tongue for the Gift Bag that also eats those on the naughty list.
+m225_01	Hyper_Cosmim	Cute jelly armor with the power of space.
+m225_02	Hyper_Cosmim	Cute jelly armor with the power of space.
+m228_89	Golden_Charinn	A dark type Charinn.
+m229_01	Super_Cosmim	Pretends not to care, but secretly burns with passion for you.
+m229_02	Super_Cosmim	Pretends not to care, but secretly burns with passion for you.
+m230_01	Giga_Cosmim	The zenith of evolution. The golden crown of the King of the Cosmims.
+m230_02	Giga_Cosmim	The zenith of evolution. The golden crown of the King of the Cosmims.
+m231_01	Grave_Cross	
+m231_02	Deadman's_Cross	
+m232_89	Golden_Charinn	A water type Charinn.
+m233_89	Golden_Charinn	A fire type Charinn.
+m234_89	Golden_Charinn	A light type Charinn.
+m235_89	Golden_Charinn	A wood type Charinn.
+m236_89	Giant_Aurora King	A fire Aurora King.
+m237_89	Giant_Aurora King	A wood type Aurora King.
+m238_89	Giant_Aurora King	A light type Aurora King.
+m239_89	Giant_Aurora King	A water type Aurora King.
+m245_01	Abandoned_Creature	A pitiful monster abandoned by its creator.
+m245_02	The Creator's_Creature	This abandoned monster is not nameless.\The one and only Creature.
+m253_01	Rabbit_YUKINE	YUKINE, a rabbit who follows SNOW MIKU everywhere.
+m253_02	Rabbit_YUKINE	YUKINE, a rabbit who follows SNOW MIKU everywhere.
+m254_01	Mini_Davi	Made from a fragment of Archfiend Davi III.
+m254_02	Mascot_Davi	Made from the dreams of Archfiend Davi III.
+m255_01	Toy_Ampoule	Poison created from bitter and painful emotions.
+m255_02	Venom_Ampoule	The ultimate, indiscriminate poison of death that spreads despair.
+m256_89	Giant_Aurora King	A dark type Aurora King.
+m261_01	Two-Sided_Moa	A dress customized\for the only two Moas in the world.
+m261_02	Monochrome_Moa	Where there is light, there is also darkness.\A bold new Moa is about to hit the scene!
+m261_88	Monochrome_Moa	
+m262_89	Return_Cocoon	
+m263_01	Rabbit_YUKINE	
+m264_01	Devouring_Procel	A demonic personification of desires. She'll devour everything in sight.
+m264_02	Abyssal_Procel	Crimson demonic horns that feed on an endless desire to grow.
+m264_88	Abyssal_Procel	I ate a demon in the pits of Hell.\Hear ye! I now speak with the demon's voice.
+m264_89	Devouring_Procel	Greed begets sin.\Sin begets death.
+m265_01	_Mimic	
+m266_01	_Kali Yuga	
+m267_01	_Basilisk	
+m268_01	_Fighter	
+m269_01	Cure_Cube	
+m270_01	Poison_Cube	
+m271_01	Sapphire_Brooch	
+m272_01	Honey_Cube	
+m273_01	Pie_Cube	
+m274_01	_Moa	
+m275_01	Poison_Ampoule	
+m276_01	Venom_Ampoule	
+m277_01	_Guillotine	
+m278_01	Water Drop_Ox	A water drop spirit. If you're lucky, you'll find these dewy oxen\bouncing on your head on a rainy day.
+m278_02	Water Cloud_Ox	Water Cloud Oxen are groups of Water Drop Oxen. If you look long enough into a pool of water, you might find them.
+m279_01	Ember_Ox	A fire spirit. More ferocious than it looks, this tiny ember can burn down a whole mountain.
+m279_02	Flame_Ox	Flame Oxen are groups of Ember Oxen.\They're bigger and more ferocious than their smaller counterparts.
+m280_01	Sprout_Ox	A leaf spirit.\It releases the smell of fresh cut grass in the sunlight.
+m280_02	Leaf_Ox	Leaf Oxen are groups of Sprout Oxen.\If you're lucky, you'll see them napping on a sun-kissed grass field.
+m281_01	Sparkle_Ox	A sunlight spirit. It's the Sparkle Ox's warm breath\that warms your cold hands and feet on wintry days.
+m281_02	Sunlight_Ox	Sunlight Oxen are groups of Sparkle Oxen. They're the kind guides for the specks of dust aimlessly floating in the air.
+m282_01	Star Shade_Ox	A night sky spirit. It keeps company with the loneliest star in the vault of heaven.
+m282_02	Moon Shade_Ox	Moon Shade Oxen are groups of Star Shade Oxen.\They sing a lullaby for the lonely stars in the night sky.
+sc001_01	Hot Spring_Mona	Mona bathing in the hot spring
+sc002_01	Hot Spring_Lisa	Lisa bathing in the hot spring
+sc003_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc004_01	Hot Spring_Cheoyong	Cheoyong bathing in the hot spring
+sc005_01	Hot Spring_Mars	Mars bathing in the hot spring
+sc007_01	Hot Spring_Phoenix	Phoenix bathing in the hot spring
+sc008_01	Hot Spring_Frigga	Frigga bathing in the hot spring
+sc009_01	Hot Spring_Hector	Hector bathing in the hot spring
+sc010_01	Hot Spring_Demeter	Demeter bathing in the hot spring
+sc011_01	Hot Spring_Deino	Deino bathing in the hot spring
+sc012_01	Hot Spring_Agamemnon	Agamemnon bathing in the hot spring
+sc013_01	Hot Spring_Artemis	Artemis bathing in the hot spring
+sc014_01	Hot Spring_Astraea	Astraea bathing in the hot spring
+sc017_01	Hot Spring_Cu Sith	Cu Sith bathing in the hot spring
+sc018_01	Hot Spring_Korra	Korra bathing in the hot spring
+sc019_01	Hot Spring_Eris	Eris bathing in the hot spring
+sc020_01	Hot Spring_Fortuna	Fortuna bathing in the hot spring
+sc022_01	Hot Spring_Mayahuel	Mayahuel bathing in the hot spring
+sc026_01	Hot Spring_Eos	Eos bathing in the hot spring
+sc027_01	Hot Spring_Cynthia	Cynthia bathing in the hot spring
+sc028_01	Hot Spring_Leda	Leda bathing in the hot spring
+sc029_01	Hot Spring_Selene	Selene bathing in the hot spring
+sc030_01	Hot Spring_Detective Girl	Detective Girl bathing in the hot spring
+sc031_01	Hot Spring_Freyja	Freyja bathing in the hot spring
+sc032_01	Hot Spring_Alecto	Alecto bathing in the hot spring
+sc033_01	Hot Spring_Diana	Diana bathing in the hot spring
+sc034_01	Hot Spring_Mnemosyne	Mnemosyne bathing in the hot spring
+sc035_01	Hot Spring_Persephone	Persephone bathing in the hot spring
+sc036_01	Hot Spring_Hermes	Hermes bathing in the hot spring
+sc037_01	Hot Spring_Judas	Judas bathing in the hot spring
+sc038_01	Hot Spring_Calypso	Calypso bathing in the hot spring
+sc039_01	Hot Spring_Morrigan	Morrigan bathing in the hot spring
+sc040_01	Hot Spring_Shamash	Shamash bathing in the hot spring
+sc041_01	Hot Spring_Tiamat	Tiamat bathing in the hot spring
+sc043_01	Hot Spring_Hera	Hera bathing in the hot spring
+sc044_01	Hot Spring_Pantheon	Pantheon bathing in the hot spring
+sc045_01	Hot Spring_Aria	Aria bathing in the hot spring
+sc047_01	Hot Spring_Hestia	Hestia bathing in the hot spring
+sc048_01	Hot Spring_Neamhain	Neamhain bathing in the hot spring
+sc049_01	Hot Spring_Maat	Maat bathing in the hot spring
+sc051_01	Hot Spring_Frej	Frej bathing in the hot spring
+sc052_01	Hot Spring_Berit	Berit bathing in the hot spring
+sc053_01	Hot Spring_Metis	Metis bathing in the hot spring
+sc054_01	Hot Spring_Legend	Legend bathing in the hot spring
+sc056_01	Hot Spring_Jeanne d'Arc	Jeanne d'Arc bathing in the hot spring
+sc057_01	Hot Spring_Lan Fei	Lan Fei bathing in the hot spring
+sc058_01	Hot Spring_Nirrti	Nirrti bathing in the hot spring
+sc060_01	Hot Spring_Tisiphone	Tisiphone bathing in the hot spring
+sc061_01	Hot Spring_Siren	Siren bathing in the hot spring
+sc062_01	Hot Spring_Europa	Europa bathing in the hot spring
+sc063_01	Hot Spring_Freesia	Freesia bathing in the hot spring
+sc064_01	Hot Spring_Medusa	Medusa bathing in the hot spring
+sc065_01	Hot Spring_Erato	Erato bathing in the hot spring
+sc066_01	Hot Spring_Aten	Aten bathing in the hot spring
+sc067_01	Hot Spring_Thanatos	Thanatos bathing in the hot spring
+sc068_01	Hot Spring_Ambrosia	Ambrosia bathing in the hot spring
+sc069_01	Hot Spring_Ptah	Ptah bathing in the hot spring
+sc072_01	Hot Spring_Fenrir	Fenrir bathing in the hot spring
+sc073_01	Hot Spring_Navi	Navi bathing in the hot spring
+sc074_01	Hot Spring_Quirinus	Quirinus bathing in the hot spring
+sc082_01	Hot Spring_Calchas	Calchas bathing in the hot spring
+sc083_01	Hot Spring_Neith	Neith bathing in the hot spring
+sc086_01	Hot Spring_Goga	Goga bathing in the hot spring
+sc090_01	Hot Spring_Vulcan	Vulcan bathing in the hot spring
+sc091_01	Hot Spring_Myra	Myra bathing in the hot spring
+sc091_02	Hot Spring_Myra	Myra bathing in the hot spring
+sc095_01	Hot Spring_Vesta	Vesta bathing in the hot spring
+sc099_01	Hot Spring_Melpomene	Melpomene bathing in the hot spring
+sc101_01	Hot Spring_Syrinx	Syrinx bathing in the hot spring
+sc106_01	Hot Spring_Medeia	Medeia bathing in the hot spring
+sc107_01	Hot Spring_Apollo	Apollo bathing in the hot spring
+sc110_01	Hot Spring_Flins	Flins bathing in the hot spring
+sc112_01	Hot Spring_Elias	Elias bathing in the hot spring
+sc115_01	Hot Spring_Sonnet	Sonnet bathing in the hot spring
+sc117_01	Hot Spring_Yaga	Yaga bathing in the hot spring
+sc120_01	Hot Spring_Flora	Flora bathing in the hot spring
+sc121_01	Hot Spring_Muse	Muse bathing in the hot spring
+sc122_01	Hot Spring_Samael	Samael bathing in the hot spring
+sc122_02	Hot Spring_Samael	Samael bathing in the hot spring
+sc123_01	Hot Spring_Baphomet	Baphomet bathing in the hot spring
+sc124_01	Hot Spring_Eve	Eve bathing in the hot spring
+sc125_01	Hot Spring_Attis	Attis bathing in the hot spring
+sc126_01	Hot Spring_Salmacis	Salmacis bathing in the hot spring
+sc127_01	Hot Spring_Bastet	Bastet bathing in the hot spring
+sc130_01	Hot Spring_Genius	Genius bathing in the hot spring
+sc132_01	Hot Spring_Midas	Midas bathing in the hot spring
+sc133_01	Hot Spring_Titania	Titania bathing in the hot spring
+sc135_01	Hot Spring_Valkyrie	Valkyrie bathing in the hot spring
+sc139_01	Hot Spring_Pomona	Pomona bathing in the hot spring
+sc141_01	Hot Spring_Amor	Amor bathing in the hot spring
+sc142_01	Hot Spring_Hypnos	Hypnos bathing in the hot spring
+sc147_01	Hot Spring_Baal	Baal bathing in the hot spring
+sc148_01	Hot Spring_Inanna	Inanna bathing in the hot spring
+sc149_01	Hot Spring_Rusalka	Rusalka bathing in the hot spring
+sc153_01	Hot Spring_Epona	Epona bathing in the hot spring
+sc154_01	Hot Spring_Thoth	Thoth bathing in the hot spring
+sc155_01	Hot Spring_Echo	Echo bathing in the hot spring
+sc156_01	Hot Spring_Elizabeth	Elizabeth bathing in the hot spring
+sc158_01	Hot Spring_Naias	Naias bathing in the hot spring
+sc159_01	Hot Spring_Semele	Semele bathing in the hot spring
+sc164_01	Hot Spring_Ishtar	Ishtar bathing in the hot spring
+sc167_01	Hot Spring_Chang'e	Chang'e bathing in the hot spring
+sc169_01	Hot Spring_Euros	Euros bathing in the hot spring
+sc172_01	Hot Spring_Yuna	Yuna bathing in the hot spring
+sc173_01	Hot Spring_Daoine Sidhe	Daoine Sidhe bathing in the hot spring
+sc174_01	Hot Spring_A.I	A.I bathing in the hot spring
+sc175_01	Hot Spring_Red Cross	Red Cross bathing in the hot spring
+sc176_01	Hot Spring_Eshu	Eshu bathing in the hot spring
+sc178_01	Hot Spring_Morgana	Morgana bathing in the hot spring
+sc180_01	Hot Spring_Mammon	Mammon bathing in the hot spring
+sc183_01	Hot Spring_Dana	Dana bathing in the hot spring
+sc184_01	Hot Spring_Elysion	Elysion bathing in the hot spring
+sc186_01	Hot Spring_Erebus	Erebus bathing in the hot spring
+sc186_02	Hot Spring_Erebus	Erebus bathing in the hot spring
+sc187_01	Hot Spring_Thetis	Thetis bathing in the hot spring
+sc188_01	Hot Spring_Atalanta	Atalanta bathing in the hot spring
+sc189_01	Hot Spring_Kratos	Kratos bathing in the hot spring
+sc190_01	Hot Spring_Isis	Isis bathing in the hot spring
+sc191_01	Hot Spring_Sekhmet	Sekhmet bathing in the hot spring
+sc193_01	Hot Spring_Virupa	Virupa bathing in the hot spring
+sc194_01	Hot Spring_Ashtoreth	Ashtoreth bathing in the hot spring
+sc195_01	Hot Spring_Cybele	Cybele bathing in the hot spring
+sc196_01	Hot Spring_Idun	Idun bathing in the hot spring
+sc198_01	Hot Spring_Zelos	Zelos bathing in the hot spring
+sc199_01	Hot Spring_Aurora	Aurora bathing in the hot spring
+sc200_01	Hot Spring_Seshat	Seshat bathing in the hot spring
+sc202_01	Hot Spring_Victorix	Victorix bathing in the hot spring
+sc203_01	Hot Spring_Harmonia	Harmonia bathing in the hot spring
+sc203_02	Hot Spring_Harmonia	Harmonia bathing in the hot spring
+sc205_01	Hot Spring_Merlin	Merlin bathing in the hot spring
+sc208_01	Hot Spring_Firo	Firo bathing in the hot spring
+sc209_01	Hot Spring_Hecate	Hecate bathing in the hot spring
+sc210_01	Hot Spring_Tartarus	Tartarus bathing in the hot spring
+sc214_01	Hot Spring_Jupiter	Jupiter bathing in the hot spring
+sc216_01	Hot Spring_Werewolf	Werewolf bathing in the hot spring
+sc218_01	Hot Spring_Alf	Alf bathing in the hot spring
+sc219_01	Hot Spring_Ymir	Ymir bathing in the hot spring
+sc220_01	Hot Spring_Atropos	Atropos bathing in the hot spring
+sc221_01	Hot Spring_Jana	Jana bathing in the hot spring
+sc222_01	Hot Spring_El Dorado	El Dorado bathing in the hot spring
+sc223_01	Hot Spring_Air	Air bathing in the hot spring
+sc225_01	Hot Spring_Rudolph	Rudolph bathing in the hot spring
+sc227_01	Hot Spring_Mafdet	Mafdet bathing in the hot spring
+sc228_01	Hot Spring_Vivian	Vivian bathing in the hot spring
+sc228_02	Hot Spring_Vivian	Vivian bathing in the hot spring
+sc229_01	Hot Spring_Brownie	Brownie bathing in the hot spring
+sc230_01	Hot Spring_Skuld	Skuld bathing in the hot spring
+sc231_01	Hot Spring_Rhea Silvia	Rhea Silvia bathing in the hot spring
+sc232_01	Hot Spring_Daphne	Daphne bathing in the hot spring
+sc233_01	Hot Spring_Arges	Arges bathing in the hot spring
+sc234_01	Hot Spring_Hercules	Hercules bathing in the hot spring
+sc235_01	Hot Spring_Danu	Danu bathing in the hot spring
+sc237_01	Hot Spring_Typhon	Typhon bathing in the hot spring
+sc238_01	Hot Spring_Medb	Medb bathing in the hot spring
+sc239_01	Hot Spring_Dianus	Dianus bathing in the hot spring
+sc239_02	Hot Spring_Dianus	Dianus bathing in the hot spring
+sc242_01	Hot Spring_Ailill	Ailill bathing in the hot spring
+sc246_01	Hot Spring_Krampus	Krampus bathing in the hot spring
+sc247_01	Hot Spring_Myrina	Myrina bathing in the hot spring
+sc250_01	Hot Spring_Xenie	Xenie bathing in the hot spring
+sc250_02	Hot Spring_Xenie	Xenie bathing in the hot spring
+sc252_01	Hot Spring_Arhat	Arhat bathing in the hot spring
+sc253_01	Hot Spring_Nicole	Nicole bathing in the hot spring
+sc261_01	Hot Spring_Sarasu	Sarasu bathing in the hot spring
+sc261_02	Hot Spring_Sarasu	Sarasu bathing in the hot spring
+sc262_01	Hot Spring_Daphnis	Daphnis bathing in the hot spring
+sc266_01	Hot Spring_Horus	Horus bathing in the hot spring
+sc267_01	Hot Spring_Cleopatra	Cleopatra bathing in the hot spring
+sc274_01	Hot Spring_Bast	Bast bathing in the hot spring
+sc275_01	Hot Spring_Harpy	Harpy bathing in the hot spring
+sc277_01	Hot Spring_Leuce	Leuce bathing in the hot spring
+sc278_01	Hot Spring_Hel	Hel bathing in the hot spring
+sc279_01	Hot Spring_Laufey	Laufey bathing in the hot spring
+sc280_01	Hot Spring_Tyche	Tyche bathing in the hot spring
+sc281_01	Hot Spring_Thisbe	Thisbe bathing in the hot spring
+sc281_02	Hot Spring_Thisbe	Thisbe bathing in the hot spring
+sc283_01	Hot Spring_Morgan	Morgan bathing in the hot spring
+sc285_01	Hot Spring_Natalis	Natalis bathing in the hot spring
+sc286_01	Hot Spring_Verdelet	Verdelet bathing in the hot spring
+sc287_01	Hot Spring_Salome	Salome bathing in the hot spring
+sc289_01	Hot Spring_Durandal	Durandal bathing in the hot spring
+sc290_01	Hot Spring_Brigid	Brigid bathing in the hot spring
+sc292_01	Hot Spring_Luin	Luin bathing in the hot spring
+sc294_01	Hot Spring_Bathory	Bathory bathing in the hot spring
+sc295_01	Hot Spring_Unknown	Unknown bathing in the hot spring
+sc296_01	Hot Spring_Hildr	Hildr bathing in the hot spring
+sc299_01	Hot Spring_Santa Claus	Santa Claus bathing in the hot spring
+sc300_01	Hot Spring_Pietas	Pietas bathing in the hot spring
+sc301_01	Hot Spring_Jacheongbi	Jacheongbi bathing in the hot spring
+sc305_01	Hot Spring_Rita	Rita bathing in the hot spring
+sc308_01	Hot Spring_Kubaba	Kubaba bathing in the hot spring
+sc310_01	Hot Spring_Bes	Bes bathing in the hot spring
+sc311_01	Hot Spring_Khepri	Khepri bathing in the hot spring
+sc312_01	Hot Spring_Tyrving	Tyrving bathing in the hot spring
+sc315_01	Hot Spring_Methuselah	Methuselah bathing in the hot spring
+sc316_01	Hot Spring_Wodan	Wodan bathing in the hot spring
+sc317_01	Hot Spring_Babel	Babel bathing in the hot spring
+sc318_01	Hot Spring_Bari	Bari bathing in the hot spring
+sc319_01	Hot Spring_Willow Doryeong	Willow Doryeong bathing in the hot spring
+sc321_01	Hot Spring_Luna	Luna bathing in the hot spring
+sc324_01	Hot Spring_Mona	Mona bathing in the hot spring
+sc329_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc332_01	Hot Spring_Ganesha	Ganesha bathing in the hot spring
+sc333_01	Hot Spring_Deborah	Deborah bathing in the hot spring
+sc334_01	Hot Spring_Lisa	Lisa bathing in the hot spring
+sc335_01	Hot Spring_Hathor	Hathor bathing in the hot spring
+sc335_02	Hot Spring_Hathor	Hathor bathing in the hot spring
+sc336_01	Hot Spring_Pan	Pan bathing in the hot spring
+sc337_01	Hot Spring_Freyja	Freyja bathing in the hot spring
+sc337_02	Hot Spring_Freyja	Freyja bathing in the hot spring
+sc338_01	Hot Spring_Pomona	Pomona bathing in the hot spring
+sc339_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc342_01	Hot Spring_Yami	Yami bathing in the hot spring
+sc342_02	Hot Spring_Yami	Yami bathing in the hot spring
+sc343_01	Hot Spring_Tiamat	Tiamat bathing in the hot spring
+sc344_01	Hot Spring_Isolde	Isolde bathing in the hot spring
+sc345_01	Hot Spring_Anemone	Anemone bathing in the hot spring
+sc346_01	Hot Spring_Tristan	Tristan bathing in the hot spring
+sc347_01	Hot Spring_Dana	Dana bathing in the hot spring
+sc348_01	Hot Spring_Mars♥	Mars♥ bathing in the hot spring
+sc349_01	Hot Spring_Saturn♥	Saturn♥ bathing in the hot spring
+sc350_01	Hot Spring_Neptune♥	Neptune♥ bathing in the hot spring
+sc351_01	Hot Spring_Venus♥	Venus♥ bathing in the hot spring
+sc353_01	Hot Spring_Charlotte	Charlotte bathing in the hot spring
+sc354_01	Hot Spring_Demeter	Demeter bathing in the hot spring
+sc355_01	Hot Spring_Chang'e	Chang'e bathing in the hot spring
+sc360_01	Hot Spring_Maat	Maat bathing in the hot spring
+sc361_01	Hot Spring_Caduceus	Caduceus bathing in the hot spring
+sc362_01	Hot Spring_Leo	Leo bathing in the hot spring
+sc363_01	Hot Spring_Lupin	Lupin bathing in the hot spring
+sc364_01	Hot Spring_Sytry	Sytry bathing in the hot spring
+sc365_01	Hot Spring_Lisa	Lisa bathing in the hot spring
+sc366_01	Hot Spring_Deino	Deino bathing in the hot spring
+sc367_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc370_01	Hot Spring_Mona	Mona bathing in the hot spring
+sc371_01	Hot Spring_Lisa	Lisa bathing in the hot spring
+sc372_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc373_01	Hot Spring_Midas	Midas bathing in the hot spring
+sc374_01	Hot Spring_Hildr	Hildr bathing in the hot spring
+sc377_01	Hot Spring_Iphis	Iphis bathing in the hot spring
+sc378_01	Hot Spring_Pallas	Pallas bathing in the hot spring
+sc379_01	Hot Spring_Athena	Athena bathing in the hot spring
+sc381_01	Hot Spring_Sytry	Sytry bathing in the hot spring
+sc382_01	Hot Spring_Neamhain	Neamhain bathing in the hot spring
+sc383_01	Hot Spring_Frej	Frej bathing in the hot spring
+sc385_01	Hot Spring_Marie Rose	Marie Rose bathing in the hot spring
+sc386_01	Hot Spring_Kasumi	Kasumi bathing in the hot spring
+sc387_01	Hot Spring_Honoka	Honoka bathing in the hot spring
+sc390_01	Hot Spring_Eochaid	Eochaid bathing in the hot spring
+sc391_01	Hot Spring_Medb	Medb bathing in the hot spring
+sc392_01	Hot Spring_Davi	Davi bathing in the hot spring
+sc393_01	Hot Spring_Mona	Mona bathing in the hot spring
+sc394_01	Hot Spring_Bathory	Bathory bathing in the hot spring
+sc395_01	Hot Spring_Eve	Eve bathing in the hot spring
+sc396_01	Hot Spring_Werewolf	Werewolf bathing in the hot spring
+sc397_01	Hot Spring_Leda	Leda bathing in the hot spring
+sc398_01	Hot Spring_Jacheongbi	Jacheongbi bathing in the hot spring
+sc400_01	Hot Spring_Banshee	Banshee bathing in the hot spring
+sc402_01	Hot Spring_Noel	Noel bathing in the hot spring
+sc403_01	Hot Spring_Makoto	Makoto bathing in the hot spring
+sc404_01	Hot Spring_Nine	Nine bathing in the hot spring
+sc405_01	Hot Spring_Luin	Luin bathing in the hot spring
+sc406_01	Hot Spring_Serval	Serval bathing in the hot spring
+sc407_01	Hot Spring_Raccoon	Raccoon bathing in the hot spring
+sc408_01	Hot Spring_Fennec	Fennec bathing in the hot spring
+sc409_01	Hot Spring_Limos	Limos bathing in the hot spring
+sc410_01	Hot Spring_Failnaught	Failnaught bathing in the hot spring
+sc412_01	Hot Spring_Cain	Cain bathing in the hot spring
+sc414_01	Hot Spring_Billy	Billy bathing in the hot spring
+sc415_01	Hot Spring_Annie	Annie bathing in the hot spring
+sc416_01	Hot Spring_Keino	Keino bathing in the hot spring
+sc417_01	Hot Spring_Tamamo	Tamamo bathing in the hot spring
+sc418_01	Hot Spring_Mafdet	Mafdet bathing in the hot spring
+sc419_01	Hot Spring_Catherine	Catherine bathing in the hot spring
+sc420_01	Hot Spring_Katherine	Katherine bathing in the hot spring
+sc421_01	Hot Spring_Rin	Rin bathing in the hot spring
+sc422_01	Hot Spring_Heket	Heket bathing in the hot spring
+sc423_01	Hot Spring_Laima	Laima bathing in the hot spring
+sc425_01	Hot Spring_Seth	Seth bathing in the hot spring
+sc426_01	Hot Spring_Ophois	Ophois bathing in the hot spring
+sc428_01	Hot Spring_Seth	Seth bathing in the hot spring
+sc429_01	Hot Spring_Ziva	Ziva bathing in the hot spring
+sc430_01	Hot Spring_Giltine	Giltine bathing in the hot spring
+sc431_01	Hot Spring_Eshu	Eshu bathing in the hot spring
+sc432_01	Hot Spring_Artemis	Artemis bathing in the hot spring
+sc433_01	Hot Spring_Pakhet	Pakhet bathing in the hot spring
+sc434_01	Hot Spring_Leda	Leda bathing in the hot spring
+sc435_01	Hot Spring_Sytry	Sytry bathing in the hot spring
+sc436_01	Hot Spring_Serket	Serket bathing in the hot spring
+sc437_01	Hot Spring_Euros	Euros bathing in the hot spring
+sc438_01	Hot Spring_Semele	Semele bathing in the hot spring
+sc439_01	Hot Spring_Saturn♥	Saturn♥ bathing in the hot spring
+sc440_01	Hot Spring_Mona	Mona bathing in the hot spring
+sc441_01	Hot Spring_Robin	Robin bathing in the hot spring
+sc442_01	Hot Spring_Nirrti	Nirrti bathing in the hot spring
+sc443_01	Hot Spring_Raffles	Raffles bathing in the hot spring
+sc445_01	Hot Spring_Kalaratri	Kalaratri bathing in the hot spring
+sc446_01	Hot Spring_Argos	Argos bathing in the hot spring
+sc447_01	Hot Spring_Miriam	Miriam bathing in the hot spring
+sc448_01	Hot Spring_Mircalla	Mircalla bathing in the hot spring
+sc449_01	Hot Spring_Laura	Laura bathing in the hot spring
+sc450_01	Hot Spring_Rusalka	Rusalka bathing in the hot spring
+sc451_01	Hot Spring_Ayane	Ayane bathing in the hot spring
+sc452_01	Hot Spring_Leifang	Leifang bathing in the hot spring
+sc453_01	Hot Spring_Mercury	Mercury bathing in the hot spring
+sc454_01	Hot Spring_Juno	Juno bathing in the hot spring
+sc455_01	Hot Spring_Tiwaz	Tiwaz bathing in the hot spring
+sc456_01	Hot Spring_Clotho	Clotho bathing in the hot spring
+sc457_01	Hot Spring_Odysseus	Odysseus bathing in the hot spring
+sc458_01	Hot Spring_Zephyros	Zephyros bathing in the hot spring
+sc459_01	Hot Spring_Cacia	Cacia bathing in the hot spring
+sc460_01	Hot Spring_Cacus	Cacus bathing in the hot spring
+sc461_01	Hot Spring_Aurora	Aurora bathing in the hot spring
+sc462_01	Hot Spring_Theresa	Theresa bathing in the hot spring
+sc463_01	Hot Spring_Eve	Eve bathing in the hot spring
+sc464_01	Hot Spring_Arhat	Arhat bathing in the hot spring
+sc465_01	Hot Spring_Sunah	Sunah bathing in the hot spring
+sc466_01	Hot Spring_Nezha	Nezha bathing in the hot spring
+sc467_01	Hot Spring_Ziva	Ziva bathing in the hot spring
+sc468_01	Hot Spring_Metis	Metis bathing in the hot spring
+sc469_01	Hot Spring_Aria	Aria bathing in the hot spring
+sc470_01	Hot Spring_Neptune♥	Neptune♥ bathing in the hot spring
+sc471_01	Hot Spring_Mars♥	Mars♥ bathing in the hot spring
+sc472_01	Hot Spring_Venus♥	Venus♥ bathing in the hot spring
+sc473_01	Hot Spring_Titania	Titania bathing in the hot spring
+sc474_01	Hot Spring_Hephaestus	Hephaestus bathing in the hot spring
+sc475_01	Hot Spring_Saturn♥	Saturn♥ bathing in the hot spring
+sc476_01	Hot Spring_Nephthys	Nephthys bathing in the hot spring
+sc479_01	Hot Spring_Maupin	Maupin bathing in the hot spring
+sc480_01	Hot Spring_Bradamante	Bradamante bathing in the hot spring
+sc481_01	Hot Spring_Wyatt	Wyatt bathing in the hot spring
+sc482_01	Hot Spring_Theophano	Theophano bathing in the hot spring
+sc483_01	Hot Spring_Artemisia	Artemisia bathing in the hot spring
+sc485_01	Hot Spring_Yuna	Yuna bathing in the hot spring
+sc486_01	Hot Spring_Kubaba	Kubaba bathing in the hot spring
+sc488_01	Hot Spring_Driades	Driades bathing in the hot spring
+sc489_01	Hot Spring_Loki	Loki bathing in the hot spring
+sc493_01	Hot Spring_Messier	Messier bathing in the hot spring
+sc494_01	Hot Spring_Rosanna	Rosanna bathing in the hot spring
+sc495_01	Hot Spring_Catsi	Catsi bathing in the hot spring
+sc495_02	Hot Spring_Catsi	Catsi bathing in the hot spring
+sc496_01	Hot Spring_Lassi	Lassi bathing in the hot spring
+sc496_02	Hot Spring_Lassi	Lassi bathing in the hot spring
+sc497_01	Hot Spring_Wodan	Wodan bathing in the hot spring
+sc498_01	Hot Spring_Sol	Sol bathing in the hot spring
+sc499_01	Hot Spring_Ramlethal	Ramlethal bathing in the hot spring
+sc500_01	Hot Spring_Millia	Millia bathing in the hot spring
+sc501_01	Hot Spring_Ragaraja	Ragaraja bathing in the hot spring
+sc501_02	Hot Spring_Ragaraja	Ragaraja bathing in the hot spring
+sc502_01	Hot Spring_To Keika	To Keika bathing in the hot spring
+sc502_02	Hot Spring_To Keika	To Keika bathing in the hot spring
+sc503_01	Hot Spring_Bari	Bari bathing in the hot spring
+sc503_02	Hot Spring_Bari	Bari bathing in the hot spring
+sc504_01	Hot Spring_Marduk	Marduk bathing in the hot spring
+sc504_02	Hot Spring_Marduk	Marduk bathing in the hot spring
+sc505_01	Hot Spring_Boreas	Boreas bathing in the hot spring
+sc505_02	Hot Spring_Boreas	Boreas bathing in the hot spring
+sc506_01	Hot Spring_Notus	Notus bathing in the hot spring
+sc506_02	Hot Spring_Notus	Notus bathing in the hot spring
+sc507_01	Hot Spring_Phorcus	Phorcus bathing in the hot spring
+sc507_02	Hot Spring_Phorcus	Phorcus bathing in the hot spring
+sc508_01	Hot Spring_Chandra	Chandra bathing in the hot spring
+sc508_02	Hot Spring_Chandra	Chandra bathing in the hot spring
+sc509_01	Hot Spring_Strigoy	Strigoy bathing in the hot spring
+sc509_02	Hot Spring_Strigoy	Strigoy bathing in the hot spring
+sc510_01	Hot Spring_Krsnik	Krsnik bathing in the hot spring
+sc510_02	Hot Spring_Krsnik	Krsnik bathing in the hot spring
+sc511_01	Hot Spring_Philotes	Philotes bathing in the hot spring
+sc511_02	Hot Spring_Philotes	Philotes bathing in the hot spring
+sc512_01	Hot Spring_Turan	Turan bathing in the hot spring
+sc512_02	Hot Spring_Turan	Turan bathing in the hot spring
+sc513_01	Hot Spring_Akrasia	Akrasia bathing in the hot spring
+sc513_02	Hot Spring_Akrasia	Akrasia bathing in the hot spring
+sc514_01	Hot Spring_Duetsha	Duetsha bathing in the hot spring
+sc514_02	Hot Spring_Duetsha	Duetsha bathing in the hot spring
+sc517_01	Hot Spring_Grendel	Grendel bathing in the hot spring
+sc517_02	Hot Spring_Grendel	Grendel bathing in the hot spring
+sc520_01	Hot Spring_Ishimi	Ishimi bathing in the hot spring
+sc520_02	Hot Spring_Ishimi	Ishimi bathing in the hot spring
+sc521_01	Hot Spring_Zegati	Zegati bathing in the hot spring
+sc521_02	Hot Spring_Zegati	Zegati bathing in the hot spring
+sc522_01	Hot Spring_Dalia	Dalia bathing in the hot spring
+sc522_02	Hot Spring_Dalia	Dalia bathing in the hot spring
+sc523_01	Hot Spring_Nicole	Nicole bathing in the hot spring
+sc523_02	Hot Spring_Nicole	Nicole bathing in the hot spring
+sc524_01	Hot Spring_Pepita	Pepita bathing in the hot spring
+sc524_02	Hot Spring_Pepita	Pepita bathing in the hot spring
+sc525_01	Hot Spring_Grilla	Grilla bathing in the hot spring
+sc525_02	Hot Spring_Grilla	Grilla bathing in the hot spring
+sc526_01	Hot Spring_Rani	Rani bathing in the hot spring
+sc526_02	Hot Spring_Rani	Rani bathing in the hot spring
+sc527_01	Hot Spring_Reynard	Reynard bathing in the hot spring
+sc527_02	Hot Spring_Reynard	Reynard bathing in the hot spring
+sc529_01	Hot Spring_Kubera	Kubera bathing in the hot spring
+sc529_02	Hot Spring_Kubera	Kubera bathing in the hot spring
+sc530_01	Hot Spring_Kanaloa	Kanaloa bathing in the hot spring
+sc530_02	Hot Spring_Kanaloa	Kanaloa bathing in the hot spring
+sc537_01	Hot Spring_Elysion	Elysion bathing in the hot spring
+sc537_02	Hot Spring_Elysion	Elysion bathing in the hot spring
+sc538_01	Hot Spring_Sallos	Sallos bathing in the hot spring
+sc538_02	Hot Spring_Sallos	Sallos bathing in the hot spring
+sc539_01	Hot Spring_Belial	Belial bathing in the hot spring
+sc539_02	Hot Spring_Belial	Belial bathing in the hot spring
+sc545_01	Hot Spring_Ariel	Ariel bathing in the hot spring
+sc545_02	Hot Spring_Ariel	Ariel bathing in the hot spring
+sc550_01	Hot Spring_Scrouge	Scrouge bathing in the hot spring
+sc550_02	Hot Spring_Scrouge	Scrouge bathing in the hot spring
+sc552_01	Hot Spring_Ophois	Ophois bathing in the hot spring
+sc552_02	Hot Spring_Ophois	Ophois bathing in the hot spring
+sm003_01	Hot Spring_Fire Dragon	Fire Dragon bathing in the hot spring
+sm004_01	Hot Spring_Ice Dragon	Ice Dragon bathing in the hot spring
+sm004_02	Hot Spring_Ice Dragon	Ice Dragon bathing in the hot spring
+sm007_01	Hot Spring_Teddy	Teddy bathing in the hot spring
+sm036_01	Hot Spring_Messenger	Messenger bathing in the hot spring
+sm037_01	Hot Spring_Chaser	Chaser bathing in the hot spring
+sm038_01	Hot Spring_Diablo	Diablo bathing in the hot spring
+sm039_01	Hot Spring_Kali Yuga	Kali Yuga bathing in the hot spring
+sm040_01	Hot Spring_Chain Killer	Chain Killer bathing in the hot spring
+sm045_01	Hot Spring_Bouquet	Bouquet bathing in the hot spring
+sm049_01	Hot Spring_Skull	Skull bathing in the hot spring
+sm050_01	Hot Spring_Guillotine	Guillotine bathing in the hot spring
+sm051_01	Hot Spring_Hades	Hades bathing in the hot spring
+sm052_01	Hot Spring_Basilisk	Basilisk bathing in the hot spring
+sm053_01	Hot Spring_Hydra	Hydra bathing in the hot spring
+sm054_01	Hot Spring_Gomorrah	Gomorrah bathing in the hot spring
+sm054_02	Hot Spring_Gomorrah	Gomorrah bathing in the hot spring
+sm056_01	Hot Spring_Abaddon	Abaddon bathing in the hot spring
+sm057_01	Hot Spring_Olga	Olga bathing in the hot spring
+sm059_01	Hot Spring_Bazooka	Bazooka bathing in the hot spring
+sm063_01	Hot Spring_Ampoule	Ampoule bathing in the hot spring
+sm077_01	Hot Spring_Moa	Moa bathing in the hot spring
+sm124_01	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm124_02	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm125_01	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm125_02	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm126_01	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm126_02	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm127_01	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm127_02	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm128_01	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm128_02	Hot Spring_Watcher	Watcher bathing in the hot spring
+sm136_01	Hot Spring_Lady	Lady bathing in the hot spring
+sm137_01	Hot Spring_Bellboy	Bellboy bathing in the hot spring
+sm141_01	Hot Spring_Halloween	Halloween bathing in the hot spring
+sm142_01	Hot Spring_Revenge Girl	Revenge Girl bathing in the hot spring
+sm143_01	Hot Spring_Revenge Girl	Revenge Girl bathing in the hot spring
+sm144_01	Hot Spring_Revenge Girl	Revenge Girl bathing in the hot spring
+sm145_01	Hot Spring_Revenge Girl	Revenge Girl bathing in the hot spring
+sm146_01	Hot Spring_Revenge Girl	Revenge Girl bathing in the hot spring
+sm148_01	Hot Spring_Won	Won bathing in the hot spring
+sm149_01	Hot Spring_Hertz	Hertz bathing in the hot spring
+sm150_01	Hot Spring_Hat-Trick	Hat-Trick bathing in the hot spring
+sm151_01	Hot Spring_Arms	Arms bathing in the hot spring
+sm152_01	Hot Spring_Fighter	Fighter bathing in the hot spring
+sm153_01	Hot Spring_Manti	Manti bathing in the hot spring
+sm154_01	Hot Spring_Gungnir	Gungnir bathing in the hot spring
+sm189_01	Hot Spring_Mimic	Mimic bathing in the hot spring
+sm190_01	Hot Spring_Boxer	Boxer bathing in the hot spring
+sm191_01	Hot Spring_Chimera	Chimera bathing in the hot spring
+sm192_01	Hot Spring_Blood Dragon	Blood Dragon bathing in the hot spring
+sm193_01	Hot Spring_Pompoms	Pompoms bathing in the hot spring
+sm194_01	Hot Spring_Gron	Gron bathing in the hot spring
+sm195_01	Hot Spring_Liron	Liron bathing in the hot spring
+sm196_01	Hot Spring_Firon	Firon bathing in the hot spring
+sm197_01	Hot Spring_Charonn	Charonn bathing in the hot spring
+sm198_01	Hot Spring_Daron	Daron bathing in the hot spring
+sm199_01	Hot Spring_Azure Dragon	Azure Dragon bathing in the hot spring
+sm200_01	Hot Spring_Ankh	Ankh bathing in the hot spring
+sm201_01	Hot Spring_Mech Commander	Mech Commander bathing in the hot spring
+sm201_02	Hot Spring_Mech Commander	Mech Commander bathing in the hot spring
+sm202_01	Hot Spring_Mech Soldier	Mech Soldier bathing in the hot spring
+sm202_02	Hot Spring_Mech Soldier	Mech Soldier bathing in the hot spring
+sm203_01	Hot Spring_Bremen	Bremen bathing in the hot spring
+sm203_02	Hot Spring_Bremen	Bremen bathing in the hot spring
+sm206_01	Hot Spring_Boss Pig	Boss Pig bathing in the hot spring
+sm206_02	Hot Spring_Boss Pig	Boss Pig bathing in the hot spring
+sm211_01	Hot Spring_Angel Lot	Angel Lot bathing in the hot spring
+sm211_02	Hot Spring_Angel Lot	Angel Lot bathing in the hot spring
+sm212_01	Hot Spring_Rune	Rune bathing in the hot spring
+sm212_02	Hot Spring_Rune	Rune bathing in the hot spring
+sm215_01	Hot Spring_Aurora King	Aurora King bathing in the hot spring
+sm216_01	Hot Spring_Fairy	Fairy bathing in the hot spring
+sm217_01	Hot Spring_Red Nose	Red Nose bathing in the hot spring
+sm223_01	Hot Spring_Gift Bag	Gift Bag bathing in the hot spring
+sm245_01	Hot Spring_Creature	Creature bathing in the hot spring
+sm255_01	Hot Spring_Ampoule	Ampoule bathing in the hot spring
+sm255_02	Hot Spring_Ampoule	Ampoule bathing in the hot spring
+sm261_01	Hot Spring_Moa	Moa bathing in the hot spring
+sm264_01	Hot Spring_Procel	Procel bathing in the hot spring

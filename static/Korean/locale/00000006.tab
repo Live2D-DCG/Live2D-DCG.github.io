@@ -1,0 +1,749 @@
+﻿// key	CHARACTER_DUNGEON_NAME_	CHARACTER_DUNGEON_SECOND_NAME_	CHARACTER_DUNGEON_LOCATION_DESC_
+1000	Crossover	SNOW MIKU	Memories of Meeting SNOW MIKU in Pure-White Snow
+100001	Stage 1	Disaster I	
+100002	Stage 2	Silver World I	
+100003	Stage 3	Disaster II	
+100004	Stage 4	Encounter I	
+100005	Stage 5	Encounter II	
+100006	Stage 6	A Promise Between Two I	
+100007	Stage 7	Silver World II	
+100008	Stage 8	A Promise Between Two II	
+1010	Crossover	SNOW MIKU	Memories of Meeting SNOW MIKU in Pure-White Snow
+101001	Stage 1	Disaster I (Hard)	
+101002	Stage 2	Silver World I (Hard)	
+101003	Stage 3	Disaster II (Hard)	
+101004	Stage 4	Encounter I (Hard)	
+101005	Stage 5	Encounter II (Hard)	
+101006	Stage 6	A Promise Between Two I (Hard)	
+101007	Stage 7	Silver World II (Hard)	
+101008	Stage 8	A Promise Between Two II (Hard)	
+1100	Narrative	Holy War	The heavens sunder,\and down comes the god of darkness
+110001	Stage 1	A Prayer for the Dying I	
+110002	Stage 2	A Prayer for the Dying II	
+110003	Stage 3	Broken Soul I	
+110004	Stage 4	Tempter	
+110005	Stage 5	The Fall	
+110006	Stage 6	Broken Soul II	
+110007	Stage 7	Crusade	
+110008	Stage 8	Incarnation	
+1110	Narrative	Holy War	The heavens sunder,\and down comes the god of darkness
+111001	Stage 1	A Prayer for the Dying I (Hard)	
+111002	Stage 2	A Prayer for the Dying II (Hard)	
+111003	Stage 3	Broken Soul I (Hard)	
+111004	Stage 4	Tempter (Hard)	
+111005	Stage 5	The Fall (Hard)	
+111006	Stage 6	Broken Soul II (Hard)	
+111007	Stage 7	Crusade (Hard)	
+111008	Stage 8	Incarnation (Hard)	
+1200	<Narrative>	A New Archfiend	Here the 3rd Archfiend descends...
+120001	Stage 1	Doomsday!	
+120002	Stage 2	Doomsday!!!	
+120003	Stage 3	Doomsday?!	
+120004	Stage 4	DOOMSDAY!	
+1210	<Narrative>	A New Archfiend	Here the 3rd Archfiend descends...
+121001	Stage 1	Doomsday! (Hard)	
+121002	Stage 2	Doomsday!!! (Hard)	
+121003	Stage 3	Doomsday?! (Hard)	
+121004	Stage 4	DOOMSDAY! (Hard)	
+1300	Narrative	Cold Flower	The darkness of the girl who admires demons.
+130001	Stage 1	Stalker	
+130002	Stage 2	Pursuer	
+130003	Stage 3	Cold Flower I	
+130004	Stage 4	Hide-and-Seek	
+130005	Stage 5	Cold Flower II	
+130006	Stage 6	Liar Game	
+130007	Stage 7	Cold Flower III	
+130008	Stage 8	Silent Madness	
+1310	Narrative	Cold Flower	The darkness of the girl who admires demons.
+131001	Stage 1	Stalker (Hard)	
+131002	Stage 2	Pursuer (Hard)	
+131003	Stage 3	Cold Flower I (Hard)	
+131004	Stage 4	Hide-and-Seek (Hard)	
+131005	Stage 5	Cold Flower II (Hard)	
+131006	Stage 6	Liar Game (Hard)	
+131007	Stage 7	Cold Flower III (Hard)	
+131008	Stage 8	Silent Madness (Hard)	
+1400	<Narrative>	Justice Upheld	We all have feelings we hold dear.
+140001	Stage 1	A Light in the Dark	
+140002	Stage 2	Quandary	
+140003	Stage 3	Justice UpheldⅠ	
+140004	Stage 4	Putting the Past to Rest	
+140005	Stage 5	Justice UpheldⅡ	
+140006	Stage 6	Old Memories	
+140007	Stage 7	Justice UpheldⅢ	
+140008	Stage 8	The Right Path	
+1410	<Narrative>	Justice Upheld	We all have feelings we hold dear.
+141001	Stage 1	Hard - A Light in the Dark	
+141002	Stage 2	Hard - Quagmire	
+141003	Stage 3	Hard - Justice UpheldⅠ	
+141004	Stage 4	Hard - Putting the Past to Rest	
+141005	Stage 5	Hard - Justice UpheldⅡ	
+141006	Stage 6	Hard - Ancient Memories	
+141007	Stage 7	Hard - Justice UpheldⅢ	
+141008	Stage 8	Hard - The Right Path	
+1500	Narrative	Re:build	A Secret Tale of a New Midas
+150001	Stage 1	Escape	
+150002	Stage 2	Crimes	
+150003	Stage 3	Re:buildⅠ	
+150004	Stage 4	Burst into the Scene	
+150005	Stage 5	Re:buildⅡ	
+150006	Stage 6	The Leaders	
+150007	Stage 7	Re:buildⅢ	
+150008	Stage 8	Brothers	
+1510	Narrative	Re:build	A Secret Tale of a New Midas
+151001	Stage 1	HARD - Escape	
+151002	Stage 2	HARD - Crimes	
+151003	Stage 3	HARD - Re:buildⅠ	
+151004	Stage 4	HARD - Burst into the Scene	
+151005	Stage 5	HARD - Re:buildⅡ	
+151006	Stage 6	HARD - The Leaders	
+151007	Stage 7	HARD - Re:buildⅢ	
+151008	Stage 8	HARD - Brothers	
+1600	<Narrative>	Hyperlethal L♥VE	Dreams of a Fine Red Rose
+160001	Stage 1	Hyperlethal L♥VE I	
+160002	Stage 2	Heart Attack	
+160003	Stage 3	Hyperlethal L♥VE II	
+160004	Stage 4	Lethal Blood Loss I	
+160005	Stage 5	Hyperlethal L♥VE III	
+160006	Stage 6	Lethal Blood Loss II	
+160007	Stage 7	Hyperlethal L♥VE IV	
+160008	Stage 8	Near-Death Experience	
+1610	<Narrative>	Hyperlethal L♥VE	Dreams of a Fine Red Rose
+161001	Stage 1	Hard - Hyperlethal L♥VE I	
+161002	Stage 2	Hard - Heart Attack	
+161003	Stage 3	Hard - Hyperlethal L♥VE II	
+161004	Stage 4	Hard - Lethal Blood Loss I	
+161005	Stage 5	Hard - Hyperlethal L♥VE III	
+161006	Stage 6	Hard - Lethal Blood Loss II	
+161007	Stage 7	Hard - Hyperlethal L♥VE IV	
+161008	Stage 8	Hard - Near-Death Experience	
+1700	Narrative	Light and Dark	What became of the girl and her opposite
+170001	Stage 1	Be There	
+170002	Stage 2	Light and Dark I	
+170003	Stage 3	Overlap	
+170004	Stage 4	Athena	
+170005	Stage 5	Memory	
+170006	Stage 6	Pallas	
+170007	Stage 7	Light and Dark II	
+170008	Stage 8	Be Together	
+1710	Narrative	Light and Dark	What became of the girl and her opposite
+171001	Stage 1	Be There (Hard)	
+171002	Stage 2	Light and Dark I (Hard)	
+171003	Stage 3	Overlap (Hard)	
+171004	Stage 4	Athena (Hard)	
+171005	Stage 5	Memory (Hard)	
+171006	Stage 6	Pallas (Hard)	
+171007	Stage 7	Light and Dark II (Hard)	
+171008	Stage 8	Be Together (Hard)	
+1900	Narrative	Eternal Vow	The Fated Girl Who Bathory Met
+190001	Stage 1	Eternal Vow Ⅰ	
+190002	Stage 2	Encounter	
+190003	Stage 3	Eternal Vow Ⅱ	
+190004	Stage 4	The Story Continues	
+190005	Stage 5	Eternal Vow Ⅲ	
+190006	Stage 6	Companion	
+190007	Stage 7	Eternal Vow Ⅳ	
+190008	Stage 8	Glass Rosary	
+1910	Narrative	Eternal Vow	The Fated Girl Who Bathory Met
+191001	Stage 1	HARD - Eternal Vow Ⅰ	
+191002	Stage 2	HARD - Encounter	
+191003	Stage 3	HARD - Eternal Vow Ⅱ	
+191004	Stage 4	HARD - The Story Continues	
+191005	Stage 5	HARD - Eternal Vow Ⅲ	
+191006	Stage 6	HARD - Companion	
+191007	Stage 7	HARD - Eternal Vow Ⅳ	
+191008	Stage 8	HARD - Glass Rosary	
+2000	<Narrative>	Dual Block Buster	There cannot be two suns on the stage!\Hold your breath and watch the showdown between the two great divas!
+200001	Stage 1	Dual Block Buster Ⅰ	BLANK
+200002	Stage 2	Breaking News	BLANK
+200003	Stage 3	Dual Block Buster Ⅱ	BLANK
+200004	Stage 4	Dead Mic	BLANK
+200005	Stage 5	Dual Block Buster Ⅲ	BLANK
+200006	Stage 6	Block Buster Show	BLANK
+200007	Stage 7	Dual Block Buster Ⅳ	BLANK
+200008	Stage 8	Prime Time	BLANK
+2010	<Narrative>	Dual Block Buster	There cannot be two suns on the stage!\Hold your breath and watch the showdown between the two great divas!
+201001	Stage 1	Dual Block Buster Ⅰ (Hard)	BLANK
+201002	Stage 2	Breaking News (Hard)	BLANK
+201003	Stage 3	Dual Block Buster Ⅱ (Hard)	BLANK
+201004	Stage 4	Dead Mic (Hard)	BLANK
+201005	Stage 5	Dual Block Buster Ⅲ (Hard)	BLANK
+201006	Stage 6	Block Buster Show (Hard)	BLANK
+201007	Stage 7	Dual Block Buster Ⅳ (Hard)	BLANK
+201008	Stage 8	Prime Time (Hard)	BLANK
+2100	Narrative	My Dear	A Bitter-Sweet Valentine's Day Case?!
+210001	Stage 1	My Dear	
+210002	Stage 2	What Kinda Chocolate Do You Like?	
+210003	Stage 3	My Dear	
+210004	Stage 4	A Special Present	
+210005	Stage 5	My Dear	
+210006	Stage 6	The Case of the Stolen Chocolate Cake	
+210007	Stage 7	My Dear	
+210008	Stage 8	Made with Love	
+2110	Narrative	My Dear	A Bitter-Sweet Valentine's Day Case?!
+211001	Stage 1	My Dear (Hard)	
+211002	Stage 2	What Kinda Chocolate Do You Like? (Hard)	
+211003	Stage 3	My Dear (Hard)	
+211004	Stage 4	A Special Present (Hard)	
+211005	Stage 5	My Dear (Hard)	
+211006	Stage 6	The Case of the Stolen Chocolate Cake (Hard)	
+211007	Stage 7	My Dear (Hard)	
+211008	Stage 8	Made with Love (Hard)	
+2200	Narrative	The Revelation	A glimmer of light born from chaos and void-\a stygian abyss.
+220001	Stage 1	Divine Revelation I	
+220002	Stage 2	Detectives and Demon Worshippers	
+220003	Stage 3	Divine Revelation II	
+220004	Stage 4	Pacts and Memories	
+220005	Stage 5	Divine Revelation III	
+220006	Stage 6	The Incense of Prayer	
+220007	Stage 7	Divine Revelation IV	
+220008	Stage 8	God's Divine Revelation	
+2210	Narrative	The Revelation	A glimmer of light born from chaos and void--a stygian abyss.
+221001	Stage 1	Divine Revelation I (Hard)	
+221002	Stage 2	Detectives and Demon Worshippers (Hard)	
+221003	Stage 3	Divine Revelation II (Hard)	
+221004	Stage 4	Pacts and Memories (Hard)	
+221005	Stage 5	Divine Revelation III (Hard)	
+221006	Stage 6	The Incense of Prayer (Hard)	
+221007	Stage 7	Divine Revelation IV (Hard)	
+221008	Stage 8	God's Divine Revelation (Hard)	
+2400	Narrative	Rebirth Lab Historia	The Unknown Past of the Demonic Alchemy Research Laboratory
+240001	Stage 1	Evil Tablet	none
+240002	Stage 2	All About Beauty	none
+240003	Stage 3	Evil Tablet	none
+240004	Stage 4	Canon	none
+240005	Stage 5	Evil Tablet	none
+240006	Stage 6	Aesthetics	none
+240007	Stage 7	Evil Tablet	none
+240008	Stage 8	Rebirth Lab	none
+2410	Narrative	Rebirth Lab Historia	The Unknown Past of the Demonic Alchemy Research Laboratory
+241001	Stage 1	Evil Tablet (Hard)	none
+241002	Stage 2	All About Beauty (Hard)	none
+241003	Stage 3	Evil Tablet (Hard)	none
+241004	Stage 4	Canon (Hard)	none
+241005	Stage 5	Evil Tablet (Hard)	none
+241006	Stage 6	Aesthetics (Hard)	none
+241007	Stage 7	Evil Tablet (Hard)	none
+241008	Stage 8	Rebirth Lab (Hard)	none
+2500	Narrative	Lost Donut	Who Stole the Donut?!
+250001	Stage 1	Searching for a Donut 1	
+250002	Stage 2	The Culprit is Close By	
+250003	Stage 3	Searching for a Donut 2	
+250004	Stage 4	Strawberry Glazed	
+250005	Stage 5	Searching for a Donut 3	
+250006	Stage 6	Spa Party	
+250007	Stage 7	Searching for a Donut 4	
+250008	Stage 8	Three Final Options	
+2510	Narrative	Lost Donut	Who Stole the Donut?!
+251001	Stage 1	Searching for a Donut 1 (Hard)	
+251002	Stage 2	The Culprit is Close By (Hard)	
+251003	Stage 3	Searching for a Donut 2 (Hard)	
+251004	Stage 4	Strawberry Glazed (Hard)	
+251005	Stage 5	Searching for a Donut 3 (Hard)	
+251006	Stage 6	Spa Party (Hard)	
+251007	Stage 7	Searching for a Donut 4 (Hard)	
+251008	Stage 8	Three Final Options (Hard)	
+2600	Narrative	BBCF Crossover	A Slightly Less Azure Tale
+260001	Stage 1	Causality 1	
+260002	Stage 2	Looking For Someone	
+260003	Stage 3	Causality 2	
+260004	Stage 4	Surprise(?) Encounter	
+260005	Stage 5	Causality 3	
+260006	Stage 6	Great Magister	
+260007	Stage 7	Causality 4	
+260008	Stage 8	Respective Wills	
+2610	Narrative	BBCF Crossover	A Slightly Less Azure Tale
+261001	Stage 1	HARD: Causality 1	
+261002	Stage 2	HARD: Looking For Someone	
+261003	Stage 3	HARD: Causality 2	
+261004	Stage 4	HARD: Surprise(?) Encounter	
+261005	Stage 5	HARD: Causality 3	
+261006	Stage 6	HARD: Great Magister	
+261007	Stage 7	HARD: Causality 4	
+261008	Stage 8	HARD: Respective Wills	
+2700	Narrative	Midsummer Mystery	Scare away the summer heat with a bone-chilling experience!
+270001	Stage 1	Fear Factor 1	
+270002	Stage 2	Evening Stroll	
+270003	Stage 3	Fear Factor 2	
+270004	Stage 4	Late Night Guests	
+270005	Stage 5	Fear Factor 3	
+270006	Stage 6	After School Apparition	
+270007	Stage 7	Fear Factor 4	
+270008	Stage 8	Midsummer Mystery	
+2710	Narrative	Midsummer Mystery	Scare away the summer heat with a bone-chilling experience!
+271001	Stage 1	Fear Factor 1 (Hard)	
+271002	Stage 2	Evening Stroll (Hard)	
+271003	Stage 3	Fear Factor 2 (Hard)	
+271004	Stage 4	Late Night Guests (Hard)	
+271005	Stage 5	Fear Factor 3 (Hard)	
+271006	Stage 6	After School Apparition (Hard)	
+271007	Stage 7	Fear Factor 4 (Hard)	
+271008	Stage 8	Midsummer Mystery (Hard)	
+2800	Narrative	No Paradise	The curtain opens on the pair's dramatic getaway.
+280001	Stage 1	The Getaway 1	
+280002	Stage 2	My Sun	
+280003	Stage 3	The Getaway 2	
+280004	Stage 4	The Sun Never Sets	
+280005	Stage 5	The Getaway 3	
+280006	Stage 6	Darkness	
+280007	Stage 7	The Getaway 4	
+280008	Stage 8	Within the Labyrinth	
+2810	Narrative	No Paradise	The curtain opens on the pair's dramatic getaway.
+281001	Stage 1	The Getaway 1 (Hard)	
+281002	Stage 2	My Sun (Hard)	
+281003	Stage 3	The Getaway 2 (Hard)	
+281004	Stage 4	The Sun Never Sets (Hard)	
+281005	Stage 5	The Getaway 3 (Hard)	
+281006	Stage 6	Darkness (Hard)	
+281007	Stage 7	The Getaway 4 (Hard)	
+281008	Stage 8	Within the Labyrinth (Hard)	
+2900	<Narrative>	Secret Halloween	Everyone has a secret that must not be revealed.\I, too... have that kind of secret.
+290001	Stage 1	Laima's Secret	BLANK
+290002	Stage 2	Secret Revealed	BLANK
+290003	Stage 3	Laima's Secret	BLANK
+290004	Stage 4	Steal the Camera	BLANK
+290005	Stage 5	Laima's Secret	BLANK
+290006	Stage 6	Chase down Typhon	BLANK
+290007	Stage 7	Laima's Secret	BLANK
+290008	Stage 8	I'm sorry!	BLANK
+2910	<Narrative>	Secret Halloween	Everyone has a secret that must not be revealed.\I, too... have that kind of secret.
+291001	Stage 1	Hard - Laima's Secret	BLANK
+291002	Stage 2	Hard - Secret Revealed	BLANK
+291003	Stage 3	Hard - Laima's Secret	BLANK
+291004	Stage 4	Hard - Steal the Camera	BLANK
+291005	Stage 5	Hard - Laima's Secret	BLANK
+291006	Stage 6	Hard - Chase down Typhon	BLANK
+291007	Stage 7	Hard - Laima's Secret	BLANK
+291008	Stage 8	Hard - I'm sorry!	BLANK
+3000	<Narrative>	Second Chance	No second chance! I won't hesitate any more!
+300001	Stage 1	One More Chance	
+300002	Stage 2	Unexpected Chance	
+300003	Stage 3	One More Chance	
+300004	Stage 4	Let's Do This!	
+300005	Stage 5	One More Chance	
+300006	Stage 6	Chance	
+300007	Stage 7	One More Chance	
+300008	Stage 8	No Second Chance	
+3010	<Narrative>	Second Chance	No second chance! I won't hesitate any more!
+301001	Stage 1	One More Chance(Hard)	
+301002	Stage 2	Unexpected Chance(Hard)	
+301003	Stage 3	One More Chance(Hard)	
+301004	Stage 4	Let's Do This!(Hard)	
+301005	Stage 5	One More Chance(Hard)	
+301006	Stage 6	Chance(Hard)	
+301007	Stage 7	One More Chance(Hard)	
+301008	Stage 8	No Second Chance(Hard)	
+3100	Narrative	All You Need is Love	A commotion when they finally make it to the ski resort?
+310001	Stage 1	Skiing I	
+310002	Stage 2	Off to the Ski Resort	
+310003	Stage 3	Skiing II	
+310004	Stage 4	A Chance for a Pact	
+310005	Stage 5	Skiing III	
+310006	Stage 6	Snow Invites Confusion	
+310007	Stage 7	Skiing IV	
+310008	Stage 8	Christmas Eve Fireworks	
+3110	Narrative	All You Need is Love	A commotion when they finally make it to the ski resort?
+311001	Stage 1	Skiing I (Hard)	
+311002	Stage 2	Off to the Ski Resort (Hard)	
+311003	Stage 3	Skiing II (Hard)	
+311004	Stage 4	A Chance for a Pact (Hard)	
+311005	Stage 5	Skiing III (Hard)	
+311006	Stage 6	Snow Invites Confusion (Hard)	
+311007	Stage 7	Skiing IV (Hard)	
+311008	Stage 8	Christmas Eve Fireworks (Hard)	
+3200	Narrative	Santa is Coming to Town	Glory on high and peace on Earth.
+320001	Stage 1	Santa Claus Cometh	
+320002	Stage 2	Christmas Box	
+320003	Stage 3	Santa Claus Cometh	
+320004	Stage 4	Glory and Peace	
+320005	Stage 5	Santa Claus Cometh	
+320006	Stage 6	I Hate Annoying Brats!	
+320007	Stage 7	Santa Claus Cometh	
+320008	Stage 8	A Nice Child's Wish?	
+3210	Narrative	Santa is Coming to Town	
+321001	Stage 1	HARD: Santa Claus Cometh	
+321002	Stage 2	HARD: Christmas Box	
+321003	Stage 3	HARD: Santa Claus Cometh	
+321004	Stage 4	HARD: Santa Claus Cometh	
+321005	Stage 5	HARD: Santa Claus Cometh	
+321006	Stage 6	HARD: Annoying Brats!	
+321007	Stage 7	HARD: Santa Claus Cometh	
+321008	Stage 8	HARD: A Nice Child's Wish?	
+3300	Narrative	Deja Vu	Homemade chocolates from cute little me, Pakhet!
+330001	Stage 1	Deja VuⅠ	
+330002	Stage 2	Recursive Morning	
+330003	Stage 3	Deja VuⅡ	
+330004	Stage 4	Special Chocolates	
+330005	Stage 5	Deja VuⅢ	
+330006	Stage 6	Together with Pakhet	
+330007	Stage 7	Deja VuⅣ	
+330008	Stage 8	Dream's End	
+3310	Narrative	Deja Vu	Homemade chocolates from cute little me, Pakhet!
+331001	Stage 1	Deja VuⅠ(Hard)	
+331002	Stage 2	Recursive Morning(Hard)	
+331003	Stage 3	Deja VuⅡ(Hard)	
+331004	Stage 4	Special Chocolates(Hard)	
+331005	Stage 5	Deja VuⅢ(Hard)	
+331006	Stage 6	Together with Pakhet(Hard)	
+331007	Stage 7	Deja VuⅣ(Hard)	
+331008	Stage 8	Dream's End(Hard)	
+3400	Narrative	Blind for LOVE	Candy from Master? I want some, too!
+340001	Stage 1	White Day I	
+340002	Stage 2	King-Size Candy	
+340003	Stage 3	White Day II	
+340004	Stage 4	I Wanna Help You	
+340005	Stage 5	Operation Sweet Dreams	
+340006	Stage 6	Want Some Chocolate?	
+340007	Stage 7	Rivals in Love	
+340008	Stage 8	That Special Candy	
+3410	Narrative	Blind for LOVE	Candy from Master? I want some, too!
+341001	Stage 1	White Day I (Hard)	
+341002	Stage 2	King-Size Candy (Hard)	
+341003	Stage 3	White Day II (Hard)	
+341004	Stage 4	I Wanna Help You (Hard)	
+341005	Stage 5	Operation Sweet Dreams (Hard)	
+341006	Stage 6	Want Some Chocolate? (Hard)	
+341007	Stage 7	Rivals in Love (Hard)	
+341008	Stage 8	That Special Candy (Hard)	
+3500	<Narrative>	Phantom vs Exorcists	Once night falls, I'll come to steal your heart.
+350001	Stage 1	To New York	
+350002	Stage 2	Planning	
+350003	Stage 3	Deborah and Jonah	
+350004	Stage 4	D-Day	
+350005	Stage 5	Unmitigated Disaster	
+350006	Stage 6	Panic	
+350007	Stage 7	Vanquish	
+350008	Stage 8	Stop, Freeze!	
+3510	<Narrative>	Phantom vs Exorcists	Once night falls, I'll come to steal your heart.
+351001	Stage 1	To New York (Hard)	
+351002	Stage 2	Planning (Hard)	
+351003	Stage 3	Deborah and Jonah (Hard)	
+351004	Stage 4	D-Day (Hard)	
+351005	Stage 5	Unmitigated Disaster (Hard)	
+351006	Stage 6	Panic (Hard)	
+351007	Stage 7	Vanquish (Hard)	
+351008	Stage 8	Stop, Freeze! (Hard)	
+3600	<Narrative>	Girls Be Ambitious!	Honor, glory, and even you\are all mine!
+360001	Stage 1	Beginnings of Jealousy	
+360002	Stage 2	Support Me	
+360003	Stage 3	Stay Out of This!	
+360004	Stage 4	Am I Suspicious?	
+360005	Stage 5	A Girl's Ideal I	
+360006	Stage 6	The Decoy and the Fox	
+360007	Stage 7	A Girl's Ideal II	
+360008	Stage 8	You Won't Get Away!	
+3610	<Narrative>	Girls Be Ambitious!	Honor, glory, and even you\are all mine!
+361001	Stage 1	Beginnings of Jealousy (Hard)	
+361002	Stage 2	Support Me (Hard)	
+361003	Stage 3	Stay Out of This! (Hard)	
+361004	Stage 4	Am I Suspicious? (Hard)	
+361005	Stage 5	A Girl's Ideal I (Hard)	
+361006	Stage 6	The Decoy and the Fox (Hard)	
+361007	Stage 7	A Girl's Ideal II (Hard)	
+361008	Stage 8	You Won't Get Away! (Hard)	
+3700	<Narrative>	Demonic Interfering View	We'll take care of them before Torii knows.
+370001	Stage 1	Original Song	BLANK
+370002	Stage 2	Supernova of Harlem Street	BLANK
+370003	Stage 3	Surprise Event	BLANK
+370004	Stage 4	Nice to Meet You!	BLANK
+370005	Stage 5	I'll Be Counting On You!	BLANK
+370006	Stage 6	Make Some Noise!	BLANK
+370007	Stage 7	You're One to Talk	BLANK
+370008	Stage 8	Lovely Devil	BLANK
+3710	<Narrative>	Demonic Interfering View	We'll take care of them before Torii knows.
+371001	Stage 1	Hard - Original Song	BLANK
+371002	Stage 2	Hard - Supernova of Harlem Street	BLANK
+371003	Stage 3	Hard - Surprise Event	BLANK
+371004	Stage 4	Hard - Nice to Meet You!	BLANK
+371005	Stage 5	Hard - I'll Be Counting On You!	BLANK
+371006	Stage 6	Hard - Make Some Noise!	BLANK
+371007	Stage 7	Hard - You're One to Talk	BLANK
+371008	Stage 8	Hard - Lovely Devil	BLANK
+3800	<Narrative>	Devil Formula	Who's the best racer on Amos Island?
+380001	Stage 1	Ominous Rumor	
+380002	Stage 2	Suspicious Plan	
+380003	Stage 3	Dark Horse	
+380004	Stage 4	Preliminaries	
+380005	Stage 5	Driving into the Sky	
+380006	Stage 6	Angry Mob	
+380007	Stage 7	Keep Calm and Carry On	
+380008	Stage 8	The Truth Was...	
+3810	<Narrative>	Devil Formula	Who's the best racer on Amos Island?
+381001	Stage 1	Ominous Rumor(Hard)	
+381002	Stage 2	Suspicious Plan(Hard)	
+381003	Stage 3	Dark Horse(Hard)	
+381004	Stage 4	Preliminaries(Hard)	
+381005	Stage 5	Driving into the Sky(Hard)	
+381006	Stage 6	Angry Mob(Hard)	
+381007	Stage 7	Keep Calm and Carry On(Hard)	
+381008	Stage 8	The Truth Was...(Hard)	
+3900	Narrative	Fantasy island	An unexpected encounter in the Venus Islands...\Might find a good partner.
+390001	Stage 1	Fantasy vacation	
+390002	Stage 2	Mystery Letter	
+390003	Stage 3	Fantasy vacation	
+390004	Stage 4	After a Shady Character	
+390005	Stage 5	Fantasy vacation	
+390006	Stage 6	Two Kasumis?	
+390007	Stage 7	Fantasy vacation	
+390008	Stage 8	Treasure	
+3910	Narrative	Fantasy island	An unexpected encounter in the Venus Islands...\Might find a good partner.
+391001	Stage 1	Fantasy vacation (Hard)	
+391002	Stage 2	Mystery Letter (Hard)	
+391003	Stage 3	Fantasy vacation (Hard)	
+391004	Stage 4	After a Shady Character (Hard)	
+391005	Stage 5	Fantasy vacation (Hard)	
+391006	Stage 6	Two Kasumis? (Hard)	
+391007	Stage 7	Fantasy vacation (Hard)	
+391008	Stage 8	Treasure (Hard)	
+4000	<Narrative>	Dreamy Vacation	A chaotic, topsy-turvy dreamland!\What have they lost in the dream?
+400001	Stage 1	A Curious City	
+400002	Stage 2	Fantastic Phenomena	
+400003	Stage 3	Misunderstandings and Advice	
+400004	Stage 4	Smells Like Black Pepper	
+400005	Stage 5	An Odd Tea Party	
+400006	Stage 6	The Queen's Game	
+400007	Stage 7	The Duchess and Her Majesty	
+400008	Stage 8	The Trial	
+4010	<Narrative>	Dreamy Vacation	A chaotic, topsy-turvy dreamland!\What have they lost in the dream?
+401001	Stage 1	A Curious City (Hard)	
+401002	Stage 2	Fantastic Phenomena (Hard)	
+401003	Stage 3	Misunderstandings and Advice (Hard)	
+401004	Stage 4	Smells Like Black Pepper (Hard)	
+401005	Stage 5	An Odd Tea Party (Hard)	
+401006	Stage 6	The Queen's Game (Hard)	
+401007	Stage 7	The Duchess and Her Majesty (Hard)	
+401008	Stage 8	The Trial (Hard)	
+4100	Narrative	A Dog's Purpose	Neptune♥ gets one step closer to realizing her dream of becoming the greatest pop star.\And yet, why won't it make her happy?
+410001	Stage 1	Neptune♥'s Memories	
+410002	Stage 2	Venus♥'s Mischief	
+410003	Stage 3	99% Effort	
+410004	Stage 4	Telling the Truth	
+410005	Stage 5	Asking Around	
+410006	Stage 6	A Clue	
+410007	Stage 7	I Was Always Waiting	
+410008	Stage 8	With 1% Courage!	
+4110	Narrative	A Dog's Purpose	Neptune♥ gets one step closer to realizing her dream of becoming the greatest pop star.\And yet, why won't it make her happy?
+411001	Stage 1	Neptune♥'s Memories (Hard)	
+411002	Stage 2	Venus♥'s Mischief (Hard)	
+411003	Stage 3	99% Effort (Hard)	
+411004	Stage 4	Telling the Truth (Hard)	
+411005	Stage 5	Asking Around (Hard)	
+411006	Stage 6	A Clue (Hard)	
+411007	Stage 7	I Was Always Waiting (Hard)	
+411008	Stage 8	With 1% Courage! (Hard)	
+4200	Narrative	Allez!	Misunderstandings pile up, driving a wedge between the two.\What's going to become of them?
+420001	Stage 1	Famous Fencer	
+420002	Stage 2	Mock Tournament	
+420003	Stage 3	Unbelievable Results	
+420004	Stage 4	Desires	
+420005	Stage 5	Nightmares	
+420006	Stage 6	Missing Childs	
+420007	Stage 7	Fusion	
+420008	Stage 8	Saying Goodbye	
+4210	Narrative	Allez!	Misunderstandings pile up, driving a wedge between the two.\What's going to become of them?
+421001	Stage 1	Famous Fencer (Hard)	
+421002	Stage 2	Mock Tournament (Hard)	
+421003	Stage 3	Unbelievable Results (Hard)	
+421004	Stage 4	Desires (Hard)	
+421005	Stage 5	Nightmares (Hard)	
+421006	Stage 6	Missing Childs (Hard)	
+421007	Stage 7	Fusion (Hard)	
+421008	Stage 8	Saying Goodbye (Hard)	
+4300	<Narrative>	La Dolce Vita	Recollect the sweet memories\buried deep inside your mind.
+430001	Stage 1	Why Not Me?	
+430002	Stage 2	A Diamond in the Rough	
+430003	Stage 3	Show Me Your Heart	
+430004	Stage 4	Start Off Lightly	
+430005	Stage 5	Welcome to the Cosplay World	
+430006	Stage 6	Work against Time	
+430007	Stage 7	Completed Costume	
+430008	Stage 8	First Fan Convention Event	
+4310	<Narrative>	La Dolce Vita	Recollect the sweet memories\buried deep inside your mind.
+431001	Stage 1	Why Not Me? (Hard)	
+431002	Stage 2	A Diamond in the Rough (Hard)	
+431003	Stage 3	Show Me Your Heart (Hard)	
+431004	Stage 4	Start Off Lightly (Hard)	
+431005	Stage 5	Welcome to the Cosplay World (Hard)	
+431006	Stage 6	Work against Time (Hard)	
+431007	Stage 7	Completed Costume (Hard)	
+431008	Stage 8	First Fan Convention Event (Hard)	
+4400	<Narrative>	Cat, Dog, and Devil	A puppy and kitty run away to the ends of the earth!
+440001	Stage 1	Volunteer	
+440002	Stage 2	Special Animal Shelter	
+440003	Stage 3	Please Help Me, Arf Arf	
+440004	Stage 4	Lassi and Catsi	
+440005	Stage 5	Their Wish	
+440006	Stage 6	Flustered Bustle	
+440007	Stage 7	Escape	
+440008	Stage 8	A New Form of Happiness	
+4410	<Narrative>	Cat, Dog, and Devil	A puppy and kitty run away to the ends of the earth!
+441001	Stage 1	Volunteer (Hard)	
+441002	Stage 2	Special Animal Shelter (Hard)	
+441003	Stage 3	Please Help Me, Arf Arf (Hard)	
+441004	Stage 4	Lassi and Catsi (Hard)	
+441005	Stage 5	Their Wish (Hard)	
+441006	Stage 6	Flustered Bustle (Hard)	
+441007	Stage 7	Escape (Hard)	
+441008	Stage 8	A New Form of Happiness (Hard)	
+4500	<Narrative>	On The Road	So long as I have a road bike, I don't need words!
+450001		Cute Davi Has Arrived	
+450002		Unseen	
+450003		Promise	
+450004		Wish	
+450005		The Truth About the Ghost Story	
+450006		Race	
+450007		Accident	
+450008		Rematch	
+4510	<Narrative>	On The Road	So long as I have a road bike, I don't need words!
+451001		HARDCute Davi Has Arrived	
+451002		HARDUnseen	
+451003		HARDPromise	
+451004		HARDWish	
+451005		HARDThe Truth About the Ghost Story	
+451006		HARDRace	
+451007		HARDAccident	
+451008		HARDRematch	
+4600	<Narrative>	Daydream	For the events unfolding before your eyes are ever so dreamlike.
+460001	Stage 1	First Love	
+460002	Stage 2	Between Reason and Emotion	
+460003	Stage 3	Paths Cross	
+460004	Stage 4	A Perilous Pact	
+460005	Stage 5	Turan's Dream	
+460006	Stage 6	Pursuing Freedom	
+460007	Stage 7	A Misunderstanding	
+460008	Stage 8	Rainy Afternoon	
+4610	<Narrative>	Daydream	For the events unfolding before your eyes are ever so dreamlike.
+461001	Stage 1	First Love (Hard)	
+461002	Stage 2	Between Reason and Emotion (Hard)	
+461003	Stage 3	Paths Cross (Hard)	
+461004	Stage 4	A Perilous Pact (Hard)	
+461005	Stage 5	Turan's Dream (Hard)	
+461006	Stage 6	Pursuing Freedom (Hard)	
+461007	Stage 7	A Misunderstanding (Hard)	
+461008	Stage 8	Rainy Afternoon (Hard)	
+4700	<Narrative>	Extra Game	War is us demons' destiny!\Welcome to the hellish battlefield!
+470001	Stage 1	House Show	
+470002	Stage 2	Dark Match	
+470003	Stage 3	"I Quit" Match	
+470004	Stage 4	First Blood Match	
+470005	Stage 5	Inferno Match	
+470006	Stage 6	Hardcore Match	
+470007	Stage 7	Death Match	
+470008	Stage 8	Championship	
+4710	<Narrative>	Extra Game	War is us demons' destiny!\Welcome to the hellish battlefield!
+471001	Stage 1	House Show (Hard)	
+471002	Stage 2	Dark Match (Hard)	
+471003	Stage 3	"I Quit" Match (Hard)	
+471004	Stage 4	First Blood Match (Hard)	
+471005	Stage 5	Inferno Match (Hard)	
+471006	Stage 6	Hardcore Match (Hard)	
+471007	Stage 7	Death Match (Hard)	
+471008	Stage 8	Championship (Hard)	
+4800	<Narrative>	Rogue's March	Get all of the problem children in one place!\Who's the strongest troublemaker?
+480001	Stage 1	Where it All Goes Down	
+480002	Stage 2	Ungrateful	
+480003	Stage 3	My Name's Dianus!	
+480004	Stage 4	A Real Demon	
+480005	Stage 5	True Wish	
+480006	Stage 6	Betrayal is the Villain's Virtue	
+480007	Stage 7	Have the Tables Turned?	
+480008	Stage 8	Journey's End	
+4810	<Narrative>	Rogue's March	Get all of the problem children in one place!\Who's the strongest troublemaker?
+481001	Stage 1	Where it All Goes Down (Hard)	
+481002	Stage 2	Ungrateful (Hard)	
+481003	Stage 3	My Name's Dianus! (Hard)	
+481004	Stage 4	A Real Demon (Hard)	
+481005	Stage 5	True Wish (Hard)	
+481006	Stage 6	Betrayal is the Villain's Virtue (Hard)	
+481007	Stage 7	Have the Tables Turned? (Hard)	
+481008	Stage 8	Journey's End (Hard)	
+4900	<Narrative>	Within Temptation	Who will I play with today?
+490001	Stage 1	Bittersweet Temptation Ⅰ	
+490002	Stage 2	Bittersweet Temptation Ⅱ	
+490003	Stage 3	Fun Toy	
+490004	Stage 4	Like Sherlock	
+490005	Stage 5	Fragment Ⅰ	
+490006	Stage 6	Fragment Ⅱ	
+490007	Stage 7	Fragment Ⅲ	
+490008	Stage 8	Cunning Demon	
+4910	<Narrative>	Within Temptation	Who will I play with today?
+491001	Stage 1	Bittersweet Temptation Ⅰ (Hard)	
+491002	Stage 2	Bittersweet Temptation Ⅱ (Hard)	
+491003	Stage 3	Fun Toy (Hard)	
+491004	Stage 4	Like Sherlock (Hard)	
+491005	Stage 5	Fragment Ⅰ (Hard)	
+491006	Stage 6	Fragment Ⅱ (Hard)	
+491007	Stage 7	Fragment Ⅲ (Hard)	
+491008	Stage 8	Cunning Demon (Hard)	
+5000	<Narrative>	A Christmas Blessing	A lonely demon has set out on a journey to find her destiny in the Christmas season.\Where is it?
+500001	Stage 1	Practice Time Is Over	
+500002	Stage 2	Hungry Princess	
+500003	Stage 3	Working Princess	
+500004	Stage 4	Christmas Fighter	
+500005	Stage 5	Fated Partners I	
+500006	Stage 6	Fated Partners II	
+500007	Stage 7	Grilla the Demon	
+500008	Stage 8	Merry Christmas!	
+5010	<Narrative>	A Christmas Blessing	A lonely demon has set out on a journey to find her destiny in the Christmas season.\Where is it?
+501001	Stage 1	A Christmas Blessing (Hard)	
+501002	Stage 2	Practice Time Is Over (Hard)	
+501003	Stage 3	Hungry Princess (Hard)	
+501004	Stage 4	Working Princess (Hard)	
+501005	Stage 5	Christmas Fighter (Hard)	
+501006	Stage 6	Fated Partners I (Hard)	
+501007	Stage 7	Fated Partners II (Hard)	
+501008	Stage 8	Grilla the Demon (Hard)	
+5100	<Narrative>	What Is Love?	Vivian comforts everyone equally. What kind of love lessons does she have for them?
+510001	Stage 1	A Way to Make Everyone Happy	
+510002	Stage 2	A Promise to a Girl	
+510003	Stage 3	To Tell You the Truth...	
+510004	Stage 4	Let's Make Love Ⅰ	
+510005	Stage 5	Let's Make Love Ⅱ	
+510006	Stage 6	Let's Make Love Ⅲ	
+510007	Stage 7	Mémoire	
+510008	Stage 8	Great Vivian	
+5110	<Narrative>	What Is Love?	Vivian comforts everyone equally. What kind of love lessons does she have for them?
+511001	Stage 1	A Way to Make Everyone Happy (HARD)	
+511002	Stage 2	A Promise to a Girl (HARD)	
+511003	Stage 3	To Tell You the Truth... (HARD)	
+511004	Stage 4	Let's Make Love Ⅰ (HARD)	
+511005	Stage 5	Let's Make Love Ⅱ (HARD)	
+511006	Stage 6	Let's Make Love Ⅲ (HARD)	
+511007	Stage 7	Mémoire (HARD)	
+511008	Stage 8	Great Vivian (HARD)	
+5600	<Narrative>	Summer Trouble	A midsummer festival\rife with troubles.
+560001	Stage 1	Summer Trouble	
+560002	Stage 2	On Your Marks!	
+560003	Stage 3	Time to Run!	
+560004	Stage 4	Return of the Hydro Shooter Sisters	
+560005	Stage 5	Water Gun Rematch	
+560006	Stage 6	Decisive Battle	
+560007	Stage 7	Is That a Warning or Advice?	
+560008	Stage 8	Left Out	
+5610	<Narrative>	Summer Trouble	A midsummer festival\rife with troubles.
+561001	Stage 1	Summer Trouble (Hard)	
+561002	Stage 2	On Your Marks! (Hard)	
+561003	Stage 3	Time to Run! (Hard)	
+561004	Stage 4	Return of the Hydro Shooter Sisters (Hard)	
+561005	Stage 5	Water Gun Rematch (Hard)	
+561006	Stage 6	Decisive Battle (Hard)	
+561007	Stage 7	Is That a Warning or Advice? (Hard)	
+561008	Stage 8	Left Out (Hard)	
+5800	<Narrative>	Battle Royale	A New Holy Order Selection Begins?!
+580001	Stage 1	Intersect	
+580002	Stage 2	Trading	
+580003	Stage 3	Battle Royale Ⅰ	
+580004	Stage 4	Battle Royale Ⅱ	
+580005	Stage 5	Battle Royale Ⅲ	
+580006	Stage 6	Battle Royale Ⅳ	
+580007	Stage 7	Daredevil	
+580008	Stage 8	Discover	
+5810	<Narrative>	Battle Royale	A New Holy Order Selection Begins?!
+581001	Stage 1	HARD Intersect	
+581002	Stage 2	HARD Trading	
+581003	Stage 3	HARD Battle Royale Ⅰ	
+581004	Stage 4	HARD Battle Royale Ⅱ	
+581005	Stage 5	HARD Battle Royale Ⅲ	
+581006	Stage 6	HARD Battle Royale Ⅳ	
+581007	Stage 7	HARD Daredevil	
+581008	Stage 8	HARD Discover	

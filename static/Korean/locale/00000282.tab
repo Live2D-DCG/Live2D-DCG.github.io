@@ -1,0 +1,39 @@
+﻿// key	PUPPET_DIORAMA_NAME_
+1000011	全体盟友的最大HP{value_1}
+1000012	PvE中全体盟友的最大HP{value_1}
+1000013	PvP中全体盟友的最大HP{value_1}
+1000021	全体盟友的攻击力{value_1}
+1000022	PvE中全体盟友的攻击力{value_1}
+1000023	PvP中全体盟友的攻击力{value_1}
+1000031	全体盟友的防御力{value_1}
+1000032	PvE中全体盟友的防御力{value_1}
+1000033	PvP中全体盟友的防御力{value_1}
+1000041	全体盟友的敏捷度{value_1}
+1000042	PvE中全体盟友的敏捷度{value_1}
+1000043	PvP中全体盟友的敏捷度{value_1}
+1000051	全体盟友的暴击{value_1}
+1000052	PvE中全体盟友的暴击{value_1}
+1000053	PvP中全体盟友的暴击{value_1}
+1000062	PvE中全体盟友的Skill量表充能速度{value_1}
+1000063	PvP中全体盟友的Skill量表充能速度{value_1}
+1000072	PvE中全体盟友的Skill量表充能量{value_1}
+1000073	PvP中全体盟友的Skill量表充能量{value_1}
+1000092	PvE中全体盟友的Skill伤害{value_1}（仅限Tap/Slide Skill）
+1000131	全体盟友的Skill最终伤害{value_1}
+1000132	PvE中全体盟友的Skill最终伤害{value_1}
+1000161	全体盟友的Drive Skill最终伤害{value_1}
+1000162	PvE中全体盟友的Drive Skill最终伤害{value_1}
+1000171	全体盟友的弱点攻击力最终伤害{value_1}
+1000173	PvP中全体盟友的弱点攻击力最终伤害{value_1}
+1000181	所有盟友的暴击率{value_1}
+1000191	全体盟友的暴击最终伤害{value_1}
+1000192	PvE中全体盟友的暴击最终伤害{value_1}
+1000201	全体盟友的所有Skill伤害防御力{value_1}
+1000202	PvE中全体盟友的所有Skill伤害防御力{value_1}
+1000203	PvP中全体盟友的所有Skill伤害防御力{value_1}
+1000231	全体盟友的Drive Skill伤害防御力{value_1}
+1000233	PvP中全体盟友的Drive Skill伤害防御力{value_1}
+1000241	PvE中全体盟友的弱点防御力{value_1}
+1000242	PvE中全体盟友的弱点防御力{value_1}
+1000251	全体盟友的暴击伤害防御力{value_1}
+1000253	全体盟友的暴击伤害防御力{value_1}

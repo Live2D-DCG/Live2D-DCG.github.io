@@ -1,0 +1,292 @@
+﻿// key	PUPPET_ICON_	PUPPET_TARGET_VISUAL_	PUPPET_SKILL_DESC_
+21120028			Effect 1:\Skill Gauge {value_1} for 1 Water Type Ally
+21150011			Effect 1:\Skill Gauge Charge Speed {value_1} for 1 random Ally for {duration_1} seconds
+21220029			Effect 1:\ATK {value_1} for 1 Fire Type Ally for {duration_1} seconds
+21310012			Effect 1:\{p_value_1} Bonus Damage to attack target
+21320009			Effect 1:\Vampirism (recover {p_value_1} HP on attack) to 1 Wood Type Ally except self for {duration_1} seconds
+21320030			Effect 1:\Weak Point ATK Final Blow {value_1} for 1 Wood Type Ally for {duration_1} seconds
+21350017			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to self for {duration_1} seconds
+21410016			Effect 1:\AGL {value_1} for 1 Light Type Ally for {duration_1} seconds
+21420004			Effect 1:\Enrage (store up to {p_value_1} of damage taken and retaliates with it once) to self for {duration_1} phases
+21420031			Effect 1:\ACC {value_1} for 1 Light Type Ally for {duration_1} seconds
+21520003			Effect 1:\DEF {value_1} for self for {duration_1} seconds
+21520005			Effect 1:\All Skill Damage DEF {value_1} for self for {duration_1} seconds
+21520032			Effect 1:\Debuff ACC {value_1} for 1 Dark Type Ally for {duration_1} seconds
+22110074			Effect 1:\Poison (causes {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on 1 random Enemy among attack targets for {duration_1} turns
+22110079			Effect 1:\{p_value_1} Bonus Damage to attack target
+22110081			Effect 1:\Skill Gauge {value_1} for attack target
+22140046			Effect 1:\Skill Gauge Charge Speed {value_1} for 1 random Enemy among attack targets for {duration_1} seconds
+22210048			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on 1 random Enemy among attack targets for {duration_1} seconds
+22220082			Effect 1:\Debuff Barrier {value_1}(can't be used with shields that absorb debuff damage, can't be used with other barriers) to 1 Fire Type Ally for {duration_1} seconds
+22310043			Effect 1:\Absorbs {p_value_1} as own HP
+22320041			Effect 1:\Heals {puppet_h_value_1} HP for self
+22340075			Effect 1:\Weak Point DEF {value_1} for attack target for {duration_1} seconds
+22450078			Effect 1:\Regen amount {value_1} for 1 Ally (Low HP) for {duration_1} seconds
+22510057			Effect 1:\CRT Rate {value_1} for self for {duration_1} seconds
+22510063			Effect 1:\CRT {value_1} for self for {duration_1} seconds
+22510066			Effect 1:\Slide Skill Damage {value_1} for self for {duration_1} seconds
+22520035			Effect 1:\Vampirism (recovers {p_value_1} HP on attack) to self for {duration_1} seconds
+22530044			Effect 1:\Debuff EVA {value_1} for 1 Ally (Low HP) for {duration_1} seconds
+22550042			Effect 1:\Critical Final Blow {value_1} for 1 Dark Type Ally for {duration_1} seconds
+23110111			Effect 1:\Poison (cause {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on attack target for {duration_1} turns
+23110144			Effect 1:\{p_value_1} Bonus Damage to Fire Type Enemies among attack targets
+23120117			Effect 1:\All Skill Damage DEF {value_1} for self for {duration_1} seconds
+23130134			Effect 1:\Heal {puppet_h_value_1} HP for 1 Ally (Low HP)
+23210106			Effect 1:\{p_value_1} Bonus Damage to Wood Type Enemies among attack targets
+23210109			Effect 1:\{p_value_1} Ignore DEF Damage to attack target
+23220138			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+23310090			Effect 1:\{p_value_1} Bonus Damage to Water Type Enemies among attack targets
+23330095			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 1 Ally (Low HP) for {duration_1} seconds
+23350150			Effect 1:\EVA {value_1} for 2 Allies (Low HP) for {duration_1} seconds
+23410093			Effect 1:\{p_value_1} Bonus Damage to Dark Type Enemies among attack targets
+23450103			Effect 1:\{p_value_1} chance of removing DoT effects from 1 Ally (DoT status)
+23450146			Effect 1:\Weak Point ATK DEF {value_1} for 2 Light Type Allies for {duration_1} seconds
+23510123			Effect 1:\{p_value_1} Bonus Damage to Light Type Enemies among attack targets
+23510130			Effect 1:\{p_value_1} Ignore DEF Damage to attack target
+23520135			Effect 1:\Vampirism (recovers {p_value_1} HP on attack) to self for {duration_1} seconds
+23530147			Effect 1:\Debuff EVA {value_1} for 2 Dark Type Allies for {duration_1} seconds
+24110164			Effect 1:\Poison (cause {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on 2 Enemies (High ATK) for {duration_1} turns
+24110191			Effect 1: Chance to activate: {puppet_buff_1_prob}%\{p_value_1} chance of Recovery Block (except Vampirism, HP Drain) on attack target for {duration_1} seconds
+24120154			Effect 1:\Absorbs {p_value_1} as own HP
+24120183			Effect 1:\All Skill Damage DEF {value_1} for self for {duration_1} seconds
+24120218			Effect 1:\{value_1} Barrier (absorbs Damage from all Enemy attacks before HP is affected, can't be used with debuff barriers) to 1 Water Type Ally for {duration_1} seconds\\Effect 2:\All Skill Damage DEF {value_1} to 1 Water Type Ally for 16 seconds (canceled after 16 seconds or if attacked {duration_1} times)
+24140179			Effect 1:\Skill Gauge Charge Speed {value_1} for 1 random Enemy among attack targets for {duration_1} seconds
+24150170			Effect 1:\Skill Gauge Charge Speed {value_1} for 2 Allies (High ATK) for {duration_1} seconds
+24150207			Effect 1:\Tap Skill Final Blow {value_1} for 1 Water Type Ally (Highest ATK) for {duration_1} seconds
+24150222			Effect 1:\Heal {puppet_h_value_1} HP for 2 Allies (Low HP)
+24210206			Effect 1:\During 20-person Giant Bosses, inflict Hellfire ({p_value_1} Bonus Damage based on number of Fire Type Allies, up to 10) to all Enemies
+24210211			Effect 1:\Inflict Bleed ({p_value_1} DoT every 2 sec.) to 1 random Enemy for {duration_1} seconds
+24220171			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 2 Fire Type Allies for {duration_1} seconds
+24220177			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to self for {duration_1} seconds
+24240193			Effect 1:\{p_value_1} Bonus Damage to Wood Type Enemies among attack targets
+24250155			Effect 1:\ATK {value_1} for 1 Attacker Ally for {duration_1} seconds
+24310163			Effect 1:\Vampirism (recovers {p_value_1} HP on attack) to self for {duration_1} seconds
+24310178			Effect 1:\{p_value_1} Bonus Damage to Water Type Enemies among attack targets
+24310217			Effect 1:\Absorb {p_value_1} of damage as own HP
+24320156			Effect 1:\Poison Damage DEF {p_value_1} for 2 Allies (Low HP) for {duration_1} seconds
+24350168			Effect 1:\Debuff EVA {value_1} for 1 Ally (High ATK) for {duration_1} seconds
+24410166			Effect 1:\{p_value_1} Bonus Damage to Dark Type Enemies among attack targets
+24410220			Effect 1:\{p_value_1} chance to grant Ranged Attack (Ignores Enemies' Taunt and Reflect) for {duration_1} seconds to self
+24420174			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Nullify to self for {duration_1} seconds
+24420188			Effect 1:\ATK {value_1} for 1 random Enemy among attack targets for {duration_1} seconds
+24450158			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 1 Ally (Low HP) for {duration_1} seconds
+24450214			Effect 1:\Recovery Amount (Heal) {value_1} for 2 Allies (Lowest HP) for {duration_1} seconds
+24510215			Effect 1:\CRT Rate {value_1} for self for {duration_1} seconds
+24520172			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+24550157			Effect 1:\CRT Rate {value_1} for 1 Attacker Ally for {duration_1} seconds
+24550182			Effect 1:\{p_value_1} chance of Awakening (increase CRT Damage by 30% and Slide Skill Damage by number of buffs on self) to 2 Dark Type Ally Attackers for {duration_1} seconds
+24550189			Effect 1:\CRT Rate {value_1} for 1 Ally (High ATK) for {duration_1} seconds
+25110197			Effect 1:\{p_value_1} Bonus Damage to Fire Type Enemies among attack targets
+25210204			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on 2 Wood Type Enemies for {duration_1} seconds
+25240200			Effect 1:\DEF {value_1} for attack target for {duration_1} seconds
+25310202			Effect 1:\Weak Point ATK Final Blow {value_1} for self for {duration_1} seconds
+25340209			Effect 1:\Debuff EVA {value_1} to 1 Enemy (Most Buffs) for {duration_1} seconds
+25410201			Effect 1:\{p_value_1} Bonus Damage to attack target\\Effect 2: Chance to activate: {puppet_buff_2_prob}%\Focus (+ACC and 100% CRT) to self for {duration_2} seconds
+25430194			Effect 1:\{p_value_1} chance of removing Petrify from 2 Allies (Petrified)
+25510195			Effect 1:\CRT Rate {value_1} for self for {duration_1} seconds\\Effect 2:\Critical Final Blow {value_1} for self for{duration_2} seconds
+25520196			Effect 1:\{p_value_1} chance of Petrify (cannot act for 10 seconds or until attacked {duration_1} times) on 2 random Enemies
+31120001			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+31120018			Effect 1:\DEF {value_1} for 1 Water Type Ally for {duration_1} seconds
+31120033			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to self for {duration_1} seconds
+31220000			Effect 1:\All Skill Damage DEF {value_1} for self for {duration_1} seconds
+31220019			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 1 Fire Type Ally for {duration_1} seconds
+31240015			Effect 1:\DEF {value_1} for attack target for {duration_1} seconds
+31320020			Effect 1:\Vampirism (recover {p_value_1} HP on attack) to 1 Wood Type Ally for {duration_1} seconds
+31330008			Effect 1:\Weak Point ATK DEF {value_1} for 1 Ally (Low HP) for {duration_1} seconds
+31420013			Effect 1:\Enrage (store up to {p_value_1} of damage taken and retaliates with it once) to self for {duration_1} phases
+31420021			Effect 1:\All Skill Damage DEF {value_1} for 1 Light Type Ally for {duration_1} seconds
+31440010			Effect 1:\Blind (decrease Attack ACC {p_value_1}) to attack target for {duration_1} seconds
+32130039			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 1 Ally (Debuffed) for {duration_1} seconds
+32150036			Effect 1:\Skill Damage {value_1} for all Allies for {duration_1} seconds
+32150077			Effect 1:\Skill Gauge Charge Amount {value_1} for 1 Water Type Ally for {duration_1} seconds
+32210056			Effect 1:\Tap Skill Damage {value_1} for self for {duration_1} seconds
+32210067			Effect 1:\To Wood Types among attack targets for {duration_1} seconds, inflict EVA {value_1}
+32220069			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+32220072			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 1 Fire Type Ally for {duration_1} seconds
+32230038			Effect 1:\Heal {puppet_h_value_1} HP for 1 Ally (Low HP)
+32250065			Effect 1: Chance to activate: {puppet_buff_1_prob}%\{p_value_1} chance of Recovery Block (except Vampirism, HP Drain) on attack target for {duration_1} seconds
+32410053			Effect 1:\AGL {value_1} for self for {duration_1} seconds
+32420040			Effect 1:\Enrage (store up to {p_value_1} of damage taken and retaliates with it once) to self for {duration_1} phases
+32430049			Effect 1:\Regen amount {value_1} for 1 Light Type Ally for {duration_1} seconds
+32430061			Effect 1:\Heal amount {value_1} for 1 Light Type Ally for {duration_1} seconds
+32510050			Effect 1:\{p_value_1} Ignore DEF Damage to Light Type Enemies among attack targets
+32510062			Effect 1:\{p_value_1} Bonus Damage to Light Type Enemies among attack targets
+32510080			Effect 1:\{p_value_1} Fixed Damage to attack targets
+32550059			Effect 1:\CRT Rate {value_1} for 1 Dark Type Ally for {duration_1} seconds
+33110121			Effect 1:\Poison (cause {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on attack target for {duration_1} turns
+33120125			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+33150092			Effect 1:\Skill Gauge Charge Amount {value_1} for 1 Ally (High ATK) for {duration_1} seconds
+33150107			Effect 1:\Skill Gauge Charge Speed {value_1} for 2 Water Type Allies for {duration_1} seconds
+33210088			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on attack target for {duration_1} seconds
+33210132			Effect 1:\{p_value_1} Bonus Damage to Wood Type Enemies among attack targets
+33220124			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to self for {duration_1} seconds
+33230141			Effect 1:\Heal {puppet_h_value_1} HP for 2 Allies (Low HP)
+33240128			Effect 1:\{p_value_1} chance of Stun (stunned for 1 second more when attacked, up to 5 seconds max) on 1 random Enemy among attack targets for {duration_1} seconds
+33250091			Effect 1:\{p_value_1} chance of removing Confuse from 2 Allies (Confused)
+33250139			Effect 1:\{p_value_1} chance of ATK-DEF Switch (swaps ATK and DEF stats) to self for {duration_1} seconds
+33310100			Effect 1:\Vampirism (recovers {p_value_1} HP on attack) to self for {duration_1} seconds
+33310116			Effect 1:\{p_value_1} Bonus Damage to Water Type Enemies among attack targets
+33350113			Effect 1:\DEF {value_1} for 2 Wood Type Allies for {duration_1} seconds
+33350153			Effect 1:\Remove 1 debuff from 2 Allies (Wood Type debuff status) with {p_value_1} chance
+33410108			Effect 1:\Regen amount {value_1} for attack target for {duration_1} seconds
+33410122			Effect 1: Chance to activate: {puppet_buff_1_prob}%\{p_value_1} chance of Recovery Block (except Vampirism, HP Drain) on attack target for {duration_1} seconds
+33410129			Effect 1:\{p_value_1} Bonus Damage to Dark Type Enemies among attack targets
+33420133			Effect 1:\Enrage (store up to {p_value_1} of damage taken and retaliates with it once) to self for {duration_1} phases
+33420143			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds
+33450094			Effect 1:\Regen amount {value_1} for 2 Allies (Low HP) for {duration_1} seconds
+33510089			Effect 1:\{p_value_1} Ignore DEF Damage to attack target
+33510148			Effect 1:\{p_value_1} Bonus Damage to Light Type Enemies among attack targets
+33520127			Effect 1:\Reflect (return {p_value_1} of damage taken) to self for {duration_1} seconds
+33540097			Effect 1:\Weak Point DEF {value_1} for attack target for {duration_1} seconds
+34110191			Effect 1:\Brand ({p_value_1} DoT every 4 seconds and Bonus Damage by number of buffs target has, up to 6) on 2 Enemies (Buffed) among attack targets for {duration_1} seconds
+34120154			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to all Allies for {duration_1} seconds
+34120183			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Immortal (cannot drop below 1 HP) to self for {duration_1} seconds
+34130167			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 2 Allies (Low HP) for {duration_1} seconds
+34140179			Effect 1:\{p_value_1} chance of Silence (skill use blocked and Skill Gauge reset) on 2 random Enemies among attack targets for {duration_1} seconds
+34150170			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Skill cooldown {value_1} seconds for 3 Water Type Allies for {duration_1} turns
+34150192			Effect 1:\DEF {value_1} for 2 Allies (Low HP) for {duration_1} seconds
+34210159			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on 2 Enemies (Low HP) among attack targets for {duration_1} seconds
+34210186			Effect 1:\{p_value_1} Bonus Damage to Wood Type Enemies among attack targets
+34210206			Effect 1:\{p_value_1} Ignore DEF Damage to attack target
+34210211			Effect 1:\Inflict Rend ({p_value_1} Damage and Bonus Damage on targets with DoT debuffs) 3 times to 3 random Enemies
+34220171			Effect 1:\{p_value_1} Double-Edged Sword (increase ATK and decrease DEF) to 3 Fire Type Allies for {duration_1} seconds
+34220177			Effect 1:\Reflect (return {p_value_1} of damage taken) to self for {duration_1} seconds
+34230175			Effect 1:\Heal {puppet_h_value_1} HP for 2 Allies (Low HP)
+34240193			Effect 1:\Venom ({p_value_1} DoT. Heal, Regen -50%, can't shorten or extend debuff) on 2 Enemies (Low HP) among attack targets for {duration_1} seconds
+34250205			Effect 1:\{p_value_1} chance of Graze (Increase Bleeding DoT and duration) on 2 Enemies (Bleeding) for {duration_1} seconds
+34310163			Effect 1:\{p_value_1} Bonus Damage to attack target
+34310178			Effect 1:\Absorbs {p_value_1} as own HP
+34310217			Effect 1:\Deal {p_value_1} Damage for each of your buffs (max 8 buffs) to 2 Enemies (Lowest HP)
+34320156			Effect 1:\All Skill Damage DEF {value_1} (canceled after 16 seconds or if attacked {duration_1} times) for 3 Allies (Low HP) for 16 seconds
+34330165			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Fortitude (canceled after 16 seconds or if Physically attacked {duration_1} times) to 1 Ally (Low HP) for 16 seconds
+34340181			Effect 1:\Weak Point DEF {value_1} for 2 Enemies (Low DEF) among attack targets for {duration_1} seconds
+34340208			Effect 1: Chance to Activate: {puppet_buff_1_prob}%\Inflict Anti-Barrier (Removes Barrier and deals Damage equal to {p_value_1} of remaining Barrier HP) to 2 Enemies with barriers
+34350185			Effect 1:\Debuff duration {value_1} for 2 Wood Type Allies for 16 seconds
+34410166			Effect 1:\Blind (decrease Attack ACC {p_value_1}) to 2 random Enemies among attack targets for {duration_1} seconds
+34410184			Effect 1: Chance to activate: {puppet_buff_1_prob}%\{p_value_1} chance of Recovery Block (except Vampirism, HP Drain) on 3 random Enemies among attack targets for {duration_1} seconds
+34420174			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 4 random Allies for {duration_1} seconds
+34420176			Effect 1:\Enrage (store up to {p_value_1} of damage taken and retaliates with it once) to self for {duration_1} phases
+34440162			Effect 1:\{p_value_1} chance of Confuse on 1 random Enemy among attack targets for {duration_1} seconds
+34440180			Effect 1:\{p_value_1} chance of Petrify (cannot act for 16 seconds or until attacked {duration_1} times) on 2 Enemies (High ATK) among attack targets for 16 seconds
+34450158			Effect 1:\Drive Gauge {value_1} for self
+34510213			Effect 1:\Deal {p_value_1} Ignore DEF Damage to Supporter Enemies among attack targets
+34520172			Effect 1:\DEF {value_1} for 3 random Allies for {duration_1} seconds
+34520173			Effect 1:\Reflect (return {p_value_1} of damage taken) to 2 Dark Type Allies for {duration_1} seconds
+34530160			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Immortal (cannot drop below 1 HP) to 1 Ally (Low HP) for {duration_1} seconds
+34540161			Effect 1:\Drive Gauge {value_1} for 1 random Enemy among attack targets
+34540210			Effect 1: Chance to Activate: {puppet_buff_1_prob}%\{p_value_1} chance to inflict Death Heal (amount recovered by target is converted to same amount of damage) to 2 Enemies (Lowest HP) for {duration_1} seconds
+34550157			Effect 1:\Critical Final Blow {value_1} for 1 Ally (High ATK) for {duration_1} seconds
+34550189			Effect 1:\Slide Skill Damage {value_1} for 2 Dark Type Allies (High ATK) for {duration_1} seconds
+35110197			Effect 1:\{p_value_1} Fixed Damage to 3 Enemies (Low HP)
+35140212			Effect 1:\Drive Gauge {value_1} for 1 random Enemy
+35210204			Effect 1:\{p_value_1} Ignore DEF Damage to attack target\\Effect 2:\{p_value_2} Bonus Damage to Enemies (Bleeding) among attack targets
+35240200			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on 2 random Enemies among attack targets for {duration_1} seconds
+35310202			Effect 1:\Vampirism (recovers {p_value_1} HP on attack) to self for {duration_1} seconds
+35320199			Effect 1:\Taunt (chance to activate: {p_value_1}) to self for {duration_1} seconds\\Effect 2:\DEF {value_2} for self for {duration_2} seconds
+35340209			Effect 1:\Inflict Dancing Blade (DEF -20% and {p_value_1} DoT every 2 sec.) to 2 Enemies (Lowest HP) for {duration_1} seconds
+35410201			Effect 1:\Blind (decrease Attack ACC {p_value_1}) to 2 random Enemies among attack targets for {duration_1} seconds
+35430194			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 2 Allies (Low HP) for {duration_1} seconds
+41140023			Effect 1:\Skill Gauge Charge Speed {value_1} for attack target for {duration_1} seconds
+41210007			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on attack target for {duration_1} seconds
+41240024			Effect 1:\DEF {value_1} for attack target for {duration_1} seconds
+41320006			Effect 1:\Absorbs {p_value_1} as own HP
+41340025			Effect 1:\Weak Point DEF {value_1} for attack target for {duration_1} seconds
+41440026			Effect 1:\Debuff EVA {value_1} for attack target for {duration_1} seconds
+41520022			Effect 1:\Reflect (return {p_value_1} of damage taken) to self for {duration_1} seconds
+41540027			Effect 1:\ATK {value_1} for attack target for {duration_1} seconds
+42110047			Effect 1:\Poison (cause {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on attack target for {duration_1} turns
+42110051			Effect 1:\{p_value_1} chance of removing 1 debuff from 2 Allies (Debuffed)
+42110055			Effect 1:\{p_value_1} chance of removing 1 buff from attack target
+42210037			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on attack target for {duration_1} seconds
+42210068			Effect 1:\Tap Skill Damage {value_1} for all Fire Type Allies for {duration_1} seconds
+42240073			Effect 1:\DEF {value_1} for attack target for {duration_1} seconds
+42310083			Effect 1:\{p_value_1} Fixed Damage to Water Type Enemies among attack targets
+42330058			Effect 1:\Weak Point ATK DEF {value_1} for 2 Wood Type Allies for {duration_1} seconds
+42350045			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 2 Wood Type Allies for {duration_1} seconds
+42410084			Effect 1:\AGL {value_1} to Dark Type Enemies among attack targets for {duration_1} seconds
+42450086			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 2 Allies (Low HP) for {duration_1} seconds
+42540085			Effect 1:\ATK {value_1} to Light Type Enemies among attack targets for {duration_1} seconds
+43120118			Effect 1:\DEF {value_1} for 2 Water Type Allies for {duration_1} seconds
+43140142			Effect 1:\Skill Gauge Charge Amount {value_1} for 2 random Enemies among attack targets for {duration_1} seconds
+43250120			Effect 1:\ATK {value_1} for 2 Allies (High ATK) for {duration_1} seconds
+43320140			Effect 1:\Vampirism (recover {p_value_1} HP on attack) to all Wood Type Allies for {duration_1} seconds
+43340126			Effect 1:\Skill Gauge Charge Amount {value_1} for attack target for {duration_1} seconds
+43340151			Effect 1:\Drive Gauge {value_1} for attack target
+43410096			Effect 1:\Heal amount {value_1} for attack target for {duration_1} seconds
+43430115			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 2 Allies (Low HP) for {duration_1} seconds
+43530136			Effect 1:\Heal {puppet_h_value_1} HP for 2 Allies (Low HP)
+43540099			Effect 1:\ATK {value_1} for 2 Enemies (High ATK) among attack targets for {duration_1} seconds
+43550110			Effect 1:\Skill Damage {value_1} for 1 Ally (High ATK) for {duration_1} seconds
+43550145			Effect 1:\Barrier {value_1} (can't be used with debuff barriers, consumed before HP for all Enemy attacks) to 2 Dark Type Allies for {duration_1} seconds
+44130167			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Immortal (cannot drop below 1 HP) to 2 Allies (Low HP) for {duration_1} seconds
+44150192			Effect 1:\Heals {puppet_h_value_1} HP for all Allies
+44230175			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 5 Allies (Low HP) for {duration_1} seconds
+44250205			Effect 1:\Skill Gauge {value_1} for 2 Allies (High ATK)
+44310187			Effect 1:\Bomb ({p_value_1} Damage after {duration_1} seconds) on 3 random Enemies among attack targets for {duration_1} seconds
+44330165			Effect 1:\Regen {puppet_h_value_1} HP (once every 2 seconds) for 2 Allies (Low HP) for {duration_1} seconds
+44340208			Effect 1:\Inflict Fortitude Explosion (Cancels 2 counts or less of Fortitude, deals damage equal to {p_value_1} of each count remaining afterwards) to 3 Enemies with Fortitude
+44430216			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Immortal (cannot drop below 1 HP) to 2 Allies (Low HP) for {duration_1} seconds
+44440162			Effect 1:\Drive Gauge {value_1} for 1 random Enemy among attack targets
+44440180			Effect 1:\{p_value_1} chance of Petrify (cannot act for 20 seconds or until attacked {duration_1} times) on 2 random Enemies among attack targets
+44450214			Effect 1: Chance to activate: {puppet_buff_1_prob}%\Grant Life Link (converts {p_value_1} of Damage taken to Recovery for 2 Allies (Lowest HP)) to All Allies for {duration_1} seconds
+44450228			Effect 1:\Frenzy (ATK {value_1} and Invincible. Always Stun target for 5 seconds afterward) to 5 Light Type Allies for {duration_1} seconds
+44510169			Effect 1:\Bleed ({p_value_1} DoT every 2 seconds) on 4 random Enemies for {duration_1} seconds
+44510213			Effect 1:\Grant Weak Point Skill Final Blow {value_1} for self for {duration_1} seconds
+44530160			Effect 1:\Frenzy (ATK {value_1} and Invincible. Always Stun target for 5 seconds afterward) to all Ally Attackers for {duration_1} seconds
+44540210			Effect 1:\Inflict Necrosis ({p_value_1} DoT every 2 sec. Unable to cut or extend debuff) to 3 random Enemies for {duration_1} seconds
+45110197			Effect 1:\Poison (cause {p_value_1} damage every time the target takes action and Bonus Damage every time the target receives damage) on attack target for {duration_1} turns
+45140212			Effect 1: {p_value_1} chance to inflict Silence (skill use blocked and Skill Gauge reset) to 3 random Enemies for {duration_1} seconds
+45150198			Effect 1:\{p_value_1} chance of full-charging Skill Gauge for 3 random Allies (except self)\\Effect 2:\Drive Gauge {value_2} for self
+45320199			Effect 1:\All Skill Damage DEF {value_1} for self for {duration_1} seconds
+45430194			Effect 1:\Revive 1 dead Ally with {p_value_1} HP
+45510195			Effect 1:\Debuff Blast (remove a debuff and deal damage based on its effect type by a factor of x{p_value_1}) on attack target
+45520196			Effect 1:\{p_value_1} chance of Petrify (cannot act for 20 seconds or until attacked {duration_1} times) on 3 random Enemies among attack targets
+51210014			Effect 1:\Tap Skill Damage {value_1} for Fire Type Allies
+51420002			Effect 1:\EVA {value_1} for Light Type Allies
+51510034			Effect 1:\CRT Rate {value_1} for all Allies
+52120060			Effect 1:\DEF {value_1} for Water Type Allies
+52140070			Effect 1:\Skill Gauge Charge Speed {value_1} for Fire Type Enemies
+52250064			Effect 1:\ATK {value_1} for Fire Type Allies
+52340054			Effect 1:\Weak Point DEF {value_1} for Water Type Enemies
+52350052			Effect 1:\DEF {value_1} for Wood Type Allies
+52410071			Effect 1:\AGL {value_1} for Light Type Allies
+52520076			Effect 1:\Reflect (return {p_value_1} of damage taken) to self
+53110131			Effect 1:\Poison Damage {value_1} for Water Type Allies
+53140112			Effect 1:\Skill Gauge Charge Speed {value_1} for Fire Type Enemies
+53220152			Effect 1:\Max HP {value_1} for Fire Type Allies
+53240102			Effect 1:\DEF {value_1} for all Enemies
+53310104			Effect 1:\Slide Skill Damage {value_1} for Wood Type Allies
+53320101			Effect 1:\Vampirism (recover {p_value_1} HP on attack) to Wood Type Allies
+53340114			Effect 1:\Weak Point DEF {value_1} for Water Type Enemies
+53340149			Effect 1:\Slide Skill Final Blow {value_1} for Wood Type Allies
+53420087			Effect 1:\EVA {value_1} for Light Type Allies
+53430137			Effect 1:\Debuff EVA {value_1} for Light Type Allies
+53440119			Effect 1:\Debuff EVA {value_1} for all Enemies
+53510098			Effect 1:\Slide Skill Damage {value_1} for Dark Type Allies
+54110164			Effect 1:\Drive Skill Damage {value_1} for Water Type Allies
+54150207			Effect 1:\Weak Point ATK Final Blow {value_1} for Water Type Allies
+54150222			Effect 1:\Skill Gauge Charge Amount {value_1} for Water Type Allies
+54210159			Effect 1:\Drive Skill Final Blow {value_1} for Fire Type Allies
+54210186			Effect 1:\Tap Skill Final Blow {value_1} for Fire Type Allies
+54250155			Effect 1:\ATK {value_1} for Fire Type Allies
+54310187			Effect 1:\Slide Skill Final Blow {value_1} for Wood Type Allies
+54340181			Effect 1:\Weak Point DEF {value_1} for all Enemies
+54350168			Effect 1:\DEF {value_1} for Wood Type Allies
+54350185			Effect 1:\Skill Gauge Charge Speed {value_1} for Wood Type Allies
+54410184			Effect 1:\Skill Damage {value_1} for Light Type Allies
+54410220			Effect 1:\Slide Skill Damage {value_1} for Light Type Allies
+54420176			Effect 1:\All Skill Damage DEF {value_1} for all Allies
+54420188			Effect 1:\ATK {value_1} for all Enemies
+54430216			Effect 1:\Heal Amount {value_1} for all Allies
+54450228			Effect 1:\Skill Gauge Charge Amount {value_1} for Light Type Allies
+54510169			Effect 1:\Slide Skill Damage {value_1} for Dark Type Allies
+54510215			Effect 1:\ATK {value_1} for Dark Type Allies
+54520173			Effect 1:\All Skill Damage DEF {value_1} for all Allies
+54540161			Effect 1:\ATK {value_1} for all Enemies
+54550182			Effect 1:\ATK {value_1} for Dark Type Allies
+55140212			Effect 1:\Debuff EVA {value_1} for Fire Type Enemies
+55150198			Effect 1:\Skill Gauge Charge Amount {value_1} for all Allies
+55240200			Effect 1:\DEF {value_1} for all Enemies
+55310202			Effect 1:\Weak Point ATK Final Blow {value_1} for Wood Type Allies
+55340209			Effect 1:\In PvP, DoT damage dealt by all Enemies {value_1}
+55520196			Effect 1:\Debuff EVA {value_1} for Light Type Enemies

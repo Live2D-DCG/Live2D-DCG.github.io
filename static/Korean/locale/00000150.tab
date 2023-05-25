@@ -1,0 +1,361 @@
+﻿// key	SPECIAL_DUNGEON_NAME_	SPECIAL_DUNGEON_SECOND_NAME_	SPECIAL_DUNGEON_LOCATION_DESC_
+1000		Cauchemar de Noël	En cette sainte nuit, un démon rôde dans l'ombre de la joie de Noël.
+100001	Zone 1	Veille de Noël	
+100002	Zone 2	Krampus I	
+100003	Zone 3	Sainte nuit	
+100004	Zone 4	Rudolphe	
+100005	Zone 5	Sainte nuit	
+100006	Zone 6	Père Noël	
+100007	Zone 7	Sainte nuit	
+100008	Zone 8	Krampus II	
+1100		Arrivée de l'obélisque	Une tour des épreuves a surgi des sables brûlants du désert.
+110001	Niveau 1	Tombeau de Pharaonne I	
+110002	Niveau 2	Bast	
+110003	Niveau 3	Tombeau de Pharaonne II	
+110004	Niveau 4	Horus	
+110005	Niveau 5	Tombeau de Pharaonne III	
+110006	Niveau 6	Cléopâtre	
+110007	Niveau 7	Tombeau de Pharaonne IV	
+110008	Niveau 8	Avènement de Pharaonne	
+1200		La fleur interdite	Qu'y a-t-il au-delà de toutes ces émotions ?
+120001	Niveau 1	Un lit de lotus au paradis I	
+120002	Niveau 2	Salican Doryeong	
+120003	Niveau 3	Un lit de lotus au paradis II	
+120004	Niveau 4	Jacheongbi I	
+120005	Niveau 5	Un lit de lotus au paradis III	
+120006	Niveau 6	Bari	
+120007	Niveau 7	Un lit de lotus au paradis IV	
+120008	Niveau 8	Jacheongbi II	
+1300		L'Empire macabre	Pauvres de vous, âmes d'un monde condamné.\Votre chemin vous mène au plus profond de la vallée des ténèbres.
+130001	Niveau 1	Nuit sanctifiée I	
+130002	Niveau 2	L'exorcisme du démon	
+130003	Niveau 3	Nuit sanctifiée II	
+130004	Niveau 4	Opération de sauvetage	
+130005	Niveau 5	Nuit sanctifiée III	
+130006	Niveau 6	Fierté de fanatique	
+130007	Niveau 7	Nuit sanctifiée IV	
+130008	Niveau 8	Résurrection et éveil	
+1400		Scandale de l'été	Marre du concours du Roi des démons ?\Partez sur l'île de la Passion ! Un véritable paradis sur terre !
+140001	Niveau 1	Île de la Passion	
+140002	Niveau 2	Station balnéaire somptueuse	
+140003	Niveau 3	Île de la Passion	
+140004	Niveau 4	Beach-volley	
+140005	Niveau 5	Île de la Passion	
+140006	Niveau 6	Le mystère du gorille géant	
+140007	Niveau 7	Île de la Passion	
+140008	Niveau 8	Vacances d'été	
+1500		Café de Petit	Bienvenue au Café de Petit ♥
+150001	Niveau 1	L'invitation I	
+150002	Niveau 2	Invitée adorable	
+150003	Niveau 3	L'invitation II	
+150004	Niveau 4	Servante artilleuse	
+150005	Niveau 5	L'invitation III	
+150006	Niveau 6	Yes, My Lord...	
+150007	Niveau 7	L'invitation IV	
+150008	Niveau 8	La personne que j'aime	
+1600		DIABLO-CONCERT !!	Allons ensemble à ce concert de rêve !
+160001	Niveau 1	Concert de rêve	
+160002	Niveau 2	Planet Party	
+160003	Niveau 3	Concert de rêve	
+160004	Niveau 4	Apprenties pour longtemps ?	
+160005	Niveau 5	Concert de rêve	
+160006	Niveau 6	La fierté d'une pop star	
+160007	Niveau 7	Concert de rêve	
+160008	Niveau 8	Rappel !	
+1900		Cœur enflammé	Renais dans le feu pour rêver à nouveau !
+190001	Niveau 1	Marche sur le feu	
+190002	Niveau 2	-Désastre-	
+190003	Niveau 3	Marche sur le feu	
+190004	Niveau 4	-Indice-	
+190005	Niveau 5	Marche sur le feu	
+190006	Niveau 6	-Rage-	
+190007	Niveau 7	Marche sur le feu	
+190008	Niveau 8	-Espoir-	
+2000		Mariée secrète	Ma promise, mets ton destin entre mes mains !
+200001	Niveau 1	Mariée secrète	
+200002	Niveau 2	Marche nuptiale du destin	
+200003	Niveau 3	Lettre de l'île des mariées	
+200004	Niveau 4	Voilà la mariée !	
+200005	Niveau 5	Mariée secrète	
+200006	Niveau 6	Faites entrer le marié !	
+200007	Niveau 7	Mariée secrète	
+200008	Niveau 8	Mon soleil, ma femme	
+2100		Jumelle disparue	Une nouvelle Davi est née !
+210001	Niveau 1	Les deux Davi I	
+210002	Niveau 2	Spectre sournois	
+210003	Niveau 3	Les deux Davi II	
+210004	Niveau 4	Une autre Davi	
+210005	Niveau 5	Les deux Davi III	
+210006	Niveau 6	Berceau du sommeil	
+210007	Niveau 7	Cocon créateur	
+210008	Niveau 8	Davi éveillée	
+2200		EVILS UNDER THE SUN	La fille mystérieuse qui est venue voir Luine n'est autre que...
+220001	Niveau 1	L'entraînement intensif de Luine I	
+220002	Niveau 2	Défi Dojo	
+220003	Niveau 3	L'entraînement intensif de Luine II	
+220004	Niveau 4	Tireuse d'élite	
+220005	Niveau 5	L'entraînement intensif de Luine III	
+220006	Niveau 6	Davi a disparu	
+220007	Niveau 7	L'entraînement intensif de Luine IV	
+220008	Niveau 8	Une question de fierté	
+2300		Kyrie Eleison	Sauvez-moi de cette chair soumise à la mort.
+230001	Niveau 1	Seigneur, ayez pitié I	
+230002	Niveau 2	Brebis égarée	
+230003	Niveau 3	Seigneur, ayez pitié II	
+230004	Niveau 4	Le rebelle	
+230005	Niveau 5	Seigneur, ayez pitié III	
+230006	Niveau 6	Que la paix soit avec vous	
+230007	Niveau 7	Seigneur, ayez pitié IV	
+230008	Niveau 8	Tu ne tueras point	
+2400		Tireuses d'été	Le courage et la volonté des hydrotireuses légendaires.
+240001	Niveau 1	Hors-la-loi des rivières	
+240002	Niveau 2	Le défi de la hors-la-loi	
+240003	Niveau 3	Hors-la-loi des rivières	
+240004	Niveau 4	L'eau ne fait qu'un avec le pistolet à eau	
+240005	Niveau 5	Hors-la-loi des rivières	
+240006	Niveau 6	Hydrotir	
+240007	Niveau 7	Hors-la-loi des rivières	
+240008	Niveau 8	Hydrochargement	
+2500		Catherine: Full Body	Monde parallèle de K
+250001	Niveau 1	Interlude	
+250002	Niveau 2	Épisode 1	
+250003	Niveau 3	Interlude	
+250004	Niveau 4	Épisode 2	
+250005	Niveau 5	Interlude	
+250006	Niveau 6	Épisode 3	
+250007	Niveau 7	Interlude	
+250008	Niveau 8	Épisode 4	
+2600		Les Misérables	Il me fait habiter dans les ténèbres, comme ceux qui sont morts depuis longtemps.\Lamentations 3:6
+260001	Niveau 1	Désirs matériels	
+260002	Niveau 2	Tabou	
+260003	Niveau 3	Cadavres	
+260004	Niveau 4	Anges maléfiques	
+260005	Niveau 5	La marque du pécheur	
+260006	Niveau 6	Poupées	
+260007	Niveau 7	La deuxième mort	
+260008	Niveau 8	La vengeance	
+2700		La fin de l'enfance	La saison douce est finie, \un vent froid commence à souffler...
+270001	Niveau 1	Meurtre	
+270002	Niveau 2	Cicatrice	
+270003	Niveau 3	Gamin aveugle	
+270004	Niveau 4	L'avènement du roi	
+270005	Niveau 5	Le vent de l'Au-delà	
+270006	Niveau 6	Retrouvailles	
+270007	Niveau 7	Purgatoire	
+270008	Niveau 8	La fin de l'enfance	
+2800		Saint-Valentin sans fin	Quel est ce sentiment ? Pourquoi mon cœur bat si fort ?
+280001	Niveau 1	Apprendre l'amour	
+280002	Niveau 2	Un philtre pour l'amour	
+280003	Niveau 3	La petite sœur de Sytry ?	
+280004	Niveau 4	Le baiser de l'amour véritable	
+280005	Niveau 5	Fin des chocolats suspects	
+280006	Niveau 6	Fin de la décision ultime	
+280007	Niveau 7	Partie sans issue	
+280008	Niveau 8	La bonne résolution	
+2900		Le salut	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+290001	Niveau 1	La porte étroite	
+290002	Niveau 2	Au-delà	
+290003	Niveau 3	Notre-Dame	
+290004	Niveau 4	Le souffle de vie	
+290005	Niveau 5	Au-delà	
+290006	Niveau 6	En vêtement de brebis	
+290007	Niveau 7	Un apôtre en proie au doute	
+290008	Niveau 8	Retrait porte-lampes	
+3000		Romeo & Juliet	Sur les planches de leur rencontre, le rideau se lèvera-t-il sur un nouvel amour ?
+300001	Niveau 1	Amour et courage	
+300002	Niveau 2	Actes et sentiments sincères	
+300003	Niveau 3	Juge et récompenses	
+300004	Niveau 4	Théâtre et doublures	
+300005	Niveau 5	Seiji et Eika	
+300006	Niveau 6	Vanité et intention	
+300007	Niveau 7	Les planches et la pièce	
+300008	Niveau 8	Rien que nous deux	
+3100		Réincarnation	Je t'en prie, ne me quitte pas. Tu m'as créée.
+310001	Niveau 1	Liés par le destin	
+310002	Niveau 2	Bons amis	
+310003	Niveau 3	Susuri Sabaha	
+310004	Niveau 4	Entraves karmiques	
+310005	Niveau 5	Aux pieds du Monde	
+310006	Niveau 6	Transmigration	
+310007	Niveau 7	Mauvais karma	
+310008	Niveau 8	Façonneur de karma	
+3200		Songe d'une nuit d'été	Un seul amour, deux cœurs qui s'opposent.\Mais quel est cet amour ?
+320001	Niveau 1	Fragrance et odeur	
+320002	Niveau 2	Un secret partagé	
+320003	Niveau 3	Le poids du cœur	
+320004	Niveau 4	Premier amour	
+320005	Niveau 5	Ici, là-bas, partout	
+320006	Niveau 6	2e manche	
+320007	Niveau 7	Amour doux	
+320008	Niveau 8	Prophétie d'Ailill	
+3300		Restauration	Les souvenirs s'oublient... Pas la colère.
+330001	Niveau 1	Un match paradisiaque	
+330002	Niveau 2	Les intrus	
+330003	Niveau 3	Bienvenue	
+330004	Niveau 4	Me revoilà	
+330005	Niveau 5	La déclaration	
+330006	Niveau 6	Les ombres du passé	
+330007	Niveau 7	Ce qui importe	
+330008	Niveau 8	Une occasion en or	
+3400		Le Brasier	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+340001	Niveau 1	Un démon sournois	
+340002	Niveau 2	Un fan inattendu	
+340003	Niveau 3	Un nouvel étudiant	
+340004	Niveau 4	Le repaire du démon	
+340005	Niveau 5	La fée égarée	
+340006	Niveau 6	Le collier	
+340007	Niveau 7	Ce qui importe	
+340008	Niveau 8	Le serpent de feu	
+3500		Le chevalier à la rose	Rejoins-moi, ma beauté
+350001	Niveau 1	Prise de queue	
+350002	Niveau 2	Mea Culpa	
+350003	Niveau 3	Langue de serpent	
+350004	Niveau 4	La tombe du monstre	
+350005	Niveau 5	On ne jure pas	
+350006	Niveau 6	La rose de Sharon	
+350007	Niveau 7	Dans votre sang	
+350008	Niveau 8	La vierge de fer	
+3600		WOUNDED WINNER PART.1	Sages comme le serpent, paisibles comme la colombe
+360001	Niveau 1	Aube	
+360002	Niveau 2	Les méritants	
+360003	Niveau 3	Psychométrie de groupe	
+360004	Niveau 4	La demeure de la sorcière	
+360005	Niveau 5	Les apostats	
+360006	Niveau 6	Le monde d'Arhat et de Mitra	
+360007	Niveau 7	Sinistre augure	
+360008	Niveau 8	L'éveil de Tathagata	
+3700		WOUNDED WINNER PART.2	Ô démon ! Gardien de mon commencement et de ma fin !
+370001	Niveau 1	Observation	
+370002	Niveau 2	Zombie de l'espace	
+370003	Niveau 3	Compétence universelle	
+370004	Niveau 4	La lance du destin	
+370005	Niveau 5	Une ennemie commune	
+370006	Niveau 6	Le saint qui n'était pas convié 1	
+370007	Niveau 7	Le saint qui n'était pas convié 2	
+370008	Niveau 8	La foire de la Saint-Barthélémy	
+3800		WOUNDED WINNER PART.3	Sodom, la grande cité. Là où Il a été crucifié.\D'après Apocalypse 11:8.
+380001	Niveau 1	Ashram	
+380002	Niveau 2	Le témoignage du doyen	
+380003	Niveau 3	Graine d'âme 1	
+380004	Niveau 4	Graine d'âme 2	
+380005	Niveau 5	Poursuite de la potion	
+380006	Niveau 6	Secrets multiples	
+380007	Niveau 7	Magie gênante	
+380008	Niveau 8	Nous nous reverrons	
+3900		HEN TO PAN	Tue-moi. Sauve-moi.
+390001	Niveau 1	Phase noire	
+390002	Niveau 2	Expérience arcanique	
+390003	Niveau 3	Antimoine	
+390004	Niveau 4	Cibation	
+390005	Niveau 5	Ouroboros	
+390006	Niveau 6	Cercle	
+390007	Niveau 7	Litharge	
+390008	Niveau 8	Coagulation	
+4000		Close to Nirvana	Vous n'atteindrez pas le Nirvana.
+400001	Niveau 1	Une bougie dans le vent	
+400002	Niveau 2	On récolte ce que l'on sème	
+400003	Niveau 3	Désirs matériels	
+400004	Niveau 4	L'inattendu	
+400005	Niveau 5	L'esprit de la vierge de sanctuaire	
+400006	Niveau 6	Se réveiller d'un rêve	
+400007	Niveau 7	Antipathie	
+400008	Niveau 8	La voie du Nirvana	
+4100		Sang vital	La mort n'est qu'un événement mineur.\La vie et le sang ne font qu'un.
+410001	Niveau 1	Un être tout sauf ordinaire	
+410002	Niveau 2	Agir plutôt que de se morfondre	
+410003	Niveau 3	Mains à nouveau salies	
+410004	Niveau 4	Un nom unique	
+410005	Niveau 5	Inéluctabilité	
+410006	Niveau 6	Je dois sauver mon amie	
+410007	Niveau 7	Le faire avec panache ?	
+410008	Niveau 8	Fêter la liberté	
+4200	Ange de lumière		Il arrive à Satan de se travestir en \ange de lumière.
+420001	Niveau 1	Souvenirs de ce jour-là	
+420002	Niveau 2	Une nouvelle destination	
+420003	Niveau 3	Infiltration	
+420004	Niveau 4	L'amie	
+420005	Niveau 5	Mensonge	
+420006	Niveau 6	Le faux prophète	
+420007	Niveau 7	Réunion	
+420008	Niveau 8	Destinés à se revoir	
+4300		Destin	Le destin est un guide. Ce guide naît de la sincérité.\Et la sincérité, de l'espoir et de la confiance.
+430001	Niveau 1	Réunion	
+430002	Niveau 2	Légende	
+430003	Niveau 3	Souffrance	
+430004	Niveau 4	Révélation	
+430005	Niveau 5	Pur altruisme	
+430006	Niveau 6	Mensonge et vérité	
+430007	Niveau 7	Catastrophe	
+430008	Niveau 8	Destin	
+4400		Ragna-choc	Les portes du Royaume infernal s'ouvrent et les dieux antiques surgissent.
+440001		Niveau 1	
+440002		Niveau 2	
+440003		Niveau 3	
+440004		Niveau 4	
+440005		Niveau 5	
+440006		Niveau 6	
+440007		Niveau 7	
+440008		Niveau 8	
+4500		Ragna-choc	Les portes du Royaume infernal s'ouvrent et les dieux antiques surgissent.
+450001		Niveau 1	
+450002		Niveau 2	
+450003		Niveau 3	
+450004		Niveau 4	
+450005		Niveau 5	
+450006		Niveau 6	
+450007		Niveau 7	
+450008		Niveau 8	
+4600		Le Brasier	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+460001	Niveau 1	Un démon sournois	
+460002	Niveau 2	Un fan inattendu	
+460003	Niveau 3	Un nouvel étudiant	
+460004	Niveau 4	Le repaire du démon	
+460005	Niveau 5	La fée égarée	
+460006	Niveau 6	Le collier	
+460007	Niveau 7	Ce qui importe	
+460008	Niveau 8	Le serpent de feu	
+4700		Demi-déesse	On croit souvent que les demi-dieux et demi-déesses sont nés\de dieux et d'humains, mais ils sont le fruit d'êtres surnaturels,\les démons, et d'humains fertiles.
+470001	Niveau 1	Obéissance	
+470002	Niveau 2	Solitude	
+470003	Niveau 3	Petite princesse	
+470004	Niveau 4	Enquête	
+470005	Niveau 5	Test de performance	
+470006	Niveau 6	Cadavre surnaturel	
+470007	Niveau 7	La bataille décisive	
+470008	Niveau 8	Flashback	
+4800		La démone exécutrice	Une invitée surprise venue des enfers. Belial, la troisième démone la plus importante du Royaume infernal.
+480001	Niveau 1	Guide de l'école	
+480002	Niveau 2	Retour à Tokyo	
+480003	Niveau 3	Fille étrange	
+480004	Niveau 4	Retour tant attendu au Japon	
+480005	Niveau 5	L'odeur du muguet	
+480006	Niveau 6	Les affaires dans le sang	
+480007	Niveau 7	Tasse de café	
+480008	Niveau 8	L'exécutrice du Royaume infernal	
+4900		Bonheur béat - I	Je suis tellement heureuse en ce moment que je me demande si tout ça n'est pas un rêve...\En tous cas, si c'en est un, évitez de me réveiller !
+490001	Niveau 1	Faveur	
+490002	Niveau 2	Saleos	
+490003	Niveau 3	Transférer	
+490004	Niveau 4	Un entraînement rigoureux	
+490005	Niveau 5	Épuisement magique	
+490006	Niveau 6	L'île d'Élysée	
+490007	Niveau 7	Scandale de l'été	
+490008	Niveau 8	Coup de pied	
+5000		Bonheur béat - II	Doux rêves
+500001	Niveau 1	Rencontre avec une Oneiroi	
+500002	Niveau 2	La jalousie de Léo	
+500003	Niveau 3	La poursuite de Nirriti	
+500004	Niveau 4	La suggestion de Nemain	
+500005	Niveau 5	Fête stimulante	
+500006	Niveau 6	Kurultai, le Conseil des chefs du Royaume infernal	
+500007	Niveau 7	Chère Mitra	
+500008	Niveau 8	Ouvrir les yeux	
+5400		Un chant de Noël	Tu veux que je te raconte le conte de Noël de Carol ?
+540001	Niveau 1	Nouvelle affaire	
+540002	Niveau 2	Vacances-travail	
+540003	Niveau 3	Réveillon de Noël	
+540004	Niveau 4	Child du passé	
+540005	Niveau 5	Entrée par effraction	
+540006	Niveau 6	Child du présent	
+540007	Niveau 7	Child du futur	
+540008	Niveau 8	Joyeux Noël	

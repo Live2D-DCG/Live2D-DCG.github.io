@@ -1,0 +1,9 @@
+﻿// key	RAID_SCROLL_NAME_	RAID_SCROLL_DESCRIPTION_
+102	Coffre en bronze	Un trésor spécial obtenu uniquement lors de raids.
+103	Coffre en bronze	Un trésor spécial obtenu uniquement lors de raids.
+104	Coffre en argent	Un trésor spécial obtenu uniquement lors de raids.
+105	Coffre en or	Un trésor spécial obtenu uniquement lors de raids.
+106	Coffre en platine	Un trésor spécial obtenu uniquement lors de raids.
+95	Ticket d'invocation de raid	Invoque un boss de raid.\(Ne peut pas être utilisé si un boss de raid a déjà été invoqué.)
+96	Réinit. de raid	Réinitialise le niveau de raid et invoque un boss de raid de niv. 1.\(Ne peut pas être utilisé si un boss de raid a déjà été invoqué.)
+97	Ticket de réinitialisation de la boutique de raid	Réinitialise la boutique de raid.

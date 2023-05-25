@@ -1,0 +1,6 @@
+﻿// key	SKIN_DUNGEON_NAME_	SKIN_DUNGEON_SECOND_NAME_	SKIN_DUNGEON_LOCATION_DESC_	SKIN_DUNGEON_BUFF_
+100101	<size=0.8>Lv.1</size>	ลาบรินธ์ของนักผจญภัย	ว่าง	สำหรับ<color=ff0000>ทีมศัตรู</color>: <color=ff7b02>ความเสียหายไดรฟ์สกิล</color> <color=ffc400>↑</color>
+100102	<size=0.8>Lv.2</size>	ลาบรินธ์ของนักสำรวจ	ว่าง	สำหรับ<color=ff0000>ทีมศัตรู</color>: <color=ff7b02>ความเสียหายไดรฟ์สกิล</color> <color=ffc400>↑</color>
+100103	<size=0.8>Lv.3</size>	ลาบรินธ์ของนักบุกเบิก	ว่าง	สำหรับ<color=ff0000>ทีมศัตรู</color>: <color=ff7b02>ความเสียหายไฟไดรฟ์สกิล</color> <color=ffc400>↑</color> และ<color=ff7b02>ดูดเลือด</color>
+100104	<size=0.8>Lv.4</size>	ลาบรินธ์ของผู้ค้นหา	ว่าง	สำหรับ<color=ff0000>ทีมศัตรู</color>: <color=ff7b02>ความเสียหายไฟไดรฟ์สกิล</color> <color=ffc400>↑</color>, <color=ff7b02>ดูดเลือด</color>,\<color=ff7b02>ยกเลิกผลดีบัฟเวลา</color>
+100105	<size=0.8>Lv.5</size>	ลาบรินธ์ของนักปราชญ์ผู้ยิ่งใหญ่	ว่าง	สำหรับ <color=ff0000>ทีมศัตรู</color>, <color=ff7b02>ความเสียหายไฟไดรฟ์สกิล</color> <color=ffc400>↑</color>, <color=ff7b02>พลังดูดเลือด</color>,\<color=ff7b02>ยกเลิกผลบัฟเวลา</color>,\ และ <color=ff7b02>ยกเลิกดีบัฟไม่ให้ขยับ</color> <color=ff7b02>(ทำให้เป็นหิน, ใบ้, สับสน, สตัน, หลับ)</color>

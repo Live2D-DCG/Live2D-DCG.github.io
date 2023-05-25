@@ -1,0 +1,6 @@
+﻿// key	SKIN_DUNGEON_NAME_	SKIN_DUNGEON_SECOND_NAME_	SKIN_DUNGEON_LOCATION_DESC_	SKIN_DUNGEON_BUFF_
+100101	<size=0.8>Niv. 1.</size>	Labyrinthe de l'aventurier	BLANK	Pour l'<color=ff0000>équipe adverse</color> : <color=ff7b02>dégâts d'assaut</color> <color=ffc400>↑</color>.
+100102	<size=0.8>Niv. 2.</size>	Labyrinthe de l'explorateur	BLANK	Pour l'<color=ff0000>équipe adverse</color> : <color=ff7b02>dégâts d'assaut</color> <color=ffc400>↑</color>.
+100103	<size=0.8>Niv. 3.</size>	Labyrinthe du pionnier	BLANK	Pour l'<color=ff0000>équipe adverse</color> : <color=ff7b02>dégâts d'assaut</color> <color=ffc400>↑</color> et <color=ff7b02>Vampirisme</color>.
+100104	<size=0.8>Niv. 4.</size>	Labyrinthe du chercheur	BLANK	Pour l'<color=ff0000>équipe adverse</color> : <color=ff7b02>dégâts d'assaut</color> <color=ffc400>↑</color>, <color=ff7b02>Vampirisme</color>,\<color=ff7b02>annulation des affaiblissements de durée</color>.
+100105	<size=0.8>Niv. 5.</size>	Labyrinthe du grand sage	BLANK	Pour <color=ff0000>l'équipe ennemie</color>, <color=ff7b02>dégâts d'assaut</color> <color=ffc400>↑</color>, <color=ff7b02>Vampirisme</color>, \<color=ff7b02>annulation des affaiblissements de durée</color> \et <color=ff7b02>annulation des affaiblissements de neutralisation</color> <color=ff7b02>(Pétrification, Silence, Confusion, Étourdissement, Sommeil)</color>.

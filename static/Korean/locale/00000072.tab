@@ -1,0 +1,274 @@
+﻿// key	SUMMON_SCROLL_NAME_	SUMMON_SCROLL_DESCRIPTION_
+1001	3-5★_Summon Ticket	Summon a <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1002	1-3★_Summon Ticket	Summon a <size=1.1><color=ffc400>1★</color></size> to <size=1.1><color=ffc400>3★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Gold summon Child pool.
+1003	4-5★_Summon Ticket	Summon a <size=1.1><color=ffc400>4★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1004	2-4★_Summon Ticket	Summon a <size=1.1><color=ffc400>2★</color></size> to <size=1.1><color=ffc400>4★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Gold summon Child pool.
+1005	1-5★_Summon Ticket	Summon a <size=1.1><color=ffc400>1★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Gold summon Child pool.
+1006	1-2★_Summon Ticket	Summon a <size=1.1><color=ffc400>1★</color></size> to <size=1.1><color=ffc400>2★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Gold summon Child pool.
+1007	2-3★_Summon Ticket	Summon a <size=1.1><color=ffc400>2★</color></size> to <size=1.1><color=ffc400>3★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Gold summon Child pool.
+1008	3-4★_Summon Ticket	Summon a <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>4★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1101	3★_Summon Ticket	Summon a <size=1.1><color=ffc400>3★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1102	4★_Summon Ticket	Summon a <size=1.1><color=ffc400>4★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1103	5★_Summon Ticket	Summon a <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1201	3-5★ Enha._Summon Ticket	Summon an Enhancement Child.
+1202	1-5★ Enha._Summon Ticket	Summon an Enhancement Child.
+1203	1-3★ Enha._Summon Ticket	Summon an Enhancement Child.
+1204	3★ Enha._Summon Ticket	Summon an Enhancement Child.
+1205	4★ Enha._Summon Ticket	Summon an Enhancement Child.
+1206	5★ Enha._Summon Ticket	Summon an Enhancement Child.
+1400	5★ Water Summon Ticket	Summon \a <size=1.1><color=2287d8>Water Type</color> <color=ffc400>5★ Child</color></size>\from Premium summon Child pool.
+1401	5★ Child Summon Ticket	A 5★ Child Summon Ticket that lets you get either Olga, Syrinx, Eve, or Jupiter.
+1402	5★ Dark Summon Ticket	
+1403	5★ Child Summon Ticket (Event)	5★ Child Summon Ticket that summons one of the following Childs: Myrina, Dana, Maat, or Patheon
+1404	5★ Child Summon Ticket	A 5★ Child Summon Ticket that summons either Hades, Dana, Frej, Medb, or Metis.
+1405	5★ Water Child Summon Ticket	A 5★ Water Child Summon Ticket that lets you get a 5★ Water Child (incl. Dark Buster Lisa)
+1406	5★ Child Summon Ticket	A 5★ Child Summon Ticket that lets you get an Eve, Naias, Mars, or Santa Claus
+1407	5★ Child Summon Ticket	A 5★ Child Summon Ticket that lets you get Maat, Liberated Maat, Chang'e, or Guardian Chang'e.
+1408	5★ Water Child Summon Ticket	A 5★ Child Summon Ticket that lets you get Thanatos, Olga, Eve, Naias, Mars, Rusalka, Chang'e, or Calypso.
+1409	5★ Wood Child Summon Ticket	A Child Summon Ticket that lets you get a Serval, Midas, Abaddon, Mammon, Epona, Syrinx, Siren, or Hera.
+1410	5★ Child Summon Ticket	A Child Summon Ticket that lets you get a Frej, Pantheon, Maat, or Chang'e.
+1411	User's Choice Ticket I	A Summon Ticket that can summon the Top 3 Supporter Childs from the survey.
+1412	User's Choice Ticket II	A Summon Ticket that can summon the Top 3 Debuffer Childs from the survey.
+1413	User's Choice Summon Ticket	A Summon Ticket that can summon the TOP 3 Attackers from Pickup of Your Choice.
+1414	5★ Child Summon Ticket	5★ Child Summon Ticket that summons one of the following Childs: Brownie, Epona, Krampus, or Midas
+1415	User's Choice Ticket IV	A Summon Ticket that can summon the Top 3 Healer Childs from the survey.
+1416	5★ Child Summon Ticket	A 5★ Child Summon Ticket that summons either Mafdet, Bastet, Mars, or Jupiter.
+1417	User's Choice Ticket V	A Summon Ticket that can summon the Top 3 Defender Childs from the survey.\(Dana, Daoine Sidhe, or Mars)
+1418	5★ Child Summon Ticket	A Child Summon Ticket that gets you Chang'e, Pantheon, Metis, or Epona.
+1419	5★ Child Summon Ticket	A Child Summon Ticket that lets you get either Dark Buster Lisa, Eve, Naias, or Sytry.
+1420	5★ Child Summon Ticket	A Child Summon Ticket that gets you Newbie Mona, Chang'e, Bathory, Metis, Archfiend Davi or Morgan.
+1421	5★ Child Summon Ticket	A 5★ Child Summon Ticket that summons either Newbie Mona, Anemone, Dana, or Ruffian Midas.
+1422	5★ Child Summon Ticket	A 5★ Child Summon Ticket that lets you get Ailill, Party Star Medb, Daoine Sidhe, or Sunbeach Mona.
+1423	5★ Child Summon Ticket	A summon ticket that summons a Courtesan Bathory, Transfer Student Eve, Field Pan, or Ruffian Midas.
+1424	5★ Child Summon Ticket	A Summon Ticket that summons a Lady Bathory or Courtesan Bathory.
+1425	5★ Child Summon Ticket	A Summon Ticket that summons a Newbie Mona or Sunbeach Mona.
+1426	5★ Child Summon Ticket	A Summon Ticket that summons a Dark Buster Lisa or Bikini Lisa.
+1427	5★ Child Summon Ticket	A Summon Ticket that summons a Needfire Demeter, Benign Devotion Athena, Holy Nicole, or White Hands Isolde.
+1428	5★ Child Summon Ticket	A Summon Ticket that summons a Starry Astraea, Holy Nicole, Spring Bes, or Info Broker Brownie.
+1429	5★ Child Summon Ticket	A Summon Ticket that summons a Dancing Maiden Werewolf, Moonlight Werewolf, Pallas, or Illusory Durandal.
+1430	5★ Child Summon Ticket	A Summon Ticket that summons a Pure White Pomona, Athena, or Hypocrite Babel.
+1431	5★ Child Summon Ticket	A Summon Ticket that summons a Bridal Hildr, Pure White Pomona, Naive Venus♥, or a Resurrected Frej.
+1432	5★ Child Summon Ticket	A Summon Ticket that summons a Dancing Maiden Werewolf, Sunbeach Mona, Lady Bathory, or Indomitable Jacheongbi.
+1433	5★ Child Summon Ticket	A Summon Ticket that summons an Alchemist Wodan, Bikini Lisa, Newbie Mona or Hard Worker Neptune♥.
+1434	5★ Child Summon Ticket	A Summon Ticket that summons a Self-Deprecating Navi, Pure White Pomona, Hardworking Deino, or Midsummer Anemone.
+1435	5★ Child Summon Ticket	A Summon Ticket that summons a Needfire Demeter, Alchemist Wodan, Spring Bes, or Knight Daphnis.
+1436	5★ Child Summon Ticket	A Summon Ticket that summons a Hypocrite Babel, Resurrected Frej, Bridal Hildr, or Lady Bathory.
+1437	5★ Child Summon Ticket	A Summon Ticket that summons a Christmas Leda,\Runaway Thisbe, or Prophet Dana.
+1438	5★ Child Summon Ticket	A Summon Ticket that summons a Mysterious Student Eve, White Hands Isolde, Guiding Rita, or Nine-Tailed Fox Tamamo.
+1439	5★ Child Summon Ticket	A Summon Ticket that summons a Flower of Justice Mafdet or Righteous Mafdet.
+1440	5★ Child Summon Ticket	A Summon Ticket that summons a Dancing Maiden Werewolf or Moonlight Werewolf.
+1441	5★ Child Summon Ticket	A Summon Ticket that summons a Self-Deprecating Navi, Dancer Salome, Knight Daphnis, or Sunbeach Mona.
+1442	5★ Child Summon Ticket	A Summon Ticket that summons a Hungry Limos, Courtesan Bathory, Athena, or Pure White Pomona.
+1443	DOAXVV Summon Ticket	A Summon Ticket that summons a Kasumi, Honoka, Marie Rose, Ayane, or Leifang.
+1444	5★ Child Summon Ticket	A Summon Ticket that summons a Love & Hate Davi, Proud Failnaught, Naive Venus♥, or Lady Bathory.
+1445	5★ Child Summon Ticket	A Summon Ticket that summons a Risk Taker Annie, Rider Kubaba, Gunner Billy, or Needfire Demeter.
+1446	5★ Child Summon Ticket	A Summon Ticket that summons a School Swimsuit Davi, Dancing Maiden Werewolf, Hypocrite Babel, or Flower of Justice Mafdet.
+1447	5★ Child Summon Ticket	A Summon Ticket that summons an Indomitable Jacheongbi, Midsummer Anemone, Newbie Mona, or Dark Buster Lisa.
+1448	5★ Child Summon Ticket	A Summon Ticket that summons a Hard Worker Deino, Hard Worker Neptune♥, Pure White Pomona, or Pallas.
+1449	5★ Child Summon Ticket	A Summon Ticket that summons an Mysterious Student Eve, White Hands Isolde, Guiding Rita, or Cube Moa.
+1450	5★ Child Summon Ticket	A Summon Ticket that summons a Demon Princess Keino, Athena, Romantic Iphis, or Altered Davi.
+1451	3-5★ Christmas Event Summon Ticket	A Summon Ticket that summons a Memorable Santa Claus, Deceptive Krampus, Holy Nicole, Uninvited Rudolph, Silent Fairy, or Good Kid's Gift Bag.
+1452	5★ Child Summon Ticket	A Summon Ticket that summons a Sweet Sytry, Resurrected Frej, Crescent Luna, or Self-Deprecating Navi.
+1453	5★ Child Summon Ticket	A Summon Ticket that summons a Peaceful Ziva, Dreamer Saturn♥, Naive Venus♥, or Pure White Pomona.
+1454	5★ Child Summon Ticket	A Summon Ticket that summons a Lady Bathory, Runaway Thisbe, Hungry Limos, or Gunner Billy.
+1455	5★ Child Summon Ticket	A Summon Ticket that summons a Dancing Maiden Werewolf, Party Star Medb, Cynical Tyrfing, or Small Daoine Sidhe.
+1456	5★ Child Summon Ticket	A Summon Ticket that summons a Newbie Mona, Sunny Chang'e, Starry Astraea, or Prophet Dana.
+1457	5★ Child Summon Ticket	A Summon Ticket that summons a Risk Taker Annie, Alchemist Wodan, Bikini Lisa, or Hard Worker Neptune♥.
+1458	5★ Child Summon Ticket	A Summon Ticket that summons a Courtesan Bathory, Dancer Salome, Glamorous Brigid, or Preacher Dana.
+1459	5★ Child Summon Ticket	A Summon Ticket that summons an Exorcist Nirrti, White Hands Isolde, One Sword Tiamat, or Dreamer Saturn♥.
+1460	5★ Child Summon Ticket	A Summon Ticket that summons a Kind Leo, Hardworking Deino, School Swimsuit Davi, or Runaway Thisbe.
+1461	5★ Child Summon Ticket	A Summon Ticket that summons a Hungry Limos, Gunner Billy, Skiing Eshu or Newbie Mona.
+1462	5★ Child Summon Ticket	A Summon Ticket that summons a Knight Daphnis, Dazzling Venus♥, Hypocrite Babel or Lady Bathory.
+1463	5★ Child Summon Ticket	A Summon Ticket that summons an Anxious Serket, Shining Mars♥, Field Pan or Grieving Banshee.
+1464	5★ Child Summon Ticket	A Summon Ticket that summons a Flower of Justice Mafdet, Courtesan Bathory, Peaceful Ziva, or Temptress Heket.
+1465	5★ Child Summon Ticket	A Summon Ticket that summons a Nine-Tailed Fox Tamamo, Altered Davi, Hard Worker Neptune♥, or Christmas Leda.
+1466	5★ Child Summon Ticket	A Summon Ticket that summons a Moonlight Werewolf, Hard Worker Neptune♥, Aimless Pantheon or Runaway Thisbe.
+1467	5★ Child Summon Ticket	A Summon Ticket that summons a Ice Blade Ymir, Sparkling Neptune♥, Pure White Pomona or Cute Euros.
+1468	5★ Child Summon Ticket	A Summon Ticket that summons a Dancing Maiden Werewolf, Lady Bathory, Dawn Saturn♥, or Sunbeach Mona.
+1469	5★ Child Summon Ticket	A Summon Ticket that summons a Dreamer Saturn♥, Exorcist Cain, Sunny Chang'e, or Newbie Mona.
+1470	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1471	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1472	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1473	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1474	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1475	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1476	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1477	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1478	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1479	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1480	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1481	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1482	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1483	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1484	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1485	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1486	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1487	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1488	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1489	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1490	5★ Attacker Guaranteed Summon Ticket	Summon\an <size=1.1><color=ff0000>Attacker Type</color><color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Crossover Childs not included.)</color>
+1491	5★ Defender Guaranteed Summon Ticket	Summon\a <size=1.1><color=ff0000>Defender Type</color><color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Crossover Childs not included.)</color>
+1492	5★ Healer Guaranteed Summon Ticket	Summon\a <size=1.1><color=ff0000>Healer Type</color><color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Crossover Childs not included.)</color>
+1493	5★ Debuffer Guaranteed Summon Ticket	Summon\a <size=1.1><color=ff0000>Debuffer Type</color><color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Crossover Childs not included.)</color>
+1494	5★ Supporter Guaranteed Summon Ticket	Summon\a <size=1.1><color=ff0000>Supporter Type </color><color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Crossover Childs not included.)</color>
+1495	5★ Water Type Summon Ticket	Summon a <size=1.1><color=ff0000>Water Type</color> <color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1496	5★ Fire Type Summon Ticket	Summon a <size=1.1><color=ff0000>Fire Type</color> <color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1497	5★ Wood Type Summon Ticket	Summon a <size=1.1><color=ff0000>Wood Type</color> <color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1498	5★ Light Type Summon Ticket	Summon a <size=1.1><color=ff0000>Light Type</color> <color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1499	5★ Dark Type Summon Ticket	Summon a <size=1.1><color=ff0000>Dark Type</color> <color=ffc400>5★ Child</color></size>.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1500	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1501	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1502	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1503	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1504	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1505	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1506	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1507	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1508	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1509	5★ Child Summon Ticket	Summon a <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1510	5★ Child Summon Ticket	Summon a <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Premium summon Child pool.
+1511	WB Best 5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1512	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1513	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1514	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1515	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1516	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1517	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1518	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1519	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1520	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1521	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1522	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1523	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1524	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1525	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1526	Ad Reward Ticket	Summon a <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size>\from Ad Reward Child pool.
+1527	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1528	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1529	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1530	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1531	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1532	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1533	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1534	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1535	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1536	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1537	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1538	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1539	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1540	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1541	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1542	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1543	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1544	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1545	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1546	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1547	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1548	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1549	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1550	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1551	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1552	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1553	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1554	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1555	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1556	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1557	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1558	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1559	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1560	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1561	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1562	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1563	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1564	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1565	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1566	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1567	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1568	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1569	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1570	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1571	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1572	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1573	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1574	Busters Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1575	Busters Child Summon Ticket I	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1576	Busters Child Summon Ticket II	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1577	5★ Child Summon Ticket	Summon one 5★ Child.\Tap the button below to check the available Childs.
+1801	3-5★ 10x Summon Ticket	Summon\a <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times\from Premium summon Child pool.
+1811	3-5★ Water Child 10x Summon Ticket	Summon a <size=1.1><color=ff0000>Water Type</color> <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1812	3-5★ Fire Child 10x Summon Ticket	Summon a <size=1.1><color=ff0000>Fire Type</color> <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1813	3-5★ Wood Child 10x Summon Ticket	Summon a <size=1.1><color=ff0000>Wood Type</color> <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1814	3-5★ Light Child 10x Summon Ticket	Summon a <size=1.1><color=ff0000>Light Type</color> <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1815	3-5★ Dark Child 10x Summon Ticket	Summon a <size=1.1><color=ff0000>Dark Type</color> <size=1.1><color=ffc400>3★</color></size> to <size=1.1><color=ffc400>5★</color></size> <size=1.1><color=ffff33><b>Child</b></color></size> 10 times.\<color=ffff00>(Contains new Childs after every maintenance period, updating the summoning pool. Does not include collaboration Childs.)</color>
+1901	2018 Lucky Bag with 5★ Summon Ticket	This ticket can summon a <size=1.1><color=ffc400>5★ Child</color></size>\the same as those available in the 2018 Lucky Bag lineup.
+1902	2018 Lucky Bag with 4-5★ Summon Ticket	This ticket can summon a <size=1.1><color=ffc400>4-5★ Child</color></size>\the same as those available in the 2018 Lucky Bag lineup.
+1911	AF Limited 5★ Water Summon Ticket	Summon\a <size=1.1><color=2287d8>Water Type</color> <color=ffc400>5★ Child</color></size>.
+1912	5★ Fire Summon Ticket	Summon\a <size=1.1><color=ff0000>Fire Type</color> <color=ffc400>5★ Child</color></size>.
+1913	5★ Wood Summon Ticket	Summon\a <size=1.1><color=60ff00>Wood Type</color> <color=ffc400>5★ Child</color></size>.
+1914	WD Limited 5★ Light Summon Ticket	Summon\a <size=1.1><color=ffc400>Light Type</color> <color=ffc400>5★ Child</color></size>.
+1915	5★ Dark Summon Ticket	Summon\a <size=1.1><color=c32beb>Dark Type</color> <color=ffc400>5★ Child</color></size>.
+1916	5★ Water Summon Ticket	Summon\a <size=1.1><color=2287d8>Water Type</color> <color=ffc400>5★ Child</color></size>.
+1917	5★ Fire Summon Ticket	Summon\a <size=1.1><color=ff0000>Fire Type</color> <color=ffc400>5★ Child</color></size>.
+1918	5★ Wood Summon Ticket	Summon\a <size=1.1><color=60ff00>Wood Type</color> <color=ffc400>5★ Child</color></size>.
+1919	5★ Light Summon Ticket	Summon\a <size=1.1><color=ffc400>Light Type</color> <color=ffc400>5★ Child</color></size>.
+1920	5★ Dark Summon Ticket	Summon\a <size=1.1><color=c32beb>Dark Type</color> <color=ffc400>5★ Child</color></size>.
+1921	5★ Attacker Summon Ticket	Summon\an <size=1.1><color=ffc400>Attacker</color> <color=ffc400>5★ Child</color></size>.
+1922	5★ Defender Summon Ticket	Summon\a <size=1.1><color=ffc400>Defender</color> <color=ffc400>5★ Child</color></size>.
+1923	5★ Healer Summon Ticket	Summon\a <size=1.1><color=ffc400>Healer</color> <color=ffc400>5★ Child</color></size>.
+1924	5★ Debuffer Summon Ticket	Summon\a <size=1.1><color=ffc400>Debuffer</color> <color=ffc400>5★ Child</color></size>.
+1925	5★ Supporter Summon Ticket	Summon\a <size=1.1><color=ffc400>Supporter</color> <color=ffc400>5★ Child</color></size>.
+1926	5★ Attacker Summon Ticket	Summon\an <size=1.1><color=ffc400>Attacker</color> <color=ffc400>5★ Child</color></size>.
+1927	5★ Defender Summon Ticket	Summon\a <size=1.1><color=ffc400>Defender</color> <color=ffc400>5★ Child</color></size>.
+1928	5★ Healer Summon Ticket	Summon\a <size=1.1><color=ffc400>Healer</color> <color=ffc400>5★ Child</color></size>.
+1929	5★ Debuffer Summon Ticket	Summon\a <size=1.1><color=ffc400>Debuffer</color> <color=ffc400>5★ Child</color></size>.
+1930	5★ Supporter Summon Ticket	Summon\a <size=1.1><color=ffc400>Supporter</color> <color=ffc400>5★ Child</color></size>.
+2101	3-5★ Acc. Ticket	Earn Accessories.
+2102	2-5★ Acc. Ticket	Earn Accessories.
+2103	4-5★ Acc. Ticket	Earn Accessories.
+2104	1-3★ Acc. Ticket	Earn Accessories.
+2105	2-3★ Acc. Ticket	Earn Accessories.
+2106	5★ Acc. Ticket	Earn Accessories.
+2107	5★ Grade A_Acc. Ticket	Earn Accessories.
+2201	3-5★ Equip. Ticket	Earn a piece of random equipment.
+2202	2-5★ Equip. Ticket	Earn a piece of random equipment.
+2203	4-5★ Equip. Ticket	Earn a piece of random equipment.
+2204	1-3★ Equip. Ticket	Earn a piece of random equipment.
+2205	2-3★ Equip. Ticket	Earn a piece of random equipment.
+2206	5★ Equip. Ticket	Earn a piece of random equipment.
+2207	5★ Grade A_Equip. Ticket	Earn a piece of random equipment.
+2301	5★ Weapon Ticket	Earn weapons.
+2302	5★ Grade A_Weapon Ticket	Earn weapons.
+2303	5★ Grade A_Weapon Ticket	Earn a random 5★ Grade A weapon.
+2401	5★ Armor Ticket	Earn armor.
+2402	5★ Grade A_Armor Ticket	Earn armor.
+2403	5★ Grade A_Armor Ticket	Earn a random 5★ Grade A armor.
+2501	3-5★ Soul Carta Ticket	Summons 1 Soul Carta.
+2502	4-5★ Soul Carta Ticket	Summons 1 Soul Carta.
+2503	5★ Soul Carta Ticket	Summons 1 Soul Carta.
+2504	3-4★ Soul Carta Ticket	Summons 1 Soul Carta.
+2505	5★ Prism Soul Carta Ticket	Summons 1 Soul Carta.
+2600	DOA 3-5★ Soul Carta Ticket	Summons a 3-5★ DOA crossover Soul Carta.
+2601	DOA 4-5★ Soul Carta Ticket	Summons a 4-5★ DOA crossover Soul Carta.
+2602	5★ BLAZBLUE Soul Carta Ticket	A Summon Ticket that gets you a Central Fiction or Best Friend Trio.
+2603	Alchemist Equipment Summon Ticket	Summon Ticket that lets you summon either a Quintessential Flask, Alchemist's Gloves, or Alchemy Kit. (Rank A-C)
+2604	Best Equipment Pickup Summon Ticket	Summon Ticket that lets you summon either a Quintessential Flask, Alchemist's Gloves, Alchemy Kit, Passionate Mic, Enamel Suit, or a Hi-Res Headphones. (A-C rank)
+2605	Bari's Equipment Summon Ticket	A Summon Ticket that summons Bari's Folding Fan, Bari's Shawl, or Bari's Talisman of Solace. (A–C class)
+2606	Best Equipment Pickup Summon Ticket (A-C Rank)	Summon Ticket that lets you summon either a Quintessential Flask, Alchemist's Gloves, Alchemy Kit, Passionate Mic, Enamel Suit, Hi-Res Headphones, Bari's Folding Fan, Bari's Shawl, or Bari's Talisman of Solace. (A-C rank)
+2607	3★ Equipment Summon Ticket	Earn a piece of random equipment.
+2608	4★ Equipment Summon Ticket	Earn a piece of random equipment.
+2609	3★ Soul Carta Summon Ticket	Summons 1 Soul Carta.
+2610	4★ Soul Carta Summon Ticket	Summons 1 Soul Carta.
+2611	4★ Equipment Summon Ticket(A~B)	Earn a piece of random equipment.
+2612	3★ Equipment Summon Ticket(A~B)	Earn a piece of random equipment.
+2701	Legendary_Puppet Summon Ticket	Summons 1 Legendary puppet.\Tap the following button to check the available puppets.
+2702	Epic_Puppet Summon Ticket	Summons 1 Epic puppet.\Tap the following button to check the available puppets.
+2703	Rare_Puppet Summon Ticket	Summons 1 Rare puppet.\Tap the following button to check the available puppets.
+2704	Uncommon_Puppet Summon Ticket	Summons 1 Uncommon puppet.\Tap the following button to check the available puppets.
+2705	Common_Puppet Summon Ticket	Summons 1 Common puppet.\Tap the following button to check the available puppets.
+2706	Premium_Puppet Summon Ticket	Randomly summons 1 puppet.\Tap the following button to check the available puppets.
+2707	Puppet Summon Ticket	Randomly summons 1 puppet.\Tap the following button to check the available puppets.
+2708	Brand New Puppet Summon Ticket	Randomly summons 1 puppet.\Tap the following button to check the available puppets.
+2901	+1 Refining Orb Box	One +1 refining orb for weapons, armor, or accessories can be earned.
+2903	+3 Refining Orb Box	One +3 refining orb for weapons, armor, or accessories can be earned.
+2905	+5 Refining Orb Box	One +5 refining orb for weapons, armor, or accessories can be earned.
+2910	+10 Refining Orb Box	One +10 refining orb for weapons, armor, or accessories can be earned.

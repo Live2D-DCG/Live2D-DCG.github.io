@@ -1,0 +1,566 @@
+﻿// key	SCENARIO_SPEAKER_
+ A COUNCIL ELDER	ผู้อาวุโสสภา
+A COUNCIL ELDER	ผู้อาวุโสสภา
+A.I	A.I
+A_COUNCIL_CHAIRMAN	ประธานสภา
+AARON	อารอน
+ABADDON_CONTRACTOR	มากิโกะ มานิวดะ
+ABIGAIL_CHAIRMAN	ประธานอบิเกล
+ACCRASIA	อะคราเซีย
+AILILL	แอลลี่
+AKIMAGO	อาร์คิมาโก
+ALTERED DAVI	ดาบิที่ผ่านการดัดแปลงมาแล้ว
+AMBROSIA_CONTRACTOR	ซาโตะ ชิโอริ
+ANCHOR	โฮสต์
+ANEMONE	แอนิโมน
+ANNIE	แอนนี่
+ANNOUNCE	ประกาศในโรงเรียน
+ANNOUNCER	ผู้ประกาศ
+APOLLO_CONTRACTOR	เทชิกาวาระ มาซาโตะ
+AQU CUBE	อีวิลคิวบ์
+ARAHANT	พระอรหันต์
+ARAHANT_FRIEND	เพื่อนของพระอรหันต์
+ARGOS	อาร์กอส
+ARIA	อาเรีย
+ARTEMISIA_CONTRACTOR	คุรุมิกาวะ คุรุมิ
+ASHRAM_TEACHER	อาจารย์แห่งอาศรม
+ATALANTE_CONTRACTOR	สึชิดะ ซาชิกะ
+ATTIS	แอททิส
+ATUM_CONTRACTOR	คุโรอิ อากิระ
+AUDIENCE1	ผู้ชม 1
+AUDIENCE2	ผู้ชม 2
+AUDIENCES	ผู้ชม
+AURORA	ออโรร่า
+AYANE	อายาเนะ
+BAAL_CONTRACTOR	กอนดะ โทจิ
+BABEL	บาเบล
+BABY	ทารก
+BAKER	ผู้จัดการคาเฟ่
+BARI	บาริ
+BARI_CONTRACTOR	ซุซุกิ รินโกะ
+BARI_CONTRACTOR_MOM	แม่ของซุซุกิ รินโกะ
+BAST	บาสต์วัยละอ่อน
+BATORY	บาโทรี
+BELIEVER_0	สาวก
+BELIEVER_1	สาวก
+BELIEVER1	สาวก 1
+BELIEVER2	สาวก 2
+BELIEVER3	สาวก 3
+BERDLE	เวอร์เดล
+BERITH_CONTRACTOR	ฮาราชินาอิ มิกิโอะ
+BERMONT	แกรนด์ดยุกเวอร์มอนต์
+BETH	เบธ
+BILLY	บิลลี่
+BIRD	นก
+BOAR	หมูป่า
+BOREAS	บอเรส
+BOREAS_CONTRACTOR	คิทาซาโตะ ฟูกะ
+BOSS	ผู้จัดการ
+BOY	เด็กชาย
+BOY_CONTRACTOR	ผู้ทำพันธสัญญาวัยเยาว์
+BRADAMANTE_CONTRACTOR	เคนซากิ คาเรน
+BRADAMANTE_CONTRACTOR_DAD	พ่อของเคนซากิ คาเรน
+BROTHER_LAWRENCE	บาทหลวงลอเรนซ์
+BUDDHIST	นักบวช
+BUDLE	วิลโลว์ ดอร์ยัง
+BURIED DAVI	ดาบิที่น่ารักและน่าชัง
+BUTLER	พ่อบ้าน
+CACA	คาเซีย
+CACUS	คาคัส
+CADUCEUS	คาดูเซอุส
+CAFE_MANAGER	ผู้จัดการคาเฟ่
+CAIN	เคน
+CAIT SITH	แคตสิ
+CAIT SITH	แคตสิ
+CAROL'S FATHER	พ่อของแครอล
+CAT	แมว
+CATERPILLAR	หนอนผีเสื้อ
+CELEBRANT	บาทหลวง
+CELICA	เซลิกา
+CHANCELLOR	ประธานมหาวิทยาลัย
+CHANDRAGHANTA	แชนดรา
+CHEF	เชฟ
+CHESHIRE CAT	แมวเชชเชอร์
+CHICK	ลูกไก่
+CHIEF_NIS	หัวหน้าความปลอดภัยสาธารณะ
+CHIEF_SECRETARY	หัวหน้าเลขานุการบริหาร
+CHIEF_SONG	ประธานโคโนอิเกะ
+CHILD	ไชลด์
+CHILD_OF_FUTURE	ไชลด์ในอนาคต
+CHILD_OF_PAST	ไชลด์ในอดีต
+CHILD_OF_PRESENT	ไชลด์ในปัจจุบัน
+CHILDA	ไชลด์ เอ
+CHILDB	ไชลด์ B
+CHUCHU	ชู่ชู่
+CINTAMANI	จินตมณี
+CLARA	คลารา
+CLASSMATE	เพื่อนร่วมชั้น
+CLASSMATE1	เพื่อนร่วมชั้น 1
+CLASSMATE2	เพื่อนร่วมชั้น 2
+CLASSOFCULTURE_GROUP	ห้องแชทกลุ่มเรียนวัฒนธรรม
+CLERK	พนักงาน
+CLERK1	พนักงาน 1
+CLERK2	พนักงาน 2
+CLOSET	ตู้เสื้อผ้า
+CLUB_GUARD	ยามเฝ้า
+COACH	โค้ช
+COMMANDER	ผู้บัญชาการ
+COMMENT	ความเห็น
+COMMENTATOR	ผู้บรรยาย
+CONTRACTOR	ผู้ทำพันธสัญญา
+CONVENIENCESTOREOWNER	ผู้จัดการร้านค้า
+COOKIEMONA	คุกกี้โมนา
+COOLGIRL	สาวมั่น
+CORONA MONA	โมนาลำแสง
+CO-WORKER1	ผู้ร่วมงาน 1
+CO-WORKER2	ผู้ร่วมงาน 2
+CROCELL	โครเซลล์
+CU SITH	ลาซิ
+CURE CUBE	เคียวร์คิวบ์
+DAVI	ดาบิ
+DEANOFSTUDENTS	คณบดีนักศึกษา
+DEBORAH	เดโบราห์
+DEMETER	ดีมีเทอร์
+DEMETER_CONTRACTOR	มาริกะ ทากานาชิ
+DEMON FOLLOWERA	ผู้บูชาปีศาจ A
+DEMON FOLLOWERB	ผู้บูชาปีศาจ B
+DEMON_FOLLOWER	ผู้บูชาปีศาจ
+DEMON_FOLLOWER1	ผู้บูชาปีศาจ 1
+DEMON_FOLLOWER2	ผู้บูชาปีศาจ 2
+DEMONA	ปีศาจอันธพาล เอ
+DEMONB	ปีศาจอันธพาล บี
+DEMONC	ปีศาจอันธพาล ซี
+DETECTIVE_GIRL_CONTRACTOR	ซาราห์ เจ
+DETECTIVE1	นักสืบ 1
+DETECTIVE2	นักสืบ 2
+DEUCALION	ดูเคเลียน
+DEUCALION_SOUL	วิญญาณของดูเคเลียน
+DEVIL	ปีศาจ
+DEVIL1	ปีศาจ A
+DEVIL2	ปีศาจ B
+DEVIL3	ปิศาจ C
+DEVIL4	ปีศาจ D
+DOCTOR	คุณหมอ
+DOCTOR_HELLSING	ด็อกเตอร์เฮลซิง
+DOG	หมา
+DOGYEHWA	โตะ เคตะ
+DOKHAN	เดียวดาย
+DORMOUSE	ดอร์เมาส์
+DRIVER	คนขับรถ
+DRUNKEN PERSON1	ผู้อุปถัมภ์ขี้เมา 1
+DRUNKEN PERSON2	ผู้อุปถัมภ์ขี้เมา 2
+DRYAD_CONTRACTOR	คายาโมริ คาเอเดะ
+DUETSHA	ดูเอทชา
+DURENDAL	ดูรันดัล
+ELISABET	ฮานาโซโนะ ซาโยโกะ
+ELLE	มิยู โทริอิ
+ELVE_CONTRACTOR	อินาซุมะ มิโฮะ
+ELYSION	อีไลเซียม
+EMPEROR	จักรพรรดิ
+ENEMY SOLDIER	ทหารศัตรู
+ENKIDU	เอ็นคิดู
+ERISIKTON	อีริซิกธอน ไชลด์ที่เกิดจากความปรารถนาอันมากเกินควรของผู้ทำพันธสัญญา\ผู้ตกอยู่ในวิกฤต\เธอมีการรับรู้รสที่เฉียบแหลม สะท้อนถึงความปรารถนาที่เหมือนเด็กๆ ที่อยากจะสวาปามของหวานเข้าไป\แม้ว่าเธอจะรักของหวานมากก็ตาม แต่ก็ทำของหวานไม่เก่งเลย\ทุกครั้งที่เธอพยายาม--และล้มเหลว--\เหล่าซัคคิวบัสจะยุ่งอยู่กับการทำความสะอาดครัวที่เธอทำเลอะเทอะ\เมื่อสูตรอาหารของเธอมีจำนวนเพิ่มมากขึ้น\รอยเหี่ยวย่นของเหล่าซัคคิวบัสก็เพิ่มขึ้นไปด้วยเช่นกัน
+ESHU	เอชู
+EURUS	ยูรอส
+EURYDICE	ยูไรดิซ
+EVE	อีฟ
+EVE_FATHER	บิดาของอีฟ
+EXORCIST	เอ็กโซซิสต์
+EXORCIST_A	เอ็กโซซิสต์ A
+EXORCIST_B	เอ็กโซซิสต์ B
+EXORCIST_C	เอ็กโซซิสต์ C
+EXORCIST_INTERNATION	เอ็กโซซิสต์แห่งสำนักงานใหญ่นานาชาติ
+EXORCIST_INTERNATIONAL	สำนักงานใหญ่นานาชาติเอ็กโซซิสต์
+EXORCIST_NORTH AMERICA	เอ็กโซซิสต์สาขาอเมริกาเหนือ
+EXORCIST1	เอ็กโซซิสต์ 1
+EXORCIST2	เอ็กโซซิสต์ 2
+FABULOUS'S FAN A	แฟน A
+FABULOUS'S FANS	แฟน
+FANA	ผู้สังเกตการณ์ เอ
+FANATIC BOSS	บอสผู้คลั่งในศาสนา
+FANATICA	ผู้คลั่งในศาสนา A
+FANATICB	ผู้คลั่งในศาสนา B
+FANATICC	ผู้คลั่งในศาสนา C
+FANATICD	ผู้คลั่งในศาสนา D
+FANATICS	พวกผู้คลั่งในศาสนา
+FANB	ผู้สังเกตการณ์ บี
+FANC	ผู้ชม C
+FANS	ผู้ชม
+FATHER	คุณพ่อ
+FLINS	ฟลินส์
+FORMER_KEFRI	คุณครูเคปรี
+FREYJA	เฟรยา
+FREYR	เฟรย์
+FRIENDS	เพื่อน
+FRUITSHOP_SHOPKEEPER	เจ้าของร้านผลไม้
+FURY_MEMBER_1	สมาชิกฟิวรี 1
+FURY_MEMBER_2	สมาชิกฟิวรี 2
+FURY_MEMBER_3	สมาชิกฟิวรี 3
+FURY_MEMBER_4	สมาชิกฟิวรี 4
+FURY_MEMBER_GROUP	สมาชิกฟิวรี
+GAIN	ซอนกาอิน
+GAME_STREAMER	สตรีมเมอร์เกม
+GENTLEMAN	สุภาพบุรุษ
+GEST	ลูกค้า
+GEST1	ลูกค้า 1
+GEST2	ลูกค้า 2
+GESTA	แขก A
+GESTB	แขก B
+GESTC	แขก C
+GILGAMESH	กิลกาเมช
+GIRL	เด็กหญิง
+GIRL A	เด็กสาว เอ
+GIRL_CONTRACTOR	ผู้ทำพันธสัญญาเด็กหญิง
+GIRL1	เด็กหญิงลึกลับ
+GIRLA	เด็กสาว เอ
+GIRLB	เด็กสาว บี
+GOHYUNHUI	โคตาโระ คุโรทัตสึ
+GOLDAENGI	หมารีทรีฟเวอร์
+GOLDAENGI OWNER	เจ้าของหมารีทรีฟเวอร์
+GOOD_MOA	โมอาผู้เมตตา
+GRANNY	คุณยาย
+GROUP_MEMBER	เพื่อนร่วมทีม
+GRYLA	กริลลา
+GUARD	ยามรักษาความปลอดภัย
+HANA_MOM	แม่ของฮานะ โคโนอิเกะ
+HANMARI	โอชิตะ อิจิทากะ
+HATOR	ฮาธอร์
+HEENA	ฮินะ
+HEKET	เฮเคท
+HELLA	เฮล
+HENCHMAN	ลูกน้อง
+HENCHMAN_MIRIAM	ผู้ติดตามของมีเรียม
+HENGE	โคกะ
+HEPHAISTOS	เฮฟเฟตัส
+HERO	นายน้อย
+HIGHPRIEST	พระชั้นสูง
+HILD	ฮิลด์
+HILDR_CONTRACTOR	คาราชิกิ เรอิ
+HOMELESS	คนจรจัด
+HONEY CUBE	ฮันนี่คิวบ์
+HONGRYEON_CONTRACTOR	ฮานะ โคโนอิเกะ
+HORN	คนใจร้อนอารมณ์บูด
+HOST	เจ้าของ
+HUMAN	มนุษย์
+HYDRA	ไฮดร้า
+HYENANG	เคอิโนะ
+HYUNSOOHO	เซนโกกุ เซจิ
+INFECTED_REPORTER	นักข่าวที่ติดเชื้อ
+IPHIS	อิฟิส
+ISHIMI	อิชิมิ
+ISOLDE	อิโซลด์
+ITEM1	ไม้แห่งความยุติธรรม
+ITEM2	ตัวเปลี่ยนเสียง
+JACHUNGBI	จาชองบี
+JENNY	เซนี่
+JIVA	ซิว่า
+JOANNA	โยฮันนา
+JOHN	จอห์น
+JUDAH	จูดาส
+JUDGE	ผู้พิพากษา
+JULIET	จูเลียต
+JUNGNAM	จังนัม
+JUPITER_CONTRACTOR	มาซาจูโร่ โฮชิซากิ
+KAALARATRI	กาลราตรี
+KALCHAS	คาลคัส
+KALHOS	คาลโฮส
+KAMYU	คามิเนอ
+KANALOA	คานาโลอา
+KASUMI	คาซูมิ
+KID	เด็กน้อย
+KID1	คนไม่สำคัญ 1
+KID2	คนไม่สำคัญ 2
+KKUNGI	คุนงี
+KLOTHO	โคลโธ
+KUBABA	คุบาบา
+KUBERA	กุเบร่า
+KUMARI	กุมารี
+KUMARI_PRIEST	กุมารีนักบวช
+KUMIHO	ทามาโมะ
+LADY	สุภาพสตรี
+LAIMA	ไลมา
+LANCELOT	ลานเซลอต
+LANDLORD	เจ้าของบ้าน
+LAUFEY	ลอเฟย์
+LAURA	ลอร่า
+LEAVEAMESAAGE	โน้ตข้อความ
+LEDA	เลด้า
+LEIFANG	เล่ยฟาง
+LEO	เลโอ
+LETTER	จดหมาย
+LITTLE PATIENT	ผู้ป่วยเด็ก
+LITTLE_MARI	เจ้าหนูโอชิตะ อิจิทากะ
+LOGAN	โลแกน
+LOKI	โลกิ
+LUCIFERO	ลูซิเฟอโร
+LUIN_DURANDAL	รูอิน ดูรันดัล
+LUNO	จูโน
+LYDIA	ลิเดีย
+MAD HATTER	แฮตเตอร์
+MAESTRO	มาเอสโทร
+MAFDET	แมฟเดท
+MAGNUS_MERLIN	เมอร์ลิน จอมขมังเวทผู้ยิ่งใหญ่
+MAMA	แม่จ๋า
+MAN	ผู้ชาย
+MAN_CONTRACTOR	ผู้ทำพันธสัญญาชายหนุ่ม
+MAN_EXORCIST	เอ็กโซซิสต์ชาย
+MAN1	ผู้ชาย 1
+MAN2	ผู้ชาย 2
+MANA	ผู้ชาย 1
+MANAGER	ผู้จัดการ
+MANB	ผู้ชาย 2
+MARCH HARE	มาร์ชแฮร์
+MARDUK	มาร์ดุค
+MARDUK_CHILD	ไชลด์ของมาร์ดุค
+MARI_GRANDPA	คุณปู่ของโอชิตะ อิจิทากะ
+MARINLEGEND	โอชิตะ อิจิทากะและลีเจนด์
+MARS	มาร์ส♥
+MAUPIN	มอปิน
+MAUPIN_CONTRACTOR	ทาจิบานะ คิโยมิ
+MAUPIN_CONTRACTOR_MOM	แม่ของทาจิบานะ คิโยมิ
+MAWANG	ราชาปีศาจ
+MAYAUEL	มายาฮวล
+MAYBE_CONTRACTOR	ผู้ทำพันธสัญญา (?)
+MC	MC
+MEDIA_INTERVIEW	วิดีโอสัมภาษณ์
+MEI	เหมยจากเมืองน้ำพุร้อน
+MEN_GEST	แขกผู้ชาย
+MERCURY	เมอร์คิวรี
+MESSIER_CONTRACTOR	โฮชิคาวะ คิราระ
+METHUSELAH	เมธูเซลาห์
+METIS	เมทิส
+METIS_CONTRACTOR	อะมามิยะ ชิเอะ
+METIS_CONTRACTOR_DAD	พ่อของอะมามิยะ ชิเอะ
+METIS_CONTRACTOR_MOM	แม่ของอะมามิยะ ชิเอะ
+MINA	มีนา
+MIRCALLA	มาร์คาลา
+MIRIAM	มีเรียม
+MITRA	มิตรา
+MOMMY	แม่
+MONA	โมนา
+MONA1	โมนาผู้ดูแล
+MONA2	โมนาบรรพบุรุษ
+MONKEY	หงอคง
+MONSTER	มอนสเตอร์
+MORGAN	มอร์แกน
+NABI	ตัวจิ๋ว
+NAGISA	เธอิสะ
+NARBI437	นาร์วิ 437
+NARBI438	นาร์วิ 438
+NARBI439	นาร์วิ 439
+NEAMHAIN	นีมเฮน
+NEIGHBORHOOD DOG	หมาแถวบ้าน
+NEIGHBORHOOD_GRANDAD	คุณปู่
+NEOUTUBE_COMMENT	ความเห็น
+NEPHTHYS	เนฟทีส
+NEPHTHYS_CONTRACTOR	สึโบคุระ สึมิกิ
+NEPTUNE	เนปจูน♥
+NERVOUSGIRL	สาวขี้กังวล
+NEWSFLASH	ข่าวด่วน
+NEZHA	นาจา
+NICKNAME	ชื่อเล่นผู้ใช้
+NICOLE	นิโคล
+NICOLE_FATHER	พ่อของนิโคล
+NIRRTI	เนอร์ติ
+NONAME_MOA	โมอาผู้ไร้นาม
+NOTUS	โนตุส
+NOTUS_CONTRACTOR	มินาโอกะ ซายากะ
+NUN	แม่ชี
+NUN1	แม่ชี 1
+NUN2	แม่ชี 2
+NURSE	พยาบาล
+NURSE_01	พยาบาล
+NURSE_NEAMHAIN	แม่นม
+OD	โอด
+ODYSSEUS	โอดีสซีย์
+OPHOIS	โอโฟอิส
+OPHOIS_CONTRACTOR	ดูโอ วีรา
+ORCUS	ออร์คัส
+OWNER_OF_STRIGOY	เจ้าของสตรีโกย
+PAKHET	พาคเฮ็ต
+PAL	เพื่อน
+PALENOTE	เฟลนอท
+PANTHEON_CONTRACTOR	นิชิยามะ ฮิโรยูกิ
+PAPA	แดดดี้
+PARK_MANAGER	ผู้จัดการสวน
+PART TIME RUDOLF	รูดอล์ฟพนักงานพาร์ทไทม์
+PARTICIPANTA	ผู้เข้าร่วม A
+PARTICIPANTB	ผู้เข้าร่วม B
+PARTNER	เพื่อนฝูง
+PART-TIMER	พนักงานพาร์ทไทม์
+PASSERSBY1	คนแถวนั้น 1
+PASSERSBY2	คนแถวนั้น 2
+PASSERSBY3	คนแถวนั้น 3
+PASSERSBY4	คนแถวนั้น 4
+PEOPLE	คนเมือง
+PEOPLE1	ชาวบ้าน 1
+PEOPLE2	ชาวบ้าน 2
+PEOPLE3	ชาวบ้าน 3
+PEPITA	เปปิต้า
+PHILIP	ฟิลิป
+PIE CUBE	พายคิวบ์
+PILATES	ฟิโลตส์
+PLAYER_A	ผู้เล่น A
+PLAYER_B	ผู้เล่น B
+POI CUBE	พอยซันคิวบ์
+POLICE	ตำรวจ
+POLICE_ZOMBIE	ตำรวจซอมบี้
+POLICE1	ตำรวจ 1
+POLICE2	ตำรวจ 2
+PRIEST	นักบวช
+PRINCIPAL SUHANA	ครูใหญ่ซูฮานา
+PROCEL	โปรเซล
+PROFESSOR	ศาสตราจารย์
+PTAH	พตาห์
+PUB_OWNER	เจ้าของผับ
+PUNKA	อันธพาล เอ
+PUNKB	อันธพาล บี
+PUNKC	อันธพาล ซี
+PUPPY	สุนัขหมู่บ้าน
+PUPPY1	หมา
+RADIO	วิทยุ
+RAFFLES	แรฟเฟิลส์
+RAGARAJA	ราคราช
+RANI	รานิ
+RANI_CHILD	ไชลด์ของรานิ
+RANI_FATHER	พ่อของรานิ
+REDCROSS	เรดครอส
+RENARD	เรย์นาร์ด
+RENDAL	เรนดอล
+REPORTER	นักข่าว
+RISA	ลิซ่า
+ROMEO	โรมิโอ
+ROSSANNA	โรซานนา
+ROSSANNA_CONTRACTOR	ฟูมิโนะ ทามากิ
+ROUSALKA	รูซัลกา
+ROYAL_FAMILYA	ราชวงศ์ A
+ROYAL_FAMILYB	ราชวงศ์ B
+ROYAL_FAMILYC	ราชวงศ์ C
+SABINA	ซาบินา
+SAINT MICHAEL SCHOOL GIRL	นักเรียนแห่งเซนต์ไมเคิล
+SAINTMICHAELSCHOOLGIRL	นักเรียนหญิง
+SALADIN	ซาลาดิน
+SALOONIST	บาร์เทนเดอร์
+SALUS	ซาลลอส
+SAMAEL	ซามาเอล
+SATURN	แซทเทิร์น♥
+SCHOOLBOY	เด็กชายมัธยมปลาย
+SCHOOLBOY1	เด็กชายมัธยมปลาย 1
+SCHOOLBOY2	เด็กชายมัธยมปลาย 2
+SCHOOLGIRL	เด็กสาวมัธยมปลาย
+SCHOOLGIRL1	เด็กสาวมัธยมปลาย 1
+SCHOOLGIRL2	เด็กสาวมัธยมปลาย 2
+SCHOOLGIRL3	เด็กสาวมัธยมปลาย 3
+SCHOOLMAFIA	บอส
+SECRET_CONTRACTOR	ผู้ทำพันธสัญญาลับ
+SECURITY	ความปลอดภัย
+SEMELE	เซเมเล่
+SEOCHEON_SENSE	ผู้พิทักษ์ดอกไม้แรก
+SERKET	เซอร์เค็ต
+SESHAT_CONTRACTOR	คาจิฮาระ มาซามิ
+SETH	เซธ
+SHAMAN_GHOST	โท เคอิกะที่ถูกสิงสู่
+SHINHJ	ฮิคารุ นิจิฮาระ
+SHIVAN SOLDIER	ทหารพระศิวะ
+SHOPASSISTANT	พนักงาน
+SITRI	ซิทริ
+SKQCLQJA	ผู้ลักพาตัว
+SOLARSHADE_UNA	ยูนาเงาแสงอาทิตย์
+SOLDIERA	ลูกน้อง เอ
+SOLDIERB	ลูกน้อง บี
+SOLDIERC	ลูกน้อง ซี
+SOOJIN	ซูจิน
+SOULBOW	ธนูของพระชั้นสูง
+SPECTATOR1	ผู้สังเกตการณ์ 1
+SPECTATOR2	ผู้สังเกตการณ์ 2
+SPECTATORS	ผู้สังเกตการณ์
+STAFF	เจ้าหน้าที่
+STALKER	สตอล์คเกอร์
+STOREANNOUNCE	ประกาศภายในร้าน
+STORECLERK	พนักงานร้านค้า
+STOREOWNER	เจ้าของร้าน
+STREET_VENDOR	ผู้ค้าขายริมทาง
+STRIGOY	สตรีโกย
+STUDENT	นักเรียน
+STUDENTA	นักเรียน 1
+STUDENTB	นักเรียน 2
+STUDENTCOUNCIL	คณะกรรมการพิจารณาโทษทางวินัย
+STUDENTS	นักเรียน
+SUCCUBUS	ซัคคิวบัส
+SUHANA	ซูฮานา
+SUHANA'S MOTHER	แม่ของซูฮานา
+SULHEE	ซุลฮี
+SUNAH	ซุนนาห์
+TAEKI	เทกิ
+TAMAKI	ทามากิ
+TEACHER	ครูประจำชั้น
+TEACHER_DEBORAH	มิสเดโบราห์
+TEACHER_MIRIAM	อาจารย์ของมีเรียม
+TERESA	อะซางิริเทเรซ่า
+TERESA_SHORT	เทเรซ่า
+THE DUCHESS	ท่านผู้หญิง
+THE KING OF HEARTS	พระราชา
+THE QUEEN OF HEARTS	ราชินี
+THEOPHANO_CONTRACTOR	ทาคุวะ ทาคุโระ
+THISBE_CONTRACTOR	โซโนดะฮิคาริ
+THUGA	นักเลง A
+THUGB	นักเลง B
+THUGC	นักเลง C
+THUGD	นักเลง D
+THUGE	นักเลง E
+THUGF	นักเลง F
+TITANIA	ไททาเนีย
+TIWAZ	ทิวัซ
+TLSQN	เจ้าสาว
+TRAINEE	เด็กฝึกงาน
+TURAN	ทูราน
+TYBALT	ติบอลท์
+UBOHEE	นาคากาวะ มิซากิ
+UNA	ยูนา
+UNIUSER1	ผู้ใช้จักรวาล 1
+UNIUSER2	ผู้ใช้จักรวาล 2
+UNIUSER3	ผู้ใช้จักรวาล 3
+UNIUSER4	ผู้ใช้จักรวาล 4
+UNIUSER5	ผู้ใช้จักรวาล 5
+UNIVERS_ZOMBIE	ซอมบี้จักรวาล
+UNIVERSITY FOUNDER	ผู้ก่อตั้งมหาวิทยาลัยซูโด
+UNKNOWN_CONTRACTOR	ผู้ทำพันธสัญญาลึกลับ
+UNKNOWN1	???
+VAMPIRE	แวมไพร์
+VENDOR	พ่อค้า
+VENUS	วีนัส♥
+VENUS_UNA	แสงแห่งความหวังยูนา
+VILLAGE_HEAD	ผู้ใหญ่บ้าน
+VILLAGE_PEOPLE	ชาวบ้าน
+VILLAGEHEAD	ผู้ใหญ่บ้าน
+VIRUPA	วิรูปะ
+VLAD_3	วลาดที่ III
+VOLUNTEER	อาสาสมัคร
+VOVO	โบโบ
+VOVO_TEACHER	อาจารย์ของโบโบ
+WARDEN	ผู้จัดการ
+WARDER	ผู้คุมเรือนจำ
+WATSON	วัตสัน
+WHITE RABBIT	กระต่ายขาว
+WOLF	หมาป่า
+WOMAN	ผู้หญิง
+WOMAN_CONTRACTOR	ผู้ทำพันธสัญญาหญิงสาว
+WOMAN_EXORCIST	เอ็กโซซิสต์หญิง
+WOMAN1	ผู้หญิง 1
+WOMAN2	ผู้หญิง 2
+WOMANA	ผู้หญิง A
+WOMANB	ผู้หญิง B
+WOMEN_GEST	แขกผู้หญิง
+WOOARI	เอบินะ ฮิเดกะ
+WOTAN	โวแดน
+WYATT	ไวเอ็ต
+WYATT_CONTRACTOR	โอคุโนะ โอซามิจิ
+WYVAN	ออลกา
+YAN	แจน ซิสกา
+YEONYI	เยนี
+YMIR_CONTRACTOR	เรียว ฮิคาวะ
+YOUNGMAN	เด็กหนุ่ม
+YOUNGPOLICE	นักสืบรุ่นเยาว์
+YOUTUBE	วิดีโอเน็ตทูบ
+YOUTUBER	NetTuber
+ZEPHYROS	เซฟิรอส

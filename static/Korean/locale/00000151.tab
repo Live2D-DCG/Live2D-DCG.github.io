@@ -1,0 +1,274 @@
+﻿// key	SUMMON_SCROLL_NAME_	SUMMON_SCROLL_DESCRIPTION_
+1001	3-5★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations premium.
+1002	1-3★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>1★</color></size> à <size=1.1><color=ffc400>3★</color></size>\du groupe de l'invocation d'or.
+1003	4-5★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>4★</color></size> à <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations premium.
+1004	2-4★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>2★</color></size> à <size=1.1><color=ffc400>4★</color></size>\du groupe de l'invocation d'or.
+1005	1-5★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>1★</color></size> à <size=1.1><color=ffc400>5★</color></size>\du groupe de l'invocation d'or.
+1006	1-2★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>1★</color></size> à <size=1.1><color=ffc400>2★</color></size>\du groupe de l'invocation d'or.
+1007	2-3★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>2★</color></size> à <size=1.1><color=ffc400>3★</color></size>\du groupe de l'invocation d'or.
+1008	3-4★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>4★</color></size>\du groupe des invocations premium.
+1101	3★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size>\du groupe des invocations premium.
+1102	4★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>4★</color></size>\du groupe des invocations premium.
+1103	5★_Ticket de child	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations premium.
+1201	3-5★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1202	1-5★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1203	1-3★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1204	3★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1205	4★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1206	5★_Ticket de child amélioré	Invoque un Child d'amélioration.
+1400	Ticket de child Eau 5★	Invoquez un <size=1.1><color=ffc400>Child 5★</color> de <color=2287d8>type Eau</color></size>\du groupe des invocations premium.
+1401	Ticket d'invoc. de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Iâh, Syrinx, Ève ou Jupiter.
+1402	Ticket de child Ombre 5★	
+1403	5★ Child Summon Ticket (Event)	5★ Child Summon Ticket that summons one of the following Childs: Myrina, Dana, Maat, or Patheon
+1404	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Hadès, Dana, Freyr, Medb ou Métis.
+1405	Ticket d'invocation de Child d'Eau 5★	Ticket d'invocation de Child d'Eau 5★ vous permettant d'obtenir un Child d'Eau 5★ (notamment Lisa antiténèbres).
+1406	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Ève, Naïade, Mars ou le Père Noël.
+1407	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Maât, Maât libre, Chang'e ou Chang'e gardienne.
+1408	Ticket d'invocation de Child d'Eau 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Thanatos, Iâh, Ève, Naïade, Mars, Roussalka, Chang'e ou Calypso.
+1409	Ticket de Child de type Bois 5★	Ticket d'invocation de Child vous permettant d'obtenir Serval, Midas, Abaddon, Mammon, Épona, Syrinx, Sirène ou Héra.
+1410	Ticket de Child 5★	Ticket d'invocation de Child vous permettant d'obtenir Freyr, Panthéon, Maât ou Chang'e.
+1411	Ticket de choix d'utilisateur I	Ticket permettant d'invoquer les 3 meilleurs Childs de soutien d'après le sondage.
+1412	Ticket de choix d'utilisateur II	Ticket permettant d'invoquer les 3 meilleurs Childs affaiblisseurs d'après le sondage.
+1413	Ticket du choix d'utilisateur	Ticket permettant d'invoquer les 3 meilleurs attaquants de la liste que vous avez choisie.
+1414	Ticket d'invoc. de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Brownie, Epona, Krampus, ou Midas
+1415	Ticket de choix d'utilisateur IV	Ticket permettant d'invoquer les 3 meilleurs Childs de Soigneur d'après le sondage.
+1416	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Mafdet, Bastet, Arès, ou Jupiter.
+1417	Ticket de choix d'utilisateur V	Ticket permettant d'invoquer les 3 meilleurs Childs Défenseurs d'après le sondage.\(Dana, Daoine Sidhe, ou Arès)
+1418	Ticket de Child 5★	Ticket d'invocation de Child permettant d'obtenir Chang'e, Panthéon, Métis ou Épona.
+1419	Ticket de Child 5★	Ticket d'invocation de Child vous permettant d'obtenir Antiténèbres Lisa, Ève, Naïade ou Sytry.
+1420	Ticket d'invocation de Child 5★	Ticket d'invocation de Child permettant d'obtenir Néophyte Mona, Chang'e, Báthory, Métis, Reine des démons Davi ou Morgen.
+1421	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Néophyte Mona, Anémone, Dana, ou Voyou Midas.
+1422	Ticket d'invocation de Child 5★	Ticket d'invocation de Child 5★ vous permettant d'obtenir Ailill, Fêtarde Medb, Daoine Sidhe ou Torride Mona.
+1423	Ticket d'invocation de Child 5★	Ticket d'invocation invoquant Báthory courtisane, Ève la nouvelle élève, Pan des champs ou Midas voyou.
+1424	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Dame Báthory ou Báthory courtisane.
+1425	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Mona néophyte ou Mona torride.
+1426	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Lisa antiténèbres ou Lisa bikini.
+1427	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Déméter embrasée, Athéna dévotion bienveillante, Sainte Nicole ou Isolde opaline.
+1428	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Astrée étoilée, Sainte Nicole, Bès des sources ou Brownie l'informatrice.
+1429	Ticket d'invocation de Child 5★	Ticket d'invocation appelant au choix : louve-garou dansante, louve-garou de clair de lune, Pallas ou Durandal illusoire.
+1430	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Pomone immaculée, Athéna ou Babel hypocrite.
+1431	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Hildr nuptiale, Pomone immaculée, Vénus candide♥ ou Freyr ressuscité.
+1432	Ticket d'invocation de Child 5★	Ticket d'invocation appelant au choix : louve-garou dansante, Mona torride, Dame Báthory ou Jacheongbi indomptable.
+1433	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Odin alchimiste, Lisa bikini, Mona néophyte ou Neptune travailleuse♥.
+1434	Ticket d'invocation de Child 5★	Un ticket d'invocation qui invoque une Morose Navi, Pomone immaculée, Travailleuse Dino ou Ténébreuse Anémone.
+1435	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Embrasée Déméter, Alchimiste Odin, Printemps Bès ou Chevalier Daphnis.
+1436	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Babel hypocrite, Freyr ressuscité, Hildr nuptiale ou Dame Báthory.
+1437	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Léda Noël, \Thisbé fuyarde ou Dana prophétesse.
+1438	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Ève nouvelle élève mystérieuse, Isolde opaline, Rita guide ou Tamamo renarde à neuf queues.
+1439	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Mafdet justicière ou Mafdet intransigeante.
+1440	Ticket d'invocation de Child 5★	Ticket d'invocation appelant louve-garou dansante ou louve-garou de clair de lune.
+1441	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Navi morose, Salomé danseuse, Daphnis chevalier ou Mona torride.
+1442	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Limos affamée, Báthory courtisane, Athéna ou Pomona immaculée.
+1443	Ticket d'invocation DOAXVV	Ticket d'invocation appelant Kasumi, Honoka, Marie Rose, Ayane ou Leifang.
+1444	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Davi ambivalente, Œil de lynx fière, Vénus candide♥ ou Dame Báthory.
+1445	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Annie téméraire, Kubaba cavalière, Billy tireuse ou Déméter embrasée.
+1446	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Davi Natation, Louve-Garou Danseuse, Babel Hypocrite ou Mafdet Justicière.
+1447	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Jacheongbi indomptable, Anémone ténébreuse, Mona néophyte ou Lisa antiténèbres.
+1448	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Dino Travailleuse, Neptune♥ Travailleuse, Pomone Immaculée ou Pallas.
+1449	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Ève Élève mystérieuse, Isolde Opaline, Rita Guide ou Moa Cube.
+1450	Ticket d'invocation de Child 5★	Ticket d'invocation permettant d'obtenir Keino princesse, Athéna, Iphis romantique ou Davi modifiée.
+1451	Ticket d'invocation de Noël 3-5★	Ticket d'invocation permettant d'obtenir Père Noël mémorable, Krampus sournoise, Nicole sainte, Rudolphe indésirable, Lutin silencieux ou Hotte vorace.
+1452	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Sytry douce, Freyr ressuscité, Luna céleste ou Navi morose.
+1453	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Ziva paisible, Saturne♥ rêveuse, Vénus♥ candide ou Pomone immaculée.
+1454	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Báthory dame, Thisbé fuyarde, Limos affamée ou Billy tireuse.
+1455	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Louve-garou dansante, Medb fêtarde, Tyrfing cynique ou Daoine Sidhe petite.
+1456	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Mona néophyte, Chang'e lumineuse, Astrée étoilée ou Dana prophétesse.
+1457	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Annie téméraire, Odin alchimiste, Lisa bikini ou Neptune♥ travailleuse.
+1458	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Báthory Courtisane, Salomé danseuse, Brigit éclatante ou Dana prédicatrice.
+1459	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Nirriti exorciste, Isolde opaline, Tiamat épée solitaire ou Saturne♥ rêveuse.
+1460	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Léo gentil, Dino travailleuse, Davi Natation ou Thisbé fuyarde.
+1461	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Limos affamée, Billy tireuse, Eshu skieuse ou Mona néophyte.
+1462	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Daphnis chevalier, Vénus éblouissante♥, Babel hypocrite ou Báthory Dame.
+1463	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Serket anxieuse, Mars étincelante♥, Pan champ ou Banshee triste.
+1464	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Mafdet justicière, Báthory courtisane, Ziva paisible ou Héqet tentatrice.
+1465	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Tamamo renarde à neuf queues, Davi modifiée, Neptune travailleuse♥ ou Léda Noël.
+1466	Ticket d'invocation de Child 5★	Ticket d'invocation appelant louve-garou de clair de lune, Neptune travailleuse♥, Panthéon nonchalant ou Thisbé fuyarde.
+1467	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Ymir Lame glacée, Neptune étincelante♥, Pomone immaculée ou Euros mignonne.
+1468	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Louve-Garou Danseuse, Báthory Dame, Saturne♥ Aurorale ou Mona Torride.
+1469	Ticket d'invocation de Child 5★	Ticket d'invocation appelant Saturne♥ Rêveuse, Caïn Exorciste, Chang'e Lumineuse ou Mona Néophyte.
+1470	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1471	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1472	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1473	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1474	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1475	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1476	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1477	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1478	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1479	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1480	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1481	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1482	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1483	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1484	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1485	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1486	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1487	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1488	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1489	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1490	Ticket d'invocation d'Attaquant 5★ garanti	Invoque un <size=1.1><color=ffc400>Child 5★</color> <color=ff0000>de type Attaquant</color></size>. \<color=ffff00> (Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Childs de collaboration non inclus.)</color>
+1491	Ticket d'invocation de Défenseur 5★ garanti	Invoque un <size=1.1><color=ffc400>Child 5★</color> <color=ff0000>de type Défenseur</color></size>. \<color=ffff00> (Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Childs de collaboration non inclus.)</color>
+1492	Ticket d'invocation de Soigneur 5★ garanti	Invoque un <size=1.1><color=ffc400>Child 5★</color> <color=ff0000>de type Soigneur</color></size>. \<color=ffff00> (Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Childs de collaboration non inclus.)</color>
+1493	Ticket d'invocation d'Affaiblisseur 5★ garanti	Invoque un <size=1.1><color=ffc400>Child 5★</color> <color=ff0000>de type Affaiblisseur</color></size>. \<color=ffff00> (Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Childs de collaboration non inclus.)</color>
+1494	Ticket d'invocation de Soutien 5★ garanti	Invoque un <size=1.1><color=ffc400>Child 5★</color> <color=ff0000>de type Soutien</color></size>. \<color=ffff00> (Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Childs de collaboration non inclus.)</color>
+1495	Ticket de child Eau 5★	Invoque un <color=ffc400>Child 5★</color> de <size=1.1><color=ff0000>type Eau</color></size>.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1496	Ticket de Child Feu 5★	Invoque un <color=ffc400>Child 5★</color> de <size=1.1><color=ff0000>type Feu</color></size>.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1497	Ticket de child Bois 5★	Invoque un <color=ffc400>Child 5★</color> de <size=1.1><color=ff0000>type Bois</color></size>.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1498	Ticket de child Lumière 5★	Invoque un <color=ffc400>Child 5★</color> de <size=1.1><color=ff0000>type Lumière</color></size>.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1499	Ticket de child Ombre 5★	Invoque un <color=ffc400>Child 5★</color> de <size=1.1><color=ff0000>type Ombre</color></size>.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1500	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1501	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1502	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1503	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1504	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1505	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1506	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1507	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1508	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1509	Ticket d'invoc. de Child 5★	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations premium.
+1510	Ticket d'invoc. de Child 5★	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations premium.
+1511	Ticket d'invoc. des meilleurs 5★ Childs de WB	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1512	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1513	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1514	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1515	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1516	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1517	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1518	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1519	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1520	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1521	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1522	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1523	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1524	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1525	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1526	Ticket d'invoc. de récomp. publicitaire	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size>\du groupe des invocations publicitaire.
+1527	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1528	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1529	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1530	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1531	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1532	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1533	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1534	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1535	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1536	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1537	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1538	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1539	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1540	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1541	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1542	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1543	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1544	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1545	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1546	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1547	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1548	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1549	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1550	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1551	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1552	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1553	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1554	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1555	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1556	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1557	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1558	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1559	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1560	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1561	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1562	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1563	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1564	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1565	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1566	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1567	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1568	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1569	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1570	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1571	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1572	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1573	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1574	Ticket d'invocation de Childs frappeurs	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1575	Ticket d'invocation de Childs frappeurs I	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1576	Ticket d'invocation de Childs frappeurs II	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1577	Ticket d'invocation de Child 5★	Invoque un Child 5★. \Touchez le bouton ci-dessous pour afficher les Childs disponibles.
+1801	Ticket d'invocation x10 3 à 5★	Invoque un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> 10 fois \du groupe des invocations premium.
+1811	10x Ticket de child 3 à 5★ de type Eau	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> de <size=1.1><color=ff0000>type Eau</color></size> 10 fois.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1812	10x Ticket de child 3 à 5★ de type Feu	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> de <size=1.1><color=ff0000>type Feu</color></size> 10 fois.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1813	10x Ticket de child 3 à 5★ de type Bois	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> de <size=1.1><color=ff0000>type Bois</color></size> 10 fois.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1814	10x Ticket de child 3 à 5★ de type Lumière	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> de <size=1.1><color=ff0000>type Lumière</color></size> 10 fois.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1815	10x Ticket de child 3 à 5★ de type Ombre	Invoquez un <size=1.1><color=ffff33><b>Child</b></color></size> <size=1.1><color=ffc400>3★</color></size> à <size=1.1><color=ffc400>5★</color></size> de <size=1.1><color=ff0000>type Ombre</color></size> 10 fois.\<color=ffff00>(Contient de nouveaux Childs après chaque période de maintenance - Actualisation du pool d'invocation. Ne comprend pas les Childs de collaboration.)</color>
+1901	Sac porte-bonheur 2018 avec ticket de child 5★	Ce ticket permet d'invoquer un <size=1.1><color=ffc400>Child 5★</color></size> comme ceux qui se trouvent dans le sac porte-bonheur 2018.
+1902	Sac porte-bonheur 2018 avec ticket de child 4-5★	Ce ticket permet d'invoquer un <size=1.1><color=ffc400>Child 4-5★</color></size> comme ceux qui se trouvent dans le sac porte-bonheur 2018.
+1911	Ticket de child Eau 5★ AF	Invoque un <size=1.1><color=ffc400>Child 5★</color> de <color=2287d8>type Eau</color></size>.
+1912	Ticket de child Feu 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=ff0000>type Feu</color></size>.
+1913	Ticket de child Bois 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=60ff00>type Bois</color></size>.
+1914	Ticket de child Lumière 5★ WD	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=ffc400>type Lumière</color></size>.
+1915	Ticket de child Ombre 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=c32beb>type Ombre</color></size>.
+1916	Ticket de child Eau 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color> de <color=2287d8>type Eau</color></size>.
+1917	Ticket de Child Feu 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=ff0000>type Feu</color></size>.
+1918	Ticket de child Bois 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=60ff00>type Bois</color></size>.
+1919	Ticket de child Lumière 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=ffc400>type Lumière</color></size>.
+1920	Ticket de child Ombre 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\de <color=c32beb>type Ombre</color></size>.
+1921	Ticket de child Attaquant 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>attaquant</color></size>.
+1922	Ticket de child Défenseur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>défenseur</color></size>.
+1923	Ticket de child Soigneur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>soigneur</color></size>.
+1924	Ticket de child Affaiblisseur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>affaiblisseur</color></size>.
+1925	Ticket de child Soutien 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>soutien</color></size>.
+1926	Ticket de child Attaquant 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>attaquant</color></size>.
+1927	Ticket de child Défenseur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>défenseur</color></size>.
+1928	Ticket de child Soigneur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>soigneur</color></size>.
+1929	Ticket de child Affaiblisseur 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>affaiblisseur</color></size>.
+1930	Ticket de child Soutien 5★	Invoque un <size=1.1><color=ffc400>Child 5★</color>\<color=ffc400>soutien</color></size>.
+2101	3-5★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2102	2-5★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2103	4-5★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2104	1-3★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2105	2-3★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2106	5★_Ticket d'acc.	Permet d'obtenir des accessoires.
+2107	5★ A_Ticket d'acc.	Permet d'obtenir des accessoires.
+2201	3-5★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2202	2-5★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2203	4-5★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2204	1-3★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2205	2-3★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2206	5★_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2207	5★ A_Ticket d'équip.	Permet d'obtenir une pièce d'équipement aléatoire.
+2301	5★_Ticket d'arme	Permet d'obtenir des armes.
+2302	5★ A_Ticket d'arme	Permet d'obtenir des armes.
+2303	5★ A_Ticket d'arme	Permet d'obtenir une arme de rang A 5★ aléatoire.
+2401	5★_Ticket d'armure	Permet d'obtenir des armures.
+2402	5★ A_Ticket d'armure	Permet d'obtenir des armures.
+2403	5★ A_Ticket d'armure	Permet d'obtenir une armure de rang A 5★ aléatoire.
+2501	Ticket de carte d'âme 3 à 5★	Invoque 1 carte d'âme.
+2502	Ticket de carte d'âme 4 à 5★	Invoque 1 carte d'âme.
+2503	Ticket de carte d'âme 5★	Invoque 1 carte d'âme.
+2504	Ticket de carte d'âme 3 à 4★	Invoque 1 carte d'âme.
+2505	Ticket de carte d'âme prismatique 5★	Invoque 1 carte d'âme.
+2600	Ticket de carte d'âme DOA 3 à 5★	Invoque une carte d'âme 3 à 5★ issue de la collaboration DOA.
+2601	Ticket de carte d'âme DOA 4 à 5★	Invoque une carte d'âme 4 à 5★ issue de la collaboration DOA.
+2602	Ticket de carte d'âme de BLAZBLUE 5★	Ticket d'invocation de Child permettant d'obtenir Central Fiction ou Trio de Meilleures Amies.
+2603	Ticket d'invocation d'équipement d'alchimie	Ticket d'invocation permettant d'invoquer une fiole quintessentielle, des gants d'alchimiste ou un kit d'alchimie (rang A à C).
+2604	Ticket d'invocation de collecte de meilleur équipement	Ticket d'invocation permettant d'invoquer une fiole quintessentielle, des gants d'alchimiste, un kit d'alchimie, un micro passionnel, une tenue d'èmail ou un casque haute dèfinition (rang A à C).
+2605	Ticket d'invocation d'équipement de Bari	Ticket d'invocation appelant l'éventail, le châle ou le talisman de réconfort de Bari (classe A à C).
+2606	Ticket d'invoc. de collecte de meilleur équip. (rang A à C)	Ticket d'invocation permettant d'invoquer une fiole quintessentielle, des gants d'alchimiste, un kit d'alchimie, un micro passionnel, une tenue d'émail, un casque haute définition, l'éventail de Bari, le châle de Bari ou le talisman de réconfort de Bari (rang A à C).
+2607	Ticket d'invocation d'équipement 3★	Permet d'obtenir une pièce d'équipement aléatoire.
+2608	Ticket d'invocation d'équipement 4★	Permet d'obtenir une pièce d'équipement aléatoire.
+2609	Tickets d'invocation de carte d'âme 3★	Invoque 1 carte d'âme.
+2610	Tickets d'invocation de carte d'âme 4★	Invoque 1 carte d'âme.
+2611	Ticket d'invocation d'équipement 4★(A~B)	Permet d'obtenir une pièce d'équipement aléatoire.
+2612	Ticket d'invocation d'équipement 3★(A~B)	Permet d'obtenir une pièce d'équipement aléatoire.
+2701	Légendaire_Ticket d'invocation de marionnette	Invoque 1 marionnette légendaire. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2702	Épique_Ticket d'invocation de marionnette	Invoque 1 marionnette épique. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2703	Rare_Ticket d'invocation de marionnette	Invoque 1 marionnette rare. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2704	Unique_Ticket d'invocation de marionnette	Invoque 1 marionnette de unique. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2705	Ordinaire_Ticket d'invocation de marionnette	Invoque 1 marionnette de ordinaire. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2706	Premium_Ticket d'invocation de marionnette	Invoque 1 marionnette aléatoire. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2707	Ticket d'invocation de marionnette	Invoque 1 marionnette aléatoire. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2708	Épique Ticket d'invocation de marionnette	Invoque 1 marionnette aléatoire. \Touchez le bouton suivant pour afficher les marionnettes disponibles.
+2901	Boîte à raffineurs +1	Permet d'obtenir un orbe de raffinement +1 pour les armes, les armures ou les accessoires.
+2903	Boîte à raffineurs +3	Permet d'obtenir un orbe de raffinement +3 pour les armes, les armures ou les accessoires.
+2905	Boîte à raffineurs +5	Permet d'obtenir un orbe de raffinement +5 pour les armes, les armures ou les accessoires.
+2910	Boîte à raffineurs +10	Permet d'obtenir un orbe de raffinement +10 pour les armes, les armures ou les accessoires.

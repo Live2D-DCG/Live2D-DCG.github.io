@@ -1,0 +1,361 @@
+﻿// key	SPECIAL_DUNGEON_NAME_	SPECIAL_DUNGEON_SECOND_NAME_	SPECIAL_DUNGEON_LOCATION_DESC_
+1000		The Nightmare on Christmas	On this holy eve, a devil lurks in the shadows of the Christmas cheer.
+100001	Area 1	Christmas Eve	
+100002	Area 2	Krampus I	
+100003	Area 3	Holy Night	
+100004	Area 4	Rudolph	
+100005	Area 5	Holy Night	
+100006	Area 6	Santa Claus	
+100007	Area 7	Holy Night	
+100008	Area 8	Krampus II	
+1100		Obelisk's Descent	A tower of trials has now risen up from the hot desert sands.
+110001	Stage 1	Pharaoh's Tomb I	
+110002	Stage 2	Bast	
+110003	Stage 3	Pharaoh's Tomb II	
+110004	Stage 4	Horus	
+110005	Stage 5	Pharaoh's Tomb III	
+110006	Stage 6	Cleopatra	
+110007	Stage 7	Pharaoh's Tomb IV	
+110008	Stage 8	Advent of Pharaoh	
+1200		The Forbidden Flower	What lies beyond these intertwined emotions?
+120001	Stage 1	A Lotus Bed in Paradise I	
+120002	Stage 2	Willow Doryeong	
+120003	Stage 3	A Lotus Bed in Paradise II	
+120004	Stage 4	Jacheongbi I	
+120005	Stage 5	A Lotus Bed in Paradise III	
+120006	Stage 6	Bari	
+120007	Stage 7	A Lotus Bed in Paradise IV	
+120008	Stage 8	Jacheongbi II	
+1300		The Macabre Empire	Ye pitiful souls of a world beyond redemption.\Your path leads only deeper into the valley of darkness.
+130001	Stage 1	Sanctified NightⅠ	
+130002	Stage 2	Devil’s Exorcism	
+130003	Stage 3	Sanctified NightⅡ	
+130004	Stage 4	Rescue Operation	
+130005	Stage 5	Sanctified NightⅢ	
+130006	Stage 6	Zealot's Pride	
+130007	Stage 7	Sanctified NightⅣ	
+130008	Stage 8	Resurrection & Awakening	
+1400		Summer Scandal	Tired of the Archfiend Contest?\Head on out to Passion Island! Heaven on earth!
+140001	Stage 1	Passion Island	
+140002	Stage 2	Ravishing Resort	
+140003	Stage 3	Passion Island	
+140004	Stage 4	Beach Volleyball	
+140005	Stage 5	Passion Island	
+140006	Stage 6	Mystery of the Giant Ape	
+140007	Stage 7	Passion Island	
+140008	Stage 8	Summer Vacation	
+1500		Café de Petit	Welcome to Café de Petit ♥
+150001	Stage 1	The Invitation I	
+150002	Stage 2	Adorable Guest	
+150003	Stage 3	The Invitation II	
+150004	Stage 4	Gunslinger Maid	
+150005	Stage 5	The Invitation III	
+150006	Stage 6	Yes, My Lord...	
+150007	Stage 7	The Invitation IV	
+150008	Stage 8	The One I Love	
+1600		DEVILIVE!!	Let's go together to the dazzling concert of dreams!
+160001	Stage 1	Concert of Dreams	
+160002	Stage 2	Planet Party	
+160003	Stage 3	Concert of Dreams	
+160004	Stage 4	Trainees For How Long?	
+160005	Stage 5	Concert of Dreams	
+160006	Stage 6	A Pop Star's Pride	
+160007	Stage 7	Concert of Dreams	
+160008	Stage 8	Encore!	
+1900		Girl on Fire	Be reborn in the fire to dream once again!
+190001	Stage 1	Walking on Fire	
+190002	Stage 2	-Disaster-	
+190003	Stage 3	Walking on Fire	
+190004	Stage 4	-Clue-	
+190005	Stage 5	Walking on Fire	
+190006	Stage 6	-Rage-	
+190007	Stage 7	Walking on Fire	
+190008	Stage 8	-Hope-	
+2000		Secret Bride	My bride, leave your fate in my hands!
+200001	Stage 1	Secret Bride	
+200002	Stage 2	Wedding March of Fate	
+200003	Stage 3	Letter From the Isle of Brides	
+200004	Stage 4	Here Comes the Bride?!	
+200005	Stage 5	Secret Bride	
+200006	Stage 6	Enter the Groom!	
+200007	Stage 7	Secret Bride	
+200008	Stage 8	My Sun, My Bride	
+2100		Vanishing Twin	Now, a new Davi is born!
+210001	Stage 1	The Two Davis I	
+210002	Stage 2	Creeping Shadow	
+210003	Stage 3	The Two Davis II	
+210004	Stage 4	Another Davi	
+210005	Stage 5	The Two Davis III	
+210006	Stage 6	Sleeping Cradle	
+210007	Stage 7	Cocoon of Return	
+210008	Stage 8	Awakened Davi	
+2200		EVILS UNDER THE SUN	The mysterious girl who came to see Luin is...!
+220001	Stage 1	Luin's Intensive Training I	
+220002	Stage 2	Dojo Challenge	
+220003	Stage 3	Luin's Intensive Training II	
+220004	Stage 4	Demonic Deadeye	
+220005	Stage 5	Luin's Intensive Training III	
+220006	Stage 6	Davi's MIA	
+220007	Stage 7	Luin's Intensive Training IV	
+220008	Stage 8	On My Pride	
+2300		Kyrie Eleison	Someone save me from this flesh trapped in death.
+230001	Stage 1	Lord, Have Mercy I	
+230002	Stage 2	Wandering Sheep	
+230003	Stage 3	Lord, Have Mercy II	
+230004	Stage 4	Rebellious One	
+230005	Stage 5	Lord, Have Mercy III	
+230006	Stage 6	Peace be With You	
+230007	Stage 7	Lord, Have Mercy IV	
+230008	Stage 8	Thou Shalt Not Kill	
+2400		Summer Shooters	The spirit and will of legendary hydro shooters.
+240001	Stage 1	River Outlaw	
+240002	Stage 2	The Outlaw's Challenge	
+240003	Stage 3	River Outlaw	
+240004	Stage 4	The Water is One with the Water Gun	
+240005	Stage 5	River Outlaw	
+240006	Stage 6	Hydro Shooting	
+240007	Stage 7	River Outlaw	
+240008	Stage 8	Hydro Reload	
+2500		Catherine: Full Body	K's Parallel World
+250001	Stage 1	Interlude	
+250002	Stage 2	Episode 1	
+250003	Stage 3	Interlude	
+250004	Stage 4	Episode 2	
+250005	Stage 5	Interlude	
+250006	Stage 6	Episode 3	
+250007	Stage 7	Interlude	
+250008	Stage 8	Episode 4	
+2600		Les Miserables	He hath set me in dark places, as they that be dead of old.\Lamentations 3:6
+260001	Stage 1	Worldly Desires	
+260002	Stage 2	Taboo	
+260003	Stage 3	Dead Bodies	
+260004	Stage 4	Angels from Hell	
+260005	Stage 5	The Mark of the Sinner	
+260006	Stage 6	Dolls	
+260007	Stage 7	The Second Death	
+260008	Stage 8	The One Who Retaliates	
+2700		Childhood's End	Now, the dreamy season is gone,\replaced by cold, windy days.
+270001	Stage 1	Kill	
+270002	Stage 2	Scar	
+270003	Stage 3	Blind Brat	
+270004	Stage 4	The King's Advent	
+270005	Stage 5	Netherworld Wind	
+270006	Stage 6	Reunion	
+270007	Stage 7	Purgatory	
+270008	Stage 8	End of Childhood	
+2800		Endless Valentine	What is this feeling? Why is my heart pounding?
+280001	Stage 1	Wanting to Know Love	
+280002	Stage 2	For Love, A Love Potion	
+280003	Stage 3	Sytry's Little Sister?	
+280004	Stage 4	True Love's Kiss	
+280005	Stage 5	Shady Chocolate Ending	
+280006	Stage 6	Ultimate Decision Ending	
+280007	Stage 7	Dead End Walkthrough	
+280008	Stage 8	The Right Resolution	
+2900		Salvation	He will save you from malicious intent.\Have faith in him without a doubt.
+290001	Stage 1	Narrow Gate	
+290002	Stage 2	Netherworld	
+290003	Stage 3	Our Lady	
+290004	Stage 4	The Breath of Life	
+290005	Stage 5	Netherworld	
+290006	Stage 6	Sheep's Clothing	
+290007	Stage 7	Doubtful Disciple	
+290008	Stage 8	Removing Lampstand	
+3000		Romeo & Juliet	On the stage where they passed each other by, will the curtain rise to a new love?
+300001	Stage 1	Courage & Love	
+300002	Stage 2	True Act & True Feelings	
+300003	Stage 3	Judging & Awards	
+300004	Stage 4	Theater & Understudies	
+300005	Stage 5	Seiji & Eika	
+300006	Stage 6	Vainglory & Intent	
+300007	Stage 7	The Stage & the Show	
+300008	Stage 8	A World for Two	
+3100		Reincarnation	Please don't leave me. I exist because of you.
+310001	Stage 1	Bound by Destiny	
+310002	Stage 2	Good Friends	
+310003	Stage 3	Susuri Sabaha	
+310004	Stage 4	Karmic Hindrances	
+310005	Stage 5	Foot of This World	
+310006	Stage 6	Transmigration	
+310007	Stage 7	Dark Karma	
+310008	Stage 8	Karma Builder	
+3200		Midsummer Night's Dream	One love, two warring hearts.\What's this love that you're talking about?
+320001	Stage 1	Fragrance and Odor	
+320002	Stage 2	The Secret between the Two	
+320003	Stage 3	Weight of the Heart	
+320004	Stage 4	Puppy Love	
+320005	Stage 5	Here, There, and Everywhere	
+320006	Stage 6	Round 2	
+320007	Stage 7	Sweet Love	
+320008	Stage 8	Ailill's Prophecy	
+3300		Restoration	Memories can fade away; anger can't.
+330001	Stage 1	A Match Made in Heaven	
+330002	Stage 2	The Uninvited	
+330003	Stage 3	Welcome	
+330004	Stage 4	I'm Back	
+330005	Stage 5	Declaration	
+330006	Stage 6	Shadows of the Past	
+330007	Stage 7	What Matters	
+330008	Stage 8	Opportunity	
+3400		Inferno	There's always enough time.\What's left is a decision.
+340001	Stage 1	Demon's Trick	
+340002	Stage 2	Unexpected Supporter	
+340003	Stage 3	Freshman	
+340004	Stage 4	Demon Den	
+340005	Stage 5	Lost Fairy	
+340006	Stage 6	Collar	
+340007	Stage 7	What Matters	
+340008	Stage 8	Fiery Serpent	
+3500		Knight of Rose	My Beautiful One, Come Along
+350001	Stage 1	Catch a Tail	
+350002	Stage 2	Mea Culpa	
+350003	Stage 3	Snake Tongue	
+350004	Stage 4	Fiend's Grave	
+350005	Stage 5	Swear Not	
+350006	Stage 6	Rose of Sharon	
+350007	Stage 7	In Your Blood	
+350008	Stage 8	Iron Maiden	
+3600		WOUNDED WINNER PART.1	Wise as Serpents, Harmless as Doves
+360001	Stage 1	Dawn	
+360002	Stage 2	Deserving of Gratitude	
+360003	Stage 3	Psychometry Together	
+360004	Stage 4	The Witch's House	
+360005	Stage 5	The Apostates	
+360006	Stage 6	Arhat and Mitra's World	
+360007	Stage 7	Sinister Omen	
+360008	Stage 8	Tathagata Awakened	
+3700		WOUNDED WINNER PART.2	O Demon, Keeper of My Beginning and End.
+370001	Stage 1	Observer	
+370002	Stage 2	Universe Zombie	
+370003	Stage 3	Universe Skill	
+370004	Stage 4	Spear of Destiny	
+370005	Stage 5	A Common Foe	
+370006	Stage 6	Uninvited Saint 1	
+370007	Stage 7	Uninvited Saint 2	
+370008	Stage 8	Bartholomew Fair	
+3800		WOUNDED WINNER PART.3	The great city, Sodom, where He was crucified.\From Revelation 11:8
+380001	Stage 1	Ashram	
+380002	Stage 2	The Elder's Account	
+380003	Stage 3	Soul Seed 1	
+380004	Stage 4	Soul Seed 2	
+380005	Stage 5	Pursuing the Potion	
+380006	Stage 6	Several Secrets	
+380007	Stage 7	Unpleasant Magic	
+380008	Stage 8	May We Meet Again	
+3900		HEN TO PAN	Kill me. Save me.
+390001	Stage 1	Black Phase	
+390002	Stage 2	Arcanum Experiment	
+390003	Stage 3	Antimony	
+390004	Stage 4	Cibation	
+390005	Stage 5	Ouroboros	
+390006	Stage 6	Circle	
+390007	Stage 7	Litharge	
+390008	Stage 8	Coagulation	
+4000		Close to Nirvana	You will not reach Nirvana.
+400001	Stage 1	A Candle in the Wind	
+400002	Stage 2	You Reap What You Sow	
+400003	Stage 3	Worldly Desires	
+400004	Stage 4	The Unexpected	
+400005	Stage 5	Spirit of the Shrine Maiden	
+400006	Stage 6	Waking From the Dream	
+400007	Stage 7	Antipathy	
+400008	Stage 8	The Path to Nirvana	
+4100		Lifeblood	Death is but a minor event.\Life and red blood flow as one.
+410001	Stage 1	No Ordinary Fellow	
+410002	Stage 2	Easier to Act Than Worry	
+410003	Stage 3	Filthy Once More	
+410004	Stage 4	Only One Name	
+410005	Stage 5	Inevitability	
+410006	Stage 6	I Must Save My Friend	
+410007	Stage 7	Doing It With Panache?	
+410008	Stage 8	Celebrating Freedom	
+4200	Angel of Light		Satan occasionally disguises himself\as an angel of light.
+420001	Stage 1	Memories of that Day	
+420002	Stage 2	A New Destination	
+420003	Stage 3	Infiltration	
+420004	Stage 4	His Friend	
+420005	Stage 5	Lie	
+420006	Stage 6	False Prophet	
+420007	Stage 7	Reunion	
+420008	Stage 8	Destined to Meet Again	
+4300		Fate	Destiny is guidance. Guidance comes from sincerity.\And sincerity, from hope and trust.
+430001	Stage 1	Reunion	
+430002	Stage 2	Legend	
+430003	Stage 3	Suffering	
+430004	Stage 4	Revelation	
+430005	Stage 5	State of Selflessness	
+430006	Stage 6	Truth and Falsehood	
+430007	Stage 7	Catastrophe	
+430008	Stage 8	Fate	
+4400		Ragna Break	The Infernal Realm's gate opens, and old gods descend.
+440001		Stage 1	
+440002		Stage 2	
+440003		Stage 3	
+440004		Stage 4	
+440005		Stage 5	
+440006		Stage 6	
+440007		Stage 7	
+440008		Stage 8	
+4500		Ragna Break	The Infernal Realm's gate opens, and old gods descend.
+450001		Stage 1	
+450002		Stage 2	
+450003		Stage 3	
+450004		Stage 4	
+450005		Stage 5	
+450006		Stage 6	
+450007		Stage 7	
+450008		Stage 8	
+4600		Inferno	There's always enough time.\What's left is a decision.
+460001	Stage 1	Demon's Trick	
+460002	Stage 2	Unexpected Supporter	
+460003	Stage 3	Freshman	
+460004	Stage 4	Demon Den	
+460005	Stage 5	Lost Fairy	
+460006	Stage 6	Collar	
+460007	Stage 7	What Matters	
+460008	Stage 8	Fiery Serpent	
+4700		Demigod	Demigods are known for being born of gods and humans,\but they are the offspring of transcendental beings--demons--\and humans who can harbor life.
+470001	Stage 1	Obedience	
+470002	Stage 2	Solitude	
+470003	Stage 3	Little Princess	
+470004	Stage 4	Investigator	
+470005	Stage 5	Performance Test	
+470006	Stage 6	Unnatural Corpse	
+470007	Stage 7	Decisive Battle	
+470008	Stage 8	Flashback	
+4800		The Demon Executioner	An unexpected visitor from the Infernal Realm. Belial, the third in command of the Infernal Realm.
+480001	Stage 1	School Guide	
+480002	Stage 2	Return to Tokyo	
+480003	Stage 3	Strange Girl	
+480004	Stage 4	Back to Japan after a Long Time	
+480005	Stage 5	Scent of the Lily of the Valley	
+480006	Stage 6	Financial Sense	
+480007	Stage 7	Over Coffee	
+480008	Stage 8	Executioner of the Infernal Realm	
+4900		On Cloud Nine - I	I'm so happy these days I can't tell if this is real or a dream.\But if this is a dream, please don't wake me.
+490001	Stage 1	A Favor	
+490002	Stage 2	Sallos	
+490003	Stage 3	Transfer	
+490004	Stage 4	Rigorous Training	
+490005	Stage 5	Magical Exhaustion	
+490006	Stage 6	Elysion Island	
+490007	Stage 7	Summer Scandal	
+490008	Stage 8	Kick	
+5000		On Cloud Nine - II	Sweet Dreams
+500001	Stage 1	Meeting the Oneiroi	
+500002	Stage 2	Leo's Jealousy	
+500003	Stage 3	Nirrti's Pursuit	
+500004	Stage 4	Neamhain's Suggestion	
+500005	Stage 5	Rousing Party	
+500006	Stage 6	Council of Infernal Realm Powers, Kurultai	
+500007	Stage 7	Dear Mitra	
+500008	Stage 8	Open Your Eyes	
+5400		Christmas' Carol	Would you like to hear Carol's Christmas story?
+540001	Stage 1	New Case	
+540002	Stage 2	Working Holiday	
+540003	Stage 3	Christmas Eve	
+540004	Stage 4	Child of Past	
+540005	Stage 5	House Break-in	
+540006	Stage 6	Child of Present	
+540007	Stage 7	Child of Future	
+540008	Stage 8	Merry Christmas	

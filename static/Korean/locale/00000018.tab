@@ -1,0 +1,1029 @@
+﻿// key	DUNGEON_NAME_	DUNGEON_SECOND_NAME_	DUNGEON_LOCATION_DESC_
+1000	1-1	Tutorial	Mona walks you through the basics ♥
+100001	Stage 1	Tutorial 1	
+100002	Stage 2	Tutorial 2	
+100003	Stage 3	Tutorial 3	
+100004	Stage 4	Tutorial 4	
+1001	1-2	Demeter I	The nurse, an angel in white... But what of Demeter?
+100101	Stage 1	Soul Dungeon	
+100102	Stage 2	Poor Devil	
+100103	Stage 3	Archfiend Contest	
+100104	Stage 4	Bluffing Demeter	
+1002	1-3	Downtown	A Downtown spot where human desires flourish.
+100201	Stage 1	Downtown	
+100202	Stage 2	Downtown	
+100203	Stage 3	Downtown	
+100204	Stage 4	Downtown	
+1003	1-4	Demeter II	Uh-oh! How's this nurse so strong?
+100301	Stage 1	The Succubus' True Colors	
+100302	Stage 2	Millenial Demon	
+100303	Stage 3	Human Desires	
+100304	Stage 4	Longing and Regret	
+1004	1-5	Downtown	A Downtown spot where passion flows free.
+100401	Stage 1	Downtown	
+100402	Stage 2	Downtown	
+100403	Stage 3	Downtown	
+100404	Stage 4	Downtown	
+1005	1-6	Delicious Food	Gluttony is one of the seven deadly sins. Keep your sins in your wallet!
+100501	Stage 1	Diligent Demon	
+100502	Stage 2	Disqualified Devil	
+100503	Stage 3	Repeated Blunder	
+100504	Stage 4	True Wish	
+1006	1-7	Downtown	A Downtown spot where desires abound.
+100601	Stage 1	Downtown	
+100602	Stage 2	Downtown	
+100603	Stage 3	Downtown	
+100604	Stage 4	Downtown	
+1007	1-8	Mammon	What does every capable man need? A bag.\Specifically, a Clutch Bag. Don't have one? Get one!
+100701	Stage 1	Golden King Unveiled	
+100702	Stage 2	All Going Well	
+100703	Stage 3	Absolute Ruler	
+100704	Stage 4	Kingly Outing	
+1010	1-1	Debut	Watch out for Gestalt collapse due to excessive routine work.
+101001	Stage 1	Hard	
+1011	1-2	Daphne	Life is a series of battles.\Hero! Stand up and win!
+101101	Stage 1	Hard - Hero's Trial	
+1012	1-3	Downtown	Hustling desires! Enjoyable desires! Desirable desires!
+101201	Stage 1	Hard - Downtown	
+1013	1-4	Freesia	Love is attachment.\I can hear her footsteps as she follows me even now...
+101301	Stage 1	Hard - Red Love Letter	
+1014	1-5	Downtown	Passion, and intolerable enthusiasm, swirls round and round.
+101401	Stage 1	Hard - Downtown	
+1015	1-6	Delicious Food	One who committed the sin of gluttony sleeps here.
+101501	Stage 1	Hard - Diligent Devil	
+1016	1-7	Downtown	Suppressed thirst and boiling fever.
+101601	Stage 1	Hard - Downtown	
+1017	1-8	Mayahuel	You didn't choose me.\I chose you.
+101701	Stage 1	Hard - Mad Collector	
+1100	2-1	City Outskirts	Let's stop by the city outskirts.
+110001	Stage 1	City Outskirts	
+110002	Stage 2	City Outskirts	
+110003	Stage 3	City Outskirts	
+110004	Stage 4	City Outskirts	
+1101	2-2	Firo	Making its fabulous debut: my body!
+110101	Stage 1	Ordinary Boy	
+110102	Stage 2	Hot-Blood VS. Lazybones	
+110103	Stage 3	Champion's Generosity	
+110104	Stage 4	Fiery Firo	
+1102	2-3	City Outskirts	In the city outskirts, in an inconspicuous back alley...
+110201	Stage 1	City Outskirts	
+110202	Stage 2	City Outskirts	
+110203	Stage 3	City Outskirts	
+110204	Stage 4	City Outskirts	
+1103	2-4	Cu Sith	...Lives a wild bird who always goes for the tail.
+110301	Stage 1	Devil Hunter	
+110302	Stage 2	Proud Fangs	
+110303	Stage 3	Summoner’s War	
+110304	Stage 4	Neighborhood Rival	
+1104	2-5	Quiet City	A quiet city. A nearby crossroads to the Infernal Realm.
+110401	Stage 1	Quiet City	
+110402	Stage 2	Quiet City	
+110403	Stage 3	Quiet City	
+110404	Stage 4	Quiet City	
+1105	2-6	Quiet City	A quiet city. An extremely nearby crossroads to the Infernal Realm.
+110501	Stage 1	Quiet City	
+110502	Stage 2	Quiet City	
+110503	Stage 3	Quiet City	
+110504	Stage 4	Quiet City	
+1106	2-7	Freyja I	The adorable cat ran away!\The wrath of heaven be upon you! Get ready to experience hell!
+110601	Stage 1	Injured Cat	
+110602	Stage 2	Weirdo	
+110603	Stage 3	Uninvited Guest	
+110604	Stage 4	Runaway Cat	
+1107	2-8	Freyja II	Freyjaaa, it was all master's fault.\Say, who are you? Frej?
+110701	Stage 1	Timid Cat	
+110702	Stage 2	Wild Cat	
+110703	Stage 3	Purring Cat	
+110704	Stage 4	A Cat’s Feelings	
+1110	2-1	City Outskirts	Near the city outskirts, where my feet stopped moving.
+111001	Stage 1	Hard - City Outskirts	
+1111	2-2	Muse	In the dark nighttime city, the demon's song echoes throughout the air.
+111101	Stage 1	Hard - Lonely Rockstar	
+1112	2-3	City Outskirts	Near the city outskirts, a back alley where I met a demon.
+111201	Stage 1	Hard - City Outskirts	
+1113	2-4	Neith	Watch your head! Look out for bombs!
+111301	Stage 1	Hard - Battlefield	
+1114	2-5	Quiet City	Pass through the Infernal Realm door near the quiet city.
+111401	Stage 1	Hard - Quiet City	
+1115	2-6	Quiet City	I knocked on the Infernal Realm door near the quiet city.
+111501	Stage 1	Hard - Quiet City	
+1116	2-7	Hector	I charge a hefty toll!
+111601	Stage 1	Hard - Mercenary Warfare	
+1117	2-8	Leda	You called, Princess?
+111701	Stage 1	Hard - My Princess	
+1200	3-1	University Street	Near University Street. Where is this place? I don't know it.
+120001	Stage 1	University Street	
+120002	Stage 2	University Street	
+120003	Stage 3	University Street	
+120004	Stage 4	University Street	
+1201	3-2	Hecate	It's unwise to judge anyone,\human or demon, by their appearance...
+120101	Stage 1	Low-Spec Devil	
+120102	Stage 2	Mild-Mannered Devil	
+120103	Stage 3	Aide Preferences	
+120104	Stage 4	Witch's Heart	
+1202	3-3	University Street	Somewhere near University Street. Here's hoping for a meeting with someone special ♥
+120201	Stage 1	University Street	
+120202	Stage 2	University Street	
+120203	Stage 3	University Street	
+120204	Stage 4	University Street	
+1203	3-4	Convenience Store	A microcosm within the city known as "the convenience store."
+120301	Stage 1	Convenience Store Devil	
+120302	Stage 2	Rice Ball	
+120303	Stage 3	What It Means To Be Master	
+120304	Stage 4	Day at the Convenience Store	
+1204	3-5	University Street	Somewhere near University Street. I can hear someone screaming...
+120401	Stage 1	University Street	
+120402	Stage 2	University Street	
+120403	Stage 3	University Street	
+120404	Stage 4	University Street	
+1205	3-6	University Street	Somewhere near University Street. I don't know what the person I'm supposed to meet looks like...
+120501	Stage 1	University Street	
+120502	Stage 2	University Street	
+120503	Stage 3	University Street	
+120504	Stage 4	University Street	
+1206	3-7	Jeanne d’Arc I	Is that God reflected in the lost priest's eyes, or a demon?
+120601	Stage 1	Frej's Counterattack	
+120602	Stage 2	Like Repels Like	
+120603	Stage 3	The Goddess Descends	
+120604	Stage 4	Document Attack	
+1207	3-8	Jeanne d’Arc II	Prayers go unheard in the presence of a demon...
+120701	Stage 1	Frontal Assault	
+120702	Stage 2	Pact Hint	
+120703	Stage 3	Skillful Doctrine	
+120704	Stage 4	Cowardly Devil	
+1210	3-1	University Street	Somewhere near University Street. Now summon the demon!
+121001	Stage 1	Hard - University Street	
+1211	3-2	Fenrir	A taciturn warrior who fights for love.
+121101	Stage 1	Hard - Low-Spec Devil	
+1212	3-3	University Street	Somewhere near University Street. This encounter must be fate.
+121201	Stage 1	Hard - University Street	
+1213	3-4	Convenience Store	The convenience store...a theater of life.
+121301	Stage 1	Hard - Convenience Store Devil	
+1214	3-5	University Street	Something erased from existence is drifting around near University Street.
+121401	Stage 1	Hard - University Street	
+1215	3-6	University Street	People are wandering around desperately seeking something near University Street...
+121501	Stage 1	Hard - University Street	
+1216	3-7	Inanna	Life goal: the world's most dastardly villain!
+121601	Stage 1	Hard - Inanna's Attack	
+1217	3-8	Persephone	The negotiator visits the departed in hell.
+121701	Stage 1	Hard - Frontal Assault	
+1300	4-1	Downtown	An unfamiliar place near downtown.
+130001	Stage 1	Downtown	
+130002	Stage 2	Downtown	
+130003	Stage 3	Downtown	
+130004	Stage 4	Downtown	
+1301	4-2	Apollo	In flower language, sunflowers mean "adoration."
+130101	Stage 1	Birth	
+130102	Stage 2	The Worshipped I	
+130103	Stage 3	The Worshipped II	
+130104	Stage 4	Mutual Trust	
+1302	4-3	Downtown	Downtown, a place outside the visible spectrum.
+130201	Stage 1	Downtown	
+130202	Stage 2	Downtown	
+130203	Stage 3	Downtown	
+130204	Stage 4	Downtown	
+1303	4-4	OB/GYN	Kids are our hope for the future!
+130301	Stage 1	Bliss	
+130302	Stage 2	Devil’s Excuse	
+130303	Stage 3	Stop it!	
+130304	Stage 4	Unfinished Vessel	
+1304	4-5	New Town	The lowest place on earth, somewhere near New Town.
+130401	Stage 1	New Town	
+130402	Stage 2	New Town	
+130403	Stage 3	New Town	
+130404	Stage 4	New Town	
+1305	4-6	Neamhain I	I thought Frej might actually be a good guy...\But I was wrong.
+130501	Stage 1	True Feelings	
+130502	Stage 2	Concrete Blunder	
+130503	Stage 3	Secret of Deep Sleeping	
+130504	Stage 4	Devil’s Exorcism	
+1306	4-7	Neamhain II	Frej, are your Childs okay?
+130601	Stage 1	Negotiation Breakdown	
+130602	Stage 2	Infernal Realm Woman Troubles	
+130603	Stage 3	Order of Fury	
+130604	Stage 4	In One Ear and Out the Other	
+1307	4-8	Neamhain III	If I had to sum him up in one line, it'd be "If I never see that jerk again, it'll still be too soon!"
+130701	Stage 1	Full Power	
+130702	Stage 2	Bluff or Tactic	
+130703	Stage 3	Besieged	
+130704	Stage 4	True Beginning	
+1310	4-1	Downtown	Not a place for kids to play.
+131001	Stage 1	Hard - Downtown	
+1311	4-2	Erato	The smell of perfume is making my head swim.
+131101	Stage 1	Hard - Perfume	
+1312	4-3	Downtown	I saw a woman bound in restraints.
+131201	Stage 1	Hard - Downtown	
+1313	4-4	OB/GYN	Care to talk about measures to counteract the declining population?
+131301	Stage 1	Hard - Wolf in Sheep’s Clothing	
+1314	4-5	New Town	I can hear whisperings going on near the corner of the apartment complex.
+131401	Stage 1	Hard - New Town	
+1315	4-6	Yaga	Is that a real human soul? Not a special effect?
+131501	Stage 1	Hard - Dark Believer	
+1316	4-7	Eos	I met a Child who was straightforward and free.
+131601	Stage 1	Hard - Girl of Destruction	
+1317	4-8	Ishtar	Isn't it painful being tied up so tightly?
+131701	Stage 1	Hard - Ties That Bind	
+1400	5-1	Suburb	A narrow alleyway near Suburb.
+140001	Stage 1	Suburb	
+140002	Stage 2	Suburb	
+140003	Stage 3	Suburb	
+140004	Stage 4	Suburb	
+1401	5-2	Diana	The second succubus was really strong...\Mona, help me...
+140101	Stage 1	A Girl’s First Love	
+140102	Stage 2	Rational Method	
+140103	Stage 3	One-Way Trip	
+140104	Stage 4	A For Effort	
+1402	5-3	Elementary School	In practice, I don't worry about kids.
+140201	Stage 1	Rising Star	
+140202	Stage 2	Tiny Bride	
+140203	Stage 3	Matters of Concern	
+140204	Stage 4	Devil Vocabulary	
+1403	5-4	New Town	A place that feels inhabited, somewhere near New Town.
+140301	Stage 1	New Town	
+140302	Stage 2	New Town	
+140303	Stage 3	New Town	
+140304	Stage 4	New Town	
+1404	5-5	Europa I	A faint aroma wafts from the entrance.\Where am I?
+140401	Stage 1	Truant	
+140402	Stage 2	Delinquent	
+140403	Stage 3	Abandoned Child	
+140404	Stage 4	Young Girl Equation	
+1405	5-6	New Town	A quiet place near New Town.
+140501	Stage 1	New Town	
+140502	Stage 2	New Town	
+140503	Stage 3	New Town	
+140504	Stage 4	New Town	
+1406	5-7	New Town	A scene without demons near New Town.
+140601	Stage 1	New Town	
+140602	Stage 2	New Town	
+140603	Stage 3	New Town	
+140604	Stage 4	New Town	
+1407	5-8	Neith	I can feel someone watching me...\What do you want, anyway?
+140701	Stage 1	Class Time	
+140702	Stage 2	Tailed	
+140703	Stage 3	Rebellious Youth	
+140704	Stage 4	Family Bonds	
+1410	5-1	Suburb	What luck! I found a 10,000 yen bill!
+141001	Stage 1	HARD Mongey Monger	
+1411	5-2	Calchas	A seer that imagines things.
+141101	Stage 1	HARD Psychic Kid K	
+1412	5-3	Elementary School	Too smart for your own good.
+141201	Stage 1	HARD Headache Sufferer	
+1413	5-4	New Town	The city looked like a chessboard.
+141301	Stage 1	Checkmate (Hard)	
+1414	5-5	Elysion	Playing pirate on an inner tube? Wreckless.
+141401	Stage 1	HARD Dead in Water	
+1415	5-6	New Town	A girl and lion appears in a quiet neighborhood.
+141501	Stage 1	HARD Theron	
+1416	5-7	New Town	There's something shiny on the rooftop at night.
+141601	Stage 1	HARD Moonlight	
+1417	5-8	Melpomene	How is hard rock and heavy metal different?
+141701	Stage 1	HARD Koruna	
+1500	6-1	City Outskirts	A place where the wind blows, near the city outskirts.
+150001	Stage 1	City Outskirts	
+150002	Stage 2	City Outskirts	
+150003	Stage 3	City Outskirts	
+150004	Stage 4	City Outskirts	
+1501	6-2	Legend I	The pursued and the pursuer.
+150101	Stage 1	Abandoned Young Girl	
+150102	Stage 2	Mysterious Super Rookie	
+150103	Stage 3	Bad Boy and Tyrant	
+150104	Stage 4	Davi is Here!	
+1502	6-3	Legend II	A ninja's Soul Dungeon is a booby-trapped mansion?
+150201	Stage 1	Davi's Allure Technique	
+150202	Stage 2	A Ninja Must Endure	
+150203	Stage 3	Old-Fashioned Custom	
+150204	Stage 4	Heroic Legend	
+1503	6-4	Quiet City	A place where someone once was, near the quiet city.
+150301	Stage 1	Quiet City	
+150302	Stage 2	Quiet City	
+150303	Stage 3	Quiet City	
+150304	Stage 4	Quiet City	
+1504	6-5	Law Firm	It's better if the courts and hospitals don't know about this.
+150401	Stage 1	Lawless Devil	
+150402	Stage 2	Emotional Guardian	
+150403	Stage 3	Devil’s Worries	
+150404	Stage 4	No Questions Allowed	
+1505	6-6	Cathedral	Watch out for holy rain.
+150501	Stage 1	Wordplay	
+150502	Stage 2	Danger Detected	
+150503	Stage 3	Safety First	
+150504	Stage 4	Small Concern	
+1506	6-7	Quiet City	A place where footsteps stopped, near the quiet city.
+150601	Stage 1	Quiet City	
+150602	Stage 2	Quiet City	
+150603	Stage 3	Quiet City	
+150604	Stage 4	Quiet City	
+1507	6-8	Europa II	Love comes like a stalker looking in from the window. Love and peace!
+150701	Stage 1	Anxiety	
+150702	Stage 2	Path to Professional Devil	
+150703	Stage 3	Attendant	
+150704	Stage 4	Flower and Bee	
+1510	6-1	City Outskirts	It's not the utopia you dreamed of.
+151001	Stage 1	Back Street (Hard)	
+1511	6-2	Isis	Totally fooled by the realistic performance.
+151101	Stage 1	Outstanding Actress (Hard)	
+1512	6-3	Quirinus	Getting cheered on while eating puts me in a tight spot.
+151201	Stage 1	Demon Cheering Squad (Hard)	
+1513	6-4	Quiet City	Where are you going in just a bikini and floaties?
+151301	Stage 1	Runaway Hobby (Hard)	
+1514	6-5	Law Firm	Are you going to talk to a lawyer about global domination?
+151401	Stage 1	Legal Advice (Hard)	
+1515	6-6	Cathedral	You're seriously playing mahjong here?
+151501	Stage 1	Auto Mahjong Table (Hard)	
+1516	6-7	Quiet City	You say not to get closer but are you specifying a distance, too?
+151601	Stage 1	500m Radius (Hard)	
+1517	6-8	Detective Girl	Follow that demon!\It's just like Inspector Senzugawa!
+151701	Stage 1	Background Check (Hard)	
+1600	7-1	City Center	If you run at full speed here, the cops will let you off with a warning.
+160001	Stage 1	City Center	
+160002	Stage 2	City Center	
+160003	Stage 3	City Center	
+160004	Stage 4	City Center	
+1601	7-2	Chainkiller	Who said there was nothing to eat at the supposed party?
+160101	Stage 1	Wandering Devil	
+160102	Stage 2	Chaser	
+160103	Stage 3	Pursuit of Excellence	
+160104	Stage 4	Decent Guy	
+1602	7-3	City Center	A place near the city center, where the moon hangs large in the sky.
+160201	Stage 1	City Center	
+160202	Stage 2	City Center	
+160203	Stage 3	City Center	
+160204	Stage 4	City Center	
+1603	7-4	Downtown Apartments	A place overflowing with romance and human desires!
+160301	Stage 1	Compassionate Devil	
+160302	Stage 2	Disqualified Devil	
+160303	Stage 3	Life Planning	
+160304	Stage 4	Wise Archfiend	
+1604	7-5	City Center	A place near the city center, where a highly abnormal presence can be felt.
+160401	Stage 1	City Center	
+160402	Stage 2	City Center	
+160403	Stage 3	City Center	
+160404	Stage 4	City Center	
+1605	7-6	Calchas I	I found the most evil way I could think of to overturn fate.
+160501	Stage 1	Archfiend 666	
+160502	Stage 2	Declaration of Running Away	
+160503	Stage 3	Critical Moment	
+160504	Stage 4	Prophet	
+1606	7-7	City Center	A place near the city center, where the road is especially narrow.
+160601	Stage 1	City Center	
+160602	Stage 2	City Center	
+160603	Stage 3	City Center	
+160604	Stage 4	City Center	
+1607	7-8	Calchas II	Intuition can, at times, prevent disaster. There is a reason as to why.
+160701	Stage 1	Well-Slept, Well-Kept	
+160702	Stage 2	Danger Personified	
+160703	Stage 3	Hanging by a Thread	
+160704	Stage 4	Devil Catastrophe	
+1610	7-1	City Center	Don't shoot! And no rocket-launchers!
+161001	Stage 1	Heavy Artillery (Hard)	
+1611	7-2	Amor	It's make-believe. No need to cry so much.
+161101	Stage 1	Soap Opera (Hard)	
+1612	7-3	City Center	They say whatever the task, it'll be completed.
+161201	Stage 1	Gifted Problem Solver (Hard)	
+1613	7-4	Downtown Apartments	Let me get this straight, making a pact with a demon...for justice?
+161301	Stage 1	Vengeful Thoughts (Hard)	
+1614	7-5	City Center	Can you stop putting on makeup on the train?
+161401	Stage 1	Mascara (Hard)	
+1615	7-6	Lan Fei	The proprietress is Harlem Street's black star.
+161501	Stage 1	Darktown (Hard)	
+1616	7-7	City Center	I thought something was making a heck of a racket.
+161601	Stage 1	Marital Quarrel (Hard)	
+1617	7-8	Nirrti	The exorcist that submitted to a demon.
+161701	Stage 1	One's Lot (Hard)	
+1700	8-1	Congested Zone	Buses cause congestion when they stop.
+170001	Stage 1	Self-Defense	
+170002	Stage 2	Disappearing Candidate	
+170003	Stage 3	Devil Alarm	
+170004	Stage 4	Variable	
+1701	8-2	Terminal	There are so many traffic lights near the express bus terminal.
+170101	Stage 1	Terminal	
+170102	Stage 2	Terminal	
+170103	Stage 3	Terminal	
+170104	Stage 4	Terminal	
+1702	8-3	Cram School	Cram school is difficult in both the Infernal and Mortal Realms. Good luck, stalwart youth!
+170201	Stage 1	Finding Frej	
+170202	Stage 2	Opponent	
+170203	Stage 3	Negotiations	
+170204	Stage 4	Mona's Idea	
+1703	8-4	Terminal	I can't breathe from all the smog near the express bus terminal.
+170301	Stage 1	Terminal	
+170302	Stage 2	Terminal	
+170303	Stage 3	Terminal	
+170304	Stage 4	Terminal	
+1704	8-5	Frej	The Archfiend Contest, hotter than the midsummer heat.
+170401	Stage 1	Improvised Companion	
+170402	Stage 2	Demonic Devil	
+170403	Stage 3	Safety Numb	
+170404	Stage 4	Demonic Trump Card	
+1705	8-6	Terminal	Watch out for all the accidents near the express bus terminal.
+170501	Stage 1	Terminal	
+170502	Stage 2	Terminal	
+170503	Stage 3	Terminal	
+170504	Stage 4	Terminal	
+1706	8-7	Rufus I	I meet Rufus, the Archfiend heir.
+170601	Stage 1	Breakout Devil	
+170602	Stage 2	Critical Mission	
+170603	Stage 3	Childhood Friend	
+170604	Stage 4	Memories	
+1707	8-8	Rufus II	The nobleman of the Infernal Realm awaits you.
+170701	Stage 1	Doll Fight	
+170702	Stage 2	Strategy	
+170703	Stage 3	According to Plan	
+170704	Stage 4	Rufus the Heir	
+1710	8-1	Congested Zone	The terrible traffic has everyone stressed out.
+171001	Stage 1	Traffic Safety (Hard)	
+1711	8-2	Terminal	Cars buzz across the streets near the express bus terminal.
+171101	Stage 1	Hard - Terminal	
+1712	8-3	Cram School	Students fill the jam-packed classroom with unamused faces.
+171201	Stage 1	Test Wars (Hard)	
+1713	8-4	Terminal	The area near the express bus terminal is getting cleaned up.
+171301	Stage 1	Hard - Terminal	
+1714	8-5	Leuce	I'll work according to my pay grade.
+171401	Stage 1	Money is Everything (Hard)	
+1715	8-6	Terminal	A place near the express bus terminal, where I get a bad feeling.
+171501	Stage 1	Hard - Terminal	
+1716	8-7	Brownie	I deal in all kinds of information.
+171601	Stage 1	She's a Chinchilla! (Hard)	
+1717	8-8	Nicole	I hate it when people take my things.
+171701	Stage 1	Santa Invasion (Hard)	
+2000	1-1	Holy Michael	An ethics teacher preaches about love and compassion.
+200001	Stage 1	All Girls School	
+200002	Stage 2	All Girls School	
+200003	Stage 3	All Girls School	
+200004	Stage 4	All Girls School	
+2001	1-2	Gomorrah	A beast who wears the name of a ruined city.
+200101	Stage 1	Broken Soul	
+200102	Stage 2	Broken Soul	
+200103	Stage 3	Broken Soul	
+200104	Stage 4	Broken Soul	
+2002	1-3	Hydra	An odious shadow that covers the holy land.
+200201	Stage 1	Chaotic Monster	
+200202	Stage 2	Chaotic Monster	
+200203	Stage 3	Chaotic Monster	
+200204	Stage 4	Chaotic Monster	
+2003	1-4	BathoryⅠ	You are my flower, my companion.
+200301	Stage 1	Forever Companion	
+200302	Stage 2	Forever Companion	
+200303	Stage 3	Forever Companion	
+200304	Stage 4	Forever Companion	
+2010	1-1	Aten	Never let your feelings show.
+201001	Stage 1	Checkmate (Hard)	
+2011	1-2	Quirinus	I'll always cheer you on!
+201101	Stage 1	Fight! (Hard)	
+2012	1-3	Calchas	My luck has turned.
+201201	Stage 1	Maybe It's Just Me (Hard)	
+2013	1-4	Thanatos	This will be a nice, slow death.
+201301	Stage 1	Final Moments (Hard)	
+2100	2-1	The Shadow of the All Girls School	Where did the girl who went into the shadow go?
+210001	Stage 1	The Companion Who Disappeared	
+210002	Stage 2	The Companion Who Disappeared	
+210003	Stage 3	The Companion Who Disappeared	
+210004	Stage 4	The Companion Who Disappeared	
+2101	2-2	Asagiri Theresa	God, take pity.
+210101	Stage 1	The Fuzzy Dream	
+210102	Stage 2	The Fuzzy Dream	
+210103	Stage 3	The Fuzzy Dream	
+210104	Stage 4	The Fuzzy Dream	
+2102	2-3	Unknown	The cradle of the dreaming Child stands still.
+210201	Stage 1	The Dreaming, Living Dead	
+210202	Stage 2	The Dreaming, Living Dead	
+210203	Stage 3	The Dreaming, Living Dead	
+210204	Stage 4	The Dreaming, Living Dead	
+2103	2-4	Father Babila	The scheming demon awakens from their slumber.
+210301	Stage 1	The Designer	
+210302	Stage 2	The Designer	
+210303	Stage 3	The Designer	
+210304	Stage 4	The Designer	
+2110	2-1	The Shadow of the All Girls School	Where did the girl who went into the shadow go?
+211001	Stage 1	Hard - The Companion Who Disappeared	
+211002	Stage 2	Hard - The Companion Who Disappeared	
+211003	Stage 3	Hard - The Companion Who Disappeared	
+211004	Stage 4	Hard - The Companion Who Disappeared	
+2111	2-2	Asagiri Theresa	God, take pity.
+211101	Stage 1	Hard - The Fuzzy Dream	
+211102	Stage 2	Hard - The Fuzzy Dream	
+211103	Stage 3	Hard - The Fuzzy Dream	
+211104	Stage 4	Hard - The Fuzzy Dream	
+2112	2-3	Unknown	The cradle of the dreaming Child stands still.
+211201	Stage 1	Hard - The Dreaming, Living Dead	
+211202	Stage 2	Hard - The Dreaming, Living Dead	
+211203	Stage 3	Hard - The Dreaming, Living Dead	
+211204	Stage 4	Hard - The Dreaming, Living Dead	
+2113	2-4	Father Babila	The scheming demon awakens from their slumber.
+211301	Stage 1	Hard - The Designer	
+211302	Stage 2	Hard - The Designer	
+211303	Stage 3	Hard - The Designer	
+211304	Stage 4	Hard - The Designer	
+2200	3-1	Babel	It's so nice out. Another day with perfect weather.
+220001	Stage 1	The Soul's Destination	
+220002	Stage 2	The Soul's Destination	
+220003	Stage 3	The Soul's Destination	
+220004	Stage 4	The Soul's Destination	
+2201	3-2	Bathory II	Before I knew it, I'd stumbled into the battlefield in the dead of night.
+220101	Stage 1	Kind Demon of Nobility	
+220102	Stage 2	Kind Demon of Nobility	
+220103	Stage 3	Kind Demon of Nobility	
+220104	Stage 4	Kind Demon of Nobility	
+2202	3-3	Empty Cradle	Uninvited guests gathered in a godless sanctum.
+220201	Stage 1	Desolated Classroom	
+220202	Stage 2	Desolated Classroom	
+220203	Stage 3	Desolated Classroom	
+220204	Stage 4	Desolated Classroom	
+2203	3-4	Creature	Nameless monster brought forth from darkness.
+220301	Stage 1	From Darkness, a Scream	
+220302	Stage 2	From Darkness, a Scream	
+220303	Stage 3	From Darkness, a Scream	
+220304	Stage 4	From Darkness, a Scream	
+2210	3-1	Babel	It's so nice out. Another day with perfect weather.
+221001	Stage 1	The Soul's Destination (Hard)	
+221002	Stage 2	The Soul's Destination (Hard)	
+221003	Stage 3	The Soul's Destination (Hard)	
+221004	Stage 4	The Soul's Destination (Hard)	
+2211	3-2	Bathory II	Before I knew it, I'd stumbled into the battlefield in the dead of night.
+221101	Stage 1	Kind Demon of Nobility (Hard)	
+221102	Stage 2	Kind Demon of Nobility (Hard)	
+221103	Stage 3	Kind Demon of Nobility (Hard)	
+221104	Stage 4	Kind Demon of Nobility (Hard)	
+2212	3-3	Empty Cradle	Uninvited guests gathered in a godless sanctum.
+221201	Stage 1	Desolated Classroom (Hard)	
+221202	Stage 2	Desolated Classroom (Hard)	
+221203	Stage 3	Desolated Classroom (Hard)	
+221204	Stage 4	Desolated Classroom (Hard)	
+2213	3-4	Creature	Nameless monster brought forth from darkness.
+221301	Stage 1	From Darkness, a Scream (Hard)	
+221302	Stage 2	From Darkness, a Scream (Hard)	
+221303	Stage 3	From Darkness, a Scream (Hard)	
+221304	Stage 4	From Darkness, a Scream (Hard)	
+2300	4-1	Vengeful Kubaba	The Holy Land At Last
+230001	Stage 1	An Ebony Cradle	
+230002	Stage 2	An Ebony Cradle	
+230003	Stage 3	An Ebony Cradle	
+230004	Stage 4	An Ebony Cradle	
+2301	4-2	A Veteran's Strategy	An undefeated veteran stands in the shadows of the misty holy land.
+230101	Stage 1	Rumors of a Demon	
+230102	Stage 2	Rumors of a Demon	
+230103	Stage 3	Rumors of a Demon	
+230104	Stage 4	Rumors of a Demon	
+2302	4-3	Demonic Desires	The flames of malice will never be quenched.
+230201	Stage 1	Chaotic Dreams	
+230202	Stage 2	Chaotic Dreams	
+230203	Stage 3	Chaotic Dreams	
+230204	Stage 4	Chaotic Dreams	
+2303	4-4	Last Holy Day	You are my flower. We are companions.
+230301	Stage 1	Vow of an Unending Soul	
+230302	Stage 2	Vow of an Unending Soul	
+230303	Stage 3	Vow of an Unending Soul	
+230304	Stage 4	Vow of an Unending Soul	
+2310	4-1	Vengeful Kubaba	The Holy Land At Last
+231001	Stage 1	An Ebony Cradle (Hard)	
+231002	Stage 2	An Ebony Cradle (Hard)	
+231003	Stage 3	An Ebony Cradle (Hard)	
+231004	Stage 4	An Ebony Cradle (Hard)	
+2311	4-2	A Veteran's Strategy	An undefeated veteran stands in the shadows of the misty holy land.
+231101	Stage 1	Rumors of a Demon (Hard)	
+231102	Stage 2	Rumors of a Demon (Hard)	
+231103	Stage 3	Rumors of a Demon (Hard)	
+231104	Stage 4	Rumors of a Demon (Hard)	
+2312	4-3	Demonic Desires	The flames of malice will never be quenched.
+231201	Stage 1	Chaotic Dreams (Hard)	
+231202	Stage 2	Chaotic Dreams (Hard)	
+231203	Stage 3	Chaotic Dreams (Hard)	
+231204	Stage 4	Chaotic Dreams (Hard)	
+2313	4-4	Last Holy Day	You are my flower. We are companions.
+231301	Stage 1	Vow of an Unending Soul (Hard)	
+231302	Stage 2	Vow of an Unending Soul (Hard)	
+231303	Stage 3	Vow of an Unending Soul (Hard)	
+231304	Stage 4	Vow of an Unending Soul (Hard)	
+2400	Ⅰ.	The Loneliness in Darkness	The hatred left behind in the Infernal Realm.
+240001	Stage 1	The Two Davis I	
+240002	Stage 2	Creeping Shadow	
+2401	Ⅱ.	Love & Hate Davi	Meeting your antithesis.
+240101	Stage 3	The Two Davis II	
+240102	Stage 4	Another Davi	
+2402	Ⅲ.	The Black Prince's Trick	Snickering can be heard from a corner of the abandoned factory.
+240201	Stage 5	The Two Davis III	
+240202	Stage 6	Sleeping Cradle	
+2403	Ⅳ.	Wailing Black	Unleashed despair.
+240301	Stage 7	Cocoon of Return	
+240302	Stage 8	Awakened Davi	
+2410	Ⅰ.	The Loneliness in Darkness	The hatred left behind in the Infernal Realm.
+241001	Stage 1	The Two Davis I (Hard)	
+241002	Stage 2	Creeping Shadow (Hard)	
+2411	Ⅱ.	Love & Hate Davi	Meeting your antithesis.
+241101	Stage 3	The Two Davis II (Hard)	
+241102	Stage 4	Another Davi (Hard)	
+2412	Ⅲ.	The Black Prince's Trick	Snickering can be heard from a corner of the abandoned factory.
+241201	Stage 5	The Two Davis III (Hard)	
+241202	Stage 6	Sleeping Cradle (Hard)	
+2413	Ⅳ.	Wailing Black	Unleashed despair.
+241301	Stage 7	Cocoon of Return (Hard)	
+241302	Stage 8	Awakened Davi (Hard)	
+2500	Ⅰ.	Prideful Archer	A demon becomes a familiar, and searches for her old training buddy.
+250001	Stage 1	Luin's Intensive Training I	
+250002	Stage 2	Dojo Challenge	
+2501	Ⅱ.	The Lance That Protects The Master	A spear-wielding demon who became an Archfiend candidate's familiar.
+250101	Stage 3	Luin's Intensive Training II	
+250102	Stage 4	Demonic Deadeye	
+2502	Ⅲ.	Brave and Zealous Master Swordsman	An expert swordsman capable of executing a one-hit kill.
+250201	Stage 5	Luin's Intensive Training III	
+250202	Stage 6	Davi's MIA	
+2503	Ⅳ.	Lancer of Unrivaled Loyalty and Valor	The honor of a lancer's master is her own.
+250301	Stage 7	Luin's Intensive Training IV	
+250302	Stage 8	On My Pride	
+2510	Ⅰ.	Prideful Archer	A demon becomes a familiar, and searches for her old training buddy.
+251001	Stage 1	Luin's Intensive Training I (Hard)	
+251002	Stage 2	Dojo Challenge (Hard)	
+2511	Ⅱ.	The Lance That Protects The Master	A spear-wielding demon who became an Archfiend candidate's familiar.
+251101	Stage 3	Luin's Intensive Training II (Hard)	
+251102	Stage 4	Demonic Deadeye (Hard)	
+2512	Ⅲ.	Brave and Zealous Master Swordsman	An expert swordsman capable of executing a one-hit kill.
+251201	Stage 5	Luin's Intensive Training III (Hard)	
+251202	Stage 6	Davi's MIA (Hard)	
+2513	Ⅳ.	Lancer of Unrivaled Loyalty and Valor	The honor of a lancer's master is her own.
+251301	Stage 7	Luin's Intensive Training IV (Hard)	
+251302	Stage 8	On My Pride (Hard)	
+3000	Ⅰ.	Lost Incubus	Eve's aide wanders the Mortal Realm looking for his Master.
+300001	Stage 1	Lord, Have Mercy I	
+300002	Stage 2	Wandering Sheep	
+3001	Ⅱ.	Marine Maiden Enraged	An otherwise perfect demon, she's got no sense of direction and is bad with technology.
+300101	Stage 3	Lord, Have Mercy II	
+300102	Stage 4	Rebellious One	
+3002	Ⅲ.	At the Exorcist Society	The mercy of the Lord and the clarity of the next world be upon every exorcist.
+300201	Stage 5	Lord, Have Mercy III	
+300202	Stage 6	Peace be With You	
+3003	Ⅳ.	Fallen Exorcist	And forgive us our debts, as we forgive our debtors.
+300301	Stage 7	Lord, Have Mercy IV	
+300302	Stage 8	Thou Shalt Not Kill	
+3010	Ⅰ.	Lost Incubus	Eve's aide wanders the Mortal Realm looking for his Master.
+301001	Stage 1	Lord, Have Mercy I (Hard)	
+301002	Stage 2	Wandering Sheep (Hard)	
+3011	Ⅱ.	Marine Maiden Enraged	An otherwise perfect demon, she's got no sense of direction and is bad with technology.
+301101	Stage 3	Lord, Have Mercy II (Hard)	
+301102	Stage 4	Rebellious One (Hard)	
+3012	Ⅲ.	At the Exorcist Society	The mercy of the Lord and the clarity of the next world be upon every exorcist.
+301201	Stage 5	Lord, Have Mercy III (Hard)	
+301202	Stage 6	Peace be With You (Hard)	
+3013	Ⅳ.	Fallen Exorcist	And forgive us our debts, as we forgive our debtors.
+301301	Stage 7	Lord, Have Mercy IV (Hard)	
+301302	Stage 8	Thou Shalt Not Kill (Hard)	
+3100	Ⅰ.	Virupaksa	Devote and offer yourself to Virupaksa, leader of dragons.
+310001	Stage 1	Worldly Desires	
+310002	Stage 2	Taboo	
+3101	Ⅱ.	Elegy for the Marine Maiden	He hath set me in dark places, as they that be dead of old.\Lamentations 3:6
+310101	Stage 3	Dead Bodies	
+310102	Stage 4	Angels from Hell	
+3102	Ⅲ.	Mechanical Love	Even these maternal tendencies are little more\than a programmed behavioral pattern.
+310201	Stage 5	The Mark of the Sinner	
+310202	Stage 6	Dolls	
+3103	Ⅳ.	Electric Pathos	Do demon-made dolls shed electric tears?
+310301	Stage 7	The Second Death	
+310302	Stage 8	The One Who Retaliates	
+3110	Ⅰ.	Virupaksa	Commit and present yourself to Virupaksa, leader of dragons.
+311001	Stage 1	Worldly Desires (Hard)	
+311002	Stage 2	Taboo (Hard)	
+3111	Ⅱ.	Gospel for the Marine Maiden	I have sinned in that I have betrayed innocent blood.\The Gospel according to Matthew 27:4
+311101	Stage 3	Dead Bodies (Hard)	
+311102	Stage 4	Angels from Hell (Hard)	
+3112	Ⅲ.	Mechanical Love	Even these maternal tendencies are little more\than a programmed behavioral pattern.
+311201	Stage 5	The Mark of the Sinner (Hard)	
+311202	Stage 6	Dolls (Hard)	
+3113	Ⅳ.	Electric Pathos	Do demon-made dolls shed electric tears?
+311301	Stage 7	The Second Death (Hard)	
+311302	Stage 8	The One Who Retaliates (Hard)	
+3200	I.	Scar	I'm in a loop.\Can I break out of this endless rotation of destiny?
+320001	Stage 1	Kill	
+320002	Stage 2	Scar	
+3201	Ⅱ.	The King's Advent	I'm in a loop.\Can I break out of this endless rotation of destiny?
+320101	Stage 3	Blind Brat	
+320102	Stage 4	The King's Advent	
+3202	Ⅲ.	Reunion	I'm in a loop.\Can I break out of this endless rotation of destiny?
+320201	Stage 5	Netherworld Wind	
+320202	Stage 6	Reunion	
+3203	Ⅳ.	End of Childhood	I'm in a loop.\Can I break out of this endless rotation of destiny?
+320301	Stage 7	Purgatory	
+320302	Stage 8	End of Childhood	
+3210	I.	Scar	
+321001	Stage 1	Kill(Hard)	
+321002	Stage 2	Scar(Hard)	
+3211	Ⅱ.	The King's Advent	
+321101	Stage 3	Blind Brat(Hard)	
+321102	Stage 4	The King's Advent(Hard)	
+3212	Ⅲ.	Reunion	
+321201	Stage 5	Netherworld Wind(Hard)	
+321202	Stage 6	Reunion(Hard)	
+3213	Ⅳ.	End of Childhood	
+321301	Stage 7	Purgatory(Hard)	
+321302	Stage 8	End of Childhood(Hard)	
+4000	Ⅰ.	Netherworld	He will save you from malicious intent.\Have faith in him without a doubt.
+400001	Stage 1	Narrow Gate	
+400002	Stage 2	Netherworld	
+4001	Ⅱ.	The Breath of Life	He will save you from malicious intent.\Have faith in him without a doubt.
+400101	Stage 3	Our Lady	
+400102	Stage 4	The Breath of Life	
+4002	Ⅲ.	Sheep's Clothing	He will save you from malicious intent.\Have faith in him without a doubt.
+400201	Stage 5	Netherworld	
+400202	Stage 6	Sheep's Clothing	
+4003	Ⅳ.	Removing Lampstand	He will save you from malicious intent.\Have faith in him without a doubt.
+400301	Stage 7	Doubtful Disciple	
+400302	Stage 8	Removing Lampstand	
+4010	I.	Netherworld	He will save you from malicious intent.\Have faith in him without a doubt.
+401001	Stage 1	Narrow Gate(Hard)	
+401002	Stage 2	Netherworld(Hard)	
+4011	Ⅱ.	The Breath of Life	He will save you from malicious intent.\Have faith in him without a doubt.
+401101	Stage 3	Our Lady(Hard)	
+401102	Stage 4	The Breath of Life(Hard)	
+4012	Ⅲ.	Sheep's Clothing	He will save you from malicious intent.\Have faith in him without a doubt.
+401201	Stage 5	Netherworld(Hard)	
+401202	Stage 6	Sheep's Clothing(Hard)	
+4013	Ⅳ.	Removing Lampstand	He will save you from malicious intent.\Have faith in him without a doubt.
+401301	Stage 7	Doubtful Disciple(Hard)	
+401302	Stage 8	Removing Lampstand (Hard)	
+4100	Ⅰ.	Good Friends	Please don't leave me. I exist because of you.
+410001	Stage 1	Bound by Destiny	BLANK
+410002	Stage 2	Good Friends	BLANK
+4101	Ⅱ.	Karmic Hindrances	Please don't leave me. I exist because of you.
+410101	Stage 3	Susuri Sabaha	BLANK
+410102	Stage 4	Karmic Hindrances	BLANK
+4102	Ⅲ.	Transmigration	Please don't leave me. I exist because of you.
+410201	Stage 5	Foot of This World	BLANK
+410202	Stage 6	Transmigration	BLANK
+4103	Ⅳ.	Karma Builder	Please don't leave me. I exist because of you.
+410301	Stage 7	Dark Karma	BLANK
+410302	Stage 8	Karma Builder	BLANK
+4110	I.	Good Friends	The Wheel of Life is crushing me, but I can't stop it.
+411001	Stage 1	Bound by Destiny (Hard)	BLANK
+411002	Stage 2	Good Friends (Hard)	BLANK
+4111	Ⅱ.	Karmic Hindrances	The Wheel of Life is crushing me, but I can't stop it.
+411101	Stage 3	Susuri Sabaha (Hard)	BLANK
+411102	Stage 4	Karmic Hindrances (Hard)	BLANK
+4112	Ⅲ.	Transmigration	The Wheel of Life is crushing me, but I can't stop it.
+411201	Stage 5	Foot of This World (Hard)	BLANK
+411202	Stage 6	Transmigration (Hard)	BLANK
+4113	Ⅳ.	Karma Builder	The Wheel of Life is crushing me, but I can't stop it.
+411301	Stage 7	Dark Karma (Hard)	BLANK
+411302	Stage 8	Karma Builder (Hard)	BLANK
+4200	Ⅰ.	The Uninvited	Memories can fade away; anger can't.
+420001	Stage 1	A Match Made in Heaven	BLANK
+420002	Stage 2	The Uninvited	BLANK
+4201	Ⅱ.	I'm Back	Memories can fade away; anger can't.
+420101	Stage 3	Welcome	BLANK
+420102	Stage 4	I'm Back	BLANK
+4202	Ⅲ.	Shadows of the Past	Memories can fade away; anger can't.
+420201	Stage 5	Declaration	BLANK
+420202	Stage 6	Shadows of the Past	BLANK
+4203	Ⅳ.	Opportunity	Memories can fade away; anger can't.
+420301	Stage 7	What Matters	BLANK
+420302	Stage 8	Opportunity	BLANK
+4210	I.	The Uninvited	A familiar house, an unfamiliar family, and... old friends.
+421001	Stage 1	Hard - A Match Made in Heaven	BLANK
+421002	Stage 2	Hard - The Uninvited	BLANK
+4211	Ⅱ.	I'm Back	A familiar house, an unfamiliar family, and... old friends.
+421101	Stage 3	Hard - Welcome	BLANK
+421102	Stage 4	Hard - I'm Back	BLANK
+4212	Ⅲ.	Shadows of the Past	A familiar house, an unfamiliar family, and... old friends.
+421201	Stage 5	Hard - Declaration	BLANK
+421202	Stage 6	Hard - Shadows of the Past	BLANK
+4213	Ⅳ.	Opportunity	A familiar house, an unfamiliar family, and... old friends.
+421301	Stage 7	Hard - What Matters	BLANK
+421302	Stage 8	Hard - Opportunity	BLANK
+4300	Ⅰ.	Unexpected Supporter	There's always enough time.\What's left is a decision.
+430001	Stage 1	Demon's Trick	BLANK
+430002	Stage 2	Unexpected Supporter	BLANK
+4301	Ⅱ.	Demon Den	There's always enough time.\What's left is a decision.
+430101	Stage 3	Freshman	BLANK
+430102	Stage 4	Demon Den	BLANK
+4302	Ⅲ.	Collar	There's always enough time.\What's left is a decision.
+430201	Stage 5	Lost Fairy	BLANK
+430202	Stage 6	Collar	BLANK
+4303	Ⅳ.	Fiery Serpent	There's always enough time.\What's left is a decision.
+430301	Stage 7	What Matters	BLANK
+430302	Stage 8	Fiery Serpent	BLANK
+4310	I.	Unexpected Supporter	Lost child,\throw yourself into the fire.
+431001	Stage 1	Hard - Demon's Trick	BLANK
+431002	Stage 2	Hard - Unexpected Supporter	BLANK
+4311	Ⅱ.	Demon Den	Lost child,\throw yourself into the fire.
+431101	Stage 3	Hard - Freshman	BLANK
+431102	Stage 4	Hard - Demon Den	BLANK
+4312	Ⅲ.	Collar	Lost child,\throw yourself into the fire.
+431201	Stage 5	Hard - Lost Fairy	BLANK
+431202	Stage 6	Hard - Collar	BLANK
+4313	Ⅳ.	Fiery Serpent	Lost child,\throw yourself into the fire.
+431301	Stage 7	Hard - What Matters	BLANK
+431302	Stage 8	Hard - Fiery Serpent	BLANK
+4400	Ⅰ.	Mea Culpa	My Beautiful One, Come Along
+440001	Stage 1	Catch a Tail	
+440002	Stage 2	Mea Culpa	
+4401	Ⅱ.	Fiend's Grave	My Beautiful One, Come Along
+440101	Stage 3	Snake Tongue	
+440102	Stage 4	Fiend's Grave	
+4402	Ⅲ.	Rose of Sharon	My Beautiful One, Come Along
+440201	Stage 5	Swear Not	
+440202	Stage 6	Rose of Sharon	
+4403	Ⅳ.	Iron Maiden	My Beautiful One, Come Along
+440301	Stage 7	In Your Blood	
+440302	Stage 8	Iron Maiden	
+4410	I.	Mea Culpa	Who's that woman, shining like the sun\and terrifying like an army with banners raised above it?
+441001	Stage 1	Catch a Tail (Hard)	
+441002	Stage 2	Mea Culpa (Hard)	
+4411	Ⅱ.	Fiend's Grave	Who's that woman, shining like the sun\and terrifying like an army with banners raised above it?
+441101	Stage 3	Snake Tongue (Hard)	
+441102	Stage 4	Fiend's Grave (Hard)	
+4412	Ⅲ.	Rose of Sharon	Who's that woman, shining like the sun\and terrifying like an army with banners raised above it?
+441201	Stage 5	Swear Not (Hard)	
+441202	Stage 6	Rose of Sharon (Hard)	
+4413	Ⅳ.	Iron Maiden	Who's that woman, shining like the sun\and terrifying like an army with banners raised above it?
+441301	Stage 7	In Your Blood (Hard)	
+441302	Stage 8	Iron Maiden (Hard)	
+4500	Ⅰ.	Reconciliation and Restraint	I'm not worthy of those words.
+450001	Stage 1	Dawn	
+450002	Stage 2	Deserving of Gratitude	
+4501	Ⅱ.	Miriam's Past	Where's my family? Where's Aaron?!
+450101	Stage 3	Psychometry Together	
+450102	Stage 4	The Witch's House	
+4502	Ⅲ.	The Heart Is as the Moon in the Water	No, I... I just want to hold hands with Mitra.
+450201	Stage 5	The Apostates	
+450202	Stage 6	Arhat and Mitra's World	
+4503	Ⅳ.	Caduceus's Decisive Battle!	Let's get it started! We fight to the death!
+450301	Stage 7	Sinister Omen	
+450302	Stage 8	Tathagata Awakened	
+4510	Ⅰ.	Reconciliation and Restraint	I'm not worthy of those words.
+451001	Stage 1	Dawn (Hard)	
+451002	Stage 2	Deserving of Gratitude (Hard)	
+4511	Ⅱ.	Miriam's Past	Where's my family? Where's Aaron?!
+451101	Stage 3	Psychometry Together (Hard)	
+451102	Stage 4	The Witch's House (Hard)	
+4512	Ⅲ.	The Heart Is as the Moon in the Water	No, I... I just want to hold hands with Mitra.
+451201	Stage 5	The Apostates (Hard)	
+451202	Stage 6	Arhat and Mitra's World (Hard)	
+4513	Ⅳ.	Caduceus's Decisive Battle!	Let's get it started! We fight to the death!
+451301	Stage 7	Sinister Omen (Hard)	
+451302	Stage 8	Tathagata Awakened (Hard)	
+4600	Ⅰ.	Universe Zombie Eve	Semele!\What did you do to Eve?!
+460001	Stage 1	Dangerous Demon	
+460002	Stage 2	Strategy	
+4601	Ⅱ.	The Spear of Longinus	Tell me.\How do I defeat Loki?
+460101	Stage 3	Comedy	
+460102	Stage 4	Descent	
+4602	Ⅲ.	Ziva Vs. Seth	Why is a Child chanting exorcist incantations?
+460201	Stage 5	Public Enemy	
+460202	Stage 6	Holy Uninvited Guest 1	
+4603	Ⅳ.	Loki's Universe	Don't you want to kill me?\How long will you keep me waiting?
+460301	Stage 7	Holy Uninvited Guest 2	
+460302	Stage 8	Thrill Ride	
+4610	Ⅰ.	Universe Zombie Eve	Semele!\What did you do to Eve?!
+461001	Stage 1	Dangerous Demon (Hard)	
+461002	Stage 2	Strategy (Hard)	
+4611	Ⅱ.	The Spear of Longinus	Tell me.\How do I defeat Loki?
+461101	Stage 3	Comedy (Hard)	
+461102	Stage 4	Descent (Hard)	
+4612	Ⅲ.	Ziva Vs. Seth	Why is a Child chanting exorcist incantations?
+461201	Stage 5	Public Enemy (Hard)	
+461202	Stage 6	Holy Uninvited Guest 1 (Hard)	
+4613	Ⅳ.	Loki's Universe	Don't you want to kill me?\How long will you keep me waiting?
+461301	Stage 7	Holy Uninvited Guest 2 (Hard)	
+461302	Stage 8	Thrill Ride (Hard)	
+4700	Ⅰ.	The Elder's Account	The great city, Sodom, where He was crucified.\From Revelation 11:8
+470001	Stage 1	Ashram	
+470002	Stage 2	The Elder's Account	
+4701	Ⅱ.	Soul Seed 2	The great city, Sodom, where He was crucified.\From Revelation 11:8
+470101	Stage 3	Soul Seed 1	
+470102	Stage 4	Soul Seed 2	
+4702	Ⅲ.	Several Secrets	The great city, Sodom, where He was crucified.\From Revelation 11:8
+470201	Stage 5	Pursuing the Potion	
+470202	Stage 6	Several Secrets	
+4703	Ⅳ.	May We Meet Again	The great city, Sodom, where He was crucified.\From Revelation 11:8
+470301	Stage 7	Unpleasant Magic	
+470302	Stage 8	May We Meet Again	
+4710	Ⅰ.	The Elder's Account	He must also be lifted up,\as the serpent of the wilderness...
+471001	Stage 1	HARDAshram	
+471002	Stage 2	HARDThe Elder's Account	
+4711	Ⅱ.	Soul Seed 2	He must also be lifted up,\as the serpent of the wilderness...
+471101	Stage 3	HARDSoul Seed 1	
+471102	Stage 4	HARDSoul Seed 2	
+4712	Ⅲ.	Several Secrets	He must also be lifted up,\as the serpent of the wilderness...
+471201	Stage 5	HARDPursuing the Potion	
+471202	Stage 6	HARDSeveral Secrets	
+4713	Ⅳ.	May We Meet Again	He must also be lifted up,\as the serpent of the wilderness...
+471301	Stage 7	HARDUnpleasant Magic	
+471302	Stage 8	HARDMay We Meet Again	
+5000	Ⅰ.	Arcanum Experiment	Kill me. Save me.
+500001	Stage 1	Black Phase	
+500002	Stage 2	Arcanum Experiment	
+5001	Ⅱ.	Cibation	Kill me. Save me.
+500101	Stage 3	Antimony	
+500102	Stage 4	Cibation	
+5002	Ⅲ.	Circle	Kill me. Save me.
+500201	Stage 5	Ouroboros	
+500202	Stage 6	Circle	
+5003	Ⅳ.	Coagulation	Kill me. Save me.
+500301	Stage 7	Litharge	
+500302	Stage 8	Coagulation	
+5010	Ⅰ.	Arcanum Experiment	Glory to corruption.\Be reborn, ye ancient.
+501001	Stage 1	HARD Black Phase	
+501002	Stage 2	HARD Arcanum Experiment	
+5011	Ⅱ.	Cibation	Glory to corruption.\Be reborn, ye ancient.
+501101	Stage 3	HARD Antimony	
+501102	Stage 4	HARD Cibation	
+5012	Ⅲ.	Circle	Glory to corruption.\Be reborn, ye ancient.
+501201	Stage 5	HARD Ouroboros	
+501202	Stage 6	HARD Circle	
+5013	Ⅳ.	Coagulation	
+501301	Stage 7	HARD Litharge	
+501302	Stage 8	HARD Coagulation	
+5100	Ⅰ.	You Reap What You Sow	Reach Nirvana.
+510001	Stage 1	A Candle in the Wind	
+510002	Stage 2	You Reap What You Sow	
+5101	Ⅱ.	The Unexpected	Reach Nirvana.
+510101	Stage 3	Worldly Desires	
+510102	Stage 4	The Unexpected	
+5102	Ⅲ.	Waking From the Dream	Reach Nirvana.
+510201	Stage 5	Spirit of the Shrine Maiden	
+510202	Stage 6	Waking From the Dream	
+5103	Ⅳ.	The Path to Nirvana	Reach Nirvana.
+510301	Stage 7	Antipathy	
+510302	Stage 8	The Path to Nirvana	
+5110	Ⅰ.	You Reap What You Sow	Anger more fearsome than a raging fire...
+511001	Stage 1	HARDA Candle in the Wind	
+511002	Stage 2	HARDYou Reap What You Sow	
+5111	Ⅱ.	The Unexpected	Anger more fearsome than a raging fire...
+511101	Stage 3	HARDWorldly Desires	
+511102	Stage 4	HARDThe Unexpected	
+5112	Ⅲ.	Waking From the Dream	Anger more fearsome than a raging fire...
+511201	Stage 5	HARDSpirit of the Shrine Maiden	
+511202	Stage 6	HARDWaking From the Dream	
+5113	Ⅳ.	The Path to Nirvana	Anger more fearsome than a raging fire...
+511301	Stage 7	HARDAntipathy	
+511302	Stage 8	HARDThe Path to Nirvana	
+5200	Ⅰ.	Easier to Act Than Worry	Death is but a minor event.\Life and red blood flow as one.
+520001	Stage 1	No Ordinary Fellow	
+520002	Stage 2	Easier to Act Than Worry	
+5201	Ⅱ.	Only One Name	Death is but a minor event.\Life and red blood flow as one.
+520101	Stage 3	Filthy Once More	
+520102	Stage 4	Only One Name	
+5202	Ⅲ.	I Must Save My Friend	Death is but a minor event.\Life and red blood flow as one.
+520201	Stage 5	Inevitability	
+520202	Stage 6	I Must Save My Friend	
+5203	Ⅳ.	Celebrating Freedom	Death is but a minor event.\Life and red blood flow as one.
+520301	Stage 7	Doing It With Panache?	
+520302	Stage 8	Celebrating Freedom	
+5210	Ⅰ.	Easier to Act Than Worry	Drink of my blood and gain life.
+521001	Stage 1	HARDNo Ordinary Fellow	
+521002	Stage 2	HARDEasier to Act Than Worry	
+5211	Ⅱ.	Only One Name	Drink of my blood and gain life.
+521101	Stage 3	HARDFilthy Once More	
+521102	Stage 4	HARDOnly One Name	
+5212	Ⅲ.	I Must Save My Friend	Drink of my blood and gain life.
+521201	Stage 5	HARDInevitability	
+521202	Stage 6	HARDI Must Save My Friend	
+5213	Ⅳ.	Celebrating Freedom	Drink of my blood and gain life.
+521301	Stage 7	HARDDoing It With Panache?	
+521302	Stage 8	HARDCelebrating Freedom	
+5300	Ⅰ.	A New Destination	Satan occasionally disguises himself\as an angel of light.
+530001	Stage 1	Memories of that Day	
+530002	Stage 2	A New Destination	
+5301	Ⅱ.	His Friend	Satan occasionally disguises himself\as an angel of light.
+530101	Stage 3	Infiltration	
+530102	Stage 4	His Friend	
+5302	Ⅲ.	False Prophet	Satan occasionally disguises himself\as an angel of light.
+530201	Stage 5	Lie	
+530202	Stage 6	False Prophet	
+5303	Ⅳ.	Destined to Meet Again	Satan occasionally disguises himself\as an angel of light.
+530301	Stage 7	Reunion	
+530302	Stage 8	Destined to Meet Again	
+5310	Ⅰ.	A New Destination	What could it bring you,\that tongue which deceives you?
+531001	Stage 1	Memories of that Day (HARD)	
+531002	Stage 2	A New Destination (HARD)	
+5311	Ⅱ.	His Friend	What could it bring you,\that tongue which deceives you?
+531101	Stage 3	Infiltration (HARD)	
+531102	Stage 4	His Friend (HARD)	
+5312	Ⅲ.	False Prophet	What could it bring you,\that tongue which deceives you?
+531201	Stage 5	Lie (HARD)	
+531202	Stage 6	False Prophet (HARD)	
+5313	Ⅳ.	Destined to Meet Again	What could it bring you,\that tongue which deceives you?
+531301	Stage 7	Reunion (HARD)	
+531302	Stage 8	Destined to Meet Again (HARD)	
+5400	Ⅰ.	Legend	Destiny is guidance. Guidance comes from sincerity.\And sincerity, from hope and trust.
+540001	Stage 1	Reunion	
+540002	Stage 2	Legend	
+5401	Ⅱ.	Revelation	Destiny is guidance. Guidance comes from sincerity.\And sincerity, from hope and trust.
+540101	Stage 3	Suffering	
+540102	Stage 4	Revelation	
+5402	Ⅲ.	Truth and Falsehood	Destiny is guidance. Guidance comes from sincerity.\And sincerity, from hope and trust.
+540201	Stage 5	State of Selflessness	
+540202	Stage 6	Truth and Falsehood	
+5403	Ⅳ.	Destiny	Destiny is guidance. Guidance comes from sincerity.\And sincerity, from hope and trust.
+540301	Stage 7	Catastrophe	
+540302	Stage 8	Destiny	
+5410	Ⅰ.	Legend	I must follow through.\I will accept my fate.
+541001	Stage 1	Reunion (HARD)	
+541002	Stage 2	Legend (HARD)	
+5411	Ⅱ.	Revelation	I must follow through.\I will accept my fate.
+541101	Stage 3	Suffering (HARD)	
+541102	Stage 4	Revelation (HARD)	
+5412	Ⅲ.	Truth and Falsehood	I must follow through.\I will accept my fate.
+541201	Stage 5	State of Selflessness (HARD)	
+541202	Stage 6	Truth and Falsehood (HARD)	
+5413	Ⅳ.	Destiny	I must follow through.\I will accept my fate.
+541301	Stage 7	Catastrophe (HARD)	
+541302	Stage 8	Destiny (HARD)	

@@ -1,0 +1,1029 @@
+﻿// key	DUNGEON_NAME_	DUNGEON_SECOND_NAME_	DUNGEON_LOCATION_DESC_
+1000	1-1	Tutoriel	Mona vous enseigne les bases ♥
+100001	Niveau 1	Tutoriel 1	
+100002	Niveau 2	Tutoriel 2	
+100003	Niveau 3	Tutoriel 3	
+100004	Niveau 4	Tutoriel 4	
+1001	1-2	Déméter I	L'infirmière, un ange en blanc... Mais quid de Déméter ?
+100101	Niveau 1	Donjon d'âme	
+100102	Niveau 2	Pauvre démon	
+100103	Niveau 3	Concours du Roi des démons	
+100104	Niveau 4	Audacieuse Déméter	
+1002	1-3	Centre-ville	Un endroit du centre-ville où les désirs humains s'épanouissent.
+100201	Niveau 1	Centre-ville	
+100202	Niveau 2	Centre-ville	
+100203	Niveau 3	Centre-ville	
+100204	Niveau 4	Centre-ville	
+1003	1-4	Déméter II	Oh oh ! Pourquoi cette infirmière est-elle si forte ?
+100301	Niveau 1	Le vrai visage de la succube	
+100302	Niveau 2	Démon millénaire	
+100303	Niveau 3	Désirs humains	
+100304	Niveau 4	Envie et regret	
+1004	1-5	Centre-ville	Un endroit du centre-ville où la passion s'exprime librement.
+100401	Niveau 1	Centre-ville	
+100402	Niveau 2	Centre-ville	
+100403	Niveau 3	Centre-ville	
+100404	Niveau 4	Centre-ville	
+1005	1-6	Délices	La gourmandise est l'un des sept péchés capitaux. Gardez vos péchés pour vous !
+100501	Niveau 1	Démon assidu	
+100502	Niveau 2	Démon disqualifié	
+100503	Niveau 3	Gaffe à répétition	
+100504	Niveau 4	Vœu véritable	
+1006	1-7	Centre-ville	Un endroit du centre-ville où les désirs abondent.
+100601	Niveau 1	Centre-ville	
+100602	Niveau 2	Centre-ville	
+100603	Niveau 3	Centre-ville	
+100604	Niveau 4	Centre-ville	
+1007	1-8	Mammon	De quoi a besoin tout homme compétent ? D'un sac.\D'une sacoche, plus précisément. Vous n'en avez pas ? Procurez-vous-en une sans tarder !
+100701	Niveau 1	Roi doré dévoilé	
+100702	Niveau 2	Tout va bien	
+100703	Niveau 3	Souverain absolu	
+100704	Niveau 4	Sortie royale	
+1010	1-1	Début	Attention à l'effondrement de la gestalt suite à un travail de routine excessif.
+101001	Niveau 1	Difficile	
+1011	1-2	Daphné	La vie est un enchaînement de combats.\Héros ! Lève-toi et sors vainqueur !
+101101	Niveau 1	Difficile - Épreuve du héros	
+1012	1-3	Centre-ville	Tourbillon de désirs ! Désirs appréciables ! Désirs désirables !
+101201	Niveau 1	Difficile - Centre-ville	
+1013	1-4	Phrygie	L'amour est un attachement. J'entends ses pas, car elle continue de me suivre...
+101301	Niveau 1	Difficile - Lettre d'amour rouge	
+1014	1-5	Centre-ville	Un tourbillon de passion et d'enthousiasme intolérable.
+101401	Niveau 1	Difficile - Centre-ville	
+1015	1-6	Délices	Ci-gît quelqu'un qui a commis le péché de gourmandise.
+101501	Niveau 1	Difficile - Démon assidu	
+1016	1-7	Centre-ville	Soif réprimée et fièvre de cheval.
+101601	Niveau 1	Difficile - Centre-ville	
+1017	1-8	Mayahuel	Vous ne m'avez pas choisi. C'est moi qui vous ai choisi.
+101701	Niveau 1	Difficile - Collectionneur fou	
+1100	2-1	Périphérie de la ville	Arrêtons-nous en périphérie de la ville.
+110001	Niveau 1	Périphérie de la ville	
+110002	Niveau 2	Périphérie de la ville	
+110003	Niveau 3	Périphérie de la ville	
+110004	Niveau 4	Périphérie de la ville	
+1101	2-2	Pyro	Et dans son fantastique premier rôle : mon corps !
+110101	Niveau 1	Garçon ordinaire	
+110102	Niveau 2	Fougue contre paresse	
+110103	Niveau 3	La générosité du champion	
+110104	Niveau 4	Pyro l'enflammé	
+1102	2-3	Périphérie de la ville	Dans une ruelle discrète de la périphérie de la ville...
+110201	Niveau 1	Périphérie de la ville	
+110202	Niveau 2	Périphérie de la ville	
+110203	Niveau 3	Périphérie de la ville	
+110204	Niveau 4	Périphérie de la ville	
+1103	2-4	Cù-Sith	... Vit un oiseau sauvage qui attaque les queues d'abord.
+110301	Niveau 1	Chasseur de démon	
+110302	Niveau 2	Crocs orgueilleux	
+110303	Niveau 3	Guerre de l'invocateur	
+110304	Niveau 4	Rival du quartier	
+1104	2-5	Ville tranquille	Une ville tranquille. Un carrefour proche qui mène au Royaume infernal.
+110401	Niveau 1	Ville tranquille	
+110402	Niveau 2	Ville tranquille	
+110403	Niveau 3	Ville tranquille	
+110404	Niveau 4	Ville tranquille	
+1105	2-6	Ville tranquille	Une ville tranquille. Un carrefour à proximité qui mène au Royaume infernal.
+110501	Niveau 1	Ville tranquille	
+110502	Niveau 2	Ville tranquille	
+110503	Niveau 3	Ville tranquille	
+110504	Niveau 4	Ville tranquille	
+1106	2-7	Freyja I	L'adorable chat s'est enfui !\Que la colère des cieux s'abatte sur toi ! Tu vas connaître l'enfer !
+110601	Niveau 1	Chat blessé	
+110602	Niveau 2	Drôle de numéro	
+110603	Niveau 3	Invité indésirable	
+110604	Niveau 4	Chat errant	
+1107	2-8	Freyja II	Freyjaaaa, tout était de la faute du maître.\Oh, qui es-tu ? Freyr ?
+110701	Niveau 1	Chat timide	
+110702	Niveau 2	Chat sauvage	
+110703	Niveau 3	Chat ronronnant	
+110704	Niveau 4	Les sentiments d'un chat	
+1110	2-1	Périphérie de la ville	Près de la périphérie de la ville, là où mes pieds se sont arrêtés.
+111001	Niveau 1	Difficile - Périphérie de la ville	
+1111	2-2	Muse	La nuit, le chant du démon résonne dans l'air de la ville sombre.
+111101	Niveau 1	Difficile - Rock star solitaire	
+1112	2-3	Périphérie de la ville	Près de la périphérie de la ville, une ruelle où j'ai rencontré un démon.
+111201	Niveau 1	Difficile - Périphérie de la ville	
+1113	2-4	Neith	Attention la tête ! Gare aux bombes !
+111301	Niveau 1	Difficile - Champ de bataille	
+1114	2-5	Ville tranquille	Traversez la porte du Royaume infernal près de la ville tranquille.
+111401	Niveau 1	Difficile - Ville tranquille	
+1115	2-6	Ville tranquille	J'ai frappé à la porte du Royaume infernal près de la ville tranquille.
+111501	Niveau 1	Difficile - Ville tranquille	
+1116	2-7	Hector	Je demande un lourd tribut !
+111601	Niveau 1	Difficile - Guerre de mercenaires	
+1117	2-8	Léda	Oui, princesse ?
+111701	Niveau 1	Difficile - Ma princesse	
+1200	3-1	Rue de l'université	Près de la rue de l'université. Quel est cet endroit ? Je ne le connais pas.
+120001	Niveau 1	Rue de l'université	
+120002	Niveau 2	Rue de l'université	
+120003	Niveau 3	Rue de l'université	
+120004	Niveau 4	Rue de l'université	
+1201	3-2	Hécate	Humain ou démon, il est mal avisé\de juger quelqu'un à son apparence...
+120101	Niveau 1	Démon de base	
+120102	Niveau 2	Démon agréable	
+120103	Niveau 3	Préférences de l'assistante	
+120104	Niveau 4	Cœur de sorcière	
+1202	3-3	Rue de l'université	Quelque part près de la rue de l'université. J'espère avoir rendez-vous avec quelqu'un que j'adore ♥
+120201	Niveau 1	Rue de l'université	
+120202	Niveau 2	Rue de l'université	
+120203	Niveau 3	Rue de l'université	
+120204	Niveau 4	Rue de l'université	
+1203	3-4	Supérette	Un microcosme connu dans la ville sous le nom de "supérette".
+120301	Niveau 1	Démon de supérette	
+120302	Niveau 2	Boulette de riz	
+120303	Niveau 3	Prérogatives et responsabilités du maître	
+120304	Niveau 4	Une journée à la supérette	
+1204	3-5	Rue de l'université	Quelque part près de la rue de l'université. J'entends quelqu'un crier...
+120401	Niveau 1	Rue de l'université	
+120402	Niveau 2	Rue de l'université	
+120403	Niveau 3	Rue de l'université	
+120404	Niveau 4	Rue de l'université	
+1205	3-6	Rue de l'université	Quelque part près de la rue de l'université.\Je ne sais pas à quoi ressemble la personne que je dois rencontrer...
+120501	Niveau 1	Rue de l'université	
+120502	Niveau 2	Rue de l'université	
+120503	Niveau 3	Rue de l'université	
+120504	Niveau 4	Rue de l'université	
+1206	3-7	Jeanne d'Arc I	Est-ce Dieu qui se reflète dans les yeux du prêtre perdu, ou un démon ?
+120601	Niveau 1	La contre-attaque de Freyr	
+120602	Niveau 2	Qui se ressemble se désassemble	
+120603	Niveau 3	L'arrivée de la déesse	
+120604	Niveau 4	Attaque par document	
+1207	3-8	Jeanne d'Arc II	Les prières restent lettre morte en présence d'un démon...
+120701	Niveau 1	Assaut frontal	
+120702	Niveau 2	Allusion au pacte	
+120703	Niveau 3	Doctrine habile	
+120704	Niveau 4	Démon couard	
+1210	3-1	Rue de l'université	Quelque part près de la rue de l'université. À présent, invoquez le démon !
+121001	Niveau 1	Difficile - Rue de l'université	
+1211	3-2	Fenrir	Un guerrier taciturne qui se bat au nom de l'amour.
+121101	Niveau 1	Difficile - Démon de base	
+1212	3-3	Rue de l'université	Quelque part près de la rue de l'université. Cette rencontre était prédestinée.
+121201	Niveau 1	Difficile - Rue de l'université	
+1213	3-4	Supérette	La supérette... le théâtre de la vie.
+121301	Niveau 1	Difficile - Démon de supérette	
+1214	3-5	Rue de l'université	Une chose effacée de l'existence erre sans but près de la rue de l'université.
+121401	Niveau 1	Difficile - Rue de l'université	
+1215	3-6	Rue de l'université	Les gens déambulent près de la rue de l'université à la recherche de quelque chose...
+121501	Niveau 1	Difficile - Rue de l'université	
+1216	3-7	Inanna	Le but de ma vie : devenir la méchante la plus odieuse du monde !
+121601	Niveau 1	Difficile - L'attaque d'Inanna	
+1217	3-8	Perséphone	La négociatrice rend visite à ceux qui ont échoué en Enfer.
+121701	Niveau 1	Difficile - Assaut frontal	
+1300	4-1	Centre-ville	Un lieu inhabituel près du centre-ville.
+130001	Niveau 1	Centre-ville	
+130002	Niveau 2	Centre-ville	
+130003	Niveau 3	Centre-ville	
+130004	Niveau 4	Centre-ville	
+1301	4-2	Apollon	Dans le langage des fleurs, le tournesol symbolise l'adoration.
+130101	Niveau 1	Naissance	
+130102	Niveau 2	Les vénérés I	
+130103	Niveau 3	Les vénérés II	
+130104	Niveau 4	Confiance réciproque	
+1302	4-3	Centre-ville	Le centre-ville, un lieu hors du spectre visible.
+130201	Niveau 1	Centre-ville	
+130202	Niveau 2	Centre-ville	
+130203	Niveau 3	Centre-ville	
+130204	Niveau 4	Centre-ville	
+1303	4-4	Gynécologie-obstétrique	Les enfants sont notre espoir d'un avenir !
+130301	Niveau 1	Béatitude	
+130302	Niveau 2	L'excuse du démon	
+130303	Niveau 3	Assez !	
+130304	Niveau 4	Réceptacle inachevé	
+1304	4-5	Ville nouvelle	Le lieu le moins élevé de la Terre, près de la ville nouvelle.
+130401	Niveau 1	Ville nouvelle	
+130402	Niveau 2	Ville nouvelle	
+130403	Niveau 3	Ville nouvelle	
+130404	Niveau 4	Ville nouvelle	
+1305	4-6	Nemain I	Je pensais que Freyr était peut-être chic type, au fond...\J'avais tort.
+130501	Niveau 1	Vrais sentiments	
+130502	Niveau 2	Gaffe à répétition	
+130503	Niveau 3	Le secret du sommeil profond	
+130504	Niveau 4	L'exorcisme du démon	
+1306	4-7	Nemain II	Freyr, tes Childs vont bien ?
+130601	Niveau 1	Rupture des négociations	
+130602	Niveau 2	Problèmes féminins dans le Royaume infernal	
+130603	Niveau 3	L'Ordre de la furie	
+130604	Niveau 4	Ça entre par une oreille et ça ressort par l'autre	
+1307	4-8	Nemain III	Si je devais le résumer en quelques mots, je dirais\"J'ai hâte de ne plus jamais revoir ce pauvre type !"
+130701	Niveau 1	Puissance maximale	
+130702	Niveau 2	Bluff ou tactique ?	
+130703	Niveau 3	Assiégé	
+130704	Niveau 4	Commencement véritable	
+1310	4-1	Centre-ville	Les enfants ne devraient pas jouer ici.
+131001	Niveau 1	Difficile - Centre-ville	
+1311	4-2	Érato	Ce parfum m'enivre.
+131101	Niveau 1	Difficile - Parfum	
+1312	4-3	Centre-ville	J'ai vu une femme entravée.
+131201	Niveau 1	Difficile - Centre-ville	
+1313	4-4	Gynécologie-obstétrique	Pouvons-nous aborder les mesures pour régler le problème de la population en déclin ?
+131301	Niveau 1	Difficile - Un loup dans la bergerie	
+1314	4-5	Ville nouvelle	J'entends des chuchotements près du coin de l'immeuble.
+131401	Niveau 1	Difficile - Ville nouvelle	
+1315	4-6	Yaga	C'est une vraie âme humaine ? Pas un effet spécial ?
+131501	Niveau 1	Difficile - Sombre croyant	
+1316	4-7	Éos	J'ai rencontré un Child libre et sincère.
+131601	Niveau 1	Difficile - Destructrice	
+1317	4-8	Ishtar	Ce n'est pas douloureux d'avoir des liens aussi serrés ?
+131701	Niveau 1	Difficile - Les liens qui unissent	
+1400	5-1	Banlieue	Une ruelle étroite près de la banlieue.
+140001	Niveau 1	Banlieue	
+140002	Niveau 2	Banlieue	
+140003	Niveau 3	Banlieue	
+140004	Niveau 4	Banlieue	
+1401	5-2	Diane	La deuxième succube était vraiment forte...\Mona, à l'aide...
+140101	Niveau 1	Le premier amour d'une fille	
+140102	Niveau 2	Méthode rationnelle	
+140103	Niveau 3	Aller simple	
+140104	Niveau 4	Bel effort malgré tout	
+1402	5-3	École primaire	Dans la pratique, je ne fais pas attention aux enfants.
+140201	Niveau 1	Étoile montante	
+140202	Niveau 2	Mini-mariée	
+140203	Niveau 3	Sujets d'inquiétude	
+140204	Niveau 4	Vocabulaire du démon	
+1403	5-4	Ville nouvelle	Un lieu qui semble désert près de la ville nouvelle.
+140301	Niveau 1	Ville nouvelle	
+140302	Niveau 2	Ville nouvelle	
+140303	Niveau 3	Ville nouvelle	
+140304	Niveau 4	Ville nouvelle	
+1404	5-5	Europe I	Un parfum fugace se dégage de l'entrée.\Où suis-je ?
+140401	Niveau 1	Absentéiste	
+140402	Niveau 2	Délinquant	
+140403	Niveau 3	Enfant abandonné	
+140404	Niveau 4	Équation de jeune fille	
+1405	5-6	Ville nouvelle	Un lieu tranquille près de la ville nouvelle.
+140501	Niveau 1	Ville nouvelle	
+140502	Niveau 2	Ville nouvelle	
+140503	Niveau 3	Ville nouvelle	
+140504	Niveau 4	Ville nouvelle	
+1406	5-7	Ville nouvelle	Une scène sans démons près de la ville nouvelle.
+140601	Niveau 1	Ville nouvelle	
+140602	Niveau 2	Ville nouvelle	
+140603	Niveau 3	Ville nouvelle	
+140604	Niveau 4	Ville nouvelle	
+1407	5-8	Neith	Je sens que quelqu'un m'épie...\Que veux-tu ?
+140701	Niveau 1	Heure des cours	
+140702	Niveau 2	Filature	
+140703	Niveau 3	Jeunesse rebelle	
+140704	Niveau 4	Liens familiaux	
+1410	5-1	Banlieue	Chouette ! J'ai trouvé un billet de 10 000 yens !
+141001	Niveau 1	DIFFICILE : Dressage d'imbéciles	
+1411	5-2	Calchas	Prophète qui voit des choses.
+141101	Niveau 1	DIFFICILE : Les gamins perturbés	
+1412	5-3	École primaire	Trop rusé pour être honnête.
+141201	Niveau 1	DIFFICILE : Gros mal de crâne	
+1413	5-4	Ville nouvelle	La ville ressemblait à un échiquier.
+141301	Niveau 1	Échec et mat (difficile)	
+1414	5-5	Élysée	Alors... on joue les pirates avec sa bouée ? N'importe quoi...
+141401	Niveau 1	DIFFICILE : Les noyés	
+1415	5-6	Ville nouvelle	Une fille et un lion débarquent dans un quartier tranquille...
+141501	Niveau 1	DIFFICILE : Théron	
+1416	5-7	Ville nouvelle	Il y a quelque chose qui brille, la nuit, sur le toit.
+141601	Niveau 1	DIFFICILE : Clair de lune	
+1417	5-8	Melpomène	C'est quoi, la différence entre le hard rock et le heavy metal ?
+141701	Niveau 1	DIFFICILE : Koruna	
+1500	6-1	Périphérie de la ville	Un lieu où souffle le vent, près de la périphérie de la ville.
+150001	Niveau 1	Périphérie de la ville	
+150002	Niveau 2	Périphérie de la ville	
+150003	Niveau 3	Périphérie de la ville	
+150004	Niveau 4	Périphérie de la ville	
+1501	6-2	Légende I	Le chasseur et la proie.
+150101	Niveau 1	Jeune fille abandonnée	
+150102	Niveau 2	Super recrue mystérieuse	
+150103	Niveau 3	Mauvais garçon et tyran	
+150104	Niveau 4	Davi est là !	
+1502	6-3	Légende II	Le donjon d'âme d'un ninja est une demeure piégée ?
+150201	Niveau 1	La technique de séduction de Davi	
+150202	Niveau 2	Un ninja doit endurer	
+150203	Niveau 3	Coutume d'antan	
+150204	Niveau 4	Légende légendaire	
+1503	6-4	Ville tranquille	Un lieu où se trouvait autrefois quelqu'un, près de la ville tranquille.
+150301	Niveau 1	Ville tranquille	
+150302	Niveau 2	Ville tranquille	
+150303	Niveau 3	Ville tranquille	
+150304	Niveau 4	Ville tranquille	
+1504	6-5	Cabinet d'avocats	Il est préférable que les hôpitaux et les tribunaux n'en sachent rien.
+150401	Niveau 1	Démon sans foi ni loi	
+150402	Niveau 2	Gardien émotionnel	
+150403	Niveau 3	Les soucis du démon	
+150404	Niveau 4	Pas de questions	
+1505	6-6	Cathédrale	Attention à la pluie sacrée.
+150501	Niveau 1	Jeu de mots	
+150502	Niveau 2	Danger détecté	
+150503	Niveau 3	La sécurité d'abord	
+150504	Niveau 4	Petite inquiétude	
+1506	6-7	Ville tranquille	Un lieu où les bruits de pas se sont arrêtés, près de la ville tranquille.
+150601	Niveau 1	Ville tranquille	
+150602	Niveau 2	Ville tranquille	
+150603	Niveau 3	Ville tranquille	
+150604	Niveau 4	Ville tranquille	
+1507	6-8	Europe II	L'amour vient comme un rôdeur qui épie par la fenêtre.\Paix et amour !
+150701	Niveau 1	Anxiété	
+150702	Niveau 2	Parcours pro du démon	
+150703	Niveau 3	Participant	
+150704	Niveau 4	Fleur et abeille	
+1510	6-1	Périphérie de la ville	Pas vraiment l'utopie dont vous rêviez.
+151001	Niveau 1	Ruelle (difficile)	
+1511	6-2	Isis	Une performance totalement bluffante.
+151101	Niveau 1	Actrice exceptionnelle (difficile)	
+1512	6-3	Quirinus	Moi, si on m'encourage quand je mange, ça me met mal à l'aise.
+151201	Niveau 1	Pom-pom girls démoniaques (difficile)	
+1513	6-4	Ville tranquille	Où vous allez, avec votre bikini et vos brassards ?
+151301	Niveau 1	Profession : fugitif (difficile)	
+1514	6-5	Cabinet d'avocats	Vous allez parler domination du monde à un avocat ?
+151401	Niveau 1	Conseil juridique (difficile)	
+1515	6-6	Cathédrale	Sérieux, vous espérez jouer au mahjong, ici ?
+151501	Niveau 1	Table de mahjong automatique (difficile)	
+1516	6-7	Ville tranquille	Vous demandez de ne pas vous rapprocher, mais vous préconisez une distance quand même ?
+151601	Niveau 1	Rayon de 500 m (difficile)	
+1517	6-8	P'tite détective	Suivez ce démon ! \On dirait l'inspecteur Senzugawa !
+151701	Niveau 1	Vérification des antécédents (difficile)	
+1600	7-1	Boulevard	Ici, si vous courez à toute vitesse, la police vous laissera partir avec un avertissement.
+160001	Niveau 1	Boulevard	
+160002	Niveau 2	Boulevard	
+160003	Niveau 3	Boulevard	
+160004	Niveau 4	Boulevard	
+1601	7-2	Tueur aux chaînes	Qui a dit qu'il n'y avait rien à manger dans cette prétendue fête ?
+160101	Niveau 1	Démon errant	
+160102	Niveau 2	Poursuivant	
+160103	Niveau 3	La poursuite de l'excellence	
+160104	Niveau 4	Type correct	
+1602	7-3	Boulevard	Un lieu près du boulevard où la lune trône de toute sa grandeur.
+160201	Niveau 1	Boulevard	
+160202	Niveau 2	Boulevard	
+160203	Niveau 3	Boulevard	
+160204	Niveau 4	Boulevard	
+1603	7-4	Appartements du centre-ville	Un lieu inondé d'amour et de désirs humains !
+160301	Niveau 1	Démon compatissant	
+160302	Niveau 2	Démon disqualifié	
+160303	Niveau 3	Plan de vie	
+160304	Niveau 4	Roi des démons avisé	
+1604	7-5	Boulevard	Un lieu proche du boulevard où l'on ressent une présence très anormale.
+160401	Niveau 1	Boulevard	
+160402	Niveau 2	Boulevard	
+160403	Niveau 3	Boulevard	
+160404	Niveau 4	Boulevard	
+1605	7-6	Calchas I	Je n'ai pas pu trouver une façon plus cruelle de changer le destin.
+160501	Niveau 1	Roi des démons 666	
+160502	Niveau 2	Déclaration de fuite	
+160503	Niveau 3	Instant critique	
+160504	Niveau 4	Prophète	
+1606	7-7	Boulevard	Un lieu proche du boulevard où la route est particulièrement étroite.
+160601	Niveau 1	Boulevard	
+160602	Niveau 2	Boulevard	
+160603	Niveau 3	Boulevard	
+160604	Niveau 4	Boulevard	
+1607	7-8	Calchas II	Parfois, l'intuition peut empêcher des désastres. Il y a une bonne raison.
+160701	Niveau 1	Bien dormi, bien tenu	
+160702	Niveau 2	Incarnation du danger	
+160703	Niveau 3	Sur le fil	
+160704	Niveau 4	Catastrophe démoniaque	
+1610	7-1	Boulevard	Ne tirez pas ! Et pas de lance-missiles !
+161001	Niveau 1	Artillerie lourde (difficile)	
+1611	7-2	Amor	C'est pour de faux, pas la peine de pleurer comme ça !
+161101	Niveau 1	Feuilleton (difficile)	
+1612	7-3	Boulevard	On dit que, quelle que soit la tâche, il faut s'y coller.
+161201	Niveau 1	Solutionneur doué (difficile)	
+1613	7-4	Appartements du centre-ville	Attendez... Passer un pacte avec un démon... pour faire justice ?
+161301	Niveau 1	Pensées vengeresses (difficile)	
+1614	7-5	Boulevard	Vous pourriez arrêter de vous maquiller dans le train ?
+161401	Niveau 1	Mascara (difficile)	
+1615	7-6	Lan Fei	La propriétaire, c'est la star de couleur de Harlem Street.
+161501	Niveau 1	Villesombre (difficile)	
+1616	7-7	Boulevard	Je croyais que quelque chose faisait du raffut.
+161601	Niveau 1	Querelle conjugale (difficile)	
+1617	7-8	Nirriti	L'exorciste qui s'est soumis à un démon.
+161701	Niveau 1	Destinée personnelle (difficile)	
+1700	8-1	Embouteillages	Les bus provoquent des embouteillages quand ils s'arrêtent.
+170001	Niveau 1	Autodéfense	
+170002	Niveau 2	Disparition du prétendant	
+170003	Niveau 3	Alerte au démon	
+170004	Niveau 4	Variable	
+1701	8-2	Gare	Il y a énormément de feux de signalisation près de la gare routière.
+170101	Niveau 1	Gare	
+170102	Niveau 2	Gare	
+170103	Niveau 3	Gare	
+170104	Niveau 4	Gare	
+1702	8-3	École préparatoire	L'école préparatoire est difficile au Royaume infernal ET au Royaume des mortels. Bonne chance, les jeunes !
+170201	Niveau 1	À la recherche de Freyr	
+170202	Niveau 2	Adversaire	
+170203	Niveau 3	Négociations	
+170204	Niveau 4	L'idée de Mona	
+1703	8-4	Gare	À cause de la pollution, impossible de respirer près de la gare routière.
+170301	Niveau 1	Gare	
+170302	Niveau 2	Gare	
+170303	Niveau 3	Gare	
+170304	Niveau 4	Gare	
+1704	8-5	Freyr	Le concours du Roi des démons, c'est chaud ! Plus que la canicule !
+170401	Niveau 1	Compagnon improvisé	
+170402	Niveau 2	Démon démoniaque	
+170403	Niveau 3	Imprudence	
+170404	Niveau 4	Atout démoniaque	
+1705	8-6	Gare	Attention à tous les accidents près de la gare routière.
+170501	Niveau 1	Gare	
+170502	Niveau 2	Gare	
+170503	Niveau 3	Gare	
+170504	Niveau 4	Gare	
+1706	8-7	Rufus I	J'ai rencontré Rufus, l'héritier du Roi des démons.
+170601	Niveau 1	Démon évadé	
+170602	Niveau 2	Mission critique	
+170603	Niveau 3	Ami d'enfance	
+170604	Niveau 4	Souvenirs	
+1707	8-8	Rufus II	Le noble du Royaume infernal vous attend.
+170701	Niveau 1	Combat de poupées	
+170702	Niveau 2	Stratégie	
+170703	Niveau 3	Comme prévu	
+170704	Niveau 4	Rufus l'héritier	
+1710	8-1	Embouteillages	Le trafic est affreux, il stresse tout le monde.
+171001	Niveau 1	La sécurité d'abord (difficile)	
+1711	8-2	Gare	Il y a des voitures partout dans les rues près de la gare routière.
+171101	Niveau 1	Difficile - Gare	
+1712	8-3	École préparatoire	L'amphi est bondé d'étudiants au visage sérieux.
+171201	Niveau 1	Guerres à l'essai (difficile)	
+1713	8-4	Gare	La zone près de la gare routière est en cours de nettoyage.
+171301	Niveau 1	Difficile - Gare	
+1714	8-5	Leucé	Je n'en fais pas plus que ce qu'on me paie.
+171401	Niveau 1	Seul l'argent compte (difficile)	
+1715	8-6	Gare	Un lieu près de la gare routière où j'ai eu un mauvais pressentiment.
+171501	Niveau 1	Difficile - Gare	
+1716	8-7	Brownie	Je vends toutes sortes d'informations.
+171601	Niveau 1	Un chinchilla ! (difficile)	
+1717	8-8	Nicole	Je déteste quand on me prend mes affaires.
+171701	Niveau 1	Invasion de Pères Noël (difficile)	
+2000	1-1	Saint Michel	Un enseignant d'éthique prêche l'amour et la compassion.
+200001	Niveau 1	École pour filles	
+200002	Niveau 2	École pour filles	
+200003	Niveau 3	École pour filles	
+200004	Niveau 4	École pour filles	
+2001	1-2	Gomorrhe	Une bête qui porte le nom d'une ville en ruine.
+200101	Niveau 1	Âme brisée	
+200102	Niveau 2	Âme brisée	
+200103	Niveau 3	Âme brisée	
+200104	Niveau 4	Âme brisée	
+2002	1-3	Hydre	Une odieuse ombre qui plane au-dessus de la terre sainte.
+200201	Niveau 1	Monstre chaotique	
+200202	Niveau 2	Monstre chaotique	
+200203	Niveau 3	Monstre chaotique	
+200204	Niveau 4	Monstre chaotique	
+2003	1-4	BáthoryⅠ	Tu es ma fleur, ma compagne.
+200301	Niveau 1	Compagne d'une vie	
+200302	Niveau 2	Compagne d'une vie	
+200303	Niveau 3	Compagne d'une vie	
+200304	Niveau 4	Compagne d'une vie	
+2010	1-1	Aton	Ne dévoilez jamais vos sentiments.
+201001	Niveau 1	Échec et mat (Difficile)	
+2011	1-2	Quirinus	Je vous encouragerai toujours !
+201101	Niveau 1	À l'attaque ! (difficile)	
+2012	1-3	Calchas	Ma chance a tourné.
+201201	Niveau 1	C'est peut-être moi (difficile)	
+2013	1-4	Thanatos	Ce sera une belle mort lente.
+201301	Niveau 1	Derniers instants (difficile)	
+2100	2-1	L'ombre de l'école pour filles	Où est passée la fille qui s'est fondue dans l'ombre ?
+210001	Niveau 1	La compagne disparue	
+210002	Niveau 2	La compagne disparue	
+210003	Niveau 3	La compagne disparue	
+210004	Niveau 4	La compagne disparue	
+2101	2-2	Asagiri Thérésa	Seigneur, prends pitié.
+210101	Niveau 1	Un rêve confus	
+210102	Niveau 2	Un rêve confus	
+210103	Niveau 3	Un rêve confus	
+210104	Niveau 4	Un rêve confus	
+2102	2-3	Inconnue	Le berceau de la Child rêveuse est silencieux.
+210201	Niveau 1	La morte-vivante rêveuse	
+210202	Niveau 2	La morte-vivante rêveuse	
+210203	Niveau 3	La morte-vivante rêveuse	
+210204	Niveau 4	La morte-vivante rêveuse	
+2103	2-4	Père Babila	Le démon intrigant s'éveille de son sommeil.
+210301	Niveau 1	La styliste	
+210302	Niveau 2	La styliste	
+210303	Niveau 3	La styliste	
+210304	Niveau 4	La styliste	
+2110	2-1	L'ombre de l'école pour filles	Où est passée la fille qui s'est fondue dans l'ombre ?
+211001	Niveau 1	Difficile - La compagne disparue	
+211002	Niveau 2	Difficile - La compagne disparue	
+211003	Niveau 3	Difficile - La compagne disparue	
+211004	Niveau 4	Difficile - La compagne disparue	
+2111	2-2	Asagiri Thérésa	Seigneur, prends pitié.
+211101	Niveau 1	Difficile - Un rêve confus	
+211102	Niveau 2	Difficile - Un rêve confus	
+211103	Niveau 3	Difficile - Un rêve confus	
+211104	Niveau 4	Difficile - Un rêve confus	
+2112	2-3	Inconnue	Le berceau de la Child rêveuse est silencieux.
+211201	Niveau 1	Difficile - La morte-vivante rêveuse	
+211202	Niveau 2	Difficile - La morte-vivante rêveuse	
+211203	Niveau 3	Difficile - La morte-vivante rêveuse	
+211204	Niveau 4	Difficile - La morte-vivante rêveuse	
+2113	2-4	Père Babila	Le démon intrigant s'éveille de son sommeil.
+211301	Niveau 1	Difficile - La styliste	
+211302	Niveau 2	Difficile - La styliste	
+211303	Niveau 3	Difficile - La styliste	
+211304	Niveau 4	Difficile - La styliste	
+2200	3-1	Babel	Ce qu'il fait bon... Encore une journée magnifique.
+220001	Niveau 1	Destination de l'âme	
+220002	Niveau 2	Destination de l'âme	
+220003	Niveau 3	Destination de l'âme	
+220004	Niveau 4	Destination de l'âme	
+2201	3-2	Báthory II	Tout d'un coup, je me suis retrouvé en plein champ de bataille, au beau milieu de la nuit !
+220101	Niveau 1	Un démon noble et gentil	
+220102	Niveau 2	Un démon noble et gentil	
+220103	Niveau 3	Un démon noble et gentil	
+220104	Niveau 4	Un démon noble et gentil	
+2202	3-3	Berceau vide	Les hôtes indésirables sont réunis dans un sanctuaire impie.
+220201	Niveau 1	La salle de classe ravagée	
+220202	Niveau 2	La salle de classe ravagée	
+220203	Niveau 3	La salle de classe ravagée	
+220204	Niveau 4	La salle de classe ravagée	
+2203	3-4	Créature	Monstre innommable surgi des ténèbres.
+220301	Niveau 1	Un cri surgi des ténèbres	
+220302	Niveau 2	Un cri surgi des ténèbres	
+220303	Niveau 3	Un cri surgi des ténèbres	
+220304	Niveau 4	Un cri surgi des ténèbres	
+2210	3-1	Babel	Ce qu'il fait bon... Encore une journée magnifique.
+221001	Niveau 1	Destination de l'âme (difficile)	
+221002	Niveau 2	Destination de l'âme (difficile)	
+221003	Niveau 3	Destination de l'âme (difficile)	
+221004	Niveau 4	Destination de l'âme (difficile)	
+2211	3-2	Báthory II	Tout d'un coup, je me suis retrouvé en plein champ de bataille, au beau milieu de la nuit !
+221101	Niveau 1	Un démon noble et gentil (difficile)	
+221102	Niveau 2	Un démon noble et gentil (difficile)	
+221103	Niveau 3	Un démon noble et gentil (difficile)	
+221104	Niveau 4	Un démon noble et gentil (difficile)	
+2212	3-3	Berceau vide	Les hôtes indésirables sont réunis dans un sanctuaire impie.
+221201	Niveau 1	La salle de classe ravagée (difficile)	
+221202	Niveau 2	La salle de classe ravagée (difficile)	
+221203	Niveau 3	La salle de classe ravagée (difficile)	
+221204	Niveau 4	La salle de classe ravagée (difficile)	
+2213	3-4	Créature	Monstre innommable surgi des ténèbres.
+221301	Niveau 1	Un cri surgi des ténèbres (difficile)	
+221302	Niveau 2	Un cri surgi des ténèbres (difficile)	
+221303	Niveau 3	Un cri surgi des ténèbres (difficile)	
+221304	Niveau 4	Un cri surgi des ténèbres (difficile)	
+2300	4-1	Kubaba vengeresse	La terre sacrée, enfin
+230001	Niveau 1	Berceau d'ébène	
+230002	Niveau 2	Berceau d'ébène	
+230003	Niveau 3	Berceau d'ébène	
+230004	Niveau 4	Berceau d'ébène	
+2301	4-2	Stratégie de vétéran	Un vétéran invaincu se tient dans l'ombre des brumes de la terre sacrée.
+230101	Niveau 1	Rumeurs d'un démon	
+230102	Niveau 2	Rumeurs d'un démon	
+230103	Niveau 3	Rumeurs d'un démon	
+230104	Niveau 4	Rumeurs d'un démon	
+2302	4-3	Désirs démoniaques	Les flammes de la malveillance jamais ne seront étouffées.
+230201	Niveau 1	Rêves chaotiques	
+230202	Niveau 2	Rêves chaotiques	
+230203	Niveau 3	Rêves chaotiques	
+230204	Niveau 4	Rêves chaotiques	
+2303	4-4	Dernier jour sacré	Tu es ma fleur. Nous sommes des compagnons.
+230301	Niveau 1	Serment d'une âme sans fin	
+230302	Niveau 2	Serment d'une âme sans fin	
+230303	Niveau 3	Serment d'une âme sans fin	
+230304	Niveau 4	Serment d'une âme sans fin	
+2310	4-1	Kubaba vengeresse	La terre sacrée, enfin
+231001	Niveau 1	Berceau d'ébène (difficile)	
+231002	Niveau 2	Berceau d'ébène (difficile)	
+231003	Niveau 3	Berceau d'ébène (difficile)	
+231004	Niveau 4	Berceau d'ébène (difficile)	
+2311	4-2	Stratégie de vétéran	Un vétéran invaincu se tient dans l'ombre des brumes de la terre sacrée.
+231101	Niveau 1	Rumeurs d'un démon (difficile)	
+231102	Niveau 2	Rumeurs d'un démon (difficile)	
+231103	Niveau 3	Rumeurs d'un démon (difficile)	
+231104	Niveau 4	Rumeurs d'un démon (difficile)	
+2312	4-3	Désirs démoniaques	Les flammes de la malveillance jamais ne seront étouffées.
+231201	Niveau 1	Rêves chaotiques (difficile)	
+231202	Niveau 2	Rêves chaotiques (difficile)	
+231203	Niveau 3	Rêves chaotiques (difficile)	
+231204	Niveau 4	Rêves chaotiques (difficile)	
+2313	4-4	Dernier jour sacré	Tu es ma fleur. Nous sommes des compagnons.
+231301	Niveau 1	Serment d'une âme sans fin (difficile)	
+231302	Niveau 2	Serment d'une âme sans fin (difficile)	
+231303	Niveau 3	Serment d'une âme sans fin (difficile)	
+231304	Niveau 4	Serment d'une âme sans fin (difficile)	
+2400	Ⅰ.	Solitude dans l'obscurité	La haine abandonnée au Royaume infernal.
+240001	Niveau 1	Les deux Davi I	
+240002	Niveau 2	Spectre sournois	
+2401	Ⅱ.	Davi ambivalente	Rencontrer son contraire.
+240101	Niveau 3	Les deux Davi II	
+240102	Niveau 4	Une autre Davi	
+2402	Ⅲ.	La ruse du prince noir	Un hennissement retentit dans un coin de l'usine désaffectée.
+240201	Niveau 5	Les deux Davi III	
+240202	Niveau 6	Berceau du sommeil	
+2403	Ⅳ.	Sombres lamentations	Le désespoir déchaîné
+240301	Niveau 7	Cocon créateur	
+240302	Niveau 8	Davi éveillée	
+2410	Ⅰ.	Solitude dans l'obscurité	La haine abandonnée au Royaume infernal.
+241001	Niveau 1	Les deux Davi I (difficile)	
+241002	Niveau 2	Spectre sournois (difficile)	
+2411	Ⅱ.	Davi ambivalente	Rencontrer son contraire.
+241101	Niveau 3	Les deux Davi II (difficile)	
+241102	Niveau 4	Une autre Davi (difficile)	
+2412	Ⅲ.	La ruse du prince noir	Un hennissement retentit dans un coin de l'usine désaffectée.
+241201	Niveau 5	Les deux Davi III (difficile)	
+241202	Niveau 6	Berceau du sommeil (difficile)	
+2413	Ⅳ.	Sombres lamentations	Le désespoir déchaîné
+241301	Niveau 7	Cocon créateur (difficile)	
+241302	Niveau 8	Davi éveillée (difficile)	
+2500	Ⅰ.	Archère orgueilleuse	Une démone devient servante et cherche son ancienne camarade d'entraînement.
+250001	Niveau 1	L'entraînement intensif de Luine I	
+250002	Niveau 2	Défi Dojo	
+2501	Ⅱ.	La lance qui protège le maître	Une démone lancière qui est devenue la servante d'un prétendant au trône des démons.
+250101	Niveau 3	L'entraînement intensif de Luine II	
+250102	Niveau 4	Tireuse d'élite démoniaque	
+2502	Ⅲ.	Épéiste brave et zélée	Une épéiste de talent capable de tuer en un coup.
+250201	Niveau 5	L'entraînement intensif de Luine III	
+250202	Niveau 6	Davi a disparu	
+2503	Ⅳ.	Un chevalier loyal et valeureux	L'honneur du maître est celui de sa servante.
+250301	Niveau 7	L'entraînement intensif de Luine IV	
+250302	Niveau 8	Une question de fierté	
+2510	Ⅰ.	Archère orgueilleuse	Une démone devient servante et cherche son ancienne camarade d'entraînement.
+251001	Niveau 1	L'entraînement intensif de Luine I (difficile)	
+251002	Niveau 2	Défi Dojo (difficile)	
+2511	Ⅱ.	La lance qui protège le maître	Une démone lancière qui est devenue la servante d'un prétendant au trône des démons.
+251101	Niveau 3	L'entraînement intensif de Luine II (difficile)	
+251102	Niveau 4	Tireuse d'élite démoniaque (difficile)	
+2512	Ⅲ.	Épéiste brave et zélée	Une épéiste de talent capable de tuer en un coup.
+251201	Niveau 5	L'entraînement intensif de Luine III (difficile)	
+251202	Niveau 6	Davi a disparu (difficile)	
+2513	Ⅳ.	Un chevalier loyal et valeureux	L'honneur du maître est celui de sa servante.
+251301	Niveau 7	L'entraînement intensif de Luine IV (difficile)	
+251302	Niveau 8	Une question de fierté (difficile)	
+3000	Ⅰ.	L'incube perdu	L'assistant d'Ève erre dans le Royaume des mortels, à la recherche de sa maîtresse.
+300001	Niveau 1	Seigneur, ayez pitié I	
+300002	Niveau 2	Brebis égarée	
+3001	Ⅱ.	La navigatrice enragée	C'est une démone assez parfaite, excepté qu'elle n'a aucun sens de l'orientation et qu'elle est nulle avec tout ce qui touche à la technologie.
+300101	Niveau 3	Seigneur, ayez pitié II	
+300102	Niveau 4	Le rebelle	
+3002	Ⅲ.	Au Cercle des exorcistes	Que le Seigneur et la clarté du monde d'après prennent en pitié tous les exorcistes.
+300201	Niveau 5	Seigneur, ayez pitié III	
+300202	Niveau 6	Que la paix soit avec vous	
+3003	Ⅳ.	Exorciste déchu	Pardonne-nous nos dettes, comme nous pardonnons aussi à tous nos débiteurs.
+300301	Niveau 7	Seigneur, ayez pitié IV	
+300302	Niveau 8	Tu ne tueras point	
+3010	Ⅰ.	L'incube perdu	L'assistant d'Ève erre dans le Royaume des mortels, à la recherche de sa maîtresse.
+301001	Niveau 1	Seigneur, ayez pitié I (difficile)	
+301002	Niveau 2	Brebis égarée (difficile)	
+3011	Ⅱ.	La navigatrice enragée	C'est une démone assez parfaite, excepté qu'elle n'a aucun sens de l'orientation et qu'elle est nulle avec tout ce qui touche à la technologie.
+301101	Niveau 3	Seigneur, ayez pitié II (difficile)	
+301102	Niveau 4	Le rebelle (difficile)	
+3012	Ⅲ.	Au Cercle des exorcistes	Que le Seigneur et la clarté du monde d'après prennent en pitié tous les exorcistes.
+301201	Niveau 5	Seigneur, ayez pitié III (difficile)	
+301202	Niveau 6	Que la paix soit avec vous (difficile)	
+3013	Ⅳ.	Exorciste déchu	Pardonne-nous nos dettes, comme nous pardonnons aussi à tous nos débiteurs.
+301301	Niveau 7	Seigneur, ayez pitié IV (difficile)	
+301302	Niveau 8	Tu ne tueras point (difficile)	
+3100	Ⅰ.	Virupaksa	Croyez et offrez-vous à Virupaksa, seigneur des dragons !
+310001	Niveau 1	Désirs matériels	
+310002	Niveau 2	Tabou	
+3101	Ⅱ.	Ode à la navigatrice	Il me fait habiter dans les ténèbres, comme ceux qui sont morts depuis longtemps.\Lamentations 3:6
+310101	Niveau 3	Cadavres	
+310102	Niveau 4	Anges maléfiques	
+3102	Ⅲ.	Amour mécanique	Ces tendances maternelles elles-mêmes ne sont rien de plus \qu'un schéma comportemental programmé.
+310201	Niveau 5	La marque du pécheur	
+310202	Niveau 6	Poupées	
+3103	Ⅳ.	Pathos électrique	Les poupées fabriquées par des démons... elles pleurent des larmes électriques ?
+310301	Niveau 7	La deuxième mort	
+310302	Niveau 8	La vengeance	
+3110	Ⅰ.	Virupaksa	Confiez-vous et présentez-vous à Virupaksa, seigneur des dragons !
+311001	Niveau 1	Désirs matériels (difficile)	
+311002	Niveau 2	Tabou (difficile)	
+3111	Ⅱ.	Évangile pour la navigatrice	J'ai péché en livrant le sang innocent. \L'Évangile selon saint Matthieu 27:4
+311101	Niveau 3	Cadavres (difficile)	
+311102	Niveau 4	Anges maléfiques (difficile)	
+3112	Ⅲ.	Amour mécanique	Ces tendances maternelles elles-mêmes ne sont rien de plus \qu'un schéma comportemental programmé.
+311201	Niveau 5	La marque du pécheur (difficile)	
+311202	Niveau 6	Poupées (difficile)	
+3113	Ⅳ.	Pathos électrique	Les poupées fabriquées par des démons... elles pleurent des larmes électriques ?
+311301	Niveau 7	La deuxième mort (difficile)	
+311302	Niveau 8	La vengeance (difficile)	
+3200	I.	Cicatrice	Je suis dans une spirale sans fin. \Comment sortir de cette interminable rotation du destin ?
+320001	Niveau 1	Meurtre	
+320002	Niveau 2	Cicatrice	
+3201	Ⅱ.	L'avènement du roi	Je suis dans une spirale sans fin. \Comment sortir de cette interminable rotation du destin ?
+320101	Niveau 3	Gamin aveugle	
+320102	Niveau 4	L'avènement du roi	
+3202	Ⅲ.	Retrouvailles	Je suis dans une spirale sans fin. \Comment sortir de cette interminable rotation du destin ?
+320201	Niveau 5	Le vent de l'Au-delà	
+320202	Niveau 6	Retrouvailles	
+3203	Ⅳ.	La fin de l'enfance	Je suis dans une spirale sans fin. \Comment sortir de cette interminable rotation du destin ?
+320301	Niveau 7	Purgatoire	
+320302	Niveau 8	La fin de l'enfance	
+3210	I.	Cicatrice	
+321001	Niveau 1	Meurtre(difficile)	
+321002	Niveau 2	Cicatrice(difficile)	
+3211	Ⅱ.	L'avènement du roi	
+321101	Niveau 3	Gamin aveugle(difficile)	
+321102	Niveau 4	L'avènement du roi(difficile)	
+3212	Ⅲ.	Retrouvailles	
+321201	Niveau 5	Le vent de l'Au-delà(difficile)	
+321202	Niveau 6	Retrouvailles(difficile)	
+3213	Ⅳ.	La fin de l'enfance	
+321301	Niveau 7	Purgatoire(difficile)	
+321302	Niveau 8	La fin de l'enfance(difficile)	
+4000	Ⅰ.	Au-delà	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+400001	Niveau 1	La porte étroite	
+400002	Niveau 2	Au-delà	
+4001	Ⅱ.	Le souffle de vie	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+400101	Niveau 3	Notre-Dame	
+400102	Niveau 4	Le souffle de vie	
+4002	Ⅲ.	En vêtement de brebis	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+400201	Niveau 5	Au-delà	
+400202	Niveau 6	En vêtement de brebis	
+4003	Ⅳ.	Retrait porte-lampes	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+400301	Niveau 7	Un apôtre en proie au doute	
+400302	Niveau 8	Retrait porte-lampes	
+4010	I.	Au-delà	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+401001	Niveau 1	La porte étroite(difficile)	
+401002	Niveau 2	Au-delà(difficile)	
+4011	Ⅱ.	Le souffle de vie	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+401101	Niveau 3	Notre-Dame(difficile)	
+401102	Niveau 4	Le souffle de vie(difficile)	
+4012	Ⅲ.	En vêtement de brebis	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+401201	Niveau 5	Au-delà(difficile)	
+401202	Niveau 6	En vêtement de brebis(difficile)	
+4013	Ⅳ.	Retrait porte-lampes	Il vous sauvera de toute intention malveillante. \Ayez foi en lui et ne doutez plus.
+401301	Niveau 7	Un apôtre en proie au doute(difficile)	
+401302	Niveau 8	Retrait porte-lampes (difficile)	
+4100	Ⅰ.	Bons amis	Je t'en prie, ne me quitte pas. Tu m'as créée.
+410001	Niveau 1	Liés par le destin	BLANK
+410002	Niveau 2	Bons amis	BLANK
+4101	Ⅱ.	Entraves karmiques	Je t'en prie, ne me quitte pas. Tu m'as créée.
+410101	Niveau 3	Susuri Sabaha	BLANK
+410102	Niveau 4	Entraves karmiques	BLANK
+4102	Ⅲ.	Transmigration	Je t'en prie, ne me quitte pas. Tu m'as créée.
+410201	Niveau 5	Aux pieds du Monde	BLANK
+410202	Niveau 6	Transmigration	BLANK
+4103	Ⅳ.	Façonneur de karma	Je t'en prie, ne me quitte pas. Tu m'as créée.
+410301	Niveau 7	Mauvais karma	BLANK
+410302	Niveau 8	Façonneur de karma	BLANK
+4110	I.	Bons amis	La roue de l'existence m'écrase, mais je ne peux l'arrêter.
+411001	Niveau 1	Liés par le destin (difficile)	BLANK
+411002	Niveau 2	Bons amis (difficile)	BLANK
+4111	Ⅱ.	Entraves karmiques	La roue de l'existence m'écrase, mais je ne peux l'arrêter.
+411101	Niveau 3	Susuri Sabaha (difficile)	BLANK
+411102	Niveau 4	Entraves karmiques (difficile)	BLANK
+4112	Ⅲ.	Transmigration	La roue de l'existence m'écrase, mais je ne peux l'arrêter.
+411201	Niveau 5	Aux pieds du Monde (difficile)	BLANK
+411202	Niveau 6	Transmigration (difficile)	BLANK
+4113	Ⅳ.	Façonneur de karma	La roue de l'existence m'écrase, mais je ne peux l'arrêter.
+411301	Niveau 7	Mauvais karma (difficile)	BLANK
+411302	Niveau 8	Façonneur de karma (difficile)	BLANK
+4200	Ⅰ.	Les intrus	Les souvenirs s'oublient... Pas la colère.
+420001	Niveau 1	Un match paradisiaque	BLANK
+420002	Niveau 2	Les intrus	BLANK
+4201	Ⅱ.	Me revoilà	Les souvenirs s'oublient... Pas la colère.
+420101	Niveau 3	Bienvenue	BLANK
+420102	Niveau 4	Me revoilà	BLANK
+4202	Ⅲ.	Les ombres du passé	Les souvenirs s'oublient... Pas la colère.
+420201	Niveau 5	La déclaration	BLANK
+420202	Niveau 6	Les ombres du passé	BLANK
+4203	Ⅳ.	Une occasion en or	Les souvenirs s'oublient... Pas la colère.
+420301	Niveau 7	Ce qui importe	BLANK
+420302	Niveau 8	Une occasion en or	BLANK
+4210	I.	Les intrus	Une maison familière, une famille inconnue et... de vieux amis.
+421001	Niveau 1	Un match paradisiaque (difficile)	BLANK
+421002	Niveau 2	Les intrus (difficile)	BLANK
+4211	Ⅱ.	Me revoilà	Une maison familière, une famille inconnue et... de vieux amis.
+421101	Niveau 3	Bienvenue (difficile)	BLANK
+421102	Niveau 4	Me revoilà ! (difficile)	BLANK
+4212	Ⅲ.	Les ombres du passé	Une maison familière, une famille inconnue et... de vieux amis.
+421201	Niveau 5	La déclaration (difficile)	BLANK
+421202	Niveau 6	Les ombres du passé (difficile)	BLANK
+4213	Ⅳ.	Une occasion en or	Une maison familière, une famille inconnue et... de vieux amis.
+421301	Niveau 7	Ce qui importe (difficile)	BLANK
+421302	Niveau 8	Une occasion en or (difficile)	BLANK
+4300	Ⅰ.	Un fan inattendu	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+430001	Niveau 1	Un démon sournois	BLANK
+430002	Niveau 2	Un fan inattendu	BLANK
+4301	Ⅱ.	Le repaire du démon	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+430101	Niveau 3	Un nouvel étudiant	BLANK
+430102	Niveau 4	Le repaire du démon	BLANK
+4302	Ⅲ.	Le collier	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+430201	Niveau 5	La fée égarée	BLANK
+430202	Niveau 6	Le collier	BLANK
+4303	Ⅳ.	Le serpent de feu	Le temps n'est jamais un problème. \La difficulté, c'est de prendre une décision.
+430301	Niveau 7	Ce qui importe	BLANK
+430302	Niveau 8	Le serpent de feu	BLANK
+4310	I.	Un fan inattendu	Pauvre enfant perdue... \Jette-toi dans les flammes.
+431001	Niveau 1	Un démon sournois (difficile)	BLANK
+431002	Niveau 2	Un fan inattendu (difficile)	BLANK
+4311	Ⅱ.	Le repaire du démon	Pauvre enfant perdue... \Jette-toi dans les flammes.
+431101	Niveau 3	Un nouvel étudiant (difficile)	BLANK
+431102	Niveau 4	Le repaire du démon (difficile)	BLANK
+4312	Ⅲ.	Le collier	Pauvre enfant perdue... \Jette-toi dans les flammes.
+431201	Niveau 5	La fée égarée (difficile)	BLANK
+431202	Niveau 6	Le collier (difficile)	BLANK
+4313	Ⅳ.	Le serpent de feu	Pauvre enfant perdue... \Jette-toi dans les flammes.
+431301	Niveau 7	Ce qui importe (difficile)	BLANK
+431302	Niveau 8	Le serpent de feu (difficile)	BLANK
+4400	Ⅰ.	Mea Culpa	Rejoins-moi, ma beauté
+440001	Niveau 1	Prise de queue	
+440002	Niveau 2	Mea Culpa	
+4401	Ⅱ.	La tombe du monstre	Rejoins-moi, ma beauté
+440101	Niveau 3	Langue de serpent	
+440102	Niveau 4	La tombe du monstre	
+4402	Ⅲ.	La rose de Sharon	Rejoins-moi, ma beauté
+440201	Niveau 5	On ne jure pas	
+440202	Niveau 6	La rose de Sharon	
+4403	Ⅳ.	La vierge de fer	Rejoins-moi, ma beauté
+440301	Niveau 7	Dans votre sang	
+440302	Niveau 8	La vierge de fer	
+4410	I.	Mea Culpa	Qui est cette femme, brillant tel un soleil \et terrifiante comme une armée brandissant ses bannières ?
+441001	Niveau 1	Prise de queue (difficile)	
+441002	Niveau 2	Mea Culpa (difficile)	
+4411	Ⅱ.	La tombe du monstre	Qui est cette femme, brillant tel un soleil \et terrifiante comme une armée brandissant ses bannières ?
+441101	Niveau 3	Langue de serpent (difficile)	
+441102	Niveau 4	La tombe du monstre (difficile)	
+4412	Ⅲ.	La rose de Sharon	Qui est cette femme, brillant tel un soleil \et terrifiante comme une armée brandissant ses bannières ?
+441201	Niveau 5	On ne jure pas (difficile)	
+441202	Niveau 6	La rose de Sharon (difficile)	
+4413	Ⅳ.	La vierge de fer	Qui est cette femme, brillant tel un soleil \et terrifiante comme une armée brandissant ses bannières ?
+441301	Niveau 7	Dans votre sang (difficile)	
+441302	Niveau 8	La vierge de fer (difficile)	
+4500	Ⅰ.	Réconciliation et limites	Je ne suis pas digne de ces paroles.
+450001	Niveau 1	Aube	
+450002	Niveau 2	Les méritants	
+4501	Ⅱ.	Le passé de Miriam	Où est ma famille ? Où est Aaron ?
+450101	Niveau 3	Psychométrie de groupe	
+450102	Niveau 4	La demeure de la sorcière	
+4502	Ⅲ.	Le cœur est comme la lune se reflétant dans l'eau	Non, je... Je veux simplement tenir la main de Mitra.
+450201	Niveau 5	Les apostats	
+450202	Niveau 6	Le monde d'Arhat et de Mitra	
+4503	Ⅳ.	Le combat ultime de Caducée	Allons-y ! Ce sera un combat à mort !
+450301	Niveau 7	Sinistre augure	
+450302	Niveau 8	L'éveil de Tathagata	
+4510	Ⅰ.	Réconciliation et limites	Je ne suis pas digne de ces paroles.
+451001	Niveau 1	Aube (difficile)	
+451002	Niveau 2	Les méritants (difficile)	
+4511	Ⅱ.	Le passé de Miriam	Où est ma famille ? Où est Aaron ?
+451101	Niveau 3	Psychométrie de groupe (difficile)	
+451102	Niveau 4	La demeure de la sorcière (difficile)	
+4512	Ⅲ.	Le cœur est comme la lune se reflétant dans l'eau	Non, je... Je veux simplement tenir la main de Mitra.
+451201	Niveau 5	Les apostats (difficile)	
+451202	Niveau 6	Le monde d'Arhat et de Mitra (difficile)	
+4513	Ⅳ.	Le combat ultime de Caducée	Allons-y ! Ce sera un combat à mort !
+451301	Niveau 7	Sinistre augure (difficile)	
+451302	Niveau 8	L'éveil de Tathagata (difficile)	
+4600	Ⅰ.	Veille des zombies de l'espace	Sémélé ! \Qu'avez-vous fait à Ève ?
+460001	Niveau 1	Démon dangereux	
+460002	Niveau 2	Stratégie	
+4601	Ⅱ.	La lance de Longin	Dites-moi... \Comment puis-je vaincre Loki ?
+460101	Niveau 3	Comédie	
+460102	Niveau 4	Arrivée	
+4602	Ⅲ.	Ziva contre Seth	Pourquoi un Child chante-t-il des incantations exorcistes ?
+460201	Niveau 5	Ennemi public	
+460202	Niveau 6	Intrus sacré 1	
+4603	Ⅳ.	Univers de Loki	Vous ne vouliez pas me tuer ? \Vous allez me faire mariner encore longtemps ?
+460301	Niveau 7	Intrus sacré 2	
+460302	Niveau 8	Sensations fortes	
+4610	Ⅰ.	Veille des zombies de l'espace	Sémélé ! \Qu'avez-vous fait à Ève ?
+461001	Niveau 1	Démon dangereux (difficile)	
+461002	Niveau 2	Stratégie (difficile)	
+4611	Ⅱ.	La lance de Longin	Dites-moi... \Comment puis-je vaincre Loki ?
+461101	Niveau 3	Comédie (difficile)	
+461102	Niveau 4	Arrivée (difficile)	
+4612	Ⅲ.	Ziva contre Seth	Pourquoi un Child chante-t-il des incantations exorcistes ?
+461201	Niveau 5	Ennemi public (difficile)	
+461202	Niveau 6	Intrus sacré 1 (difficile)	
+4613	Ⅳ.	Univers de Loki	Vous ne vouliez pas me tuer ? \Vous allez me faire mariner encore longtemps ?
+461301	Niveau 7	Intrus sacré 2 (difficile)	
+461302	Niveau 8	Sensations fortes (difficile)	
+4700	Ⅰ.	Le témoignage du doyen	Sodom, la grande cité. Là où Il a été crucifié.\D'après Apocalypse 11:8.
+470001	Niveau 1	Ashram	
+470002	Niveau 2	Le témoignage du doyen	
+4701	Ⅱ.	Graine d'âme 2	Sodom, la grande cité. Là où Il a été crucifié.\D'après Apocalypse 11:8.
+470101	Niveau 3	Graine d'âme 1	
+470102	Niveau 4	Graine d'âme 2	
+4702	Ⅲ.	Secrets multiples	Sodom, la grande cité. Là où Il a été crucifié.\D'après Apocalypse 11:8.
+470201	Niveau 5	Poursuite de la potion	
+470202	Niveau 6	Secrets multiples	
+4703	Ⅳ.	Nous nous reverrons	Sodom, la grande cité. Là où Il a été crucifié.\D'après Apocalypse 11:8.
+470301	Niveau 7	Magie gênante	
+470302	Niveau 8	Nous nous reverrons	
+4710	Ⅰ.	Le témoignage du doyen	Lui aussi, a dû grandir \comme un serpent dans les terres sauvages...
+471001	Niveau 1	HARDAshram	
+471002	Niveau 2	HARDLe témoignage du doyen	
+4711	Ⅱ.	Graine d'âme 2	Lui aussi, a dû grandir \comme un serpent dans les terres sauvages...
+471101	Niveau 3	HARDGraine d'âme 1	
+471102	Niveau 4	HARDGraine d'âme 2	
+4712	Ⅲ.	Secrets multiples	Lui aussi, a dû grandir \comme un serpent dans les terres sauvages...
+471201	Niveau 5	HARDPoursuite de la potion	
+471202	Niveau 6	HARDSecrets multiples	
+4713	Ⅳ.	Nous nous reverrons	Lui aussi, a dû grandir \comme un serpent dans les terres sauvages...
+471301	Niveau 7	HARDMagie gênante	
+471302	Niveau 8	HARDNous nous reverrons	
+5000	Ⅰ.	Expérience arcanique	Tue-moi. Sauve-moi.
+500001	Niveau 1	Phase noire	
+500002	Niveau 2	Expérience arcanique	
+5001	Ⅱ.	Cibation	Tue-moi. Sauve-moi.
+500101	Niveau 3	Antimoine	
+500102	Niveau 4	Cibation	
+5002	Ⅲ.	Cercle	Tue-moi. Sauve-moi.
+500201	Niveau 5	Ouroboros	
+500202	Niveau 6	Cercle	
+5003	Ⅳ.	Coagulation	Tue-moi. Sauve-moi.
+500301	Niveau 7	Litharge	
+500302	Niveau 8	Coagulation	
+5010	Ⅰ.	Expérience arcanique	Gloire à la corruption ! \Éveille-toi de nouveau, ô grand aîné !
+501001	Niveau 1	HARD Phase noire	
+501002	Niveau 2	HARD Expérience arcanique	
+5011	Ⅱ.	Cibation	Gloire à la corruption ! \Éveille-toi de nouveau, ô grand aîné !
+501101	Niveau 3	HARD Antimoine	
+501102	Niveau 4	HARD Cibation	
+5012	Ⅲ.	Cercle	Gloire à la corruption ! \Éveille-toi de nouveau, ô grand aîné !
+501201	Niveau 5	HARD Ouroboros	
+501202	Niveau 6	HARD Cercle	
+5013	Ⅳ.	Coagulation	
+501301	Niveau 7	HARD Litharge	
+501302	Niveau 8	HARD Coagulation	
+5100	Ⅰ.	On récolte ce que l'on sème	Atteindre le Nirvana.
+510001	Niveau 1	Une bougie dans le vent	
+510002	Niveau 2	On récolte ce que l'on sème	
+5101	Ⅱ.	L'inattendu	Atteindre le Nirvana.
+510101	Niveau 3	Désirs matériels	
+510102	Niveau 4	L'inattendu	
+5102	Ⅲ.	Se réveiller d'un rêve	Atteindre le Nirvana.
+510201	Niveau 5	L'esprit de la vierge de sanctuaire	
+510202	Niveau 6	Se réveiller d'un rêve	
+5103	Ⅳ.	La voie du Nirvana	Atteindre le Nirvana.
+510301	Niveau 7	Antipathie	
+510302	Niveau 8	La voie du Nirvana	
+5110	Ⅰ.	On récolte ce que l'on sème	Une colère plus terrifiante qu'un brasier ardent...
+511001	Niveau 1	HARDUne bougie dans le vent	
+511002	Niveau 2	HARDOn récolte ce que l'on sème	
+5111	Ⅱ.	L'inattendu	Une colère plus terrifiante qu'un brasier ardent...
+511101	Niveau 3	HARDDésirs matériels	
+511102	Niveau 4	HARDL'inattendu	
+5112	Ⅲ.	Se réveiller d'un rêve	Une colère plus terrifiante qu'un brasier ardent...
+511201	Niveau 5	HARDL'esprit de la vierge de sanctuaire	
+511202	Niveau 6	HARDSe réveiller d'un rêve	
+5113	Ⅳ.	La voie du Nirvana	Une colère plus terrifiante qu'un brasier ardent...
+511301	Niveau 7	HARDAntipathie	
+511302	Niveau 8	HARDLa voie du Nirvana	
+5200	Ⅰ.	Agir plutôt que de se morfondre	La mort n'est qu'un événement mineur.\La vie et le sang ne font qu'un.
+520001	Niveau 1	Un être tout sauf ordinaire	
+520002	Niveau 2	Agir plutôt que de se morfondre	
+5201	Ⅱ.	Un nom unique	La mort n'est qu'un événement mineur.\La vie et le sang ne font qu'un.
+520101	Niveau 3	Mains à nouveau salies	
+520102	Niveau 4	Un nom unique	
+5202	Ⅲ.	Je dois sauver mon amie	La mort n'est qu'un événement mineur.\La vie et le sang ne font qu'un.
+520201	Niveau 5	Inéluctabilité	
+520202	Niveau 6	Je dois sauver mon amie	
+5203	Ⅳ.	Fêter la liberté	La mort n'est qu'un événement mineur.\La vie et le sang ne font qu'un.
+520301	Niveau 7	Le faire avec panache ?	
+520302	Niveau 8	Fêter la liberté	
+5210	Ⅰ.	Agir plutôt que de se morfondre	Buvez mon sang pour retrouver de l'énergie.
+521001	Niveau 1	HARDUn être tout sauf ordinaire	
+521002	Niveau 2	HARDAgir plutôt que de se morfondre	
+5211	Ⅱ.	Un nom unique	Buvez mon sang pour retrouver de l'énergie.
+521101	Niveau 3	HARDMains à nouveau salies	
+521102	Niveau 4	HARDUn nom unique	
+5212	Ⅲ.	Je dois sauver mon amie	Buvez mon sang pour retrouver de l'énergie.
+521201	Niveau 5	HARDInéluctabilité	
+521202	Niveau 6	HARDJe dois sauver mon amie	
+5213	Ⅳ.	Fêter la liberté	Buvez mon sang pour retrouver de l'énergie.
+521301	Niveau 7	HARDLe faire avec panache ?	
+521302	Niveau 8	HARDFêter la liberté	
+5300	Ⅰ.	Une nouvelle destination	Il arrive à Satan de se travestir en \ange de lumière.
+530001	Niveau 1	Souvenirs de ce jour-là	
+530002	Niveau 2	Une nouvelle destination	
+5301	Ⅱ.	L'amie	Il arrive à Satan de se travestir en \ange de lumière.
+530101	Niveau 3	Infiltration	
+530102	Niveau 4	L'amie	
+5302	Ⅲ.	Le faux prophète	Il arrive à Satan de se travestir en \ange de lumière.
+530201	Niveau 5	Mensonge	
+530202	Niveau 6	Le faux prophète	
+5303	Ⅳ.	Destinés à se revoir	Il arrive à Satan de se travestir en \ange de lumière.
+530301	Niveau 7	Réunion	
+530302	Niveau 8	Destinés à se revoir	
+5310	Ⅰ.	Une nouvelle destination	Que pourrait vous apporter\cette langue qui vous abuse ?
+531001	Niveau 1	Souvenirs de ce jour-là (difficile)	
+531002	Niveau 2	Une nouvelle destination (difficile)	
+5311	Ⅱ.	L'amie	Que pourrait vous apporter\cette langue qui vous abuse ?
+531101	Niveau 3	Infiltration (difficile)	
+531102	Niveau 4	L'amie (difficile)	
+5312	Ⅲ.	Le faux prophète	Que pourrait vous apporter\cette langue qui vous abuse ?
+531201	Niveau 5	Mensonge (difficile)	
+531202	Niveau 6	Le faux prophète (difficile)	
+5313	Ⅳ.	Destinés à se revoir	Que pourrait vous apporter\cette langue qui vous abuse ?
+531301	Niveau 7	Réunion (difficile)	
+531302	Niveau 8	Destinés à se revoir (difficile)	
+5400	Ⅰ.	Légende	Le destin est un guide. Ce guide naît de la sincérité.\Et la sincérité, de l'espoir et de la confiance.
+540001	Niveau 1	Réunion	
+540002	Niveau 2	Légende	
+5401	Ⅱ.	Révélation	Le destin est un guide. Ce guide naît de la sincérité.\Et la sincérité, de l'espoir et de la confiance.
+540101	Niveau 3	Souffrance	
+540102	Niveau 4	Révélation	
+5402	Ⅲ.	Mensonge et vérité	Le destin est un guide. Ce guide naît de la sincérité.\Et la sincérité, de l'espoir et de la confiance.
+540201	Niveau 5	Pur altruisme	
+540202	Niveau 6	Mensonge et vérité	
+5403	Ⅳ.	Destin	Le destin est un guide. Ce guide naît de la sincérité.\Et la sincérité, de l'espoir et de la confiance.
+540301	Niveau 7	Catastrophe	
+540302	Niveau 8	Destin	
+5410	Ⅰ.	Légende	Je dois aller jusqu'au bout.\J'accepterai mon destin.
+541001	Niveau 1	Réunion (difficile)	
+541002	Niveau 2	Légende (difficile)	
+5411	Ⅱ.	Révélation	Je dois aller jusqu'au bout.\J'accepterai mon destin.
+541101	Niveau 3	Souffrance (difficile)	
+541102	Niveau 4	Révélation (difficile)	
+5412	Ⅲ.	Mensonge et vérité	Je dois aller jusqu'au bout.\J'accepterai mon destin.
+541201	Niveau 5	Pur altruisme (difficile)	
+541202	Niveau 6	Mensonge et vérité (difficile)	
+5413	Ⅳ.	Destin	Je dois aller jusqu'au bout.\J'accepterai mon destin.
+541301	Niveau 7	Catastrophe (difficile)	
+541302	Niveau 8	Destin (difficile)	

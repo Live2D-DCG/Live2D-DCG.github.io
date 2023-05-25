@@ -1,0 +1,3142 @@
+﻿// key	ITEM_OPTION_NAME_	ITEM_OPTION_MAX_VALUE_TYPE_
+11000011	增加{value}敏捷度到暴击	追加最大值限制
+11000012	增加{value}敏捷度到暴击	追加最大值限制
+11000013	增加{value}敏捷度到暴击	追加最大值限制
+11000014	增加{value}敏捷度到暴击	追加最大值限制
+11000015	增加{value}敏捷度到暴击	追加最大值限制
+11000016	增加{value}敏捷度到暴击	追加最大值限制
+11000021	增加{value}防御力到暴击	追加最大值限制
+11000022	增加{value}防御力到暴击	追加最大值限制
+11000023	增加{value}防御力到暴击	追加最大值限制
+11000024	增加{value}防御力到暴击	追加最大值限制
+11000025	增加{value}防御力到暴击	追加最大值限制
+11000026	增加{value}防御力到暴击	追加最大值限制
+11000031	增加{value}敏捷度到HP	追加最大值限制
+11000032	增加{value}敏捷度到HP	追加最大值限制
+11000033	增加{value}敏捷度到HP	追加最大值限制
+11000034	增加{value}敏捷度到HP	追加最大值限制
+11000035	增加{value}敏捷度到HP	追加最大值限制
+11000036	增加{value}敏捷度到HP	追加最大值限制
+11000041	增加{value}敏捷度到攻击力	追加最大值限制
+11000042	增加{value}敏捷度到攻击力	追加最大值限制
+11000043	增加{value}敏捷度到攻击力	追加最大值限制
+11000044	增加{value}敏捷度到攻击力	追加最大值限制
+11000045	增加{value}敏捷度到攻击力	追加最大值限制
+11000046	增加{value}敏捷度到攻击力	追加最大值限制
+11000051	增加{value}暴击到HP	追加最大值限制
+11000052	增加{value}暴击到HP	追加最大值限制
+11000053	增加{value}暴击到HP	追加最大值限制
+11000054	增加{value}暴击到HP	追加最大值限制
+11000055	增加{value}暴击到HP	追加最大值限制
+11000056	增加{value}暴击到HP	追加最大值限制
+11000061	增加{value}攻击力到暴击	追加最大值限制
+11000062	增加{value}攻击力到暴击	追加最大值限制
+11000063	增加{value}攻击力到暴击	追加最大值限制
+11000064	增加{value}攻击力到暴击	追加最大值限制
+11000065	增加{value}攻击力到暴击	追加最大值限制
+11000066	增加{value}攻击力到暴击	追加最大值限制
+11000071	增加{value}防御力到攻击力	追加最大值限制
+11000072	增加{value}防御力到攻击力	追加最大值限制
+11000073	增加{value}防御力到攻击力	追加最大值限制
+11000074	增加{value}防御力到攻击力	追加最大值限制
+11000075	增加{value}防御力到攻击力	追加最大值限制
+11000076	增加{value}防御力到攻击力	追加最大值限制
+11000081	增加{value}防御力到HP	追加最大值限制
+11000082	增加{value}防御力到HP	追加最大值限制
+11000083	增加{value}防御力到HP	追加最大值限制
+11000084	增加{value}防御力到HP	追加最大值限制
+11000085	增加{value}防御力到HP	追加最大值限制
+11000086	增加{value}防御力到HP	追加最大值限制
+11000091	增加{value}HP到暴击	追加最大值限制
+11000092	增加{value}HP到暴击	追加最大值限制
+11000093	增加{value}HP到暴击	追加最大值限制
+11000094	增加{value}HP到暴击	追加最大值限制
+11000095	增加{value}HP到暴击	追加最大值限制
+11000096	增加{value}HP到暴击	追加最大值限制
+11000101	增加{value}暴击到攻击力	追加最大值限制
+11000102	增加{value}暴击到攻击力	追加最大值限制
+11000103	增加{value}暴击到攻击力	追加最大值限制
+11000104	增加{value}暴击到攻击力	追加最大值限制
+11000105	增加{value}暴击到攻击力	追加最大值限制
+11000106	增加{value}暴击到攻击力	追加最大值限制
+11000111	增加{value}攻击力到HP	追加最大值限制
+11000112	增加{value}攻击力到HP	追加最大值限制
+11000113	增加{value}攻击力到HP	追加最大值限制
+11000114	增加{value}攻击力到HP	追加最大值限制
+11000115	增加{value}攻击力到HP	追加最大值限制
+11000116	增加{value}攻击力到HP	追加最大值限制
+11000121	增加{value}HP到攻击力	追加最大值限制
+11000122	增加{value}HP到攻击力	追加最大值限制
+11000123	增加{value}HP到攻击力	追加最大值限制
+11000124	增加{value}HP到攻击力	追加最大值限制
+11000125	增加{value}HP到攻击力	追加最大值限制
+11000126	增加{value}HP到攻击力	追加最大值限制
+11000131	增加{value}暴击	无
+11000132	增加{value}暴击	无
+11000133	增加{value}暴击	无
+11000134	增加{value}暴击	无
+11000135	增加{value}暴击	无
+11000136	增加{value}暴击	无
+11000141	HP增加{value}	无
+11000142	HP增加{value}	无
+11000143	HP增加{value}	无
+11000144	HP增加{value}	无
+11000145	HP增加{value}	无
+11000146	HP增加{value}	无
+11000151	增加攻击力{value}	无
+11000152	增加攻击力{value}	无
+11000153	增加攻击力{value}	无
+11000154	增加攻击力{value}	无
+11000155	增加攻击力{value}	无
+11000156	增加攻击力{value}	无
+11000161	全部能力增加{value}	无
+11000162	全部能力增加{value}	无
+11000163	全部能力增加{value}	无
+11000164	全部能力增加{value}	无
+11000165	全部能力增加{value}	无
+11000166	全部能力增加{value}	无
+11900006	增加{value}HP到攻击力	追加最大值限制
+12000011	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000012	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000013	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000014	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000015	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000016	使用Tap Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000021	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000022	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000023	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000024	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000025	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000026	使用Slide Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000031	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000032	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000033	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000034	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000035	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000036	使用Drive Skill攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000041	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000042	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000043	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000044	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000045	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000046	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000051	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000052	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000053	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000054	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000055	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000056	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000061	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000062	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000063	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000064	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000065	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000066	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000071	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000072	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000073	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000074	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000075	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000076	使用Tap Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000081	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000082	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000083	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000084	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000085	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000086	使用Slide Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000091	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000092	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000093	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000094	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000095	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000096	使用Drive Skill攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000101	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000102	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000103	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000104	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000105	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000106	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000111	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000112	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000113	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000114	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000115	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000116	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000121	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000122	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000123	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000124	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000125	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000126	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000131	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000132	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000133	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000134	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000135	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000136	使用Tap Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000141	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000142	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000143	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000144	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000145	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000146	使用Slide Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000151	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000152	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000153	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000154	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000155	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000156	使用Drive Skill攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000161	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000162	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000163	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000164	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000165	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000166	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000171	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000172	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000173	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000174	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000175	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000176	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000181	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000182	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000183	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000184	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000185	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000186	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000191	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000192	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000193	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000194	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000195	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000196	使用Tap Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000201	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000202	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000203	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000204	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000205	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000206	使用Slide Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000211	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000212	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000213	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000214	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000215	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000216	使用Drive Skill攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000221	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000222	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000223	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000224	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000225	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000226	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000231	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000232	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000233	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000234	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000235	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000236	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000241	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000242	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000243	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000244	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000245	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000246	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000251	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000252	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000253	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000254	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000255	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000256	使用Tap Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000261	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000262	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000263	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000264	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000265	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000266	使用Slide Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000271	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000272	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000273	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000274	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000275	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000276	使用Drive Skill攻击时，增加{value}HP到伤害中	追加最大值限制
+12000281	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000282	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000283	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000284	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000285	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000286	使用Tap Skill攻击时，伤害增加{value}	追加最大值限制
+12000291	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000292	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000293	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000294	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000295	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000296	使用Slide Skill攻击时，伤害增加{value}	追加最大值限制
+12000301	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000302	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000303	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000304	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000305	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000306	使用Drive Skill攻击时，伤害增加{value}	追加最大值限制
+12000311	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000312	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000313	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000314	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000315	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000316	攻击时，增加{value}暴击到伤害中	追加最大值限制
+12000321	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000322	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000323	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000324	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000325	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000326	攻击时，增加{value}敏捷度到伤害中	追加最大值限制
+12000331	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000332	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000333	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000334	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000335	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000336	攻击时，增加{value}防御力到伤害中	追加最大值限制
+12000341	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000342	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000343	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000344	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000345	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000346	攻击时，增加{value}攻击力到伤害中	追加最大值限制
+12000351	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000352	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000353	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000354	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000355	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000356	攻击时，增加{value}HP到伤害中	追加最大值限制
+12000361	攻击时，伤害增加{value}	追加最大值限制
+12000362	攻击时，伤害增加{value}	追加最大值限制
+12000363	攻击时，伤害增加{value}	追加最大值限制
+12000364	攻击时，伤害增加{value}	追加最大值限制
+12000365	攻击时，伤害增加{value}	追加最大值限制
+12000366	攻击时，伤害增加{value}	追加最大值限制
+13000011	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000012	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000013	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000014	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000015	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000016	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000021	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000022	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000023	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000024	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000025	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000026	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000031	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000032	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000033	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000034	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000035	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000036	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000041	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000042	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000043	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000044	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000045	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000046	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000051	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000052	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000053	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000054	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000055	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000056	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000061	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000062	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000063	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000064	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000065	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000066	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000071	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000072	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000073	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000074	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000075	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000076	使用Tap Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000081	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000082	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000083	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000084	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000085	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000086	使用Slide Skil击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000091	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000092	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000093	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000094	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000095	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000096	使用Drive Skill击败敌人时，有{value_1}的几率回复{value}最大HP	追加最大值限制
+13000101	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000102	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000103	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000104	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000105	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000106	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000111	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000112	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000113	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000114	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000115	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000116	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000121	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000122	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000123	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000124	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000125	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000126	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000131	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000132	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000133	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000134	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000135	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000136	使用Tap Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000141	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000142	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000143	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000144	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000145	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000146	使用Slide Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000151	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000152	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000153	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000154	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000155	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000156	使用Drive Skill攻击时，有{value_1}的几率回复{value}伤害为HP	追加最大值限制
+13000161	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000162	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000163	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000164	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000165	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000166	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000171	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000172	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000173	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000174	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000175	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000176	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000181	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000182	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000183	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000184	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000185	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000186	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000191	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000192	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000193	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000194	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000195	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000196	使用Tap Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000201	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000202	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000203	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000204	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000205	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000206	使用Slide Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000211	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000212	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000213	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000214	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000215	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000216	使用Drive Skill击败敌人时，回复{value}最大HP	追加最大值限制
+13000221	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000222	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000223	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000224	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000225	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000226	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000231	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000232	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000233	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000234	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000235	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000236	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000241	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000242	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000243	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000244	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000245	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000246	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000251	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000252	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000253	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000254	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000255	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000256	使用Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000261	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000262	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000263	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000264	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000265	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000266	使用Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000271	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000272	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000273	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000274	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000275	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000276	使用Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+13000281	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000282	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000283	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000284	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000285	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000286	使用Tap Skill攻击时，无视防御力增加{value}	无
+13000291	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000292	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000293	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000294	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000295	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000296	使用Slide Skill攻击时，无视防御力增加{value}	无
+13000301	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000302	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000303	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000304	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000305	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000306	使用Drive Skill攻击时，无视防御力增加{value}	无
+13000311	击败敌人时，回复{value}最大HP	追加最大值限制
+13000312	击败敌人时，回复{value}最大HP	追加最大值限制
+13000313	击败敌人时，回复{value}最大HP	追加最大值限制
+13000314	击败敌人时，回复{value}最大HP	追加最大值限制
+13000315	击败敌人时，回复{value}最大HP	追加最大值限制
+13000316	击败敌人时，回复{value}最大HP	追加最大值限制
+13000321	攻击时，回复{value}伤害为HP	追加最大值限制
+13000322	攻击时，回复{value}伤害为HP	追加最大值限制
+13000323	攻击时，回复{value}伤害为HP	追加最大值限制
+13000324	攻击时，回复{value}伤害为HP	追加最大值限制
+13000325	攻击时，回复{value}伤害为HP	追加最大值限制
+13000326	攻击时，回复{value}伤害为HP	追加最大值限制
+13000331	攻击时，无视防御力增加{value}	无
+13000332	攻击时，无视防御力增加{value}	无
+13000333	攻击时，无视防御力增加{value}	无
+13000334	攻击时，无视防御力增加{value}	无
+13000335	攻击时，无视防御力增加{value}	无
+13000336	攻击时，无视防御力增加{value}	无
+1300150	最终暴击增加{value}	
+1300151	最终暴击增加{value}	
+1300152	最终暴击增加{value}	
+1300153	最终暴击增加{value}	
+1300250	装备时，持续回复量增加{value}	
+1300251	装备时，持续回复量增加{value}	
+1300252	装备时，持续回复量增加{value}	
+1300253	装备时，持续回复量增加{value}	
+1300550	增加中毒伤害{value}	
+1300551	增加中毒伤害{value}	
+1300552	增加中毒伤害{value}	
+1300553	增加中毒伤害{value}	
+1300750	增加流血伤害{value}	
+1300751	增加流血伤害{value}	
+1300752	增加流血伤害{value}	
+1300753	增加流血伤害{value}	
+1301450	增加HP上限{value}	
+1301451	增加HP上限{value}	
+1301452	增加HP上限{value}	
+1301453	增加HP上限{value}	
+1301550	诅咒伤害增加{value}	
+1301551	诅咒伤害增加{value}	
+1301552	诅咒伤害增加{value}	
+1301553	诅咒伤害增加{value}	
+1301650	增加攻击力{value}	
+1301651	增加攻击力{value}	
+1301652	增加攻击力{value}	
+1301653	增加攻击力{value}	
+1301750	增加最大防御力{value}	
+1301751	增加最大防御力{value}	
+1301752	增加最大防御力{value}	
+1301753	增加最大防御力{value}	
+1400350	在PVP中失明闪避率增加{value}	
+1400351	在PVP中失明闪避率增加{value}	
+1400352	在PVP中失明闪避率增加{value}	
+1400353	在PVP中失明闪避率增加{value}	
+1400354	在PVP中失明闪避率增加{value}	
+1400450	诅咒伤害增加{value}	
+1400451	诅咒伤害增加{value}	
+1400452	诅咒伤害增加{value}	
+1400453	诅咒伤害增加{value}	
+1400454	诅咒伤害增加{value}	
+1400550	增加中毒伤害{value}	
+1400551	增加中毒伤害{value}	
+1400552	增加中毒伤害{value}	
+1400553	增加中毒伤害{value}	
+1400554	增加中毒伤害{value}	
+1400650	装备时，获得持续回复量增加{value}	
+1400651	装备时，获得持续回复量增加{value}	
+1400652	装备时，获得持续回复量增加{value}	
+1400653	装备时，获得持续回复量增加{value}	
+1400654	装备时，获得持续回复量增加{value}	
+1400750	装备时，全部能力增加{value}	
+1400751	装备时，全部能力增加{value}	
+1400752	装备时，全部能力增加{value}	
+1400753	装备时，全部能力增加{value}	
+1400754	装备时，全部能力增加{value}	
+1400850	在PVP中沉默闪避率增加{value}	
+1400851	在PVP中沉默闪避率增加{value}	
+1400852	在PVP中沉默闪避率增加{value}	
+1400853	在PVP中沉默闪避率增加{value}	
+1400854	在PVP中沉默闪避率增加{value}	
+1400950	增加流血伤害{value}	
+1400951	增加流血伤害{value}	
+1400952	增加流血伤害{value}	
+1400953	增加流血伤害{value}	
+1400954	增加流血伤害{value}	
+1401050	增加最大防御力{value}	
+1401051	增加最大防御力{value}	
+1401052	增加最大防御力{value}	
+1401053	增加最大防御力{value}	
+1401054	增加最大防御力{value}	
+1401150	在PVP中发动攻击时吸收{value} HP	
+1401151	在PVP中发动攻击时吸收{value} HP	
+1401152	在PVP中发动攻击时吸收{value} HP	
+1401153	在PVP中发动攻击时吸收{value} HP	
+1401154	在PVP中发动攻击时吸收{value} HP	
+1401250	借由击败敌人来回复{value}HP	
+1401251	借由击败敌人来回复{value}HP	
+1401252	借由击败敌人来回复{value}HP	
+1401253	借由击败敌人来回复{value}HP	
+1401254	借由击败敌人来回复{value}HP	
+1401350	装备时，获得回复量增加{value}	
+1401351	装备时，获得回复量增加{value}	
+1401352	装备时，获得回复量增加{value}	
+1401353	装备时，获得回复量增加{value}	
+1401354	装备时，获得回复量增加{value}	
+1401450	在PVP中流血闪避率增加{value}	
+1401451	在PVP中流血闪避率增加{value}	
+1401452	在PVP中流血闪避率增加{value}	
+1401453	在PVP中流血闪避率增加{value}	
+1401454	在PVP中流血闪避率增加{value}	
+1500150	禁止回复闪避率增加{value}	
+1500151	禁止回复闪避率增加{value}	
+1500152	增加禁止回复闪避率%{value}	
+1500153	禁止回复闪避率增加{value}	
+1500154	禁止回复闪避率增加{value}	
+1500155	禁止回复闪避率增加{value}	
+1500160	禁止回复闪避率增加{value}	
+1500161	禁止回复闪避率增加{value}	
+1500162	禁止回复闪避率增加{value}	
+1500163	禁止回复闪避率增加{value}	
+1500164	禁止回复闪避率增加{value}	
+1500165	禁止回复闪避率增加{value}	
+1500250	在PvP中增加Slide Skill伤害{value}	
+1500251	在PvP中增加Slide Skill伤害{value}	
+1500252	在PvP中增加Slide Skill伤害{value}	
+1500253	在PvP中增加Slide Skill伤害{value}	
+1500254	在PvP中增加Slide Skill伤害{value}	
+1500255	在PvP中增加Slide Skill伤害{value}	
+1500260	在PvP中增加Slide Skill伤害{value}	
+1500261	在PvP中增加Slide Skill伤害{value}	
+1500262	在PvP中增加Slide Skill伤害{value}	
+1500263	在PvP中增加Slide Skill伤害{value}	
+1500264	在PvP中增加Slide Skill伤害{value}	
+1500265	在PvP中增加Slide Skill伤害{value}	
+1500450	{value}几率无视敌人的挑衅并攻击	
+1500451	{value}几率无视敌人的挑衅并攻击	
+1500452	{value}几率无视敌人的挑衅并攻击	
+1500453	{value}几率无视敌人的挑衅并攻击	
+1500454	{value}几率无视敌人的挑衅并攻击	
+1500455	{value}几率无视敌人的挑衅并攻击	
+1500460	{value}几率无视敌人的挑衅并攻击	
+1500461	{value}几率无视敌人的挑衅并攻击	
+1500462	{value}几率无视敌人的挑衅并攻击	
+1500463	{value}几率无视敌人的挑衅并攻击	
+1500464	{value}几率无视敌人的挑衅并攻击	
+1500465	{value}几率无视敌人的挑衅并攻击	
+1500550	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500551	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500552	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500553	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500554	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500555	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500560	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500561	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500562	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500563	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500564	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500565	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1500650	中毒闪避率增加{value}	
+1500651	中毒闪避率增加{value}	
+1500652	中毒闪避率增加{value}	
+1500653	中毒闪避率增加{value}	
+1500654	中毒闪避率增加{value}	
+1500655	中毒闪避率增加{value}	
+1500660	增加中毒闪避率%{value}	
+1500661	增加中毒闪避率%{value}	
+1500662	增加中毒闪避率%{value}	
+1500663	增加中毒闪避率%{value}	
+1500664	增加中毒闪避率%{value}	
+1500665	增加中毒闪避率%{value}	
+1500750	在5人巨型Boss中增加暴击伤害{value}	
+1500751	在5人巨型Boss中增加暴击伤害{value}	
+1500752	在5人巨型Boss中增加暴击伤害{value}	
+1500753	在5人巨型Boss中增加暴击伤害{value}	
+1500754	在5人巨型Boss中增加暴击伤害{value}	
+1500755	在5人巨型Boss中增加暴击伤害{value}	
+1500760	在5人巨型Boss中增加暴击伤害{value}	
+1500761	在5人巨型Boss中增加暴击伤害{value}	
+1500762	在5人巨型Boss中增加暴击伤害{value}	
+1500763	在5人巨型Boss中增加暴击伤害{value}	
+1500764	在5人巨型Boss中增加暴击伤害{value}	
+1500765	在5人巨型Boss中增加暴击伤害{value}	
+1500850	诅咒伤害增加{value}	
+1500851	诅咒伤害增加{value}	
+1500852	诅咒伤害增加{value}	
+1500853	诅咒伤害增加{value}	
+1500854	诅咒伤害增加{value}	
+1500855	诅咒伤害增加{value}	
+1500860	诅咒伤害增加{value}	
+1500861	诅咒伤害增加{value}	
+1500862	诅咒伤害增加{value}	
+1500863	诅咒伤害增加{value}	
+1500864	诅咒伤害增加{value}	
+1500865	诅咒伤害增加{value}	
+1500950	在PVP中伤害反射增加{value}	
+1500951	在PVP中伤害反射增加{value}	
+1500952	在PVP中伤害反射增加{value}	
+1500953	在PVP中伤害反射增加{value}	
+1500954	在PVP中伤害反射增加{value}	
+1500955	在PVP中伤害反射增加{value}	
+1500960	在PVP中伤害反射增加{value}	
+1500961	在PVP中伤害反射增加{value}	
+1500962	在PVP中伤害反射增加{value}	
+1500963	在PVP中伤害反射增加{value}	
+1500964	在PVP中伤害反射增加{value}	
+1500965	在PVP中伤害反射增加{value}	
+1501350	在PVP中乱舞之刃伤害增加{value}	
+1501351	在PVP中乱舞之刃伤害增加{value}	
+1501352	在PVP中乱舞之刃伤害增加{value}	
+1501353	在PVP中乱舞之刃伤害增加{value}	
+1501354	在PVP中乱舞之刃伤害增加{value}	
+1501355	在PVP中乱舞之刃伤害增加{value}	
+1501360	在PVP中乱舞之刃伤害增加{value}	
+1501361	在PVP中乱舞之刃伤害增加{value}	
+1501362	在PVP中乱舞之刃伤害增加{value}	
+1501363	在PVP中乱舞之刃伤害增加{value}	
+1501364	在PVP中乱舞之刃伤害增加{value}	
+1501365	在PVP中乱舞之刃伤害增加{value}	
+1501450	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501451	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501452	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501453	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501454	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501455	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501460	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501461	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501462	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501463	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501464	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501465	对抗20人巨型Boss时，Slide Skill伤害增加{value}	
+1501550	在地下迷宫中增加中毒伤害{value}	
+1501551	在地下迷宫中增加中毒伤害{value}	
+1501552	在地下迷宫中增加中毒伤害{value}	
+1501553	在地下迷宫中增加中毒伤害{value}	
+1501554	在地下迷宫中增加中毒伤害{value}	
+1501555	在地下迷宫中增加中毒伤害{value}	
+1501560	在地下迷宫中增加中毒伤害{value}	
+1501561	在地下迷宫中增加中毒伤害{value}	
+1501562	在地下迷宫中增加中毒伤害{value}	
+1501563	在地下迷宫中增加中毒伤害{value}	
+1501564	在地下迷宫中增加中毒伤害{value}	
+1501565	在地下迷宫中增加中毒伤害{value}	
+1501650	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501651	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501652	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501653	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501654	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501655	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501660	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501661	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501662	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501663	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501664	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501665	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1501750	流血闪避率增加{value}	
+1501751	流血闪避率增加{value}	
+1501752	流血闪避率增加{value}	
+1501753	流血闪避率增加{value}	
+1501754	流血闪避率增加{value}	
+1501755	流血闪避率增加{value}	
+1501760	增加流血闪避率%{value}	
+1501761	增加流血闪避率%{value}	
+1501762	增加流血闪避率%{value}	
+1501763	增加流血闪避率%{value}	
+1501764	增加流血闪避率%{value}	
+1501765	增加流血闪避率%{value}	
+1501850	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501851	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501852	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501853	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501854	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501855	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501860	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501861	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501862	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501863	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501864	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1501865	装备后，在20人巨型Boss中减少{value}诅咒伤害	
+1502050	在5人巨型Boss中冰冻闪避率增加{value}	
+1502051	在5人巨型Boss中冰冻闪避率增加{value}	
+1502052	在5人巨型Boss中冰冻闪避率增加{value}	
+1502053	在5人巨型Boss中冰冻闪避率增加{value}	
+1502054	在5人巨型Boss中冰冻闪避率增加{value}	
+1502055	在5人巨型Boss中冰冻闪避率增加{value}	
+1502060	在5人巨型Boss中冰冻闪避率增加{value}	
+1502061	在5人巨型Boss中冰冻闪避率增加{value}	
+1502062	在5人巨型Boss中冰冻闪避率增加{value}	
+1502063	在5人巨型Boss中冰冻闪避率增加{value}	
+1502064	在5人巨型Boss中冰冻闪避率增加{value}	
+1502065	在5人巨型Boss中冰冻闪避率增加{value}	
+1502150	在PVP中失明闪避率增加{value}	
+1502151	在PVP中失明闪避率增加{value}	
+1502152	在PVP中失明闪避率增加{value}	
+1502153	在PVP中失明闪避率增加{value}	
+1502154	在PVP中失明闪避率增加{value}	
+1502155	在PVP中失明闪避率增加{value}	
+1502160	在PVP中失明闪避率增加{value}	
+1502161	在PVP中失明闪避率增加{value}	
+1502162	在PVP中失明闪避率增加{value}	
+1502163	在PVP中失明闪避率增加{value}	
+1502164	在PVP中失明闪避率增加{value}	
+1502165	在PVP中失明闪避率增加{value}	
+1502250	在PVP中流血伤害增加{value}	
+1502251	在PVP中流血伤害增加{value}	
+1502252	在PVP中流血伤害增加{value}	
+1502253	在PVP中流血伤害增加{value}	
+1502254	在PVP中流血伤害增加{value}	
+1502255	在PVP中流血伤害增加{value}	
+1502260	在PVP中流血伤害增加{value}	
+1502261	在PVP中流血伤害增加{value}	
+1502262	在PVP中流血伤害增加{value}	
+1502263	在PVP中流血伤害增加{value}	
+1502264	在PVP中流血伤害增加{value}	
+1502265	在PVP中流血伤害增加{value}	
+1502350	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502351	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502352	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502353	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502354	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502355	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502360	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502361	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502362	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502363	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502364	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502365	在5人巨型Boss中，Slide Skill暴击伤害增加{value}	在副本中，Slide Skill暴击伤害增加{value}
+1502550	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502551	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502552	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502553	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502554	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502555	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502560	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502561	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502562	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502563	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502564	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502565	对抗20人巨型Boss时，最大攻击力增加{value}	
+1502950	装备时，获得持续回复量增加{value}	
+1502951	装备时，获得持续回复量增加{value}	
+1502952	装备时，获得持续回复量增加{value}	
+1502953	装备时，获得持续回复量增加{value}	
+1502954	装备时，获得持续回复量增加{value}	
+1502955	装备时，获得持续回复量增加{value}	
+1502960	装备时，获得持续回复量增加{value}	
+1502961	装备时，获得持续回复量增加{value}	
+1502962	装备时，获得持续回复量增加{value}	
+1502963	装备时，获得持续回复量增加{value}	
+1502964	装备时，获得持续回复量增加{value}	
+1502965	装备时，获得持续回复量增加{value}	
+1503050	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503051	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503052	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503053	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503054	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503055	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503060	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503061	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503062	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503063	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503064	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503065	在5人巨型Boss中Slide Skill伤害增加{value}	
+1503150	装备时，在PVP中发动攻击时吸收{value} HP	
+1503151	装备时，在PVP中发动攻击时吸收{value} HP	
+1503152	装备时，在PVP中发动攻击时吸收{value} HP	
+1503153	装备时，在PVP中发动攻击时吸收{value} HP	
+1503154	装备时，在PVP中发动攻击时吸收{value} HP	
+1503155	装备时，在PVP中发动攻击时吸收{value} HP	
+1503160	装备时，在PVP中发动攻击时吸收{value} HP	
+1503161	装备时，在PVP中发动攻击时吸收{value} HP	
+1503162	装备时，在PVP中发动攻击时吸收{value} HP	
+1503163	装备时，在PVP中发动攻击时吸收{value} HP	
+1503164	装备时，在PVP中发动攻击时吸收{value} HP	
+1503165	装备时，在PVP中发动攻击时吸收{value} HP	
+1503350	击败敌人后回复{value}HP	
+1503351	击败敌人后回复{value}HP	
+1503352	击败敌人后回复{value}HP	
+1503353	击败敌人后回复{value}HP	
+1503354	击败敌人后回复{value}HP	
+1503355	击败敌人后回复{value}HP	
+1503360	击败敌人后回复{value}HP	
+1503361	击败敌人后回复{value}HP	
+1503362	击败敌人后回复{value}HP	
+1503363	击败敌人后回复{value}HP	
+1503364	击败敌人后回复{value}HP	
+1503365	击败敌人后回复{value}HP	
+1503450	在PVP中石化闪避率增加{value}	
+1503451	在PVP中石化闪避率增加{value}	
+1503452	在PVP中石化闪避率增加{value}	
+1503453	在PVP中石化闪避率增加{value}	
+1503454	在PVP中石化闪避率增加{value}	
+1503455	在PVP中石化闪避率增加{value}	
+1503460	在PVP中石化闪避率增加{value}	
+1503461	在PVP中石化闪避率增加{value}	
+1503462	在PVP中石化闪避率增加{value}	
+1503463	在PVP中石化闪避率增加{value}	
+1503464	在PVP中石化闪避率增加{value}	
+1503465	在PVP中石化闪避率增加{value}	
+1503550	装备时，减益效果闪避率{value}	
+1503551	装备时，减益效果闪避率{value}	
+1503552	装备时，减益效果闪避率{value}	
+1503553	装备时，减益效果闪避率{value}	
+1503554	装备时，减益效果闪避率{value}	
+1503555	装备时，减益效果闪避率{value}	
+1503560	装备时，减益效果闪避率{value}	
+1503561	装备时，减益效果闪避率{value}	
+1503562	装备时，减益效果闪避率{value}	
+1503563	装备时，减益效果闪避率{value}	
+1503564	装备时，减益效果闪避率{value}	
+1503565	装备时，减益效果闪避率{value}	
+1503650	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503651	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503652	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503653	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503654	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503655	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503660	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503661	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503662	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503663	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503664	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503665	对抗20人巨型Boss时，最大攻击力增加{value}	
+1503750	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503751	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503752	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503753	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503754	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503755	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503760	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503761	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503762	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503763	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503764	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1503765	对抗20人巨型Boss时，装备后Slide Skill伤害增加{value}	对抗世界BOSS时，装备后Slide Skill伤害增加{value}
+1504050	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504051	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504052	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504053	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504054	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504055	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504060	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504061	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504062	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504063	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504064	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504065	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1504150	5人巨型Boss中弱点Skill最终伤害{value}	
+1504151	5人巨型Boss中弱点Skill最终伤害{value}	
+1504152	5人巨型Boss中弱点Skill最终伤害{value}	
+1504153	5人巨型Boss中弱点Skill最终伤害{value}	
+1504154	5人巨型Boss中弱点Skill最终伤害{value}	
+1504155	5人巨型Boss中弱点Skill最终伤害{value}	
+1504160	5人巨型Boss中弱点Skill最终伤害{value}	
+1504161	5人巨型Boss中弱点Skill最终伤害{value}	
+1504162	5人巨型Boss中弱点Skill最终伤害{value}	
+1504163	5人巨型Boss中弱点Skill最终伤害{value}	
+1504164	5人巨型Boss中弱点Skill最终伤害{value}	
+1504165	5人巨型Boss中弱点Skill最终伤害{value}	
+1504450	装备时，在PvP中增加Skill量表充能速度{value}	
+1504451	装备时，在PvP中增加Skill量表充能速度{value}	
+1504452	装备时，在PvP中增加Skill量表充能速度{value}	
+1504453	装备时，在PvP中增加Skill量表充能速度{value}	
+1504454	装备时，在PvP中增加Skill量表充能速度{value}	
+1504455	装备时，在PvP中增加Skill量表充能速度{value}	
+1504460	装备时，在PvP中增加Skill量表充能速度{value}	
+1504461	装备时，在PvP中增加Skill量表充能速度{value}	
+1504462	装备时，在PvP中增加Skill量表充能速度{value}	
+1504463	装备时，在PvP中增加Skill量表充能速度{value}	
+1504464	装备时，在PvP中增加Skill量表充能速度{value}	
+1504465	装备时，在PvP中增加Skill量表充能速度{value}	
+1504550	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504551	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504552	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504553	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504554	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504555	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504560	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504561	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504562	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504563	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504564	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504565	在5人巨型Boss装备时，最大攻击力增加{value}	
+1504650	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504651	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504652	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504653	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504654	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504655	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504660	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504661	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504662	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504663	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504664	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504665	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1504850	装备时，在PvP中增加Skill量表充能速度{value}	
+1504851	装备时，在PvP中增加Skill量表充能速度{value}	
+1504852	装备时，在PvP中增加Skill量表充能速度{value}	
+1504853	装备时，在PvP中增加Skill量表充能速度{value}	
+1504854	装备时，在PvP中增加Skill量表充能速度{value}	
+1504855	装备时，在PvP中增加Skill量表充能速度{value}	
+1504860	装备时，在PvP中增加Skill量表充能速度{value}	
+1504861	装备时，在PvP中增加Skill量表充能速度{value}	
+1504862	装备时，在PvP中增加Skill量表充能速度{value}	
+1504863	装备时，在PvP中增加Skill量表充能速度{value}	
+1504864	装备时，在PvP中增加Skill量表充能速度{value}	
+1504865	装备时，在PvP中增加Skill量表充能速度{value}	
+1504950	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504951	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504952	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504953	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504954	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504955	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504960	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504961	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504962	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504963	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504964	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1504965	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1505150	对抗20人巨型Boss时，最大防御力增加{value}	
+1505151	对抗20人巨型Boss时，最大防御力增加{value}	
+1505152	对抗20人巨型Boss时，最大防御力增加{value}	
+1505153	对抗20人巨型Boss时，最大防御力增加{value}	
+1505154	对抗20人巨型Boss时，最大防御力增加{value}	
+1505155	对抗20人巨型Boss时，最大防御力增加{value}	
+1505160	对抗20人巨型Boss时，最大防御力增加{value}	
+1505161	对抗20人巨型Boss时，最大防御力增加{value}	
+1505162	对抗20人巨型Boss时，最大防御力增加{value}	
+1505163	对抗20人巨型Boss时，最大防御力增加{value}	
+1505164	对抗20人巨型Boss时，最大防御力增加{value}	
+1505165	对抗20人巨型Boss时，最大防御力增加{value}	
+1505850	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505851	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505852	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505853	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505854	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505855	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505860	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505861	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505862	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505863	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505864	装备后，在太空漫步中减益效果闪避率增加{value}	
+1505865	装备后，在太空漫步中减益效果闪避率增加{value}	
+1506050	装备时，回复量增加{value}	
+1506051	装备时，回复量增加{value}	
+1506052	装备时，回复量增加{value}	
+1506053	装备时，回复量增加{value}	
+1506054	装备时，回复量增加{value}	
+1506055	装备时，回复量增加{value}	
+1506060	装备时，回复量增加{value}	
+1506061	装备时，回复量增加{value}	
+1506062	装备时，回复量增加{value}	
+1506063	装备时，回复量增加{value}	
+1506064	装备时，回复量增加{value}	
+1506065	装备时，回复量增加{value}	
+1506150	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506151	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506152	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506153	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506154	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506155	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506160	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506161	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506162	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506163	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506164	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506165	在5人巨型Boss中Slide Skill暴击伤害增加{value}	
+1506250	装备时，在PVP中最终暴击增加{value}	
+1506251	装备时，在PVP中最终暴击增加{value}	
+1506252	装备时，在PVP中最终暴击增加{value}	
+1506253	装备时，在PVP中最终暴击增加{value}	
+1506254	装备时，在PVP中最终暴击增加{value}	
+1506255	装备时，在PVP中最终暴击增加{value}	
+1506260	装备时，在PVP中最终暴击增加{value}	
+1506261	装备时，在PVP中最终暴击增加{value}	
+1506262	装备时，在PVP中最终暴击增加{value}	
+1506263	装备时，在PVP中最终暴击增加{value}	
+1506264	装备时，在PVP中最终暴击增加{value}	
+1506265	装备时，在PVP中最终暴击增加{value}	
+1506350	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506351	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506352	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506353	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506354	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506355	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506360	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506361	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506362	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506363	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506364	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506365	对抗20人巨型Boss时，装备者的所有Skill伤害增加{value}	
+1506450	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506451	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506452	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506453	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506454	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506455	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506460	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506461	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506462	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506463	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506464	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1506465	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1507050	在PvP中增加{value}睡眠闪避率	
+1507051	在PvP中增加{value}睡眠闪避率	
+1507052	在PvP中增加{value}睡眠闪避率	
+1507053	在PvP中增加{value}睡眠闪避率	
+1507054	在PvP中增加{value}睡眠闪避率	
+1507055	在PvP中增加{value}睡眠闪避率	
+1507060	在PvP中增加{value}睡眠闪避率	
+1507061	在PvP中增加{value}睡眠闪避率	
+1507062	在PvP中增加{value}睡眠闪避率	
+1507063	在PvP中增加{value}睡眠闪避率	
+1507064	在PvP中增加{value}睡眠闪避率	
+1507065	在PvP中增加{value}睡眠闪避率	
+1507150	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507151	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507152	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507153	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507154	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507155	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507160	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507161	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507162	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507163	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507164	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507165	在5人巨型Boss装备时，最大攻击力增加{value}	
+1507950	在PVP中沉默闪避率增加{value}	
+1507951	在PVP中沉默闪避率增加{value}	
+1507952	在PVP中沉默闪避率增加{value}	
+1507953	在PVP中沉默闪避率增加{value}	
+1507954	在PVP中沉默闪避率增加{value}	
+1507955	在PVP中沉默闪避率增加{value}	
+1507960	在PVP中沉默闪避率增加{value}	
+1507961	在PVP中沉默闪避率增加{value}	
+1507962	在PVP中沉默闪避率增加{value}	
+1507963	在PVP中沉默闪避率增加{value}	
+1507964	在PVP中沉默闪避率增加{value}	
+1507965	在PVP中沉默闪避率增加{value}	
+1508050	在PVP中最大攻击力增加{value}	
+1508051	在PVP中最大攻击力增加{value}	
+1508052	在PVP中最大攻击力增加{value}	
+1508053	在PVP中最大攻击力增加{value}	
+1508054	在PVP中最大攻击力增加{value}	
+1508055	在PVP中最大攻击力增加{value}	
+1508060	在PVP中最大攻击力增加{value}	
+1508061	在PVP中最大攻击力增加{value}	
+1508062	在PVP中最大攻击力增加{value}	
+1508063	在PVP中最大攻击力增加{value}	
+1508064	在PVP中最大攻击力增加{value}	
+1508065	在PVP中最大攻击力增加{value}	
+1508250	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508251	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508252	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508253	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508254	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508255	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508260	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508261	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508262	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508263	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508264	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508265	装备后，在PvP中，Skill量表充能量增加{value}	装备后，在PvP中，Skill量表充能量增加{value}
+1508350	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508351	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508352	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508353	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508354	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508355	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508360	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508361	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508362	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508363	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508364	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508365	吸血和吸收量增加{value}（只有拥有吸血或吸收技能的Child可用）	
+1508450	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508451	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508452	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508453	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508454	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508455	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508460	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508461	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508462	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508463	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508464	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508465	装备时，在PvP中增加{value}闪避率	装备时，在PvP中增加{value}闪避率
+1508750	在PVP中中毒伤害增加{value}	
+1508751	在PVP中中毒伤害增加{value}	
+1508752	在PVP中中毒伤害增加{value}	
+1508753	在PVP中中毒伤害增加{value}	
+1508754	在PVP中中毒伤害增加{value}	
+1508755	在PVP中中毒伤害增加{value}	
+1508760	在PVP中中毒伤害增加{value}	
+1508761	在PVP中中毒伤害增加{value}	
+1508762	在PVP中中毒伤害增加{value}	
+1508763	在PVP中中毒伤害增加{value}	
+1508764	在PVP中中毒伤害增加{value}	
+1508765	在PVP中中毒伤害增加{value}	
+1508950	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508951	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508952	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508953	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508954	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508955	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508960	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508961	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508962	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508963	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508964	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1508965	在5人巨型Boss中装备时，增加{value}Tap Skill伤害	在副本中装备时，增加{value}Tap Skill伤害
+1509050	在PVP中最大攻击力增加{value}	
+1509051	在PVP中最大攻击力增加{value}	
+1509052	在PVP中最大攻击力增加{value}	
+1509053	在PVP中最大攻击力增加{value}	
+1509054	在PVP中最大攻击力增加{value}	
+1509055	在PVP中最大攻击力增加{value}	
+1509060	在PVP中最大攻击力增加{value}	
+1509061	在PVP中最大攻击力增加{value}	
+1509062	在PVP中最大攻击力增加{value}	
+1509063	在PVP中最大攻击力增加{value}	
+1509064	在PVP中最大攻击力增加{value}	
+1509065	在PVP中最大攻击力增加{value}	
+1509250	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509251	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509252	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509253	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509254	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509255	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509260	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509261	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509262	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509263	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509264	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509265	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509350	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509351	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509352	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509353	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509354	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509355	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509360	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509361	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509362	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509363	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509364	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509365	在5人巨型Boss中装备时，暴击Skill伤害增加{value}	在副本中装备时，暴击Skill伤害增加{value}
+1509450	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509451	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509452	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509453	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509454	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509455	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509460	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509461	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509462	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509463	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509464	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509465	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1509550	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509551	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509552	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509553	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509554	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509555	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509560	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509561	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509562	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509563	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509564	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509565	对抗20人巨型Boss时，装备者最大攻击力增加{value}	
+1509650	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509651	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509652	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509653	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509654	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509655	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509660	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509661	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509662	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509663	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509664	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509665	装备时，在5人巨型Boss中Tap Skill伤害增加{value}	
+1509750	在PVP中增加{value}命中率	
+1509751	在PVP中增加{value}命中率	
+1509752	在PVP中增加{value}命中率	
+1509753	在PVP中增加{value}命中率	
+1509754	在PVP中增加{value}命中率	
+1509755	在PVP中增加{value}命中率	
+1509760	在PVP中增加{value}命中率	
+1509761	在PVP中增加{value}命中率	
+1509762	在PVP中增加{value}命中率	
+1509763	在PVP中增加{value}命中率	
+1509764	在PVP中增加{value}命中率	
+1509765	在PVP中增加{value}命中率	
+1509950	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509951	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509952	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509953	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509954	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509955	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509960	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509961	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509962	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509963	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509964	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1509965	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510050	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510051	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510052	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510053	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510054	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510055	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510060	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510061	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510062	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510063	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510064	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510065	对抗20人巨型Boss时，装备后最大攻击力增加{value}	对抗世界BOSS时，装备后最大攻击力增加{value}
+1510150	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510151	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510152	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510153	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510154	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510155	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510160	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510161	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510162	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510163	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510164	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510165	装备后，在PvP中受到攻击时，恢复{value} HP	装备后，在PvP中受到攻击时，恢复 HP {value}
+1510250	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510251	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510252	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510253	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510254	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510255	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510260	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510261	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510262	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510263	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510264	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510265	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1510350	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510351	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510352	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510353	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510354	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510355	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510360	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510361	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510362	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510363	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510364	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510365	装备后，在PvE中增加{value}流血伤害	装备后，在PvE中增加{value}流血伤害
+1510550	装备时，在PVP中增加{value}最终防御力	
+1510551	装备时，在PVP中增加{value}最终防御力	
+1510552	装备时，在PVP中增加{value}最终防御力	
+1510553	装备时，在PVP中增加{value}最终防御力	
+1510554	装备时，在PVP中增加{value}最终防御力	
+1510555	装备时，在PVP中增加{value}最终防御力	
+1510560	装备时，在PVP中增加{value}最终防御力	
+1510561	装备时，在PVP中增加{value}最终防御力	
+1510562	装备时，在PVP中增加{value}最终防御力	
+1510563	装备时，在PVP中增加{value}最终防御力	
+1510564	装备时，在PVP中增加{value}最终防御力	
+1510565	装备时，在PVP中增加{value}最终防御力	
+1510850	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510851	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510852	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510853	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510854	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510855	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510860	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510861	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510862	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510863	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510864	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510865	装备后，对抗20人巨型Boss时增加{value}中毒伤害	装备后，对抗世界BOSS时增加{value}中毒伤害
+1510950	在PvP中，增加{value}减益效果命中率	
+1510951	在PvP中，增加{value}减益效果命中率	
+1510952	在PvP中，增加{value}减益效果命中率	
+1510953	在PvP中，增加{value}减益效果命中率	
+1510954	在PvP中，增加{value}减益效果命中率	
+1510955	在PvP中，增加{value}减益效果命中率	
+1510960	在PvP中，增加{value}减益效果命中率	
+1510961	在PvP中，增加{value}减益效果命中率	
+1510962	在PvP中，增加{value}减益效果命中率	
+1510963	在PvP中，增加{value}减益效果命中率	
+1510964	在PvP中，增加{value}减益效果命中率	
+1510965	在PvP中，增加{value}减益效果命中率	
+1511050	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511051	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511052	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511053	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511054	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511055	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511060	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511061	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511062	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511063	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511064	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511065	在PvP中使用Slide Skill时，有{value}几率移除增益	
+1511150	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511151	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511152	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511153	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511154	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511155	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511160	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511161	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511162	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511163	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511164	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511165	装备后，在PvP中，减益效果持续时间缩短{value}	
+1511250	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511251	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511252	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511253	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511254	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511255	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511260	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511261	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511262	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511263	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511264	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511265	在5人巨型Boss装备时，增加{value}减益效果闪避率	在副本装备时，增加{value}减益效果闪避率
+1511350	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511351	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511352	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511353	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511354	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511355	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511360	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511361	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511362	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511363	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511364	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511365	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1511450	装备后，在PvP中，减益效果闪避率增加{value}	
+1511451	装备后，在PvP中，减益效果闪避率增加{value}	
+1511452	装备后，在PvP中，减益效果闪避率增加{value}	
+1511453	装备后，在PvP中，减益效果闪避率增加{value}	
+1511454	装备后，在PvP中，减益效果闪避率增加{value}	
+1511455	装备后，在PvP中，减益效果闪避率增加{value}	
+1511460	装备后，在PvP中，减益效果闪避率增加{value}	
+1511461	装备后，在PvP中，减益效果闪避率增加{value}	
+1511462	装备后，在PvP中，减益效果闪避率增加{value}	
+1511463	装备后，在PvP中，减益效果闪避率增加{value}	
+1511464	装备后，在PvP中，减益效果闪避率增加{value}	
+1511465	装备后，在PvP中，减益效果闪避率增加{value}	
+1511550	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511551	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511552	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511553	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511554	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511555	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511560	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511561	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511562	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511563	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511564	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511565	对抗20人巨型Boss时，装备者最大攻击力增加{value}	对抗世界BOSS时，装备者最大攻击力增加{value}
+1511650	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511651	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511652	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511653	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511654	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511655	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511660	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511661	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511662	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511663	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511664	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511665	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1511750	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511751	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511752	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511753	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511754	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511755	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511760	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511761	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511762	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511763	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511764	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511765	在5人巨型Boss装备时，最大攻击力增加{value}	
+1511850	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511851	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511852	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511853	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511854	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511855	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511860	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511861	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511862	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511863	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511864	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1511865	在5人巨型Boss装备时，最大攻击力增加{value}	在副本装备时，最大攻击力增加{value}
+1512150	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512151	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512152	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512153	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512154	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512155	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512160	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512161	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512162	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512163	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512164	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512165	在5人巨型Boss装备时，最大攻击力增加{value}	
+1512350	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512351	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512352	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512353	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512354	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512355	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512360	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512361	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512362	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512363	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512364	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512365	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1512450	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512451	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512452	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512453	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512454	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512455	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512460	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512461	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512462	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512463	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512464	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512465	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512550	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512551	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512552	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512553	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512554	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512555	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512560	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512561	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512562	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512563	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512564	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512565	装备后，在PvP中，Slide Skill无视防御伤害增加{value}	装备后，在PvP中，Slide Skill无视防御伤害增加{value}
+1512650	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512651	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512652	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512653	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512654	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512655	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512660	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512661	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512662	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512663	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512664	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512665	装备后，对抗20人巨型Boss时，暴击Skill伤害增加{value}	装备后，对抗世界BOSS时，暴击Skill伤害增加{value}
+1512750	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512751	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512752	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512753	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512754	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512755	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512760	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512761	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512762	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512763	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512764	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512765	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1512850	时间系减益效果命中率增加{value}	
+1512851	时间系减益效果命中率增加{value}	
+1512852	时间系减益效果命中率增加{value}	
+1512853	时间系减益效果命中率增加{value}	
+1512854	时间系减益效果命中率增加{value}	
+1512855	时间系减益效果命中率增加{value}	
+1512860	时间系减益效果命中率增加{value}	
+1512861	时间系减益效果命中率增加{value}	
+1512862	时间系减益效果命中率增加{value}	
+1512863	时间系减益效果命中率增加{value}	
+1512864	时间系减益效果命中率增加{value}	
+1512865	时间系减益效果命中率增加{value}	
+1512950	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512951	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512952	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512953	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512954	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512955	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512960	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512961	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512962	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512963	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512964	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1512965	在5人巨型Boss中装备时，增加{value}弱点Skill最终伤害	在副本中装备时，增加{value}弱点Skill最终伤害
+1513050	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513051	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513052	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513053	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513054	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513055	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513060	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513061	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513062	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513063	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513064	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513065	在5人巨型Boss中Slide Skill伤害增加{value}	
+1513250	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513251	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513252	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513253	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513254	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513255	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513260	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513261	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513262	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513263	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513264	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513265	装备后，在PvP中，时间系减益闪避率增加{value}	装备后，在PvP中，时间系减益闪避率增加{value}
+1513350	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513351	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513352	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513353	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513354	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513355	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513360	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513361	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513362	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513363	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513364	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513365	装备后，对抗20人巨型Boss时增加{value}弱点Skill最终伤害	装备后，对抗世界BOSS时增加{value}弱点Skill最终伤害
+1513450	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513451	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513452	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513453	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513454	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513455	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513460	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513461	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513462	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513463	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513464	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513465	装备后，在PvP中发动攻击时回复{value}HP	装备后，在PvP中发动攻击时回复{value}HP
+1513550	增加{value}分解伤害	
+1513551	增加{value}分解伤害	
+1513552	增加{value}分解伤害	
+1513553	增加{value}分解伤害	
+1513554	增加{value}分解伤害	
+1513555	增加{value}分解伤害	
+1513560	增加{value}分解伤害	
+1513561	增加{value}分解伤害	
+1513562	增加{value}分解伤害	
+1513563	增加{value}分解伤害	
+1513564	增加{value}分解伤害	
+1513565	增加{value}分解伤害	
+1513650	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513651	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513652	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513653	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513654	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513655	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513660	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513661	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513662	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513663	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513664	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513665	20人巨型Boss身上受到的减益效果持续时间增加{value}	
+1513750	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513751	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513752	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513753	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513754	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513755	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513760	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513761	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513762	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513763	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513764	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513765	装备后，在PvP中，最终敏捷度增加{value}	装备后，在PvP中，最终敏捷度增加{value}
+1513850	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513851	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513852	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513853	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513854	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513855	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513860	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513861	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513862	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513863	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513864	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1513865	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1514050	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514051	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514052	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514053	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514054	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514055	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514060	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514061	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514062	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514063	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514064	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514065	对20人巨型Boss增加{value}减益效果命中率	对世界BOSS增加{value}减益效果命中率
+1514450	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514451	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514452	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514453	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514454	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514455	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514460	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514461	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514462	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514463	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514464	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514465	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514550	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514551	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514552	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514553	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514554	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514555	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514560	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514561	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514562	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514563	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514564	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1514565	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515050	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515051	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515052	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515053	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515054	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515055	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515060	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515061	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515062	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515063	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515064	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515065	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515150	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515151	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515152	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515153	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515154	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515155	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515160	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515161	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515162	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515163	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515164	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515165	在5人巨型Boss装备时，增加{value}减益效果闪避率	
+1515250	在PvP中增加{value}眩晕闪避率	
+1515251	在PvP中增加{value}眩晕闪避率	
+1515252	在PvP中增加{value}眩晕闪避率	
+1515253	在PvP中增加{value}眩晕闪避率	
+1515254	在PvP中增加{value}眩晕闪避率	
+1515255	在PvP中增加{value}眩晕闪避率	
+1515260	在PvP中增加{value}眩晕闪避率	
+1515261	在PvP中增加{value}眩晕闪避率	
+1515262	在PvP中增加{value}眩晕闪避率	
+1515263	在PvP中增加{value}眩晕闪避率	
+1515264	在PvP中增加{value}眩晕闪避率	
+1515265	在PvP中增加{value}眩晕闪避率	
+1515350	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515351	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515352	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515353	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515354	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515355	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515360	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515361	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515362	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515363	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515364	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515365	对20人巨型Boss时，装备时增加{value}减益效果闪避率	
+1515450	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515451	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515452	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515453	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515454	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515455	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515460	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515461	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515462	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515463	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515464	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515465	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1515550	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515551	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515552	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515553	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515554	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515555	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515560	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515561	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515562	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515563	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515564	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515565	减少20人巨型Boss带来的减益效果持续时间{value}	
+1515850	在PVP中增加持续效果命中率{value}	
+1515851	在PVP中增加持续效果命中率{value}	
+1515852	在PVP中增加持续效果命中率{value}	
+1515853	在PVP中增加持续效果命中率{value}	
+1515854	在PVP中增加持续效果命中率{value}	
+1515855	在PVP中增加持续效果命中率{value}	
+1515860	在PVP中增加持续效果命中率{value}	
+1515861	在PVP中增加持续效果命中率{value}	
+1515862	在PVP中增加持续效果命中率{value}	
+1515863	在PVP中增加持续效果命中率{value}	
+1515864	在PVP中增加持续效果命中率{value}	
+1515865	在PVP中增加持续效果命中率{value}	
+1515950	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515951	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515952	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515953	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515954	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515955	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515960	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515961	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515962	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515963	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515964	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1515965	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1516050	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516051	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516052	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516053	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516054	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516055	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516060	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516061	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516062	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516063	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516064	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516065	对抗20人巨型Boss时，弱点Skill伤害增加{value}	
+1516250	装备时，全部能力增加{value}	
+1516251	装备时，全部能力增加{value}	
+1516252	装备时，全部能力增加{value}	
+1516253	装备时，全部能力增加{value}	
+1516254	装备时，全部能力增加{value}	
+1516255	装备时，全部能力增加{value}	
+1516260	装备时，全部能力增加{value}	
+1516261	装备时，全部能力增加{value}	
+1516262	装备时，全部能力增加{value}	
+1516263	装备时，全部能力增加{value}	
+1516264	装备时，全部能力增加{value}	
+1516265	装备时，全部能力增加{value}	
+1516550	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516551	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516552	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516553	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516554	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516555	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516560	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516561	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516562	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516563	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516564	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516565	装备时，在5人巨型Boss中增加Skill量表充能速度{value}	
+1516650	装备后，减益效果持续时间缩短{value}	空栏
+1516651	装备后，减益效果持续时间缩短{value}秒	空栏
+1516652	装备后，减益效果持续时间缩短{value}秒	空栏
+1516653	装备后，减益效果持续时间缩短{value}秒	空栏
+1516654	装备后，减益效果持续时间缩短{value}秒	空栏
+1516655	装备后，减益效果持续时间缩短{value}秒	空栏
+1516660	装备后，减益效果持续时间缩短{value}秒	空栏
+1516661	装备后，减益效果持续时间缩短{value}秒	空栏
+1516662	装备后，减益效果持续时间缩短{value}秒	空栏
+1516663	装备后，减益效果持续时间缩短{value}秒	空栏
+1516664	装备后，减益效果持续时间缩短{value}秒	空栏
+1516665	装备后，减益效果持续时间缩短{value}秒	空栏
+1516750	在PvP中普通Skill增加{value}无视防御伤害	
+1516751	在PvP中普通Skill增加{value}无视防御伤害	
+1516752	在PvP中普通Skill增加{value}无视防御伤害	
+1516753	在PvP中普通Skill增加{value}无视防御伤害	
+1516754	在PvP中普通Skill增加{value}无视防御伤害	
+1516755	在PvP中普通Skill增加{value}无视防御伤害	
+1516760	在PvP中普通Skill增加{value}无视防御伤害	
+1516761	在PvP中普通Skill增加{value}无视防御伤害	
+1516762	在PvP中普通Skill增加{value}无视防御伤害	
+1516763	在PvP中普通Skill增加{value}无视防御伤害	
+1516764	在PvP中普通Skill增加{value}无视防御伤害	
+1516765	在PvP中普通Skill增加{value}无视防御伤害	
+1516850	{value}几率无视敌人的挑衅并攻击	
+1516851	{value}几率无视敌人的挑衅并攻击	
+1516852	{value}几率无视敌人的挑衅并攻击	
+1516853	{value}几率无视敌人的挑衅并攻击	
+1516854	{value}几率无视敌人的挑衅并攻击	
+1516855	{value}几率无视敌人的挑衅并攻击	
+1516860	{value}几率无视敌人的挑衅并攻击	
+1516861	{value}几率无视敌人的挑衅并攻击	
+1516862	{value}几率无视敌人的挑衅并攻击	
+1516863	{value}几率无视敌人的挑衅并攻击	
+1516864	{value}几率无视敌人的挑衅并攻击	
+1516865	{value}几率无视敌人的挑衅并攻击	
+1516950	在PvE中Skill量表充能速度增加{value}	
+1516951	在PvE中Skill量表充能速度增加{value}	
+1516952	在PvE中Skill量表充能速度增加{value}	
+1516953	在PvE中Skill量表充能速度增加{value}	
+1516954	在PvE中Skill量表充能速度增加{value}	
+1516955	在PvE中Skill量表充能速度增加{value}	
+1516960	在PvE中Skill量表充能速度增加{value}	
+1516961	在PvE中Skill量表充能速度增加{value}	
+1516962	在PvE中Skill量表充能速度增加{value}	
+1516963	在PvE中Skill量表充能速度增加{value}	
+1516964	在PvE中Skill量表充能速度增加{value}	
+1516965	在PvE中Skill量表充能速度增加{value}	
+1517050	在PvP中增加{value}眩晕命中率	
+1517051	在PvP中增加{value}眩晕命中率	
+1517052	在PvP中增加{value}眩晕命中率	
+1517053	在PvP中增加{value}眩晕命中率	
+1517054	在PvP中增加{value}眩晕命中率	
+1517055	在PvP中增加{value}眩晕命中率	
+1517060	在PvP中增加{value}眩晕命中率	
+1517061	在PvP中增加{value}眩晕命中率	
+1517062	在PvP中增加{value}眩晕命中率	
+1517063	在PvP中增加{value}眩晕命中率	
+1517064	在PvP中增加{value}眩晕命中率	
+1517065	在PvP中增加{value}眩晕命中率	
+1517150	在PvE中被攻击时，回复{value}HP	
+1517151	在PvE中被攻击时，回复{value}HP	
+1517152	在PvE中被攻击时，回复{value}HP	
+1517153	在PvE中被攻击时，回复{value}HP	
+1517154	在PvE中被攻击时，回复{value}HP	
+1517155	在PvE中被攻击时，回复{value}HP	
+1517160	在PvE中被攻击时，回复{value}HP	
+1517161	在PvE中被攻击时，回复{value}HP	
+1517162	在PvE中被攻击时，回复{value}HP	
+1517163	在PvE中被攻击时，回复{value}HP	
+1517164	在PvE中被攻击时，回复{value}HP	
+1517165	在PvE中被攻击时，回复{value}HP	
+1517250	增加{value}命中率	
+1517251	增加{value}命中率	
+1517252	增加{value}命中率	
+1517253	增加{value}命中率	
+1517254	增加{value}命中率	
+1517255	增加{value}命中率	
+1517260	增加{value}命中率	
+1517261	增加{value}命中率	
+1517262	增加{value}命中率	
+1517263	增加{value}命中率	
+1517264	增加{value}命中率	
+1517265	增加{value}命中率	
+1517350	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517351	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517352	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517353	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517354	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517355	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517360	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517361	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517362	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517363	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517364	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517365	装备后，在太空漫步中发动攻击时回复{value}HP	
+1517450	装备后，在PvE中持续伤害增加{value}	
+1517451	装备后，在PvE中持续伤害增加{value}	
+1517452	装备后，在PvE中持续伤害增加{value}	
+1517453	装备后，在PvE中持续伤害增加{value}	
+1517454	装备后，在PvE中持续伤害增加{value}	
+1517455	装备后，在PvE中持续伤害增加{value}	
+1517460	装备后，在PvE中持续伤害增加{value}	
+1517461	装备后，在PvE中持续伤害增加{value}	
+1517462	装备后，在PvE中持续伤害增加{value}	
+1517463	装备后，在PvE中持续伤害增加{value}	
+1517464	装备后，在PvE中持续伤害增加{value}	
+1517465	装备后，在PvE中持续伤害增加{value}	
+1517550	在PvP中增加{value}眩晕闪避率	
+1517551	在PvP中增加{value}眩晕闪避率	
+1517552	在PvP中增加{value}眩晕闪避率	
+1517553	在PvP中增加{value}眩晕闪避率	
+1517554	在PvP中增加{value}眩晕闪避率	
+1517555	在PvP中增加{value}眩晕闪避率	
+1517560	在PvP中增加{value}眩晕闪避率	
+1517561	在PvP中增加{value}眩晕闪避率	
+1517562	在PvP中增加{value}眩晕闪避率	
+1517563	在PvP中增加{value}眩晕闪避率	
+1517564	在PvP中增加{value}眩晕闪避率	
+1517565	在PvP中增加{value}眩晕闪避率	
+1517650	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517651	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517652	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517653	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517654	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517655	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517660	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517661	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517662	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517663	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517664	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517665	装备后，在PvP中持续伤害减益效果闪避率增加{value}	
+1517750	受到攻击时，Skill量表增加{value}点	
+1517751	受到攻击时，Skill量表增加{value}点	
+1517752	受到攻击时，Skill量表增加{value}点	
+1517753	受到攻击时，Skill量表增加{value}点	
+1517754	受到攻击时，Skill量表增加{value}点	
+1517755	受到攻击时，Skill量表增加{value}点	
+1517760	受到攻击时，Skill量表增加{value}点	
+1517761	受到攻击时，Skill量表增加{value}点	
+1517762	受到攻击时，Skill量表增加{value}点	
+1517763	受到攻击时，Skill量表增加{value}点	
+1517764	受到攻击时，Skill量表增加{value}点	
+1517765	受到攻击时，Skill量表增加{value}点	
+1517850	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517851	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517852	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517853	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517854	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517855	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517860	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517861	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517862	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517863	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517864	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517865	装备后，在20人巨型Boss中受到攻击时的Skill量表增加{value}	
+1517950	借由击败敌人来回复{value}HP	
+1517951	借由击败敌人来回复{value}HP	
+1517952	借由击败敌人来回复{value}HP	
+1517953	借由击败敌人来回复{value}HP	
+1517954	借由击败敌人来回复{value}HP	
+1517955	借由击败敌人来回复{value}HP	
+1517960	借由击败敌人来回复{value}HP	
+1517961	借由击败敌人来回复{value}HP	
+1517962	借由击败敌人来回复{value}HP	
+1517963	借由击败敌人来回复{value}HP	
+1517964	借由击败敌人来回复{value}HP	
+1517965	借由击败敌人来回复{value}HP	
+1518250	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518251	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518252	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518253	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518254	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518255	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518260	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518261	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518262	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518263	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518264	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518265	装备时，在5人巨型Boss中发动攻击时回复{value}HP	
+1518450	在PvP中减少{value}流血伤害	
+1518451	在PvP中减少{value}流血伤害	
+1518452	在PvP中减少{value}流血伤害	
+1518453	在PvP中减少{value}流血伤害	
+1518454	在PvP中减少{value}流血伤害	
+1518455	在PvP中减少{value}流血伤害	
+1518460	在PvP中减少{value}流血伤害	
+1518461	在PvP中减少{value}流血伤害	
+1518462	在PvP中减少{value}流血伤害	
+1518463	在PvP中减少{value}流血伤害	
+1518464	在PvP中减少{value}流血伤害	
+1518465	在PvP中减少{value}流血伤害	
+1518550	在PvP中，增加{value}弱化减益闪避率	
+1518551	在PvP中，增加{value}弱化减益闪避率	
+1518552	在PvP中，增加{value}弱化减益闪避率	
+1518553	在PvP中，增加{value}弱化减益闪避率	
+1518554	在PvP中，增加{value}弱化减益闪避率	
+1518555	在PvP中，增加{value}弱化减益闪避率	
+1518560	在PvP中，增加{value}弱化减益闪避率	
+1518561	在PvP中，增加{value}弱化减益闪避率	
+1518562	在PvP中，增加{value}弱化减益闪避率	
+1518563	在PvP中，增加{value}弱化减益闪避率	
+1518564	在PvP中，增加{value}弱化减益闪避率	
+1518565	在PvP中，增加{value}弱化减益闪避率	
+1518650	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518651	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518652	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518653	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518654	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518655	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518660	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518661	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518662	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518663	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518664	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518665	在5人巨型Boss中，减益效果持续时间缩短{value}	
+1518750	增加HP上限{value}	
+1518751	增加HP上限{value}	
+1518752	增加HP上限{value}	
+1518753	增加HP上限{value}	
+1518754	增加HP上限{value}	
+1518755	增加HP上限{value}	
+1518760	增加HP上限{value}	
+1518761	增加HP上限{value}	
+1518762	增加HP上限{value}	
+1518763	增加HP上限{value}	
+1518764	增加HP上限{value}	
+1518765	增加HP上限{value}	
+1518950	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518951	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518952	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518953	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518954	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518955	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518960	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518961	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518962	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518963	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518964	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1518965	装备时，在5人巨型Boss期间增加暴击Skill伤害{value}并在受到攻击时恢复{value_op2}	
+1519050	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519051	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519052	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519053	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519054	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519055	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519060	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519061	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519062	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519063	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519064	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519065	装备时，在PvP中增加弱化减益命中率{value}和持续伤害{value_op2}	
+1519150	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519151	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519152	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519153	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519154	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519155	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519160	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519161	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519162	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519163	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519164	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519165	装备时，在PvE中增加暴击率{value}和暴击伤害{value_op2}	
+1519250	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519251	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519252	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519253	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519254	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519255	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519260	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519261	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519262	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519263	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519264	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519265	装备时，增加回复量{value}和持续回复量{value_op2}	
+1519550	装备时，在太空漫步中增加攻击力{value}	
+1519551	装备时，在太空漫步中增加攻击力{value}	
+1519552	装备时，在太空漫步中增加攻击力{value}	
+1519553	装备时，在太空漫步中增加攻击力{value}	
+1519554	装备时，在太空漫步中增加攻击力{value}	
+1519555	装备时，在太空漫步中增加攻击力{value}	
+1519560	装备时，在太空漫步中增加攻击力{value}	
+1519561	装备时，在太空漫步中增加攻击力{value}	
+1519562	装备时，在太空漫步中增加攻击力{value}	
+1519563	装备时，在太空漫步中增加攻击力{value}	
+1519564	装备时，在太空漫步中增加攻击力{value}	
+1519565	装备时，在太空漫步中增加攻击力{value}	
+21000011	增加{value}暴击到敏捷度	追加最大值限制
+21000012	增加{value}暴击到敏捷度	追加最大值限制
+21000013	增加{value}暴击到敏捷度	追加最大值限制
+21000014	增加{value}暴击到敏捷度	追加最大值限制
+21000015	增加{value}暴击到敏捷度	追加最大值限制
+21000016	增加{value}暴击到敏捷度	追加最大值限制
+21000021	增加{value}防御力到敏捷度	追加最大值限制
+21000022	增加{value}防御力到敏捷度	追加最大值限制
+21000023	增加{value}防御力到敏捷度	追加最大值限制
+21000024	增加{value}防御力到敏捷度	追加最大值限制
+21000025	增加{value}防御力到敏捷度	追加最大值限制
+21000026	增加{value}防御力到敏捷度	追加最大值限制
+21000031	增加{value}暴击到防御力	追加最大值限制
+21000032	增加{value}暴击到防御力	追加最大值限制
+21000033	增加{value}暴击到防御力	追加最大值限制
+21000034	增加{value}暴击到防御力	追加最大值限制
+21000035	增加{value}暴击到防御力	追加最大值限制
+21000036	增加{value}暴击到防御力	追加最大值限制
+21000041	增加{value}敏捷度到HP	追加最大值限制
+21000042	增加{value}敏捷度到HP	追加最大值限制
+21000043	增加{value}敏捷度到HP	追加最大值限制
+21000044	增加{value}敏捷度到HP	追加最大值限制
+21000045	增加{value}敏捷度到HP	追加最大值限制
+21000046	增加{value}敏捷度到HP	追加最大值限制
+21000051	增加{value}敏捷度到防御力	追加最大值限制
+21000052	增加{value}敏捷度到防御力	追加最大值限制
+21000053	增加{value}敏捷度到防御力	追加最大值限制
+21000054	增加{value}敏捷度到防御力	追加最大值限制
+21000055	增加{value}敏捷度到防御力	追加最大值限制
+21000056	增加{value}敏捷度到防御力	追加最大值限制
+21000061	增加{value}暴击到HP	追加最大值限制
+21000062	增加{value}暴击到HP	追加最大值限制
+21000063	增加{value}暴击到HP	追加最大值限制
+21000064	增加{value}暴击到HP	追加最大值限制
+21000065	增加{value}暴击到HP	追加最大值限制
+21000066	增加{value}暴击到HP	追加最大值限制
+21000071	增加{value}攻击力到敏捷度	追加最大值限制
+21000072	增加{value}攻击力到敏捷度	追加最大值限制
+21000073	增加{value}攻击力到敏捷度	追加最大值限制
+21000074	增加{value}攻击力到敏捷度	追加最大值限制
+21000075	增加{value}攻击力到敏捷度	追加最大值限制
+21000076	增加{value}攻击力到敏捷度	追加最大值限制
+21000081	增加{value}防御力到HP	追加最大值限制
+21000082	增加{value}防御力到HP	追加最大值限制
+21000083	增加{value}防御力到HP	追加最大值限制
+21000084	增加{value}防御力到HP	追加最大值限制
+21000085	增加{value}防御力到HP	追加最大值限制
+21000086	增加{value}防御力到HP	追加最大值限制
+21000091	增加{value}HP到敏捷度	追加最大值限制
+21000092	增加{value}HP到敏捷度	追加最大值限制
+21000093	增加{value}HP到敏捷度	追加最大值限制
+21000094	增加{value}HP到敏捷度	追加最大值限制
+21000095	增加{value}HP到敏捷度	追加最大值限制
+21000096	增加{value}HP到敏捷度	追加最大值限制
+21000101	增加{value}攻击力到防御力	追加最大值限制
+21000102	增加{value}攻击力到防御力	追加最大值限制
+21000103	增加{value}攻击力到防御力	追加最大值限制
+21000104	增加{value}攻击力到防御力	追加最大值限制
+21000105	增加{value}攻击力到防御力	追加最大值限制
+21000106	增加{value}攻击力到防御力	追加最大值限制
+21000111	增加{value}攻击力到HP	追加最大值限制
+21000112	增加{value}攻击力到HP	追加最大值限制
+21000113	增加{value}攻击力到HP	追加最大值限制
+21000114	增加{value}攻击力到HP	追加最大值限制
+21000115	增加{value}攻击力到HP	追加最大值限制
+21000116	增加{value}攻击力到HP	追加最大值限制
+21000121	增加{value}HP到防御力	追加最大值限制
+21000122	增加{value}HP到防御力	追加最大值限制
+21000123	增加{value}HP到防御力	追加最大值限制
+21000124	增加{value}HP到防御力	追加最大值限制
+21000125	增加{value}HP到防御力	追加最大值限制
+21000126	增加{value}HP到防御力	追加最大值限制
+21000131	敏捷度增加{value}	无
+21000132	敏捷度增加{value}	无
+21000133	敏捷度增加{value}	无
+21000134	敏捷度增加{value}	无
+21000135	敏捷度增加{value}	无
+21000136	敏捷度增加{value}	无
+21000141	HP增加{value}	无
+21000142	HP增加{value}	无
+21000143	HP增加{value}	无
+21000144	HP增加{value}	无
+21000145	HP增加{value}	无
+21000146	HP增加{value}	无
+21000151	防御力增加{value}	无
+21000152	防御力增加{value}	无
+21000153	防御力增加{value}	无
+21000154	防御力增加{value}	无
+21000155	防御力增加{value}	无
+21000156	防御力增加{value}	无
+21000161	全部能力增加{value}	无
+21000162	全部能力增加{value}	无
+21000163	全部能力增加{value}	无
+21000164	全部能力增加{value}	无
+21000165	全部能力增加{value}	无
+21000166	全部能力增加{value}	无
+22000011	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000012	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000013	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000014	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000015	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000016	受到Tap Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000021	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000022	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000023	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000024	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000025	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000026	受到Slide Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000031	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000032	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000033	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000034	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000035	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000036	受到Drive Skill攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000041	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000042	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000043	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000044	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000045	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000046	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000051	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000052	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000053	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000054	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000055	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000056	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000061	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000062	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000063	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000064	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000065	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000066	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000071	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000072	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000073	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000074	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000075	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000076	受到Tap Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000081	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000082	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000083	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000084	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000085	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000086	受到Slide Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000091	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000092	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000093	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000094	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000095	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000096	受到Drive Skill攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000101	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000102	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000103	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000104	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000105	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000106	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000111	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000112	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000113	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000114	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000115	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000116	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000121	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000122	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000123	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000124	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000125	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000126	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000131	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000132	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000133	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000134	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000135	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000136	受到Tap Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000141	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000142	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000143	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000144	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000145	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000146	受到Slide Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000151	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000152	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000153	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000154	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000155	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000156	受到Drive Skill攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000161	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000162	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000163	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000164	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000165	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000166	受到Tap Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000171	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000172	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000173	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000174	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000175	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000176	受到Slide Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000181	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000182	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000183	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000184	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000185	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000186	受到Drive Skill攻击时，有{value_1}的几率减少{value}伤害	追加最大值限制
+22000191	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000192	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000193	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000194	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000195	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000196	受到Tap Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000201	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000202	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000203	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000204	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000205	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000206	受到Slide Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000211	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000212	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000213	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000214	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000215	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000216	受到Drive Skill攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000221	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000222	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000223	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000224	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000225	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000226	受到Tap Skill攻击时，减少{value}的伤害	追加最大值限制
+22000231	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000232	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000233	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000234	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000235	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000236	受到Slide Skill攻击时，减少{value}的伤害	追加最大值限制
+22000241	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000242	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000243	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000244	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000245	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000246	受到Drive Skill攻击时，减少{value}的伤害	追加最大值限制
+22000251	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000252	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000253	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000254	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000255	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000256	受到Tap Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000261	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000262	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000263	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000264	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000265	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000266	受到Slide Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000271	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000272	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000273	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000274	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000275	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000276	受到Drive Skill攻击时，额外减少{value} HP的伤害	追加最大值限制
+22000281	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000282	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000283	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000284	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000285	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000286	受到Tap Skill攻击时，减少{value}伤害	追加最大值限制
+22000291	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000292	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000293	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000294	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000295	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000296	受到Slide Skill攻击时，减少{value}伤害	追加最大值限制
+22000301	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000302	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000303	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000304	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000305	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000306	受到Drive Skill攻击时，减少{value}伤害	追加最大值限制
+22000311	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000312	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000313	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000314	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000315	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000316	受到攻击时，额外减少{value}暴击的伤害	追加最大值限制
+22000321	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000322	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000323	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000324	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000325	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000326	受到攻击时，额外减少{value}敏捷度的伤害	追加最大值限制
+22000331	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000332	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000333	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000334	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000335	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000336	受到攻击时，额外减少{value}防御力的伤害	追加最大值限制
+22000341	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000342	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000343	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000344	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000345	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000346	受到攻击时，额外减少{value}攻击力的伤害	追加最大值限制
+22000351	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000352	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000353	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000354	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000355	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000356	受到攻击时，额外减少{value}HP的伤害	追加最大值限制
+22000361	受到攻击时，减少{value}伤害	追加最大值限制
+22000362	受到攻击时，减少{value}伤害	追加最大值限制
+22000363	受到攻击时，减少{value}伤害	追加最大值限制
+22000364	受到攻击时，减少{value}伤害	追加最大值限制
+22000365	受到攻击时，减少{value}伤害	追加最大值限制
+22000366	受到攻击时，减少{value}伤害	追加最大值限制
+23000011	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000012	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000013	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000014	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000015	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000016	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000021	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000022	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000023	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000024	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000025	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000026	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000031	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000032	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000033	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000034	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000035	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000036	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000041	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000042	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000043	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000044	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000045	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000046	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000051	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000052	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000053	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000054	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000055	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000056	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000061	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000062	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000063	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000064	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000065	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000066	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000071	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000072	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000073	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000074	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000075	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000076	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000081	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000082	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000083	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000084	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000085	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000086	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000091	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000092	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000093	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000094	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000095	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000096	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000101	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000102	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000103	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000104	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000105	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000106	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000111	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000112	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000113	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000114	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000115	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000116	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000121	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000122	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000123	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000124	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000125	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000126	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000131	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000132	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000133	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000134	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000135	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000136	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000141	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000142	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000143	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000144	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000145	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000146	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000151	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000152	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000153	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000154	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000155	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000156	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000161	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000162	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000163	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000164	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000165	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000166	受到Tap Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000171	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000172	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000173	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000174	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000175	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000176	受到Slide Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000181	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000182	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000183	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000184	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000185	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000186	受到Drive Skill攻击时，有{value_1}的几率增加{value}无视防御力减免	无
+23000191	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000192	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000193	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000194	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000195	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000196	受到Tap Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000201	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000202	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000203	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000204	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000205	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000206	受到Slide Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000211	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000212	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000213	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000214	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000215	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000216	受到Drive Skill攻击时，回复{value}伤害为HP	追加最大值限制
+23000221	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000222	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000223	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000224	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000225	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000226	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000231	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000232	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000233	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000234	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000235	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000236	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000241	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000242	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000243	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000244	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000245	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000246	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000251	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000252	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000253	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000254	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000255	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000256	受到Tap Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000261	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000262	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000263	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000264	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000265	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000266	受到Slide Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000271	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000272	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000273	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000274	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000275	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000276	受到Drive Skill攻击时，有{value_1}的几率回复{value}HP	无
+23000281	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000282	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000283	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000284	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000285	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000286	受到Tap Skill攻击時，追加{value}抵消无视防御效果	无
+23000291	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000292	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000293	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000294	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000295	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000296	受到Slide Skill攻击時，追加{value}抵消无视防御效果	无
+23000301	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000302	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000303	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000304	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000305	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000306	受到Drive Skill攻击時，追加{value}抵消无视防御效果	无
+23000311	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000312	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000313	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000314	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000315	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000316	受到攻击时，回复{value}伤害为HP	追加最大值限制
+23000321	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000322	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000323	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000324	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000325	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000326	受到攻击时，有{value_1}的几率回复{value}HP	无
+23000331	受到攻击時，追加{value}抵消无视防御效果	无
+23000332	受到攻击時，追加{value}抵消无视防御效果	无
+23000333	受到攻击時，追加{value}抵消无视防御效果	无
+23000334	受到攻击時，追加{value}抵消无视防御效果	无
+23000335	受到攻击時，追加{value}抵消无视防御效果	无
+23000336	受到攻击時，追加{value}抵消无视防御效果	无
+31000011	增加{value}暴击到敏捷度	追加最大值限制
+31000012	增加{value}暴击到敏捷度	追加最大值限制
+31000013	增加{value}暴击到敏捷度	追加最大值限制
+31000014	增加{value}暴击到敏捷度	追加最大值限制
+31000015	增加{value}暴击到敏捷度	追加最大值限制
+31000016	增加{value}暴击到敏捷度	追加最大值限制
+31000021	增加{value}敏捷度到暴击	追加最大值限制
+31000022	增加{value}敏捷度到暴击	追加最大值限制
+31000023	增加{value}敏捷度到暴击	追加最大值限制
+31000024	增加{value}敏捷度到暴击	追加最大值限制
+31000025	增加{value}敏捷度到暴击	追加最大值限制
+31000026	增加{value}敏捷度到暴击	追加最大值限制
+31000031	增加{value}防御力到敏捷度	追加最大值限制
+31000032	增加{value}防御力到敏捷度	追加最大值限制
+31000033	增加{value}防御力到敏捷度	追加最大值限制
+31000034	增加{value}防御力到敏捷度	追加最大值限制
+31000035	增加{value}防御力到敏捷度	追加最大值限制
+31000036	增加{value}防御力到敏捷度	追加最大值限制
+31000041	增加{value}攻击力到敏捷度	追加最大值限制
+31000042	增加{value}攻击力到敏捷度	追加最大值限制
+31000043	增加{value}攻击力到敏捷度	追加最大值限制
+31000044	增加{value}攻击力到敏捷度	追加最大值限制
+31000045	增加{value}攻击力到敏捷度	追加最大值限制
+31000046	增加{value}攻击力到敏捷度	追加最大值限制
+31000051	增加{value}暴击到防御力	追加最大值限制
+31000052	增加{value}暴击到防御力	追加最大值限制
+31000053	增加{value}暴击到防御力	追加最大值限制
+31000054	增加{value}暴击到防御力	追加最大值限制
+31000055	增加{value}暴击到防御力	追加最大值限制
+31000056	增加{value}暴击到防御力	追加最大值限制
+31000061	增加{value}敏捷度到防御力	追加最大值限制
+31000062	增加{value}敏捷度到防御力	追加最大值限制
+31000063	增加{value}敏捷度到防御力	追加最大值限制
+31000064	增加{value}敏捷度到防御力	追加最大值限制
+31000065	增加{value}敏捷度到防御力	追加最大值限制
+31000066	增加{value}敏捷度到防御力	追加最大值限制
+31000071	增加{value}防御力到暴击	追加最大值限制
+31000072	增加{value}防御力到暴击	追加最大值限制
+31000073	增加{value}防御力到暴击	追加最大值限制
+31000074	增加{value}防御力到暴击	追加最大值限制
+31000075	增加{value}防御力到暴击	追加最大值限制
+31000076	增加{value}防御力到暴击	追加最大值限制
+31000081	增加{value}攻击力到暴击	追加最大值限制
+31000082	增加{value}攻击力到暴击	追加最大值限制
+31000083	增加{value}攻击力到暴击	追加最大值限制
+31000084	增加{value}攻击力到暴击	追加最大值限制
+31000085	增加{value}攻击力到暴击	追加最大值限制
+31000086	增加{value}攻击力到暴击	追加最大值限制
+31000091	增加{value}敏捷度到HP	追加最大值限制
+31000092	增加{value}敏捷度到HP	追加最大值限制
+31000093	增加{value}敏捷度到HP	追加最大值限制
+31000094	增加{value}敏捷度到HP	追加最大值限制
+31000095	增加{value}敏捷度到HP	追加最大值限制
+31000096	增加{value}敏捷度到HP	追加最大值限制
+31000101	增加{value}HP到暴击	追加最大值限制
+31000102	增加{value}HP到暴击	追加最大值限制
+31000103	增加{value}HP到暴击	追加最大值限制
+31000104	增加{value}HP到暴击	追加最大值限制
+31000105	增加{value}HP到暴击	追加最大值限制
+31000106	增加{value}HP到暴击	追加最大值限制
+31000111	增加{value}HP到敏捷度	追加最大值限制
+31000112	增加{value}HP到敏捷度	追加最大值限制
+31000113	增加{value}HP到敏捷度	追加最大值限制
+31000114	增加{value}HP到敏捷度	追加最大值限制
+31000115	增加{value}HP到敏捷度	追加最大值限制
+31000116	增加{value}HP到敏捷度	追加最大值限制
+31000121	增加{value}敏捷度到攻击力	追加最大值限制
+31000122	增加{value}敏捷度到攻击力	追加最大值限制
+31000123	增加{value}敏捷度到攻击力	追加最大值限制
+31000124	增加{value}敏捷度到攻击力	追加最大值限制
+31000125	增加{value}敏捷度到攻击力	追加最大值限制
+31000126	增加{value}敏捷度到攻击力	追加最大值限制
+31000131	增加{value}暴击到HP	追加最大值限制
+31000132	增加{value}暴击到HP	追加最大值限制
+31000133	增加{value}暴击到HP	追加最大值限制
+31000134	增加{value}暴击到HP	追加最大值限制
+31000135	增加{value}暴击到HP	追加最大值限制
+31000136	增加{value}暴击到HP	追加最大值限制
+31000141	增加{value}暴击到攻击力	追加最大值限制
+31000142	增加{value}暴击到攻击力	追加最大值限制
+31000143	增加{value}暴击到攻击力	追加最大值限制
+31000144	增加{value}暴击到攻击力	追加最大值限制
+31000145	增加{value}暴击到攻击力	追加最大值限制
+31000146	增加{value}暴击到攻击力	追加最大值限制
+31000151	增加{value}防御力到攻击力	追加最大值限制
+31000152	增加{value}防御力到攻击力	追加最大值限制
+31000153	增加{value}防御力到攻击力	追加最大值限制
+31000154	增加{value}防御力到攻击力	追加最大值限制
+31000155	增加{value}防御力到攻击力	追加最大值限制
+31000156	增加{value}防御力到攻击力	追加最大值限制
+31000161	增加{value}防御力到HP	追加最大值限制
+31000162	增加{value}防御力到HP	追加最大值限制
+31000163	增加{value}防御力到HP	追加最大值限制
+31000164	增加{value}防御力到HP	追加最大值限制
+31000165	增加{value}防御力到HP	追加最大值限制
+31000166	增加{value}防御力到HP	追加最大值限制
+31000171	增加{value}攻击力到防御力	追加最大值限制
+31000172	增加{value}攻击力到防御力	追加最大值限制
+31000173	增加{value}攻击力到防御力	追加最大值限制
+31000174	增加{value}攻击力到防御力	追加最大值限制
+31000175	增加{value}攻击力到防御力	追加最大值限制
+31000176	增加{value}攻击力到防御力	追加最大值限制
+31000181	增加{value}暴击	无
+31000182	增加{value}暴击	无
+31000183	增加{value}暴击	无
+31000184	增加{value}暴击	无
+31000185	增加{value}暴击	无
+31000186	增加{value}暴击	无
+31000191	敏捷度增加{value}	无
+31000192	敏捷度增加{value}	无
+31000193	敏捷度增加{value}	无
+31000194	敏捷度增加{value}	无
+31000195	敏捷度增加{value}	无
+31000196	敏捷度增加{value}	无
+31000201	增加{value}攻击力到HP	追加最大值限制
+31000202	增加{value}攻击力到HP	追加最大值限制
+31000203	增加{value}攻击力到HP	追加最大值限制
+31000204	增加{value}攻击力到HP	追加最大值限制
+31000205	增加{value}攻击力到HP	追加最大值限制
+31000206	增加{value}攻击力到HP	追加最大值限制
+31000211	增加{value}HP到攻击力	追加最大值限制
+31000212	增加{value}HP到攻击力	追加最大值限制
+31000213	增加{value}HP到攻击力	追加最大值限制
+31000214	增加{value}HP到攻击力	追加最大值限制
+31000215	增加{value}HP到攻击力	追加最大值限制
+31000216	增加{value}HP到攻击力	追加最大值限制
+31000221	增加{value}HP到防御力	追加最大值限制
+31000222	增加{value}HP到防御力	追加最大值限制
+31000223	增加{value}HP到防御力	追加最大值限制
+31000224	增加{value}HP到防御力	追加最大值限制
+31000225	增加{value}HP到防御力	追加最大值限制
+31000226	增加{value}HP到防御力	追加最大值限制
+31000231	HP增加{value}	无
+31000232	HP增加{value}	无
+31000233	HP增加{value}	无
+31000234	HP增加{value}	无
+31000235	HP增加{value}	无
+31000236	HP增加{value}	无
+31000241	增加攻击力{value}	无
+31000242	增加攻击力{value}	无
+31000243	增加攻击力{value}	无
+31000244	增加攻击力{value}	无
+31000245	增加攻击力{value}	无
+31000246	增加攻击力{value}	无
+31000251	防御力增加{value}	无
+31000252	防御力增加{value}	无
+31000253	防御力增加{value}	无
+31000254	防御力增加{value}	无
+31000255	防御力增加{value}	无
+31000256	防御力增加{value}	无
+31000261	全部能力增加{value}	无
+31000262	全部能力增加{value}	无
+31000263	全部能力增加{value}	无
+31000264	全部能力增加{value}	无
+31000265	全部能力增加{value}	无
+31000266	全部能力增加{value}	无
+32000011	回复量增加{value}	无
+32000012	回复量增加{value}	无
+32000013	回复量增加{value}	无
+32000014	回复量增加{value}	无
+32000015	回复量增加{value}	无
+32000016	回复量增加{value}	无
+32000021	持续回复量增加{value}	无
+32000022	持续回复量增加{value}	无
+32000023	持续回复量增加{value}	无
+32000024	持续回复量增加{value}	无
+32000025	持续回复量增加{value}	无
+32000026	持续回复量增加{value}	无
+32000031	禁止回复闪避率增加{value}	无
+32000032	禁止回复闪避率增加{value}	无
+32000033	禁止回复闪避率增加{value}	无
+32000034	禁止回复闪避率增加{value}	无
+32000035	禁止回复闪避率增加{value}	无
+32000036	禁止回复闪避率增加{value}	无
+32000041	禁止回复命中率增加{value}	无
+32000042	禁止回复命中率增加{value}	无
+32000043	禁止回复命中率增加{value}	无
+32000044	禁止回复命中率增加{value}	无
+32000045	禁止回复命中率增加{value}	无
+32000046	禁止回复命中率增加{value}	无
+32000051	失明闪避率增加{value}	无
+32000052	失明闪避率增加{value}	无
+32000053	失明闪避率增加{value}	无
+32000054	失明闪避率增加{value}	无
+32000055	失明闪避率增加{value}	无
+32000056	失明闪避率增加{value}	无
+32000061	失明命中率增加{value}	无
+32000062	失明命中率增加{value}	无
+32000063	失明命中率增加{value}	无
+32000064	失明命中率增加{value}	无
+32000065	失明命中率增加{value}	无
+32000066	失明命中率增加{value}	无
+32000071	致命回复闪避率增加{value}	无
+32000072	致命回复闪避率增加{value}	无
+32000073	致命回复闪避率增加{value}	无
+32000074	致命回复闪避率增加{value}	无
+32000075	致命回复闪避率增加{value}	无
+32000076	致命回复闪避率增加{value}	无
+32000081	致命回复命中率增加{value}	无
+32000082	致命回复命中率增加{value}	无
+32000083	致命回复命中率增加{value}	无
+32000084	致命回复命中率增加{value}	无
+32000085	致命回复命中率增加{value}	无
+32000086	致命回复命中率增加{value}	无
+32000091	冰冻闪避率增加{value}	无
+32000092	冰冻闪避率增加{value}	无
+32000093	冰冻闪避率增加{value}	无
+32000094	冰冻闪避率增加{value}	无
+32000095	冰冻闪避率增加{value}	无
+32000096	冰冻闪避率增加{value}	无
+32000101	冰冻命中率增加{value}	无
+32000102	冰冻命中率增加{value}	无
+32000103	冰冻命中率增加{value}	无
+32000104	冰冻命中率增加{value}	无
+32000105	冰冻命中率增加{value}	无
+32000106	冰冻命中率增加{value}	无
+32000111	石化闪避率增加{value}	无
+32000112	石化闪避率增加{value}	无
+32000113	石化闪避率增加{value}	无
+32000114	石化闪避率增加{value}	无
+32000115	石化闪避率增加{value}	无
+32000116	石化闪避率增加{value}	无
+32000121	石化命中率增加{value}	无
+32000122	石化命中率增加{value}	无
+32000123	石化命中率增加{value}	无
+32000124	石化命中率增加{value}	无
+32000125	石化命中率增加{value}	无
+32000126	石化命中率增加{value}	无
+32000131	沉默闪避率增加{value}	无
+32000132	沉默闪避率增加{value}	无
+32000133	沉默闪避率增加{value}	无
+32000134	沉默闪避率增加{value}	无
+32000135	沉默闪避率增加{value}	无
+32000136	沉默闪避率增加{value}	无
+32000141	沉默命中率增加{value}	无
+32000142	沉默命中率增加{value}	无
+32000143	沉默命中率增加{value}	无
+32000144	沉默命中率增加{value}	无
+32000145	沉默命中率增加{value}	无
+32000146	沉默命中率增加{value}	无
+32000151	眩晕闪避率增加{value}	无
+32000152	眩晕闪避率增加{value}	无
+32000153	眩晕闪避率增加{value}	无
+32000154	眩晕闪避率增加{value}	无
+32000155	眩晕闪避率增加{value}	无
+32000156	眩晕闪避率增加{value}	无
+32000161	眩晕命中率增加{value}	无
+32000162	眩晕命中率增加{value}	无
+32000163	眩晕命中率增加{value}	无
+32000164	眩晕命中率增加{value}	无
+32000165	眩晕命中率增加{value}	无
+32000166	眩晕命中率增加{value}	无
+32000171	混乱闪避率增加{value}	无
+32000172	混乱闪避率增加{value}	无
+32000173	混乱闪避率增加{value}	无
+32000174	混乱闪避率增加{value}	无
+32000175	混乱闪避率增加{value}	无
+32000176	混乱闪避率增加{value}	无
+32000181	混乱命中率增加{value}	无
+32000182	混乱命中率增加{value}	无
+32000183	混乱命中率增加{value}	无
+32000184	混乱命中率增加{value}	无
+32000185	混乱命中率增加{value}	无
+32000186	混乱命中率增加{value}	无
+32000191	睡眠命中率增加{value}	无
+32000192	睡眠命中率增加{value}	无
+32000193	睡眠命中率增加{value}	无
+32000194	睡眠命中率增加{value}	无
+32000195	睡眠命中率增加{value}	无
+32000196	睡眠命中率增加{value}	无
+32000201	睡眠闪避率增加{value}	无
+32000202	睡眠闪避率增加{value}	无
+32000203	睡眠闪避率增加{value}	无
+32000204	睡眠闪避率增加{value}	无
+32000205	睡眠闪避率增加{value}	无
+32000206	睡眠闪避率增加{value}	无
+32000211	减益效果闪避率增加{value}	无
+32000212	减益效果闪避率增加{value}	无
+32000213	减益效果闪避率增加{value}	无
+32000214	减益效果闪避率增加{value}	无
+32000215	减益效果闪避率增加{value}	无
+32000216	减益效果闪避率增加{value}	无
+32000221	减益效果命中率增加{value}	无
+32000222	减益效果命中率增加{value}	无
+32000223	减益效果命中率增加{value}	无
+32000224	减益效果命中率增加{value}	无
+32000225	减益效果命中率增加{value}	无
+32000226	减益效果命中率增加{value}	无
+33000011	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000012	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000013	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000014	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000015	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000016	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000021	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000022	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000023	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000024	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000025	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000026	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000031	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000032	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000033	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000034	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000035	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000036	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000041	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000042	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000043	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000044	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000045	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000046	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000051	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000052	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000053	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000054	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000055	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000056	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000061	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000062	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000063	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000064	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000065	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000066	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000071	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000072	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000073	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000074	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000075	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000076	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000081	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000082	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000083	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000084	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000085	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000086	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000091	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000092	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000093	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000094	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000095	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000096	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000101	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000102	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000103	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000104	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000105	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000106	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000111	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000112	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000113	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000114	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000115	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000116	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000121	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000122	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000123	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000124	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000125	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000126	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000131	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000132	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000133	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000134	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000135	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000136	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000141	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000142	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000143	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000144	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000145	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000146	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000151	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000152	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000153	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000154	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000155	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000156	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000161	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000162	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000163	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000164	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000165	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000166	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000171	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000172	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000173	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000174	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000175	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000176	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000181	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000182	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000183	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000184	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000185	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000186	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000191	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000192	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000193	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000194	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000195	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000196	受到Tap Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000201	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000202	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000203	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000204	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000205	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000206	受到Slide Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000211	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000212	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000213	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000214	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000215	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000216	受到Drive Skill攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000221	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000222	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000223	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000224	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000225	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000226	使用Tap Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000231	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000232	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000233	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000234	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000235	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000236	使用Slide Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000241	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000242	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000243	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000244	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000245	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000246	使用Drive Skill攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000251	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000252	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000253	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000254	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000255	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000256	使用Tap Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000261	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000262	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000263	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000264	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000265	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000266	使用Slide Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000271	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000272	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000273	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000274	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000275	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000276	使用Drive Skill击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000281	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000282	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000283	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000284	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000285	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000286	受到Tap Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000291	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000292	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000293	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000294	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000295	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000296	受到Slide Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000301	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000302	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000303	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000304	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000305	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000306	受到Drive Skill攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000311	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000312	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000313	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000314	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000315	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000316	受到攻击时，有{value_1}的几率使Skill量表+{value}	无
+33000321	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000322	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000323	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000324	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000325	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000326	击败敌人时，有{value_1}的几率使Drive量表+{value}	无
+33000331	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000332	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000333	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000334	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000335	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000336	攻击时，有{value_1}的几率使Skill量表减少{value}	无
+33000341	受到攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000342	受到攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000343	受到攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000344	受到攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000345	受到攻击时，有{value_1}的几率使Drive量表+{value}	无
+33000346	受到攻击时，有{value_1}的几率使Drive量表+{value}	无

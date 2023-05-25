@@ -1,0 +1,175 @@
+﻿// key	RECIPE_NAME_	RECIPE_DESC_
+20001	Enchant 10x Summon Ticket: Water	Enchant 10x Summon Tickets.
+20002	Enchant 10x Summon Ticket: Fire	Enchant 10x Summon Tickets.
+20003	Enchant 10x Summon Ticket: Wood	Enchant 10x Summon Tickets.
+20004	Enchant 10x Summon Ticket: Light	Enchant 10x Summon Tickets.
+20005	Enchant 10x Summon Ticket: Dark	Enchant 10x Summon Tickets.
+20006	Enchant 5★ Summon Ticket: Water	Enchant 5★ Summon Tickets.
+20007	Enchant 5★ Summon Ticket: Fire	Enchant 5★ Summon Tickets.
+20008	Enchant 5★ Summon Ticket: Wood	Enchant 5★ Summon Tickets.
+20009	Enchant 5★ Summon Ticket: Light	Enchant 5★ Summon Tickets.
+20010	Enchant 5★ Summon Ticket: Dark	Enchant 5★ Summon Tickets.
+30001	Forge 5★ Prism Soul Carta Summon Ticket	Use 5★ materials and forge 5★ Prism Soul Carta Summon Tickets.
+30002	Forge 5★ Soul Carta Summon Ticket	Use 4★ materials and forge 5★ Soul Carta Summon Tickets.
+30003	Forge 4-5★ Soul Carta Summon Ticket	Use 4★ materials and forge 4-5★ Soul Carta Summon Tickets.
+40002	Disassemble Evolution Material: Water 2★	Disassemble 2★ Evolution materials into two 1★ ones.
+40003	Disassemble Evolution Material: Water 3★	Disassemble 3★ Evolution materials into two 2★ ones.
+40004	Disassemble Evolution Material: Water 4★	Disassemble 4★ Evolution materials into three 3★ ones.
+40005	Disassemble Evolution Material: Water 5★	Disassemble 5★ Evolution materials into three 4★ ones.
+40006	Disassemble Evolution Material: Fire 2★	Disassemble 2★ Evolution materials into two 1★ ones.
+40007	Disassemble Evolution Material: Fire 3★	Disassemble 3★ Evolution materials into two 2★ ones.
+40008	Disassemble Evolution Material: Fire 4★	Disassemble 4★ Evolution materials into three 3★ ones.
+40009	Disassemble Evolution Material: Fire 5★	Disassemble 5★ Evolution materials into three 4★ ones.
+40010	Disassemble Evolution Material: Wood 2★	Disassemble 2★ Evolution materials into two 1★ ones.
+40011	Disassemble Evolution Material: Wood 3★	Disassemble 3★ Evolution materials into two 2★ ones.
+40012	Disassemble Evolution Material: Wood 4★	Disassemble 4★ Evolution materials into three 3★ ones.
+40013	Disassemble Evolution Material: Wood 5★	Disassemble 5★ Evolution materials into three 4★ ones.
+40014	Disassemble Evolution Material: Light 2★	Disassemble 2★ Evolution materials into two 1★ ones.
+40015	Disassemble Evolution Material: Light 3★	Disassemble 3★ Evolution materials into two 2★ ones.
+40016	Disassemble Evolution Material: Light 4★	Disassemble 4★ Evolution materials into three 3★ ones.
+40017	Disassemble Evolution Material: Light 5★	Disassemble 5★ Evolution materials into three 4★ ones.
+40018	Disassemble Evolution Material: Dark 2★	Disassemble 2★ Evolution materials into two 1★ ones.
+40019	Disassemble Evolution Material: Dark 3★	Disassemble 3★ Evolution materials into two 2★ ones.
+40020	Disassemble Evolution Material: Dark 4★	Disassemble 4★ Evolution materials into three 3★ ones.
+40021	Disassemble Evolution Material: Dark 5★	Disassemble 5★ Evolution materials into three 4★ ones.
+50001	Amp. ATK Core Lucky Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50002	Amp. DEF Core Lucky Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50003	Amp. AGL Core Lucky Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50004	Amp. CRT Core Lucky Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50005	Hephaestus Child Select Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50006	Hephaestus Spa Skin Select Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50007	Hephaestus Costume Select Box	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50010	Aurora's Crown_3	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50011	Aurora's Wings_3	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50012	Heart Bell_3	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50013	Onyx	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50014	Smith Master Seal	An event recipe created to celebrate the opening of Hephaestus's Forge.\Can be used to forge during the event period.
+50201	Ignition Core Creation	An event recipe.\Can be used to forge during the event period.
+50202	Hephaestus Spa Skin Lucky Box	An event recipe.\Can be used to forge during the event period.
+50203	Core Material Lucky Box	An event recipe.\Can be used to forge during the event period.
+50204	Hephaestus Costume Select Box	An event recipe.\Can be used to forge during the event period.
+50205	Onyx	An event recipe.\Can be used to forge during the event period.
+50206	10x Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50301	Boss Cow Cacus	An event recipe.\Can be used to forge during the event period.
+50302	Quintessential Flask	An event recipe.\Can be used to forge during the event period.
+50303	Alchemist's Gloves	An event recipe.\Can be used to forge during the event period.
+50304	Alchemy Kit	An event recipe.\Can be used to forge during the event period.
+50308	Weapon Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50309	Armor Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50310	Accessory Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50311	3-year Special Child Select Box	An event recipe.\Can be used to forge during the event period.
+50312	Weapon Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50313	Armor Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50314	Accessory Crafting Stone	An event recipe.\Can be used to forge during the event period.
+50315	Weapon Crafting Tool	An event recipe.\Can be used to forge during the event period.
+50316	Armor Crafting Tool	An event recipe.\Can be used to forge during the event period.
+50317	Accessory Crafting Tool	An event recipe.\Can be used to forge during the event period.
+50318	3-year Special Soul Carta Select Box	An event recipe.\Can be used to forge during the event period.
+50319	3-year Special Prism Carta Select Box	An event recipe.\Can be used to forge during the event period.
+50320	3-year Special Spa Skin Select Box	An event recipe.\Can be used to forge during the event period.
+50321	Amp. ATK Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50322	Amp. DEF Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50323	Amp. AGL Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50324	Amp. CRT Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50325	Amp. ATK Core Material	An event recipe.\Can be used to forge during the event period.
+50326	Amp. DEF Core Material	An event recipe.\Can be used to forge during the event period.
+50327	Amp. AGL Core Material	An event recipe.\Can be used to forge during the event period.
+50328	Amp. CRT Core Material	An event recipe.\Can be used to forge during the event period.
+50329	Onyx	An event recipe.\Can be used to forge during the event period.
+50330	Amp. ATK Core Material	An event recipe.\Can be used to forge during the event period.
+50331	Amp. DEF Core Material	An event recipe.\Can be used to forge during the event period.
+50332	Amp. AGL Core Material	An event recipe.\Can be used to forge during the event period.
+50333	Amp. CRT Core Material	An event recipe.\Can be used to forge during the event period.
+50334	Onyx Forging Recipe I	An event recipe.\Can be used to forge during the event period.
+50335	Onyx Forging Recipe II	An event recipe.\Can be used to forge during the event period.
+50336	Onyx Forging Recipe III	An event recipe.\Can be used to forge during the event period.
+50337	Summer Child Select Box	An event recipe.\Can be used to forge during the event period.
+50338	5★ Child Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50339	5★ Prism Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50340	5★ Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50341	Amp. ATK Core Material 1	An event recipe.\Can be used to forge during the event period.
+50342	Amp. DEF Core Material 1	An event recipe.\Can be used to forge during the event period.
+50343	Amp. AGL Core Material 1	An event recipe.\Can be used to forge during the event period.
+50344	Amp. CRT Core Material 1	An event recipe.\Can be used to forge during the event period.
+50345	Amp. ATK Core Material 2	An event recipe.\Can be used to forge during the event period.
+50346	Amp. DEF Core Material 2	An event recipe.\Can be used to forge during the event period.
+50347	Amp. AGL Core Material 2	An event recipe.\Can be used to forge during the event period.
+50348	Amp. CRT Core Material 2	An event recipe.\Can be used to forge during the event period.
+50349	Summer Spa Skin Select Box	An event recipe.\Can be used to forge during the event period.
+50350	Onyx	An event recipe.\Can be used to forge during the event period.
+50351	Fruit Coconut Juice	An event recipe.\Can be used to forge during the event period.
+50352	Autumn Eve	An event recipe.\Can be used to forge during the event period.
+50353	Lost Paradise Eve	An event recipe.\Can be used to forge during the event period.
+50354	5★ Summon Ticket Crafting	An event recipe.\Can be used to forge during the event period.
+50355	5★ Prism Soul Carta Summon Ticket Crafting	An event recipe.\Can be used to forge during the event period.
+50356	5★ Soul Carta Summon Ticket Crafting	An event recipe.\Can be used to forge during the event period.
+50357	Azure Lantern	An event recipe.\Can be used to forge during the event period.
+50358	Scarlet Lantern	An event recipe.\Can be used to forge during the event period.
+50359	Viridian Lantern	An event recipe.\Can be used to forge during the event period.
+50360	Yellow Lantern	An event recipe.\Can be used to forge during the event period.
+50361	Violet Lantern	An event recipe.\Can be used to forge during the event period.
+50362	+15 Weapon Refining Orb	An event recipe.\Can be used to forge during the event period.
+50363	+15 Armor Refining Orb	An event recipe.\Can be used to forge during the event period.
+50364	+15 Accessory Refining Orb	An event recipe.\Can be used to forge during the event period.
+50365	Azure Lantern	An event recipe.\Can be used to forge during the event period.
+50366	Scarlet Lantern	An event recipe.\Can be used to forge during the event period.
+50367	Viridian Lantern	An event recipe.\Can be used to forge during the event period.
+50368	Yellow Lantern	An event recipe.\Can be used to forge during the event period.
+50369	Violet Lantern	An event recipe.\Can be used to forge during the event period.
+50370	Watermelon	An event recipe.\Can be used to forge during the event period.
+50371	4-year Special Amplified Core Select Box	An event recipe.\Can be used to forge during the event period.
+50372	4-year Special Child Select Box	An event recipe.\Can be used to forge during the event period.
+50373	4-year Special Spa Skin Power Select Box	An event recipe.\Can be used to forge during the event period.
+50374	4-year Special Prism Carta Select Box	An event recipe.\Can be used to forge during the event period.
+50375	4-year Special Amplified Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50376	4-year Special Limited Core Lucky Box	An event recipe.\Can be used to forge during the event period.
+50377	Epic Puppet Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50378	Premium Puppet Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50379	Puppet Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50380	Nail Clippings	An event recipe.\Can be used to forge during the event period.
+50381	Reddened Thread	An event recipe.\Can be used to forge during the event period.
+50382	Rusty Nail	An event recipe.\Can be used to forge during the event period.
+50383	Lost Hair	An event recipe.\Can be used to forge during the event period.
+50384	5★ Child Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50385	5★ Prism Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50386	3★ Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50387	Amp. ATK Core Material	An event recipe.\Can be used to forge during the event period.
+50388	Amp. DEF Core Material	An event recipe.\Can be used to forge during the event period.
+50389	Amp. AGL Core Material	An event recipe.\Can be used to forge during the event period.
+50390	Amp. CRT Core Material	An event recipe.\Can be used to forge during the event period.
+50391	Celebration Gold Coin	An event recipe.\Can be used to forge during the event period.
+50392	Exchange Treasures	An event recipe.\Can be used to forge during the event period.
+50393	Exchange Amethyst Wedding Rings	An event recipe.\Can be used to forge during the event period.
+50394	Exchange Emerald Wedding Rings	An event recipe.\Can be used to forge during the event period.
+50395	Exchange Garnet Wedding Rings	An event recipe.\Can be used to forge during the event period.
+50396	Exchange Topaz Wedding Rings	An event recipe.\Can be used to forge during the event period.
+50397	Entry Ticket A	An event recipe.\Can be used to forge during the event period.
+50398	Entry Ticket B	An event recipe.\Can be used to forge during the event period.
+50399	Entry Ticket C	An event recipe.\Can be used to forge during the event period.
+50400	Entry Ticket D	An event recipe.\Can be used to forge during the event period.
+50401	Epic Puppet Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50402	5★ Child Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50403	5★ Prism Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50404	Premium Puppet Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50405	Soul Carta Summon Ticket	An event recipe.\Can be used to forge during the event period.
+50406	Amp. ATK Core Material	An event recipe.\Can be used to forge during the event period.
+50407	Amp. DEF Core Material	An event recipe.\Can be used to forge during the event period.
+50408	Amp. AGL Core Material	An event recipe.\Can be used to forge during the event period.
+50409	Amp. CRT Core Material	An event recipe.\Can be used to forge during the event period.
+50410	Onyx	An event recipe.\Can be used to forge during the event period.
+60201	Common Puppet Forging	Forge Common - Uncommon puppets with Lost Hair.
+60202	Uncommon Puppet Forging	Forge Uncommon - Rare puppets with Rusty Nails.
+60203	Rare Puppet Forging	Forge Rare - Epic puppets with Reddened Threads.
+60204	Epic Puppet Forging	Forge Epic - Legendary puppets with Nail Clippings.
+60205	Legendary Puppet Forging	Forge Legendary puppets with Sooty Salt.
+60301	Common Puppet Repurposing	Forge Common - Uncommon puppets by repurposing Common puppets.
+60302	Uncommon Puppet Repurposing	Forge Uncommon - Rare puppets by repurposing Rare puppets.
+60303	Rare Puppet Repurposing	Forge Rare - Epic puppets by repurposing Rare puppets.
+60304	Epic Puppet Repurposing	Forge Epic - Legendary puppets by repurposing Epic puppets.
+60401	Fluff Forging	Forge Fluffs, the Puppet EXP material, with Puppet Detergents and Onyxes.
+60402	Cotton Wad Forging	Forge Cotton Wads, the Puppet EXP material, with Puppet Detergents and Onyxes.
+60403	Old Cotton Forging	Forge Old Cotton, the Puppet EXP material, with Puppet Detergents and Onyxes.
+70001	Cluster I Lord Challenge Ticket Forging	Forge 10 Cluster I Lord Challenge Tickets.
+70002	Cluster II Lord Challenge Ticket Forging	Forge 10 Cluster II Lord Challenge Tickets.
+70003	Cluster I Lord Challenge Ticket Sale	Salvage Lost Hair from Cluster I Lord Challenge Tickets.
+70004	Cluster II Lord Challenge Ticket Sale	Salvage Rusty Nail from Cluster II Lord Challenge Tickets.

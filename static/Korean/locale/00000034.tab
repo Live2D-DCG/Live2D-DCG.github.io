@@ -1,0 +1,100 @@
+﻿// key	MAIL_SENDER_	MAIL_TITLE_	MAIL_TEXT_
+1	Admin Team	Purchase Bonus	A bonus gift for making shop purchases.
+1000	A.I	Devil Rumble Reward	You earned a league reward from A.I, the Devil Rumble announcer.\\"You got [reason] Rumble Points! Keep it up!"
+10000	Mona	Group Reward	You earned a reward for completing a unit.
+1001	A.I	Devil Rumble Reward	You earned a Ranking Reward from A.I, the Devil Rumble announcer.\\"Congratulations on achieving [reason]!\It makes me happy to see you getting stronger! Keep it up!"
+1002	A.I	Devil Rumble Reward	You earned a reward for winning the Rival challenge!
+1003	GM	GM Hunter Event Reward	You earned a bonus reward for beating a GM.
+1004	A.I	Devil Rumble Mileage Reward	You earned a Devil Rumble Mileage Reward.
+1005	Admin Team	Unlimited Duel Reward	Your Endless Duel rank reward.
+1006	Admin Team	Unlimited Duel Reward	Your Endless Duel rank reward.
+1007	Admin Team	Frontier Duel Reward	Your Endless Duel rank reward.
+1008	Admin Team	Frontier Duel Reward	Your Endless Duel rank reward.
+1009	Admin Team	Expert Duel Reward	Your Endless Duel rank reward.
+1010	Admin Team	Expert Duel Reward	Your Endless Duel rank reward.
+11	Admin Team	First Purchase	Purchase Event: First Purchase bonus.
+11000	Mona	Summoning Live Donation	A friend who watched your Summoning Live donated to you!
+11001	Mona	Summoning Live Reward	You received a Summoning Live participation reward.
+11002	Mona	Summoning Live Reward	You won a Summon Ticket during a Summoning Live!
+11003	Mona	Summoning Live Reward	You received a 3★ Double reward.
+11004	Mona	Summoning Live Reward	You received a 3★ Triple reward.
+11005	Mona	Summoning Live Reward	You received a 3★ Quadra reward.
+11006	Mona	Summoning Live Reward	You received a 3★ Penta reward.
+11007	Mona	Summoning Live Reward	You received a 3★ Hexa reward.
+11008	Mona	Summoning Live Reward	You received a 4★ Double reward.
+11009	Mona	Summoning Live Reward	You received a 4★ Triple reward.
+11010	Mona	Summoning Live Reward	You received a 4★ Quadra reward.
+11011	Mona	Summoning Live Reward	You received a 4★ Penta reward.
+11012	Mona	Summoning Live Reward	You received a 4★ Hexa reward.
+11013	Mona	Summoning Live Reward	You received a 5★ Double reward.
+11014	Mona	Summoning Live Reward	You received a 5★ Triple reward.
+11015	Mona	Summoning Live Reward	You received a 5★ Quadra reward.
+11016	Mona	Summoning Live Reward	You received a 5★ Penta reward.
+11017	Mona	Summoning Live Reward	You received a 5★ Hexa reward.
+12	Admin Team	Total Charge	Purchase Event: Total Charge bonus.
+12000	Mona	Summon Reward	You received a 3★ Double reward.
+12001	Mona	Summon Reward	You received a 3★ Triple reward.
+12002	Mona	Summon Reward	You received a 3★ Quadra reward.
+12003	Mona	Summon Reward	You received a 3★ Penta reward.
+12004	Mona	Summon Reward	You received a 3★ Hexa reward.
+12005	Mona	Summon Reward	You received a 4★ Double reward.
+12006	Mona	Summon Reward	You received a 4★ Triple reward.
+12007	Mona	Summon Reward	You received a 4★ Quadra reward.
+12008	Mona	Summon Reward	You received a 4★ Penta reward.
+12009	Mona	Summon Reward	You received a 4★ Hexa reward.
+12010	Mona	Summon Reward	You received a 5★ Double reward.
+12011	Mona	Summon Reward	You received a 5★ Triple reward.
+12012	Mona	Summon Reward	You received a 5★ Quadra reward.
+12013	Mona	Summon Reward	You received a 5★ Penta reward.
+12014	Mona	Summon Reward	You received a 5★ Hexa reward.
+12100	Admin Team	Summons Bonus	Your Summons Bonus.
+13	Admin Team	Daily Charge	Purchase Event: Daily Charge bonus.
+13002	Bathory	Dearest Demon	Thank you for your friendship and trust.\I hope all remains well.\May God bless you.
+14100	Admin Team	World Boss Season Rank Reward	This is your reward for achieving World Boss Season Rank {max}.\Thank you for participating.
+14200	Admin Team	World Boss Season Rank Reward	This is your reward for achieving a World Boss Season Rank between {min} and {max}.\Thank you for participating.
+14300	Admin Team	World Boss Season Rank Reward	This is your reward for achieving a World Boss Season Rank between {max}%% and {min}%%.\Thank you for participating.
+14400	Admin Team	World Boss Season Rank Reward	This is your reward for achieving World Boss Season Rank {max}%%.\Thank you for participating.
+14500	Admin Team	World Boss Season Rank Reward	This is your reward for achieving a World Boss Season Rank between {max}%% and {min}%%.\Thank you for participating.
+15	Admin Team	Total Summons	Purchase Event: Total Summons bonus.
+15000	Brownie	Slayer Rewards	Slayer rank achievement reward!
+15100	Brownie	Ragna Rank Rewards	Ragna rank achievement reward!
+15200	Brownie	Ragna Coin Exchange	Your leftover Ragna Coins from Ragna Break exchanged as Gold!\Thank you for your participation!
+15300	Brownie	Ragna:burst Ticket Exchange	Your leftover Ragna:burst Tickets from Ragna Break exchanged as Gold!\Thank you for your participation!
+16	Admin Team	Daily Summons	Purchase Event: Daily Summons bonus.
+2	Admin Team	Purchase Event Bonus	A bonus gift for making shop purchases during an event.
+2000	Mona	Awaken Reward	Congratulations on the Awaken! Here’s a Summon Ticket
+20000	Admin Team	CBT Reward	This Hermes Summon Ticket was awarded as a special bonus for those who completed the CBT Devil Fiesta.
+20001	Admin Team	Pre-Registration Bonus	You received a special advance registration reward!
+20002	Admin Team	Pre-Registration Bonus	300000 advance registrations achieved! Here's a special bonus present!
+20003	Admin Team	Pre-Registration Bonus	500000 advance registrations achieved! Here's a special bonus present!
+20004	Admin Team	Pre-Registration Bonus	700000 advance registrations achieved! Here's a special bonus present!
+20005	Admin Team	Pre-Registration Bonus	1 million advance registrations achieved! Here's a special bonus present!
+2001	Mona	Awakening Bonus	Congratulations on Awakening.
+2002	Admin Team	Growth Bonus	You earned a growth bonus for the Child who reached their max level.
+21	Admin Team	Scarlet Shop Item	An item purchased from the Scarlet Shop.
+3	Admin Team	Consecutive Purchase Reward	A bonus for making shop purchases.
+3000	Lisa	Mission Complete Bonus	You earned a mission complete bonus.
+31	Admin Team	Purchase Bonus	A bonus for buying from CodaShop
+4000	Admin Team	Login Bonus	You got a login bonus.
+4001	Admin Team	Log Streak Bonus	You earned a login streak bonus.
+4002	Admin Team	8 Days of Promises Bonus	You got an 8 Days of Promises bonus.
+4003	Nicole	Emergency Support	A special present
+4004	Admin Team	Item Collection Event Rewards	You earned an Item Collection Event reward.
+4005	Admin Team	Returning Login Bonus	You got a login bonus.
+4100	Admin Team	Premium Attendance Pack	Reward from Premium Attendance Pack for logging in [reason] times.
+4101	Admin Team	Premium Attendance Pack	Last login reward from Premium Attendance Pack.
+5000	Mona	Friendly Battle	You earned a reward from a Friendly Battle with a friend. How...friendly!
+50000	Mona	Candidate Level Up Bonus	Mona's Exciting Level Up Bonus!
+50001	Admin Team	Shop Reward	You received a Shop Reward.
+50006	Admin Team	Content Reward	You received a content reward.
+5001	Mona	Friend Present	It's a present from a friend. Hurry and claim it!
+50011	Admin Team	Devil Pass Reward	You received a Devil Pass Reward.
+50012	Admin Team	Mission Pass Reward	You received a Mission Pass reward.
+5002	Mona	Friend Assist	Please accept the item you got for taking part in a friend's battle.
+6000	Mona	Friend Coin Gacha	An item you got from the Friend Coin Gacha.
+7000	Mona	Treasure Chest Present	An item you got from a treasure chest.
+8000	Admin Team	Daily Support Service Bonus	A Daily Support Service bonus.
+8999	Admin Team	Daily Support Service System Update & Compensation	With the update to the Daily Support Service system, we will distribute all remaining Crystals for the period at once. See the announcement for details.
+90	Admin Team	Get Tickets	Receive Tickets of your choice.
+9000	Admin Team	Promo Code Bonus	A bonus item for the promo code you used.
+91	Leuce	Mammon's Support	Here's your Mammon's Reasonable Support reward.

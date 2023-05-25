@@ -1,0 +1,6 @@
+﻿// key	SKIN_DUNGEON_NAME_	SKIN_DUNGEON_SECOND_NAME_	SKIN_DUNGEON_LOCATION_DESC_	SKIN_DUNGEON_BUFF_
+100101	<size=0.8>Lv.1.</size>	冒险者的迷宫	空栏	<color=ff0000>敌方队伍</color>：<color=ff7b02>Drive伤害</color><color=ffc400>↑</color>
+100102	<size=0.8>Lv.2.</size>	探险家的迷宫	空栏	<color=ff0000>敌方队伍</color>：<color=ff7b02>Drive伤害</color><color=ffc400>↑</color>
+100103	<size=0.8>Lv.3.</size>	先行者的迷宫	空栏	<color=ff0000>敌方队伍</color>：<color=ff7b02>Drive伤害</color><color=ffc400>↑</color>且具备<color=ff7b02>吸血</color>
+100104	<size=0.8>Lv.4.</size>	探求者的迷宫	空栏	<color=ff0000>敌方队伍</color>：<color=ff7b02>Drive伤害</color><color=ffc400>↑</color>，且具备<color=ff7b02>吸血</color>、\<color=ff7b02>时间减益无效</color>
+100105	<size=0.8>Lv.5.</size>	大贤者的迷宫	空栏	<color=ff0000>敌方队伍</color><color=ff7b02>Drive伤害</color><color=ffc400>↑</color>、<color=ff7b02>吸血</color>、\<color=ff7b02>时间系减益效果无效</color>，\以及<color=ff7b02>弱化（石化、沉默、混乱、眩晕、睡眠）</color><color=ff7b02>减益效果无效</color>

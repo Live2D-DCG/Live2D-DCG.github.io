@@ -1,0 +1,566 @@
+﻿// key	SCENARIO_SPEAKER_
+ A COUNCIL ELDER	Council Elder
+A COUNCIL ELDER	Council Elder
+A.I	A.I
+A_COUNCIL_CHAIRMAN	Council Chairman
+AARON	Aaron
+ABADDON_CONTRACTOR	Makiko Manyuda
+ABIGAIL_CHAIRMAN	Chairperson Abigail
+ACCRASIA	Akrasia
+AILILL	Ailill
+AKIMAGO	Archimago
+ALTERED DAVI	Altered Davi
+AMBROSIA_CONTRACTOR	Sato Shiori
+ANCHOR	Host
+ANEMONE	Anemone
+ANNIE	Annie
+ANNOUNCE	School PA
+ANNOUNCER	Announcer
+APOLLO_CONTRACTOR	Teshigawara Masato
+AQU CUBE	Evil Cube
+ARAHANT	Arhat
+ARAHANT_FRIEND	Arhat's Friend
+ARGOS	Argos
+ARIA	Aria
+ARTEMISIA_CONTRACTOR	Kurumigawa Kurumi
+ASHRAM_TEACHER	Ashram Teacher
+ATALANTE_CONTRACTOR	Tsuchida Sachika
+ATTIS	Attis
+ATUM_CONTRACTOR	Kuroi Akira
+AUDIENCE1	Audience 1
+AUDIENCE2	Audience 2
+AUDIENCES	Audiences
+AURORA	Aurora
+AYANE	Ayane
+BAAL_CONTRACTOR	Gonda Toji
+BABEL	Babel
+BABY	Baby
+BAKER	Café  Manager
+BARI	Bari
+BARI_CONTRACTOR	Suzuki Rinko
+BARI_CONTRACTOR_MOM	Suzuki Rinko's Mother
+BAST	Immature Bast
+BATORY	Bathory
+BELIEVER_0	Followers
+BELIEVER_1	Follower
+BELIEVER1	Follower1
+BELIEVER2	Follower2
+BELIEVER3	Follower3
+BERDLE	Verdelet
+BERITH_CONTRACTOR	Harashinai Mikio
+BERMONT	Archduke Vermont
+BETH	Beth
+BILLY	Billy
+BIRD	Bird
+BOAR	Boar
+BOREAS	Boreas
+BOREAS_CONTRACTOR	Kitasato Fuuka
+BOSS	Manager
+BOY	Boy
+BOY_CONTRACTOR	Young Pactmaker
+BRADAMANTE_CONTRACTOR	Kenzaki Karen
+BRADAMANTE_CONTRACTOR_DAD	Kenzaki Karen's Father
+BROTHER_LAWRENCE	Friar Laurence
+BUDDHIST	Monk
+BUDLE	Willow Doryeong
+BURIED DAVI	Love & Hate Davi
+BUTLER	Butler
+CACA	Cacia
+CACUS	Cacus
+CADUCEUS	Caduceus
+CAFE_MANAGER	Cafe Manager
+CAIN	Cain
+CAIT SITH	Catsi
+CAIT SITH	Catsi
+CAROL'S FATHER	Carol’s Father
+CAT	Cat
+CATERPILLAR	Caterpillar
+CELEBRANT	Celebrant
+CELICA	Celica
+CHANCELLOR	University President
+CHANDRAGHANTA	Chandra
+CHEF	Chef
+CHESHIRE CAT	Cheshire Cat
+CHICK	Chick
+CHIEF_NIS	Chief of Public Safety
+CHIEF_SECRETARY	Chief Secretary
+CHIEF_SONG	Chairman Konoike
+CHILD	Child
+CHILD_OF_FUTURE	Child of Future
+CHILD_OF_PAST	Child of Past
+CHILD_OF_PRESENT	Child of Current
+CHILDA	Child A
+CHILDB	Child B
+CHUCHU	ChuChu
+CINTAMANI	Chintamani Stone
+CLARA	Clara
+CLASSMATE	Classmate
+CLASSMATE1	Classmate 1
+CLASSMATE2	Classmate 2
+CLASSOFCULTURE_GROUP	Culture Class Group Chat Room
+CLERK	Clerk
+CLERK1	Employee 1
+CLERK2	Employee 2
+CLOSET	Closet
+CLUB_GUARD	Bouncer
+COACH	Coach
+COMMANDER	Commander
+COMMENT	Comment
+COMMENTATOR	Narrator
+CONTRACTOR	Pactmaker
+CONVENIENCESTOREOWNER	Store Manager
+COOKIEMONA	Cookie Mona
+COOLGIRL	Serene Girl
+CORONA MONA	Lightbeam Mona
+CO-WORKER1	Coworker 1
+CO-WORKER2	Coworker 2
+CROCELL	Crocell
+CU SITH	Lassi
+CURE CUBE	Cure Cube
+DAVI	Davi
+DEANOFSTUDENTS	Dean of Students
+DEBORAH	Deborah
+DEMETER	Demeter
+DEMETER_CONTRACTOR	Marika Takanashi
+DEMON FOLLOWERA	Demon Worshipper A
+DEMON FOLLOWERB	Demon Worshipper B
+DEMON_FOLLOWER	Demon Worshipper
+DEMON_FOLLOWER1	Demon Worshipper 1
+DEMON_FOLLOWER2	Demon Worshipper 2
+DEMONA	Hoodlum Demon A
+DEMONB	Hoodlum Demon B
+DEMONC	Hoodlum Demon C
+DETECTIVE_GIRL_CONTRACTOR	Sarah J
+DETECTIVE1	Detective 1
+DETECTIVE2	Detective 2
+DEUCALION	Deucalion
+DEUCALION_SOUL	Deucalion's Soul
+DEVIL	Demon
+DEVIL1	Demon A
+DEVIL2	Demon B
+DEVIL3	Demon C
+DEVIL4	Demon D
+DOCTOR	Doctor
+DOCTOR_HELLSING	Doctor Helsing
+DOG	Dog
+DOGYEHWA	To Keika
+DOKHAN	Lonely
+DORMOUSE	Dormouse
+DRIVER	Driver
+DRUNKEN PERSON1	Drunk Patron 1
+DRUNKEN PERSON2	Drunk Patron 2
+DRYAD_CONTRACTOR	Kayamori Kaede
+DUETSHA	Duetsha
+DURENDAL	Durandal
+ELISABET	Hanazono Sayoko
+ELLE	Miyu Torii
+ELVE_CONTRACTOR	Inazuma Miho
+ELYSION	Elysion
+EMPEROR	Emperor
+ENEMY SOLDIER	Enemy Soldier
+ENKIDU	Enkidu
+ERISIKTON	Erysichthon
+ESHU	Eshu
+EURUS	Euros
+EURYDICE	Eurydice
+EVE	Eve
+EVE_FATHER	Eve's Father
+EXORCIST	Exorcist
+EXORCIST_A	Exorcist A
+EXORCIST_B	Exorcist B
+EXORCIST_C	Exorcist C
+EXORCIST_INTERNATION	Exorcist of the International Headquarters
+EXORCIST_INTERNATIONAL	International Headquarters Exorcist
+EXORCIST_NORTH AMERICA	North American Branch Exorcist
+EXORCIST1	Exorcist 1
+EXORCIST2	Exorcist 2
+FABULOUS'S FAN A	Fan A
+FABULOUS'S FANS	Fans
+FANA	Spectator A
+FANATIC BOSS	Fanatic Boss
+FANATICA	Fanatic A
+FANATICB	Fanatic B
+FANATICC	Fanatic C
+FANATICD	Fanatic D
+FANATICS	Fanatics
+FANB	Spectator B
+FANC	Showgoer C
+FANS	Audience
+FATHER	Father
+FLINS	Flins
+FORMER_KEFRI	Teacher Khepri
+FREYJA	Freyja
+FREYR	Frej
+FRIENDS	Friend
+FRUITSHOP_SHOPKEEPER	Fruit Shop Owner
+FURY_MEMBER_1	Fury Member 1
+FURY_MEMBER_2	Fury Member 2
+FURY_MEMBER_3	Fury Member 3
+FURY_MEMBER_4	Fury Member 4
+FURY_MEMBER_GROUP	Fury Members
+GAIN	Son Ga-in
+GAME_STREAMER	Game Streamer
+GENTLEMAN	Gentleman
+GEST	Customer
+GEST1	Customer 1
+GEST2	Customer 2
+GESTA	Guest A
+GESTB	Guest B
+GESTC	Guest C
+GILGAMESH	Gilgamesh
+GIRL	Girl
+GIRL A	Girl A
+GIRL_CONTRACTOR	Girl Pactmaker
+GIRL1	Mysterious Girl
+GIRLA	Girl A
+GIRLB	Girl B
+GOHYUNHUI	Kotaro Kurotatsu
+GOLDAENGI	Retriever
+GOLDAENGI OWNER	Retriever's Owner
+GOOD_MOA	Kind Moa
+GRANNY	Grandma
+GROUP_MEMBER	Teammate
+GRYLA	Grilla
+GUARD	Security Guard
+HANA_MOM	Hana Konoike's Mother
+HANMARI	Oshita Ichitaka
+HATOR	Hathor
+HEENA	Hina
+HEKET	Heket
+HELLA	Hel
+HENCHMAN	Subordinate
+HENCHMAN_MIRIAM	Miriam's Henchman
+HENGE	Chang'e
+HEPHAISTOS	Hephaestus
+HERO	Master
+HIGHPRIEST	High Priest
+HILD	Hildr
+HILDR_CONTRACTOR	Kurashiki Rei
+HOMELESS	Homeless Person
+HONEY CUBE	Honey Cube
+HONGRYEON_CONTRACTOR	Hana Konoike
+HORN	Ill-Natured Hothead
+HOST	Owner
+HUMAN	Human
+HYDRA	Hydra
+HYENANG	Keino
+HYUNSOOHO	Sengoku Seiji
+INFECTED_REPORTER	Infected Reporter
+IPHIS	Iphis
+ISHIMI	Ishimi
+ISOLDE	Isolde
+ITEM1	Stick of Justice
+ITEM2	Voice Changer
+JACHUNGBI	Jacheongbi
+JENNY	Xenie
+JIVA	Ziva
+JOANNA	Joanna
+JOHN	John
+JUDAH	Judas
+JUDGE	Judge
+JULIET	Juliet
+JUNGNAM	Jung-nam
+JUPITER_CONTRACTOR	Masajuro Hoshizaki
+KAALARATRI	Kalaratri
+KALCHAS	Calchas
+KALHOS	Carlos
+KAMYU	Camineu
+KANALOA	Kanaloa
+KASUMI	Kasumi
+KID	Kid
+KID1	Squirt 1
+KID2	Squirt 2
+KKUNGI	Kungi
+KLOTHO	Clotho
+KUBABA	Kubaba
+KUBERA	Kubera
+KUMARI	Kumari
+KUMARI_PRIEST	Kumari Priest
+KUMIHO	Tamamo
+LADY	Lady
+LAIMA	Laima
+LANCELOT	Lancelot
+LANDLORD	Landlord
+LAUFEY	Laufey
+LAURA	Laura
+LEAVEAMESAAGE	Message Note
+LEDA	Leda
+LEIFANG	Leifang
+LEO	Leo
+LETTER	Letter
+LITTLE PATIENT	Young Patient
+LITTLE_MARI	Young Oshita Ichitaka
+LOGAN	Logan
+LOKI	Loki
+LUCIFERO	Lucifero
+LUIN_DURANDAL	Luin, Durandal
+LUNO	Juno
+LYDIA	Lydia
+MAD HATTER	Hatter
+MAESTRO	Maestro
+MAFDET	Mafdet
+MAGNUS_MERLIN	Merlin, the Great Wizard
+MAMA	Mommy
+MAN	Man
+MAN_CONTRACTOR	Guy Pactmaker
+MAN_EXORCIST	Male Exorcist
+MAN1	Man 1
+MAN2	Man 2
+MANA	Man A
+MANAGER	Manager
+MANB	Man B
+MARCH HARE	March Hare
+MARDUK	Marduk
+MARDUK_CHILD	Marduk's Child
+MARI_GRANDPA	Oshita Ichitaka's Grandfather
+MARINLEGEND	Oshita Ichitaka & Legend
+MARS	Mars♥
+MAUPIN	Maupin
+MAUPIN_CONTRACTOR	Tachibana Kiyomi
+MAUPIN_CONTRACTOR_MOM	Tachibana Kiyomi's Mother
+MAWANG	Archfiend
+MAYAUEL	Mayahuel
+MAYBE_CONTRACTOR	Pactmaker (?)
+MC	MC
+MEDIA_INTERVIEW	Interview Video
+MEI	Mei from the Hot Spring Town
+MEN_GEST	Male Guest
+MERCURY	Mercury
+MESSIER_CONTRACTOR	Hoshikawa Kirara
+METHUSELAH	Methuselah
+METIS	Metis
+METIS_CONTRACTOR	Amamiya Chie
+METIS_CONTRACTOR_DAD	Amamiya Chie's Father
+METIS_CONTRACTOR_MOM	Amamiya Chie's Mother
+MINA	Mina
+MIRCALLA	Mircalla
+MIRIAM	Miriam
+MITRA	Mitra
+MOMMY	Mother
+MONA	Mona
+MONA1	Caretaker Mona
+MONA2	Predecessor Mona
+MONKEY	Wukong
+MONSTER	Monster
+MORGAN	Morgan
+NABI	Runt
+NAGISA	Nagisa
+NARBI437	Narvi 437
+NARBI438	Narvi 438
+NARBI439	Narvi 439
+NEAMHAIN	Neamhain
+NEIGHBORHOOD DOG	Neighborhood Dog
+NEIGHBORHOOD_GRANDAD	Grandpa
+NEOUTUBE_COMMENT	Comment
+NEPHTHYS	Nephthys
+NEPHTHYS_CONTRACTOR	Tsubokura Tsumiki
+NEPTUNE	Neptune♥
+NERVOUSGIRL	Anxious Girl
+NEWSFLASH	News Flash
+NEZHA	Nezha
+NICKNAME	User Nickname
+NICOLE	Nicole
+NICOLE_FATHER	Nicole's Father
+NIRRTI	Nirrti
+NONAME_MOA	Nameless Moa
+NOTUS	Notus
+NOTUS_CONTRACTOR	Minaoka Sayaka
+NUN	Nun
+NUN1	Nun 1
+NUN2	Nun 2
+NURSE	Nurse
+NURSE_01	Nurse
+NURSE_NEAMHAIN	The Nurse
+OD	Ode
+ODYSSEUS	Odysseus
+OPHOIS	Ophois
+OPHOIS_CONTRACTOR	Duoh Vera
+ORCUS	Orcus
+OWNER_OF_STRIGOY	Strigoy's Owner
+PAKHET	Pakhet
+PAL	Friend
+PALENOTE	Failnaught
+PANTHEON_CONTRACTOR	Nishiyama Hiroyuki
+PAPA	Daddy
+PARK_MANAGER	Park Manager
+PART TIME RUDOLF	Part-Timer Rudolph
+PARTICIPANTA	Participant A
+PARTICIPANTB	Participant B
+PARTNER	Pal
+PART-TIMER	Part Timer
+PASSERSBY1	Passerby 1
+PASSERSBY2	Passerby 2
+PASSERSBY3	Passerby 3
+PASSERSBY4	Passerby 4
+PEOPLE	Townsperson
+PEOPLE1	Villager 1
+PEOPLE2	Villager 2
+PEOPLE3	Villager 3
+PEPITA	Pepita
+PHILIP	Philip
+PIE CUBE	Pie Cube
+PILATES	Philotes
+PLAYER_A	Player A
+PLAYER_B	Player B
+POI CUBE	Poison Cube
+POLICE	Policeman
+POLICE_ZOMBIE	Zombie Policeman
+POLICE1	Policeman 1
+POLICE2	Policeman 2
+PRIEST	Priest
+PRINCIPAL SUHANA	Principal Suhana
+PROCEL	Procel
+PROFESSOR	Professor
+PTAH	Ptah
+PUB_OWNER	Pub Owner
+PUNKA	Hoodlum A
+PUNKB	Hoodlum B
+PUNKC	Hoodlum C
+PUPPY	Village Dog
+PUPPY1	Dog
+RADIO	Radio
+RAFFLES	Raffles
+RAGARAJA	Ragaraja
+RANI	Rani
+RANI_CHILD	Rani's Child
+RANI_FATHER	Rani's Father
+REDCROSS	Red Cross
+RENARD	Reynard
+RENDAL	Rendal
+REPORTER	Reporter
+RISA	Lisa
+ROMEO	Romeo
+ROSSANNA	Rosanna
+ROSSANNA_CONTRACTOR	Fumino Tamaki
+ROUSALKA	Rusalka
+ROYAL_FAMILYA	Royal A
+ROYAL_FAMILYB	Royal B
+ROYAL_FAMILYC	Royal C
+SABINA	Sabina
+SAINT MICHAEL SCHOOL GIRL	Student at Saint Michael's
+SAINTMICHAELSCHOOLGIRL	Schoolgirl
+SALADIN	Saladin
+SALOONIST	Bartender
+SALUS	Sallos
+SAMAEL	Samael
+SATURN	Saturn♥
+SCHOOLBOY	High School Boy
+SCHOOLBOY1	High School Boy 1
+SCHOOLBOY2	High School Boy 2
+SCHOOLGIRL	High School Girl
+SCHOOLGIRL1	High School Girl 1
+SCHOOLGIRL2	High School Girl 2
+SCHOOLGIRL3	High School Girl 3
+SCHOOLMAFIA	Boss
+SECRET_CONTRACTOR	Secret Pactmaker
+SECURITY	Security
+SEMELE	Semele
+SEOCHEON_SENSE	First Flower Guardian
+SERKET	Serket
+SESHAT_CONTRACTOR	Kajihara Masami
+SETH	Seth
+SHAMAN_GHOST	Demonic To Keika
+SHINHJ	Hikaru Nijihara
+SHIVAN SOLDIER	Shivan Soldier
+SHOPASSISTANT	Clerk
+SITRI	Sytry
+SKQCLQJA	Kidnapper
+SOLARSHADE_UNA	Solar Shade Yuna
+SOLDIERA	Subordinate A
+SOLDIERB	Subordinate B
+SOLDIERC	Subordinate C
+SOOJIN	Soo-jin
+SOULBOW	High Priest's Bow
+SPECTATOR1	Spectator 1
+SPECTATOR2	Spectator 2
+SPECTATORS	Spectator
+STAFF	Staff
+STALKER	Stalker
+STOREANNOUNCE	In-store PA
+STORECLERK	Store Clerk
+STOREOWNER	Shopkeeper
+STREET_VENDOR	Street Vendor
+STRIGOY	Strigoy
+STUDENT	Student
+STUDENTA	Student A
+STUDENTB	Student B
+STUDENTCOUNCIL	Disciplinary Council
+STUDENTS	Students
+SUCCUBUS	Succubus
+SUHANA	Suhana
+SUHANA'S MOTHER	Suhana's mother
+SULHEE	Sulhee
+SUNAH	Sunna
+TAEKI	Taeki
+TAMAKI	Tamaki
+TEACHER	Homeroom Teacher
+TEACHER_DEBORAH	Ms. Deborah
+TEACHER_MIRIAM	Miriam's Teacher
+TERESA	Asagiri Theresa
+TERESA_SHORT	Theresa
+THE DUCHESS	Duchess
+THE KING OF HEARTS	King
+THE QUEEN OF HEARTS	Queen
+THEOPHANO_CONTRACTOR	Takuwa Takuro
+THISBE_CONTRACTOR	Sonoda Hikari
+THUGA	Hoodlum A
+THUGB	Hoodlum B
+THUGC	Hoodlum C
+THUGD	Hoodlum D
+THUGE	Hoodlum E
+THUGF	Hoodlum F
+TITANIA	Titania
+TIWAZ	Tiwaz
+TLSQN	Bride
+TRAINEE	Trainee
+TURAN	Turan
+TYBALT	Tybalt
+UBOHEE	Nakagawa Misaki
+UNA	Yuna
+UNIUSER1	Universe User 1
+UNIUSER2	Universe User 2
+UNIUSER3	Universe User 3
+UNIUSER4	Universe User 4
+UNIUSER5	Universe User 5
+UNIVERS_ZOMBIE	Universe Zombie
+UNIVERSITY FOUNDER	Sudo University Founder
+UNKNOWN_CONTRACTOR	Mysterious Pactmaker
+UNKNOWN1	???
+VAMPIRE	Vampire
+VENDOR	Merchant
+VENUS	Venus♥
+VENUS_UNA	Light of Hope Yuna
+VILLAGE_HEAD	Village Chief
+VILLAGE_PEOPLE	Villagers
+VILLAGEHEAD	Village Chief
+VIRUPA	Virupa
+VLAD_3	Vlad III
+VOLUNTEER	Volunteer Worker
+VOVO	Bobo
+VOVO_TEACHER	Bobo's Teacher
+WARDEN	Manager
+WARDER	Prison Guard
+WATSON	Watson
+WHITE RABBIT	White Rabbit
+WOLF	Wolf
+WOMAN	Woman
+WOMAN_CONTRACTOR	Lady Pactmaker
+WOMAN_EXORCIST	Female Exorcist
+WOMAN1	Woman 1
+WOMAN2	Woman 2
+WOMANA	Woman A
+WOMANB	Woman B
+WOMEN_GEST	Female Guest
+WOOARI	Hideka Ebina
+WOTAN	Wodan
+WYATT	Wyatt
+WYATT_CONTRACTOR	Okuno Osamichi
+WYVAN	Olga
+YAN	Jan Zizka
+YEONYI	Yeoni
+YMIR_CONTRACTOR	Ryou Hikawa
+YOUNGMAN	Young Man
+YOUNGPOLICE	Young Detective
+YOUTUBE	NetTube Video
+YOUTUBER	NetTuber
+ZEPHYROS	Zephyros

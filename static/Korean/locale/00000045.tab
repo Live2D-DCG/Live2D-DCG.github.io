@@ -1,0 +1,39 @@
+﻿// key	PUPPET_DIORAMA_NAME_
+1000011	Max HP {value_1} for all Allies
+1000012	Max HP {value_1} for all Allies in PvE
+1000013	Max HP {value_1} for all Allies in PvP
+1000021	ATK {value_1} for all Allies
+1000022	ATK {value_1} for all Allies in PvE
+1000023	ATK {value_1} for all Allies in PvP
+1000031	DEF {value_1} for all Allies
+1000032	DEF {value_1} for all Allies in PvE
+1000033	DEF {value_1} for all Allies in PvP
+1000041	AGL {value_1} for all Allies
+1000042	AGL {value_1} for all Allies in PvE
+1000043	AGL {value_1} for all Allies in PvP
+1000051	CRT {value_1} for all Allies
+1000052	CRT {value_1} for all Allies in PvE
+1000053	CRT {value_1} for all Allies in PvP
+1000062	Skill Gauge Charge Speed {value_1} for all Allies in PvE
+1000063	Skill Gauge Charge Speed {value_1} for all Allies in PvP
+1000072	Skill Gauge Charge Amount {value_1} for all Allies in PvE
+1000073	Skill Gauge Charge Amount {value_1} for all Allies in PvP
+1000092	Skill Damage {value_1} (Tap/Slide skills only) for all Allies in PvE
+1000131	Skill Final Blow {value_1} for all Allies
+1000132	Skill Final Blow {value_1} for all Allies in PvE
+1000161	Drive Skill Final Blow {value_1} for all Allies
+1000162	Drive Skill Final Blow {value_1} for all Allies in PvE
+1000171	Weak Point ATK Final Blow {value_1} for all Allies
+1000173	Weak Point ATK Final Blow {value_1} for all Allies in PvP
+1000181	CRT Rate {value_1} for all Allies
+1000191	Critical Final Blow {value_1} for all Allies
+1000192	Critical Final Blow {value_1} for all Allies in PvE
+1000201	All Skill Damage DEF {value_1} for all Allies
+1000202	All Skill Damage DEF {value_1} for all Allies in PvE
+1000203	All Skill Damage DEF {value_1} for all Allies in PvP
+1000231	Drive Skill Damage DEF {value_1} for all Allies
+1000233	Drive Skill Damage DEF {value_1} for all Allies in PvP
+1000241	Weak Point DEF {value_1} for all Allies in PvE
+1000242	Weak Point DEF {value_1} for all Allies in PvE
+1000251	Critical Damage DEF {value_1} for all Allies
+1000253	Critical Damage DEF {value_1} for all Allies

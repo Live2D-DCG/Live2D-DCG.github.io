@@ -1,0 +1,2218 @@
+﻿// key	CHARACTER_NAME_	CHARACTER_SKIN_DESCRIPTION_
+c000_01	_Maître	On ne peut pas dire que ce démon fauché soit à la pointe de la mode.
+c000_10	Mystérieux_Maître	Tenue de fille à l'air étrangement familier.
+c000_11	École de filles_Maître	Uniforme d'étudiante d'une école de filles prestigieuse.
+c000_12	Maillot de bain_Maître	
+c000_13	_Maître	
+c000_14	Robe_Maître	
+c000_15	_Maître	
+c000_16	_Maître	
+c001_01	_Mona	Un uniforme raffiné pour une entraîneuse de démons paresseux.
+c001_02	Combattante_Mona	Mona la succube est prête à lancer l'assaut ♥
+c001_12	Bord de mer_Mona	Femme du moment, vêtue d'un maillot de bain très moulant.\Juste ce qu'il faut pour... embraser l'atmosphère !
+c001_14	Professeur_Mona	Tenue portée par Mona, la succube intransigeante.
+c001_16	Baigneuse_Mona	Un bikini sexy porté par la femme qui fait tourner les têtes. Votre été promet d'être chaud !
+c001_17	Jeune_Mona	La forme enfant de Mona, créée à partir de ses données biologiques !
+c002_00	_Lisa	Le pyjama secret de la Lisa la succube.
+c002_01	_Lisa	Un uniforme magnifique porté par la super succube de classe S.
+c002_02	Combattante_Lisa	Les stats de la super succube de classe S ont augmenté !
+c002_10	Bord de mer_Lisa	Bikini sexy porté par la femme qui fait tourner toutes les têtes.\L'été va être... chaud !
+c002_11	Étudiante_Lisa	Uniforme d'étudiante d'honneur de Lisa la succube.
+c002_12	Estivale_Lisa	Le maillot de bain élégant de Lisa. Indispensable pour supporter la chaleur de l'été !
+c003_01	_Davi	Davi est toujours mignonne, quelle que soit sa tenue !
+c003_02	Combattante_Davi	L'adorable Davi est encore plus mignonne !
+c003_10	Bord de mer_Davi	Davi, la fille du moment, dans son propre bikini.\Amusez-vous avec un démon !
+c003_11	Étudiante_Davi	Uniforme scolaire pour Davi, désormais dans les affres de l'adolescence.
+c003_13	Estivale_Davi	Le maillot de bain une pièce de Davi, qui privilégie le côté pratique.
+c003_14	Lucifer_Davi	Le look idéal de Reine des démons selon Davi !
+c003_15	Satan_Davi	La création fatale de Davi, un rêve dans un rêve.
+c003_16	Pourpre_Davi	La création de Davi, une fleur pourpre qui fleurit dans un rêve.
+c003_17	Mini_Davi	Version de Davi créée à partir d'un fragment de Davi reine des démons.\C'est moi, ou... ça rappelle quelque chose ?
+c003_18	Pom-pom girl_Davi	C'est pas pour le maître, que je mets ça, hein !\Uniforme de pom-pom girl de Davi, qu'elle met uniquement pour Mona.
+c003_89	Lucifer_Davi	Le look idéal de Reine des démons selon Davi !
+c004_00	_Jennifer	Une jupe décontractée qui lui va comme un gant.
+c004_01	Amicale_Cheoyong	Une tenue de combat ultra souple pour un Child destructeur.
+c004_02	Chaleureuse_Cheoyong	Une tenue de combat spéciale qui améliore la puissance de ses armes.
+c005_00	Natsume_Sawaki	Attention, les pistolets à eau n'ont pas de fonction de visée !
+c005_01	Intrépide_Arès	Attention, selon son humeur, ça peut se terminer en carnage !
+c005_02	Ravageuse_Arès	Armée jusqu'aux dents ! L'heure de la vengeance a sonné !
+c007_00	Kyosuke_Kaga	La tenue décontractée emblématique de Phénix. Elle est faite de feu.
+c007_01	Impétueux_Phénix	La tenue emblématique de Phénix. Ne dites surtout qu'elle vous rappelle quelqu'un d'autre !
+c007_02	Fougueux_Phénix	La tenue emblématique de Phénix, faite de feu !
+c008_00	Kyoko_Wakatsuki	Le gripper est un accessoire féminin indispensable !
+c008_01	Guerrière_Frigg	L'âme de Frigg luit d'une lueur blanche.
+c008_02	Militante_Frigg	L'esprit combatif de Frigg brille d'une lueur blanche.
+c009_00	Jin_Uto	Un fusil factice n'empêche pas de combattre, tant qu'on en a la volonté !
+c009_01	Mercenaire_Hector	Le client est responsable de tout dégât ou blessure.
+c009_02	Tueur_Hector	Une tenue très résistante pour les mercenaires qui risquent leur vie au combat.
+c010_00	Marika_Takanashi	Une tenue pour les infirmières qui croquent la vie à pleines dents.
+c010_01	Audacieuse_Déméter	Maintenant que je suis infirmière, je devrais essayer de faire une piqûre.
+c010_02	Vaniteuse_Déméter	La tenue de combat de Déméter, découverte dans un hôpital secret.
+c011_00	Fusako_Haito	La tenue d'une étudiante en médecine sincère. La porter provoque une série d'erreurs.
+c011_01	Serviable_Dino	La tenue de combat d'une jeune fille bûcheuse. Même les plus travailleurs font parfois des erreurs.
+c011_02	Prévenante_Dino	La tenue de combat d'une jeune fille enthousiaste. Même les travailleurs enthousiastes font parfois des erreurs.
+c012_00	Ryuzo_Muto	Gabardine de détective.
+c012_01	Impétueux_Agamemnon	Costume d'Agamemnon.\Prêt à combattre, envers et contre tout.
+c012_02	Final_Agamemnon	Venez, je vous attends.\Vrai costume d'Agamemnon.
+c013_00	Kasumi_Sakuragawa	Une fille brillante dont l'indifférence à la mode la rend adorable.
+c013_01	Nocturne_Artémis	Une robe noire comme le jais pour une soirée tranquille.
+c013_02	Sélène_Artémis	Une robe claire comme la lune pour une soirée fraîche.
+c014_00	Katsumi_Tohdoh	Tenue militaire de la passeuse de pacte d'Astrée.
+c014_01	Étoilée_Astrée	La croix porte-bonheur est le symbole d'Astrée.
+c014_02	Galaxie_Astrée	Costume gris perle qui fait transparaître la nature sévère d'Astrée.
+c015_01	Saisonnière_Hélène	Sa tenue standard, confectionnée avec une extrême minutie.
+c017_00	Turbulente_Komugi	Si vous n'aimez pas l'odeur des chiens, lavez-la une fois par semaine.
+c017_01	Gardienne_Cù-Sith	"Faites-moi confiance ! Les chiens de garde ne reculent jamais devant le combat !"
+c017_02	Protectrice_Cù-Sith	"Quand je mords, je ne lâche plus ! Les chiens de garde ne reculent jamais devant le combat !"
+c018_00	Yayoi_Yagami	La tenue d'une fabricante de poupées mélancolique.
+c018_01	Petite_Coré	La tenue de Coré la marionnettiste. Elle ne se sépare jamais de ses poupées qui parlent.
+c018_02	Infantile_Coré	La tenue de Coré la marionnettiste. Elle ne se sépare jamais de ses poupées maudites.
+c019_00	Shizune_Urushibara	Cette tenue de jeune enseignante déborde d'enthousiasme.
+c019_01	Frénétique_Éris	La tenue de combat de l'impitoyable Éris.
+c019_02	Fulminante_Éris	La tenue de combat de l'impitoyable Éris. Les flammes de la rage renforcent sa puissance.
+c020_00	Aisa_Yukawa	Pour une personne paresseuse, les dés sont une arme suffisante.
+c020_01	Dangereuse_Fortuna	La tenue porte-bonheur de Fortuna la parieuse.
+c020_02	Parieuse_Fortuna	La tenue fétiche de Fortuna la parieuse. Elle n'a jamais perdu en la portant.
+c022_00	Yutaka_Sakamaki	"Je suis la fée des futons. Rejoignez-moi au paradis des futons !"
+c022_01	Paresseux_Mayahuel	Trop jouer aux jeux vidéo peut entraîner des problèmes de vue pour les garçons en pleine croissance.
+c022_02	Morne_Mayahuel	Mayahuel est passé au niveau supérieur. Ses stats ont atteint leur maximum.
+c022_10	Soubrette_Mayahuel	Mayahuel dans son cosplay de personnage de jeu vidéo romantique. Il joue ce rôle à la perfection.
+c023_00	_Camineu	
+c023_01	_Camineu	
+c024_00	Voisin_Rufus	
+c024_01	_Rufus	
+c024_02	Archiduc_Rufus	
+c026_00	Kagamino_Arisa	Vous n'avez pas mis les pieds dehors depuis un bon moment ? Cette jupe est parfaite pour ce genre d'occasion.
+c026_01	Ravissante_Éos	Son badge "Âme perdue" fait partie intégrante de la tenue et d'elle-même.
+c026_02	Délirante_Éos	"Regardez bien cette broche. Vous ne remarquez rien ?"
+c027_00	Kageko_Kurokasa	"Le vent soulève ma jupe ! Heureusement, j'ai tout prévu !"
+c027_01	Lucide_Cynthia	Cette cape de superhéros unisexe fait un malheur.
+c027_02	Sincère_Cynthia	"Alors comme ça, tu veux être un superhéros ? D'abord, il te faut une cape !"
+c028_00	Mikoto_Kenmochi	Une tenue de tous les jours pour cette dame raffinée.
+c028_01	Brillante_Léda	Le corps de Léda est un régal pour les yeux !
+c028_02	Rayonnante_Léda	Léda a un corps magnifique ! Qui ne voudrait pas être piétiné par ces jambes ?
+c028_10	Onirique_Léda	"Agenouille-toi devant la reine Léda, la femme de tes rêves !"
+c029_00	Harue_Asahina	Il est rare qu'un Child fasse preuve d'élégance dès le départ.
+c029_01	Nocturne_Séléné	La déesse de la lune, vêtue de nuages.
+c029_02	Opaline_Séléné	La déesse de la lune, vêtue de lumière.
+c030_00	Sarah_J.	Une détective ? Cette casquette de chasse est adorable.
+c030_01	Dynamique_P'tite détective	Avec cette tenue exclusive,\la P'tite détective devient invincible !
+c030_02	Coriace_P'tite détective	Avec cette tenue exclusive, la P'tite détective est capable de résoudre toutes les affaires.
+c031_00	_Mimi	"Je n'oublierai jamais la gentillesse du Maître ♥ Il a toujours une queue !"
+c031_01	Innocente_Freyja	Donne envie de courir après tout ce qui bouge. À porter avec précaution !
+c031_02	Pure_Freyja	Fait miauler au lieu de parler. À porter avec précaution !
+c032_00	Sana_Tanikawa	Pour le monde des esprits mature, le look rétro est idéal.
+c032_01	Diligente_Alecto	"Appelez-moi quand vous voulez, Maître ! Je ne retire jamais mon uniforme de domestique !"
+c032_02	Laborieuse_Alecto	En uniforme de domestique, il n'y a aucune raison d'avoir peur !
+c033_00	Sae_Momoki	La couleur verte soulage le chagrin d'une fille qui ne peut oublier son premier amour.
+c033_01	Paisible_Diane	Cette jeune fille pure deviendra la reine de la forêt.
+c033_02	Solitaire_Diane	Cette jeune fille pure deviendra la gardienne divine de la forêt.
+c034_00	Tomomi_Okawachi	La tenue d'une bibliothécaire rêveuse. La lecture est un devoir pour les idéalistes.
+c034_01	Indolente_Mnémosyne	La tenue de combat moulante de Mnémosyne.
+c034_02	Orgueilleuse_Mnémosyne	La tenue de combat moulante et amincissante de Mnémosyne.
+c035_00	Kanna_Kirishima	Elle porte ce ruban en souvenir de son père.
+c035_01	Aurorale_Perséphone	Une tenue parfaite pour négocier.
+c035_02	Inhérente_Perséphone	Seriez-vous intéressé par la dernière tendance du Royaume infernal ?
+c036_00	Saya_Imamiya	La capuche cache complètement le visage. Plus besoin de se soucier de son apparence.
+c036_01	Dépensière_Hermès	La tenue d'Hermès, spécialiste des articles d'occasion, montre qu'elle n'a aucun sens de la mode.
+c036_02	Acheteuse_Hermès	La tenue d'Hermès, spécialiste des articles d'occasion, montre qu'elle ne sait pas suivre la tendance.
+c036_10	Collectionneuse_Hermès	Une veste en édition limitée faite sur mesure pour Hermès.
+c037_00	_Judas	La tenue aussi adorable qu'intimidante de Judas, le roi de la rue.
+c037_01	_Judas	Les hommes virils portent du cuir, même si ça les fait énormément transpirer !
+c037_02	Ténébreux_Judas	Il n'y a pas quelque chose qui sent le brûlé ?
+c038_00	Alicia_Bradley	Tenue de vacances excentrique.
+c038_01	Malveillante_Calypso	Tenue idéale pour une fille persuadée que le bleu est LA couleur de l'amour.
+c038_02	Charmante_Calypso	L'amour nécessite du courage. Cela dit, je n'avais pas vraiment prévu de me noyer en mer...
+c039_00	Yuri_Morita	Cette tenue donne immédiatement l'impression d'une femme carriériste qui déborde de confiance.
+c039_01	Furieuse_Morrigan	On lui avait dit que cette tenue était très féminine, mais elle se sent dupée.
+c039_02	Obligeante_Morrigan	On lui avait dit que cette tenue était séduisante, mais elle se sent dupée.
+c040_00	Shizuka_Takagi	Cet uniforme est indispensable pour les employées de bureau zélées. C'est le règlement !
+c040_01	Exemplaire_Shamash	Mais qui donc a décrété que les lapins symbolisaient la justice ?
+c040_02	Édifiante_Shamash	Les lapins vertueux n'ont aucune pitié. "Mange mon poing de lapin !"
+c041_00	_Mattie	Bienvenue à Villesombre. Que dites-vous de ce manteau de fourrure élégant ?
+c041_01	Nocturne_Tiamat	Attention ! Le noir de sa tenue est si profond qu'on ne voit pas sa ceinture.
+c041_02	Abyssale_Tiamat	Le cliché de la jolie fille derrière le masque, un grand classique.
+c043_00	Marika_Yonai	Ce costume ferait sûrement un malheur aux États-Unis !
+c043_01	Arrogante_Héra	"Hé, toi ! Oui, toi ! Non, pas toi ! Je m'adresse à TOI !"
+c043_02	Égocentrique_Héra	Le meilleur moyen de prouver sa valeur, c'est encore de faire face au canon d'un fusil en souriant !
+c044_00	Hiroyuki_Nishiyama	Complètement fauché et pas du tout à la mode.
+c044_01	Nonchalant_Panthéon	Sa transformation en Child n'a pas changé grand-chose.
+c044_02	Vagabond_Panthéon	Un garçon fauché qui manie deux épées... Méfiance !
+c045_00	Hino_Aria	Toujours prête à décocher un sourire radieux sous les flashs des appareils photo.
+c045_01	Mélodieuse_Aria	La transpiration d'une pop star, c'est le fruit de son dur labeur !
+c045_02	Charmante_Aria	Tout le monde l'attendait ! Il est temps d'entrer en scène !
+c045_10	Festive_Aria	Noël〜Noël〜♪\Humains comme démons, venez assister au concert d'Aria !
+c045_11	Brillante_Aria	Je vais tout donner ! On va faire ça tous ensemble !\"A-M-O-U-R ! Aria la sublime !"
+c045_12	Pause_Aria	Le jour fatidique où elle fit la connaissance de Planet Party.
+c045_13	Star sublime_Aria	Un concert sans fin... Allez un rappel, pour vous \et pour celle sous la lumière des projecteurs.
+c045_89	Brillante_Aria	
+c047_00	Ran_Kagami	La tenue d'une jeune fille qui ne sait pas dire non.
+c047_01	Ardente_Hestia	La tenue d'une fille qui veut que ses ennemis\brûlent d'envie... ou brûlent tout court.
+c047_02	Torride_Hestia	Une tenue blanche comme le magnésium chauffé.
+c048_00	Mei_Urae	La tenue maudite d'une jeune fille malheureuse. Elle fait un joli souvenir.
+c048_01	Mélancolique_Nemain	Pessimiste, masochiste et narquoise.\Que demander de plus ?
+c048_02	Ambivalente_Nemain	Il n'y a pas de poison plus mortel que l'amour,\et elle en regorge.
+c048_10	Nourrice_Nemain	Le costume pour le rôle de la nourrice dans Roméo et Juliette.\Je ne suis pas la nourrice de Freyr.
+c049_00	_Rosetta	Essayez cette tenue si vous êtes en quête de sérénité.
+c049_01	Errante_Maât	Interdiction de porter cette tenue en présence de Dieu !
+c049_02	Pieuse_Maât	Même les démons ont parfois besoin d'un moment de répit.
+c049_10	Abyssale_Maât	Une tenue née des ténèbres qui habitent le cœur de Maât.
+c050_02	Tyrannique_Ód	La véritable forme d'Ód.
+c051_00	_Freyr	Freyr lorsqu'il a repris son corps d'enfant pour conserver sa magie.
+c051_01	_Freyr	Il n'y a que le grand Freyr pour porter un haut transparent avec classe !
+c051_02	Mauvais garçon_Freyr	Oui, c'est moi, Freyr le mauvais garçon, le grand démon du Royaume infernal !
+c051_12	Tybalt_Freyr	Le costume pour le rôle de Tybalt dans Roméo et Juliette.\Lisa me regarde.
+c051_21	Poupée maudite_Freyr	
+c052_00	Mikio_Harashinai	La folie d'un représentant commercial,\habituellement cachée sous son costume à cravate.
+c052_01	Dramatique_Byleth	Si vous croisez un jour quelqu'un qui ressemble à ça,\fuyez sans jamais vous retourner.
+c052_02	Fallacieux_Byleth	N'acceptez jamais l'invitation de garçons habillés ainsi,\même s'ils semblent adorables.
+c053_00	Chie_Amamiya	Malgré tous les vêtements qu'elle achète,\elle ne peut combler le vide dans son cœur.
+c053_01	Hésitante_Métis	Elle ressemble beaucoup à une poupée.\Elle ne dit jamais rien, car elle n'en a pas besoin.
+c053_02	Clairvoyante_Métis	Elle ressemble beaucoup à une poupée.\On voit que sa jupe a demandé beaucoup de travail.
+c054_00	_Ichitaka	Elle s'entraîne tous les jours pour mieux servir son maître. Nin-nin !
+c054_01	Gardienne_Légende	Une tenue de ninja qui ne donne pas l'air d'un ninja,\faite de la dévotion à son maître.
+c054_02	Légendaire_Légende	La légende de la légendaire Légende\commence aujourd'hui... légendairement.
+c056_00	Mia_Saotome	Tout le monde sait qu'aucun démon ne peut résister à un habit religieux.
+c056_01	Martyre_Jeanne d'Arc	Si seulement elle se battait comme un démon...
+c056_02	Sacrificielle_Jeanne d'Arc	Même un démon serait sensible aux paroles d'évangile\d'une fille aussi pieuse.
+c057_00	_Lan Fei	Ne la défiez pas, si vous tenez à la vie.
+c057_01	_Lan Fei	Comment se concentrer sur les emplettes\quand la vendeuse ressemble à ça ?
+c057_02	Étoile noire_Lan Fei	Deux mots pour la décrire : beauté fatale.
+c057_10	Soirée arrosée_Lan Fei	Elle fera ce qu'il faut pour obtenir ce qu'elle veut.\C'est Lan Fei.
+c057_87	Soirée arrosée_Lan Fei	Elle fera ce qu'il faut pour obtenir ce qu'elle veut.\C'est Lan Fei.
+c057_88	Étoile noire_Lan Fei	Deux mots pour la décrire : beauté fatale.
+c057_89	_Lan Fei	Comment se concentrer sur les emplettes\quand la vendeuse ressemble à ça ?
+c058_00	_Nirriti	La tenue d'entraînement d'une exorciste.
+c058_01	Exorciste_Nirriti	Une tenue qui exprime parfaitement la personnalité\de ce Child.
+c058_02	Rakshasa_Nirriti	Elle ne fait qu'un avec sa lame.
+c060_00	Rurimi_Sakakibara	Vêtue de blanc de la tête aux pieds.
+c060_01	Punitive_Tisiphone	Ne l'approchez pas par-derrière !
+c060_02	Vengeresse_Tisiphone	Une femme aussi belle que dangereuse.
+c061_00	Shion_Fujiwara	Veut faire connaître le plus beau heavy métal\dans le monde entier.
+c061_01	Obscure_Sirène	Quand on veut sur la scène internationale,\il faut s'habiller pour l'occasion !
+c061_02	Noctambule_Sirène	Inspiration démoniaque !
+c062_00	Atsuko_Sashikawa	Une tenue recommandée à celles qui veulent passer\leur vie scolaire entre amour et envie.
+c062_01	Fragrante_Europe	Attention aux épines, même sur les plus jolies fleurs...
+c062_02	Séduisante_Europe	Vous ne voyez pas ce qui est si beau ?\Vous devriez vous faire examiner.
+c063_00	Akimi_Inokuchi	La tenue décontractée d'une fille timide.
+c063_01	Timide_Phrygie	N'oubliez pas d'affranchir avant d'envoyer une lettre.
+c063_02	Spéculative_Phrygie	Si les mots sont sincères, une seule phrase suffit.
+c064_00	Iwai_Akiko	La tenue d'une femme à la pointe du glamour.
+c064_01	Souveraine_Méduse	La tenue de combat officielle de Méduse.
+c064_02	Conquérante_Méduse	Une tenue de combat qui renferme l'esprit combatif de Méduse.
+c064_88	Conquérante_Méduse	Si tu comptes t'enfuir, fais-le maintenant.
+c064_89	Souveraine_Méduse	
+c065_00	Amu_Amamiya	C'est dur d'être adulte.
+c065_01	Florissante_Érato	Une beauté en fleur.
+c065_02	Abondante_Érato	Avez-vous trouvé du parfum qui irait bien\avec cette tenue ?
+c066_00	Yohei_Kurozaki	Les échecs sont un jeu de tromperie.\Ne vous laissez pas duper par ce sourire.
+c066_01	Moraliste_Aton	Restez impassible.\Ne montrez pas vos émotions.
+c066_02	Machiavélique_Aton	1 + 1 = 2 ! Vous vous sentez plus intelligent ?
+c067_00	Sakuji_Kusano	Pas pour les jeunes hommes en bonne santé.
+c067_01	Obscur_Thanatos	Le noir est la couleur de la mort et de la destruction.
+c067_02	Transcendant_Thanatos	Le noir est la couleur du repos et de la paix éternelle.
+c068_00	Shiori_Sato	Le tablier a sauvé les vêtements, mais pas la nourriture.
+c068_01	Persévérante_Ambroisie	Saviez-vous que les saucisses étaient très difficiles à cuisiner ?
+c068_02	Gourmande_Ambroisie	Qui veut du dessert ?
+c069_00	Ryohei_Kirihara	Les clés à molette sont des outils, pas des armes.
+c069_01	Réparateur_Ptah	Cette clé à molette n'est pas un outil, c'est une arme.
+c069_02	Mécano_Ptah	S'il vous manque un boulon, j'ai de quoi vous aider.
+c072_00	Hirotsugu_Nakayamamoto	Qu'est-ce qui te fait croire que je me fais persécuter ?
+c072_01	Explorateur_Fenrir	Une tenue de combat pour les nihilistes laconiques.
+c072_02	Sombre_Fenrir	Si je ne survis pas à ce combat,\j'emporterai l'ennemi dans la tombe !
+c073_00	Futaba_An	Une commerçante pessimiste.
+c073_01	Morose_Navi	La robe froide de Navi, empreinte de soupirs.
+c073_02	Vide_Navi	Une robe tissée avec les larmes qu'a versées Navi.
+c074_00	Yoshiko_Yoshida	Une vraie pom-pom girl peut se servir de n'importe quel outil.
+c074_01	Joyeuse_Quirinus	Le poisson-lune est le meilleur ami du démon.
+c074_02	Enthousiaste_Quirinus	Pour les démons qui ont besoin d'encouragement !
+c075_01	Fragrante_Taha	Une mini robe dos nu noire\choisie personnellement par Taha.
+c082_00	Yu_Kano	Portez ceci pour améliorer votre perspicacité\et attirer le mauvais œil.
+c082_01	Ingénieux_Calchas	Une veste décontractée et pratique,\avec un brassard rouge distinctif.
+c082_02	Prophète_Calchas	La veste beige cool et décontractée de Calchas.
+c083_00	Rei_Kamisaka	Tous les sacs seront inspectés.\Et oui, les armes à feu seront confisquées !
+c083_01	Guerrière_Neith	Mettez cette tenue pour voir votre soif de combat grimper en flèche.
+c083_02	Tacticienne_Neith	Cette tenue augmente la puissance, mais vous aurez du mal\à différencier les ennemis des alliés.
+c086_00	Kyoko_Harada	Ne buvez jamais la soupe préparée par une sorcière illégale.
+c086_01	Substantielle_Goga	Cuisiner est une preuve de sincérité !\La tenue de combat de Goga.
+c086_02	Délectable_Goga	Cuisiner, c'est aimer !\La tenue de combat de Goga.
+c087_01	Immaculée_Ninurta	Une tenue porte-bonheur qui aide Ninurta à survivre aux combats acharnés.
+c090_00	Keito_Rindo	La volonté de vivre, quels que soient les obstacles.
+c090_01	Baroque_Vulcain	Une tenue dans un style rococo classique.
+c090_02	Aristocratique_Vulcain	Une tenue élégante dans un style typique de la Renaissance.
+c091_00	Miyamori_Yuriko	Une tenue qui affiche la ténacité de Méra.
+c091_01	Gardienne_Méra	Une tenue simple qui affiche la férocité de Méra.
+c091_02	Loyale_Méra	La puissance de Méra a été relâchée. Personne ne peut plus approcher d'elle.
+c092_01	Impeccable_Armide	Une tenue de combat qui montre à quel point Armide est douée avec une épée.
+c095_00	Kumiko_Kudo	Malgré les blessures, je donnerai le meilleur de moi-même !
+c095_01	Impétueuse_Vesta	Portez ceci pour pouvoir provoquer tout le monde en duel !
+c095_02	Fervente_Vesta	Une tenue de combat qui se focalise sur la victoire.
+c099_00	Marin_Okazawa	Pourquoi est-ce qu'une pop star ne pourrait pas jouer du heavy métal ?
+c099_01	Languissante_Melpomène	Ma voix a changé quand j'ai enfilé cette tenue !
+c099_02	Tonitruante_Melpomène	Impossible de faire du headbang avec des cheveux courts !
+c101_00	Nanami_Kasugai	Acceptez-vous d'être son ange gardien ?
+c101_01	Naïve_Syrinx	La tenue de combat de la tendre Syrinx.
+c101_02	Élogieuse_Syrinx	La tenue de combat de Syrinx après qu'elle a décidé de\faire preuve de bonté envers les humains comme les démons.
+c101_10	Miracle_Syrinx	Sa gentillesse ferait fondre l'hiver lui-même.
+c106_01	Vengeresse_Médéia	Accompagnée d'une poupée qui parle en même temps qu'elle.
+c106_02	Conspiratrice_Médéia	Cette tenue s'accompagne d'une poupée qui a été maudite en même temps qu'elle.
+c107_00	Masato_Teshigawara	Ses lunettes de soleil ne peuvent pas cacher le vide de ses pensées.
+c107_01	Étincelant_Apollon	La tenue de combat d'Apollon le danseur. Ses hanches n'arrêtent jamais de se trémousser.
+c107_02	Admirable_Apollon	La tenue de combat d'Apollon, danseur du soleil. Difficile de détourner le regard de... enfin, vous savez quoi.
+c110_00	Sakuma_Yoshihiro	Un fabricant d'ours en peluche renommé.
+c110_01	Insistant_Flins	Le style avant tout.\Cette tenue en cuir se veut très tendance.
+c110_02	Aventurier_Flins	Ne vous protégera pas du tout du froid.\Cette tenue en cuir témoigne d'une passion pour la mode.
+c110_10	Festif_Flins	Une tenue en cuir pour un homme tellement flamboyant qu'il fait fondre la neige de Noël.
+c112_00	Seiichiro_Kurusu	Méditer sur le sens de la vérité jusqu'au désespoir\est un signe de maturité.
+c112_01	Érudit_Elias	Une tenue de combat faite du désespoir d'Elias, le chercheur de vérité.
+c112_02	Savant_Elias	Une tenue de combat faite de la volonté d'Elias, le gardien de la sagesse.
+c113_00	Kayano_Mido	Une tenue portée par la passeuse de pacte d'un Child.
+c115_00	Shino_Tsurumaki	Le secret de ma peau douce et de mon teint parfait ? Mourir jeune !
+c115_01	Mélancolique_Sonnet	Quoi qu'elle puisse jouer, les spectateurs sont emplis\d'un profond chagrin.
+c115_02	Conciliante_Sonnet	Quoi qu'elle puisse jouer, les spectateurs ont envie\de fondre en larmes.
+c116_01	Perspicace_Pluton	L'uniforme de combat standard de Pluton.
+c117_00	Himiko_Kiba	Les jeunes sorcières font souvent des proies faciles pour les démons...
+c117_01	Loyale_Yaga	Une sorcière n'est rien sans son balai,\et vice-versa. Des questions ?
+c117_02	Diligente_Yaga	L'uniforme officiel des sorcières.
+c120_00	Tsubomi_Kisaragi	Dans le langage des fleurs, les belles-de-jour symbolisent une bonne nouvelle.
+c120_01	Verdoyante_Flore	La tenue de combat de Flore. Elle sent les fleurs sauvages.
+c120_02	Libre_Flore	La tenue de combat de Flore. Elle sent le printemps ensoleillé.
+c121_00	Norio_Nonomura	Si vous avez envie d'être seul,\essayez ce look de prodige musical mélancolique.
+c121_01	Nocturne_Muse	Les instruments servent à jouer de la musique, pas à se battre.
+c121_02	Retentissant_Muse	La tenue de combat de Muse, qui donne la classe\même si on ne sait jouer qu'en mi mineur.
+c122_01	Matérialiste_Samaël	L'uniforme de combat basique de Samaël.
+c122_02	Envieux_Samaël	La tenue de combat de Samaël, qui lui permet\d'utiliser pleinement ses pouvoirs naturels.
+c122_10	À oreilles de lapin_Samaël	Une tenue qui fait ressortir le charme caché de Samaël,\même si elle n'est pas fan.
+c123_00	Kaneko_Kaneda	Que faire quand votre chef vous poursuit avec un porte-voix ?
+c123_01	Créative_Baphomet	La tenue de Baphomet, qui ne se satisfait pas\de ce qui est ennuyeux, dépassé ou obsolète.
+c123_02	Encourageante_Baphomet	La tenue de Baphomet, qui cherche sans relâche\à repousser les limites de la mode.
+c124_00	_Ève	Si une jolie jeune fille vous demande son chemin, soyez aimable.
+c124_01	Édénique_Ève	Il n'y a bien qu'Ève qui peut être sexy en portant une jupe bouffante.
+c124_02	Pécheresse_Ève	Augmente la puissance, mais affecte le sens de l'orientation.
+c124_10	Cérulescente_Ève	La lumière froide de l'aube.\Un rêve de pétales de rose bleus.
+c125_00	Seiji_Sengoku	Un lycéen qui a le béguin pour la passeuse de pacte de Roussalka.
+c125_01	Comédien_Attis	La lame d'Attis, raffinée par un cœur pur.
+c125_02	Héros_Attis	Une épée sur laquelle Attis a juré son amour pour Roussalka.
+c125_10	Romantique_Attis	Mes sentiments n'ont pas changé, même si le chemin de l'amour est semé d'embûches !
+c125_89	Romantique_Attis	Rien ne pourra s'opposer à mon amour !
+c126_00	Momomi_Hoshida	Le sourire enjoué d'une jeune fille qui a surmonté\son premier chagrin d'amour.
+c126_01	Affectueuse_Salmacis	Une tenue de magicienne disponible dans tous les magasins de jouets.
+c126_02	Fervente_Salmacis	Une tenue réservée à Salmacis qu'aucun magasin de jouets ne peut égaler.
+c127_00	Natsuki_Oguri	La seule présence d'un chat illumine les journées pluvieuses.
+c127_01	Farouche_Bastet	Pourquoi est-ce que tout le monde fait comme si je n'étais pas là ?
+c127_02	Illusoire_Bastet	Avant de pouvoir porter cette tenue,\vous devez donner votre langue au chat.
+c127_10	Pharaonique_Bastet	La tenue de pharaonne de Bastet, tissée de fil d'or magique.
+c129_01	Honorable_Niké	La tenue standard de Niké.
+c130_00	Kagura_Maganuma	Avoir des cheveux blancs si jeune est le signe d'un grand talent musical.
+c130_01	Stratège_Génie	La tenue de combat de Génie, une musicienne sans égale.
+c130_02	Virtuose_Génie	La tenue de combat de Génie, une artiste perfectionniste.
+c131_00	Akihiko_Oda	La tenue portée du passeur de pacte d'Osiris.
+c131_01	Revenant_Osiris	La tenue de combat standard d'Osiris.
+c132_00	Akihiro_Oda	C'est la tenue idéale pour danser à toute heure de la journée.
+c132_01	Flegmatique_Midas	Une tenue pour Midas qui respire l'élégance raffinée.
+c132_02	Esthète_Midas	Une tenue de soirée pour Midas.
+c133_00	Ayaka_Mitsukuni	C'est une tenue de volleyball, pas de balle au prisonnier.
+c133_01	Décisive_Titania	Une tenue qui semble s'illuminer lorsque Titania la porte.
+c133_02	Victorieuse_Titania	La tenue de combat de Titania, la figure de proue autoproclamée\du concours du Roi des démons.
+c134_00	_Nakagawa Misaki	
+c135_00	Miori_Kaname	Une sœur cadette qui a une grande affinité avec les chats.
+c135_01	Guerrière_Valkyrie	La tenue de combat de Valkyrie, fière guerrière\qui ne se bat que pour vous.
+c135_02	Sauvage_Valkyrie	La tenue de combat de Valkyrie, fière guerrière\qui continue à se battre uniquement pour vous.
+c139_00	Shiho_Shinohara	Timide ou pas, pourquoi ne pas l'essayer ?
+c139_01	Florissante_Pomone	Pomone se cachait au milieu des pétales de fleur.
+c139_02	Secrète_Pomone	Pomone se cachait dans la forêt.
+c140_01	Gardienne_Nodens	La tenue standard de Nodens.
+c141_00	Yumi_Iteya	Une tenue empreinte du chagrin d'amour d'une brillante archère\qui a surpassé l'élu de son cœur.
+c141_01	Solitaire_Amor	La tenue de combat d'Amor, l'archère solitaire qui ne rate jamais son tir.
+c141_02	Unilatérale_Amor	La tenue de combat d'Amor, qui atteint toujours sa cible\face aux démons, mais pas en amour.
+c142_00	Ruiiko_Nejime	Avec ses cernes marqués, elle ressemble à s'y méprendre\à un certain démon de second plan.
+c142_01	Somnolente_Hypnos	On ne se serait pas déjà rencontrés dans un rêve ?
+c142_02	Rêveuse_Hypnos	On ne se serait pas déjà rencontrés dans un cauchemar ?
+c144_01	Ensorcelante_Médée	Une tenue qui transforme n'importe quelle écolière en sorcière.\Les enfants l'adorent !
+c147_00	Toji_Gonda	"Si vous avez la moindre question, je suis là."\Euh, merci, je ne fais que regarder...
+c147_01	Frénétique_Baal	La tenue de combat de Baal, qui semble prêt\à détruire tout ce qui lui tombe sous la main.
+c147_02	Sanguinaire_Baal	La tenue de combat de Baal, qui semble prêt\à tout réduire en poussière.
+c148_00	Juria_Kitazume	Les graffitis sont l'expression même de la liberté !\Ce sont pas des "gribouillages" !
+c148_01	Arlequine_Inanna	Pour une raison inconnue, cette tenue donne envie de poser la tête dessus.
+c148_02	Tyrannique_Inanna	L'exemple parfait du genre de tête à ne pas faire\quand on vous prend en photo.
+c149_00	Hideka_Ebina	Les jeunes enseignants sont toujours envoyés au front.
+c149_01	Indécise_Roussalka	Dans l'eau, on ne se perd jamais.
+c149_02	Contrite_Roussalka	Il n'existe pas de scène dans le monde\où Roussalka ne peut chanter.
+c152_00	_Hébé	Pour goûter aux meilleurs cocktails du coin, rendez-vous au Bar Replay.
+c153_00	Shiho_Shiozuka	Grâce à ces cartes, on pourrait aller n'importe où !
+c153_01	Aventureuse_Épona	En route pour les confins du Royaume infernal !\Avec le sac le plus léger possible !
+c153_02	Vagabonde_Épona	Où que j'aille, c'est là que se trouve mon chemin.\Où que je sois, c'est là ma destination !
+c154_00	Takashi_Taichi	Même un détective novice peut déduire beaucoup des vêtements d'une personne.
+c154_01	Austère_Thot	Un charme à couper le souffle.
+c154_02	Rigoureux_Thot	Un charisme à couper le souffle.
+c155_00	Kanae_Amane	La tenue portée par la passeuse de pacte d'Écho.
+c155_01	Chanteuse_Écho	La tenue classique d'Écho.
+c155_02	Groupe de filles_Écho	La formée éveillée d'Écho.
+c156_00	Kiriko_Kikyoutani	Une beauté mystérieuse qui donne l'impression d'avoir\été témoin de nombreux événements effroyables.
+c156_01	Autocratique_Élisabeth	La tenue de combat d'Élisabeth, l'aristocrate qui méprise le monde entier.
+c156_02	Impératrice_Élisabeth	La tenue de combat d'Élisabeth, l'impératrice qui donne des ordres aux démons.
+c158_00	Mikako_Kameuchi	J'ai envie de tomber amoureuse, pas de nager...
+c158_01	Onirique_Naïade	Si vous avez quelque chose en vue, il est temps de sortir les palmes !
+c158_02	Féérique_Naïade	Je viens de pêcher un homme charmant ! Ah non, c'était juste moi...
+c158_10	Neptunienne_Naïade	Une tenue magnifique\pour l'avide Naïade.
+c159_00	Royaume des mortels_Sémélé	La jupe bouffante violette de Sémélé la sournoise.
+c159_01	Aube_Sémélé	Une jupe rétro en cuir qui s'accorde avec la couleur des cheveux de Sémélé.
+c159_02	Petite démone_Sémélé	Une tenue démoniaque qui permet de totalement libérer le pouvoir de Sémélé.
+c161_01	Équitable_Justice	La tenue standard de Justice.
+c164_00	Nao_Shinonome	Serrez-moi fort et ne me lâchez pas, du haut de ma tête jusqu'au bout de mes orteils !
+c164_01	Captive_Ishtar	La tenue de combat d'Ishtar, prisonnière de son propre esprit.
+c164_02	Libre_Ishtar	La tenue de combat d'Ishtar, qui a enfin déployé ses ailes.
+c167_00	_Mei	Quand il s'agit de servir à manger, il faut être rapide !\Qui voudrait manger des raviolis froids ?
+c167_01	Lumineuse_Chang'e	La robe de Chang'e, qui n'a rien oublié du printemps que vous avez passé ensemble.
+c167_02	Nouvelle_Chang'e	La robe de Chang'e, qui rêve de passer le printemps avec vous.
+c167_10	Beauté nocturne_Chang'e	Jupe à cerises de Chang'e pour le printemps qui s'annonce. \Voilà donc Chang'e, après un hiver bien froid.
+c167_12	Ravissante_Chang'e	Une fleur blanche solitaire fleurit dans le froid de l'hiver.\Et au cœur des pétales, une enchanteresse de glace.
+c167_87	Ravissante_Chang'e	Une fleur blanche solitaire fleurit dans le froid de l'hiver.\Et au cœur des pétales, une enchanteresse de glace.
+c167_88	Nouvelle_Chang'e	La robe de Chang'e, qui rêve de passer le printemps avec vous.
+c169_00	Asuna_Kagamino	Un fragment de désir qui me ressemble un peu, mais dont le sourire est différent.
+c169_01	Heureuse_Euros	Je vous ai fait des chocolats.
+c169_02	Radieuse_Euros	J'ai mis tout mon cœur dans ces chocolats. J'espère que vous les mangerez...
+c172_00	Kasane_Karakasa	Je n'aime pas vraiment les bas quartiers, mais ces gens ont eux aussi besoin d'une lueur d'espoir, pas vrai ?
+c172_01	Rayonnante_Yuna	Cette jeune fille au grand cœur brille comme un rayon de soleil, même face aux démons.
+c172_02	Étincelante_Yuna	Cette jeune fille naïve brille comme les cieux, même face aux démons.
+c173_00	Reika_Takagi	Tempête et passion ! Les enfants tiennent à leur chocolat !
+c173_01	Petite_Daoine Sidhe	Armée et prête à s'amuser !
+c173_02	Cadette_Daoine Sidhe	Si vous voulez profiter de votre vie de démon, il va falloir vous activer !
+c173_10	Dangereuse_Daoine Sidhe	Une tenue que Daoine Sidhe porte uniquement pour sortir.\Remarquez les sucettes extrêmement dangereuses.
+c174_00	Décontractée_A.I	Sa tenue en dehors de la scène n'est pas du tout ce qu'on pourrait imaginer.
+c174_01	_A.I	La tenue de scène flamboyante d'A.I, reporter des Ténèbres.
+c174_02	Divergente_A.I	Une tenue de scène plus sombre pour A.I, la reporter intrépide qui se cache derrière son sourire.
+c174_11	Vacancière_A.I	
+c175_00	Yoshihiko_Ikariyama	Un agent de sécurité fortuné ? Quel métier inutile !
+c175_01	Gardien_Croix Rouge	La tenue de combat de Croix Rouge, faite d'un tissu élégant.
+c175_02	Sentinelle_Croix Rouge	La tenue de combat de Croix Rouge, faite d'un tissu sophistiqué.
+c176_01	Tapageuse_Eshu	Une tenue aux couleurs fluo portée dans les Ténèbres.
+c176_02	Trafiquante_Eshu	Une tenue aux couleurs laiteuses qui détonne dans les Ténèbres.
+c178_00	Reiko_Yukawa	La véritable intelligence brille en silence.
+c178_01	Chimérique_Morgane	Une tenue si légère qu'on a l'impression de ne rien porter !\Attention à ce qu'elle ne s'envole pas.
+c178_02	Fantastique_Morgane	Une tenue si confortable qu'on la croirait faite de vapeur !\Attention à ce qu'elle ne s'évapore pas.
+c180_00	Takao_Hozan	Ce n'est pas un sac à main, on appelle ça une sacoche.
+c180_01	Ambitieux_Mammon	Plus d'élégance ! Plus de splendeur !
+c180_02	Cupide_Mammon	Plus de splendeur ! Plus de glamour !
+c183_00	Tatsuko_Tamogami	Les vêtements de la miko évadée.\Sa tête est couverte, mais le bas...
+c183_01	Prédicatrice_Dana	Une tenue ailée pour la déesse dans votre vie.\Seules les élues peuvent la porter.
+c183_02	Proclamatrice_Dana	Une tenue sacrée pour la déesse dans votre vie.\Elle émet une aura qu'on ne peut qualifier que de "divine".
+c184_00	Tamae_Tatsunami	Pour les soupirs, il faudra payer un supplément.
+c184_01	Vagabonde_Élysée	Tout le monde sait qu'il vaut mieux mettre son maillot de bain avant de se baigner.
+c184_02	Paradisiaque_Élysée	De quoi a-t-on besoin pour prendre la mer en quête de liberté ?
+c185_01	Téméraire_Hermod	C'est le genre de personne qu'il vaut mieux ne pas rencontrer dans une ruelle sombre...
+c186_01	Maîtresse_Erebus	Un collier sur mesure servant à tenir\son féroce chien de garde en laisse.
+c186_02	Souveraine_Erebus	Son toutou adoré, Trésor, crache des flammes quand il est en colère, alors attention.
+c187_00	Sayori_Mizutani	La tenue portée par la passeuse de pacte de Thétis.
+c187_01	Triste_Thétis	La plus belle robe de Thétis, teinte d'un bleu profond.
+c187_02	Malheureuse_Thétis	Une robe réservée à Thétis, ornée de coraux et de perles.
+c187_89	Malheureuse_Thétis	Une robe réservée à Thétis, ornée de coraux et de perles.
+c188_00	Sachika_Tsuchida	Il suffit de porter cette tenue pour être pris d'une envie de justice.
+c188_01	Entreprenante_Atalante	Le marteau de la justice d'Atalante, conçu pour ne cibler que les malfaiteurs.
+c188_02	Célèbre_Atalante	Le marteau de la justice d'Atalante, conçu pour ne cibler que les démons maléfiques.
+c189_01	Captive_Kratos	Quelle est la différence entre cette tenue et celle d'un prisonnier ?\Ces rayures-ci sont verticales.
+c189_02	Désinvolte_Kratos	Je me demande si je réussirais à punir les succubes dans cette tenue...
+c190_00	Hiromi_Yuki	Elle a beau être chétive, elle n'a pas abandonné ses rêves.
+c190_01	Imitative_Isis	Cette charmante robe pour Isis fait un malheur.
+c190_02	Comédienne_Isis	Isis a gagné cette robe en récompense du prix de Novice de l'année.\Disponible dans tous les magasins.
+c191_00	Reina_Kubozuka	La tenue que Sekhmet porte uniquement pour son travail à mi-temps.
+c191_01	Destructrice_Sekhmet	La tenue décontractée de Sekhmet.
+c191_02	Furieuse_Sekhmet	La tenue de combat de Sekhmet... qui ressemble beaucoup à une tenue décontractée.
+c193_00	Exorciste en formation_Viroupa	Une exorciste dont le potentiel a été découvert par Caïn.
+c193_01	Exorciste_Viroupa	L'épée sacrée de l'exorciste Viroupa, qui protège des désirs matériels.
+c193_02	Virupaska_Viroupa	L'épée sacrée de l'exorciste Viroupa, qui tranche les mauvais esprits.
+c193_10	Tathagatagarbha_Viroupa	L'épée sacrée de Viroupa, fidèle aux enseignements bouddhistes, qui vient à bout du mal.
+c194_00	Reika_Kuroki	Une robe aux manches bouffantes qui donne la sensation de porter un nuage.
+c194_01	Blanche_Astarté	Robe blanche d'Astarté, conçue pour faire ressortir ses épées faites de ronces.
+c194_02	Immaculée_Astarté	Tenue de combat d'Astarté, une robe à fanfreluches d'un blanc immaculé.
+c195_00	Claire_Shishihara	Un lionceau perdu et une fillette en larmes,\les plus belles créatures du monde.
+c195_01	Princesse_Cybèle	N'éveillez pas la jeune fille qui dort avec son lion.
+c195_02	Ténébreuse_Cybèle	Portez ceci si vous avez envie de devenir dompteur de lions !
+c195_20	Claire_Shishihara	Un lionceau perdu et une fillette malheureuse,\les créatures les plus adorables du monde.
+c196_00	Yukimi_Shiratori	Mon genre, c'est plutôt les personnes ordonnées...
+c196_01	Florissante_Idunn	Des pommes sucrées, le fruit défendu.
+c196_02	Séduisante_Idunn	Une tenue faite sur mesure pour la belle Idunn.
+c198_00	Nao_Nara	Une tenue décontractée qui dissimule les idées noires.
+c198_01	Silencieuse_Zélos	Sur elle, une tenue débraillée paraît presque élégante... et dangereuse.
+c198_02	Traîtresse_Zélos	La tenue de combat de Zélos. Non, elle n'a pas oublié de la boutonner.
+c199_00	Hikaru_Nijihara	Une fille de la campagne avec des étoiles dans les yeux... et au-dessus de la tête.
+c199_01	Occidentale_Aurore	La tenue d'Aurore, qui brille comme une étoile.
+c199_02	Bienveillante_Aurore	La tenue d'Aurore, qui rayonne comme une nouvelle étoile.
+c200_00	Masami_Kajihara	La tenue décontractée de la brillante détective.
+c200_01	Vaillante_Seshat	La tenue de combat de Seshat, la brillante détective.
+c200_02	Enquêtrice_Seshat	La tenue de combat de Seshat, la brillante détective du Royaume infernal.
+c202_00	Shoko_Shoji	Démons, votre attention, s'il vous plaît !\Prenez garde à la fille qui porte une robe étrange !
+c202_01	Ambivalente_Victoriae	Elle est blanche pour vous ? Vraiment ?
+c202_02	Illusoire_Victoriae	Elle est bleue pour vous ? Vous avez peut-être besoin de lunettes...
+c203_01	Gardienne_Harmonia	Son fusil préféré est capable d'éliminer une cible de très loin en un seul tir.
+c203_02	Paisible_Harmonia	Ce terrifiant chien à trois têtes\n'obéit qu'à Harmonia.
+c203_88	Paisible_Harmonia	Le harcèlement des faibles est intolérable.\Même si la victime est un démon.
+c205_00	Yu_Yuki	Les seuls amis de ce jeune pleurnicheur sont dans ses jeux vidéo...
+c205_01	Surnaturel_Merlin	Vous avez obtenu la tenue de combat de Merlin !
+c205_02	Visiteur_Merlin	Vous avez obtenu la tenue de combat de Merlin, le légendaire magicien !
+c206_00	Décontractée_Jonas	Jonas pendant sa période de débauche à Harlem Street, avant sa reconversion en exorciste.
+c206_02	Téléphone_Jonas	Le pull à capuche de Jonas avec des oreilles adorables.
+c208_00	Kyosuke_Kaga	La tenue que porte généralement ce jeune homme fougueux.
+c208_01	Impétueux_Firo	La tenue de combat de Pyro, l'homme d'action.
+c208_02	Fougueux_Firo	La tenue de combat renforcée de Pyro, l'homme qui brûle de passion.
+c209_00	Fumika_Fuwa	Une jeune fille cultivée qui rêve de devenir bibliothécaire.
+c209_01	Songeuse_Hécate	La tenue de combat d'Hécate, la sorcière aux rêves démesurés.
+c209_02	Imaginaire_Hécate	La tenue de combat d'Hécate, la sorcière aveuglée par ses illusions.
+c210_00	Sumire_Koh	Grâce au roman fantastique que je viens de lire,\je sais maintenant ce que je veux faire plus tard.
+c210_01	Abyssale_Tartare	L'armure venue de l'abysse que porte Tartare.
+c210_02	Impératrice_Tartare	L'armure de Tartare, l'impératrice qui règne sur le Royaume infernal.
+c214_00	Masajuro_Hoshizaki	Il faut deux choses pour être un bon concierge :\une passion indéfectible et un haut-de-forme.
+c214_01	Expérimentateur_Jupiter	Il faut deux choses pour être un parfait gentleman :\un costume élégant et une mallette remplie de secrets.
+c214_02	Despotique_Jupiter	Il faut deux choses pour être un parfait gentleman :\un haut-de-forme à l'ancienne et une remplie de secrets.
+c214_10	Parieuse_Jupiter	Les secrets de sa série de victoires ininterrompue sont cachés dans cette dangereuse mallette.
+c215_00	Immature_Surt	Un poncho fait main par Surt, qui vient du sud.
+c216_00	Mayo_Ogata	Passeuse de pacte de Louve-Garou. Superstar du cirque.
+c216_01	Clair de lune_Louve-Garou	Louve capable de se fondre dans l'obscurité.
+c216_02	Samain_Louve-Garou	Louve-Garou est passée la nuit où elle s'est éveillée à sa nature animale.
+c218_00	Royaume des mortels_Alf	La tenue portée par la passeuse de pacte du Child Alf.
+c218_01	Repue_Alf	Cette tenue contient tout l'amour d'Alf. Elle donne le sourire à quiconque la porte.
+c218_02	Heureuse_Alf	Cette tenue sur mesure porte le vœu d'Alf de trouver le mari idéal.
+c219_00	Hikawa_Ryou	Un jeune homme d'affaires calme et serein.
+c219_01	Lame glacée_Ymir	Une lame de glace, représentant les émotions d'Ymir.
+c219_02	Psychopathe_Ymir	Ce Child au tempérament glacial est un véritable psychopathe.
+c220_00	Mutsumi_Mugikura	Sur le court, c'est chacun pour soi !
+c220_01	Intrépide_Atropos	La tenue de combat d'Atropos, qui court droit vers la victoire.
+c220_02	Assaillante_Atropos	La tenue de combat d'Atropos, qui fonce tête baissée pour être la meilleure.
+c221_00	Kii_Yanagawa	Ne t'en fais pas, ce n'est pas mon sang.
+c221_01	Chasseresse_Jana	Le fruit de mon imagination est devenu réalité ! La tenue de combat de Jana, tout droit sortie de l'imagination d'une lycéenne.
+c221_02	Phalène_Jana	La tenue de Jana l'épéiste.\Les papillons noirs symbolisent le dieu de la pestilence...
+c222_00	Kaya_Kanebuchi	J'achète toujours de la marque, même si ça ne me va pas.
+c222_01	Enchanteresse_Eldorado	Une tenue constituée à 49,9 % d'or et faite sur mesure pour Eldorado.
+c222_02	Majestueuse_Eldorado	Une tenue constituée à 99,9 % d'or et faite sur mesure pour Eldorado.\Il faut en être digne pour la porter.
+c223_00	Résidente aquatique_Asari	Une jeune fille timide qui rêve de voyager à travers le monde.\Elle est partie à l'étranger après avoir passé un pacte.
+c223_01	Courant de rivière_Air	Une voyageuse qui se laisse porter comme une feuille dans le courant.
+c223_02	Eaux calmes_Air	Une nomade qui erre en permanence sous les eaux.
+c224_00	Royaume des mortels_Loki	
+c224_01	Prince_Loki	La tenue de combat de Loki, le prince sombre. Il garde toujours ses cartes et ses complots près de son cœur.
+c224_02	Sombre conspiration_Loki	
+c225_00	Travailleur_Rudolphe	La tenue (secrète) qu'il porte pour son travail de Noël.
+c225_01	Indésirable_Rudolphe	La tenue de travail de Rudolphe le fuyard. Ce ne sont pas des cadeaux qu'il transporte dans son sac.
+c225_02	Chapardeur_Rudolphe	La tenue de travail de Rudolphe le voleur. Ses ailes l'empêchent de porter autant de choses qu'avant.
+c226_01	Brutal_Ragnar	La tenue standard de Ragnar.
+c227_00	Mai_Domeki	Tant que j'ai la matraque et l'uniforme de policier de papa, je n'ai peur de rien.
+c227_01	Intransigeante_Mafdet	La tenue de combat de Mafdet. Même si on n'a rien fait de mal, son regard noir donne des sueurs froides.
+c227_02	Autoritaire_Mafdet	La tenue de combat de Mafdet. Elle vise mieux sans ses lunettes de soleil.
+c228_00	Shimizu_Oliver	Une baguette qu'elle a emportée en partant de France.\Personne ne connaît sa date d'expiration.
+c228_01	Volubile_Vivian	Une tenue de combat pour Vivian, grande amatrice de thé.\Son thé est bien plus chaud qu'on pourrait le penser.
+c228_02	Couverte_Vivian	Un chapeau spécialement fait pour elle, car elle déteste le soleil.\Elle ne l'enlève jamais.
+c229_00	_Berry	La nuit, les souris écoutent tout ce que vous dites. La journée aussi, d'ailleurs.
+c229_01	Informatrice_Brownie	La tenue à marinière de Brownie l'informatrice.
+c229_02	Livreuse_Brownie	La tenue à marinière spéciale de Brownie la livreuse.
+c229_10	Postale_Brownie	Je m'appelle Brownie, et je détiens toutes sortes d'informations !\Lettres d'amour, infos sur la vie privée des autres, scandales, points faibles... Pas mal, hein ?
+c230_00	Eiko_Utsugi	Les uniformes à marinière des écolières renferment la clé de la destruction de l'univers...
+c230_01	Infortunée_Skuld	La tenue de combat de Skuld, maudite par le destin.
+c230_02	Tragique_Skud	La tenue de combat de Skuld, 100 % plus visible.
+c231_00	Immature_Rhea Silvia	Je peux séduire le démon grâce au parfum des roses bleues.
+c231_01	Séduisante_Rhea Silvia	L'inébranlable détermination d'une fille cachée sous son doux plumage.\Elle émane un parfum bleu terrifiant.
+c231_02	Tentatrice_Rhea Silvia	Les idéaux captivants d'une fille qui déploie ses ailes noires pour prendre son envol.
+c231_10	La formidable_Rhea Silvia	Costume spécial de Rhea Silvia, qui s'apprête à devenir une formidable mère.
+c232_00	Kanon_Kameike	Impossible de dissimuler la beauté de cette pop star sous un chapeau.
+c232_01	Fantastique_Daphné	Dans une lointaine utopie, cette tenue fait fureur.
+c232_02	Utopique_Daphné	La vision utopique d'une déesse à la robe immaculée...
+c233_00	Azusa_Aoi	La tenue à porter quand on va à la plage.
+c233_01	Électrique_Argès	La tenue de combat d'Argès. Ne la regardez pas comme ça !
+c233_02	Foudroyante_Argès	La tenue de combat d'Argès. Mais qu'est-ce qu'elle a renversé dessus ?
+c234_00	Goro_Godai	Hé, c'est un démon ! Ou peut-être pas ?
+c234_01	Militant_Hercule	La tenue de combat d'Hercule, le guerrier antique.
+c234_02	Triomphant_Hercule	La tenue de combat d'Hercule, le guerrier de Sparte.
+c235_00	Tomoka_Togashi	La tenue décontractée de l'incroyable détective.
+c235_01	Explosive_Danu	La tenue de Danu l'égocentrique.\Ne la touchez pas si vous tenez à ne pas être brûlé.
+c235_02	Antihéroïne_Danu	La tenue de Danu, guerrière peu conventionnelle.
+c237_00	Royaume des mortels_Typhon	Typhon le démon, transformé en humain.
+c237_01	Festival_Typhon	Un costume blanc crème de style gothique, parfait pour l'atmosphère d'Halloween.
+c237_02	Samain_Typhon	Un costume d'Halloween d'un noir de jais digne de la nuit de Samain.
+c238_00	_Medb	La tenue décontractée que Medb porte pour passer inaperçue dans le Royaume des mortels.
+c238_01	Harmonieuse_Medb	La tenue de pop star de Medb, pleine de froufrous\pour un style d'Halloween adorable.
+c238_02	Espiègle_Medb	Cette tenue pour Medb qui rappelle l'allégresse d'un groupe d'enfants le jour d'Halloween.
+c238_10	Samain_Medb	La star d'Halloween est là pour fêter le jour préféré des démons ♪
+c239_01	Nocturne_Dianus	Il ne serait pas exagéré\de dire que le bazooka est un autre Dianus.
+c239_02	Soleil de minuit_Dianus	Une roquette vaut mille mots !
+c239_10	Sucre_Dianus	Un costume spécial porté pour la Saint-Valentin.\Il inclut un bazooka fait en chocolat.
+c241_01	Inframonde_Orcus	
+c242_00	Mortelle_Ailill	La démone Ailill, déguisée en jeune fille humaine.
+c242_01	Magicienne_Ailill	La tenue de magicienne d'Ailill la menteuse.
+c242_02	Fanfaronnante_Ailill	La tenue de parade du groupe d'encouragement d'Ailill.
+c246_00	_Fée de Noël	Une fée de Noël qui est apparue comme par enchantement un certain jour de Noël.
+c246_01	Sournoise_Krampus	Portez ce bonnet pour devenir le Père Noël !
+c246_02	Trompeuse_Krampus	La véritable forme de Krampus. Rien de choquant, franchement.
+c246_10	Cauchemardesque_Krampus	Joyeux Noël, faites de beaux cauchemars !
+c246_11	Vilaine_Krampus	Une démone de Noël venue gâcher les festivités !
+c246_88	Cauchemardesque_Krampus	Joyeux Noël, faites de beaux cauchemars !
+c246_89	Vilaine_Krampus	Une démone de Noël venue gâcher les festivités !
+c247_00	Miriya_Misaki	La passeuse de pacte de Myrina,\élégante avec son uniforme de marin et sa jupe plissée.
+c247_01	Glorieuse_Myrina	La glorieuse robe royale de Myrina.
+c247_02	Autocratique_Myrina	La robe de cérémonie de Myrina,\digne d'une vraie souveraine.
+c250_01	Sous-marine_Xenie	Elle lance un sourire taquin\dans votre direction.
+c250_02	Esprit de l'eau_Xenie	Xenie s'amusait tellement qu'elle n'a pas\fait attention aux coups de soleil.
+c250_88	Esprit de l'eau_Xenie	Attention où vous marchez quand Xenie est là.
+c251_01	Ermite_Ganymède	L'uniforme de combat standard de Ganymède.
+c252_00	Décontractée_Arhat	Une tenue décontractée que l'exorciste Arhat porte dans le monde profane.\C'est une tenue élégante et charmante.
+c252_01	Exorciste_Arhat	Le blanc représente un esprit libre de toute inquiétude et toute angoisse.
+c252_02	Altruiste_Arhat	L'attaque de la paume de la main d'Arhat pour châtier le mal.
+c252_10	_Suhana	Le corps d'une jeune fille contenant l'esprit transmigré d'Arhat.
+c252_11	Kumari_Suhana	Une jupe rouge portée par l'incarnation de la déesse.
+c252_12	Naïve_Arhat	
+c252_13	Innocente_Arhat	Elle n'a plus rien à apprendre et c'est pourquoi elle enseigne tout ce qu'elle sait.
+c252_88	Altruiste_Arhat	Nos ennemis jurés seront éradiqués sans exception.
+c252_89	Exorciste_Arhat	Que soit sauvée l'humanité, que tous les désirs impies soient détruits.
+c253_01	Sainte_Nicole	La tenue de travail de Nicole. Les cadeaux sont choisis au hasard.
+c253_02	Sainte_Nicole	Une tenue de Noël pour distribuer des cadeaux.\Tout le monde est gagnant !
+c253_10	Féérique_Nicole	Une tenue de combat pour Nicole, arrivée le soir de Noël comme messagère de Dieu.
+c253_89	Féérique_Nicole	Qu'est-ce que c'est ? Vous voulez un cadeau ? Mmh, que faire... \Le seul cadeau que j'ai pour les démons, c'est le fouet de l'amour.
+c254_01	_Davi	0
+c254_02	_Child inconnu	
+c255_01	Prologue_Mona	0
+c256_01	_Lisa	0
+c257_01	Chef de colonie_Kalhos	Vous avez découvert ce costume de Kalhos dans un abîme encore plus profond que le Royaume infernal.
+c257_02	Chef de colonie_Kalhos	La tenue de Kalhos est imprégnée de tradition et des secrets du Royaume infernal.
+c258_01	Créative_Pixie	Une tenue ailée pour la Pixie née de l'imagination.
+c258_02	Idéaliste_Pixie	Une tenue ailée pour la Pixie née des idéaux.
+c261_01	Paradis_Sarasu	La dame du jardin de fleurs du paradis, qui possède le pouvoir de résurrection.\Elle est l'incarnation même de ce jardin.
+c261_02	Vérité_Sarasu	Jadis, elle était une démone capable de distinguer la vérité du mensonge.
+c262_00	Kitagawa_Midori	La tenue d'écolière de la passeuse de pacte de Daphnis, rehaussée par des chaussures vernies.
+c262_01	Chevalier_Daphnis	Déterminée, elle prend les armes pour protéger celui qu'elle aime.\L'incarnation même d'une héroïne grecque.
+c262_02	Vaillante_Daphnis	Un chevalier vaillant s'avance vers l'ennemi pour protéger ses liens précieux.
+c262_88	Vaillante_Daphnis	
+c265_01	SD_Mona	
+c266_00	_Horus	Le démon Horus, déguisé en humain.
+c266_01	Désert_Horus	Tenue réservée à Horus, qui ne craint ni le soleil ni la chaleur.
+c266_02	Râ_Horus	Tenue de combat pour Horus, inspirée du dieu du Soleil.
+c267_00	Reine du Nil_Cléopâtre	Cléopâtre, celle qui régna autrefois sur toute l'Égypte.
+c267_01	Transmigration_Cléopâtre	Tenue pour Cléopâtre, qui tient compte des goûts d'Horus.
+c267_02	Pharaonne_Cléopâtre	Tenue de pharaonne, qui symbolise l'autorité de Cléopâtre.
+c267_10	Soleil_Cléopâtre	Cléopâtre bénéficie de la protection des obélisques.
+c267_89	Soleil_Cléopâtre	Cléopâtre bénéficie de la protection des obélisques.
+c269_01	Chaotique_Pixie	Une tenue ailée pour la Pixie née du chaos.
+c269_02	Cosmique_Pixie	Une tenue ailée pour la Pixie née du cosmos.
+c270_01	Lumineuse_Pixie	Une tenue ailée pour la Pixie née de la lumière.
+c270_02	Éblouissante_Pixie	Une tenue ailée pour la Pixie née de la lumière aveuglante.
+c271_01	Silencieuse_Pixie	Une tenue ailée pour la Pixie née du silence.
+c271_02	Aquatique_Pixie	Une tenue ailée pour la Pixie née des océans.
+c272_01	Verdoyante_Pixie	Une tenue ailée pour la Pixie née des bourgeons.
+c272_02	Sylvaine_Pixie	Une tenue ailée pour la Pixie née des forêts luxuriantes.
+c274_00	_Bast	Tenue de soirée pour Bast !
+c274_01	Mélodieuse_Bast	Costume taillé pour Bast, relatant ses brumeux souvenirs de félin.
+c274_02	Hurlante_Bast	Tenue pour Bast, imitant Cléopâtre.
+c275_00	Miyu_Torii	Ancienne membre d'un groupe de pop-stars, \elle est désormais la chanteuse principale d'un groupe de rock indépendant.
+c275_01	Fugitive_Harpie	Voilà à quoi ressemble Harpie la hors-la-loi.\Contactez l'aspirant démon dès que vous l'apercevez !
+c275_02	Évadée_Harpie	Harpie s'est échappée de sa prison !\Ne vous approchez pas de cette évadée !
+c277_00	_Leucé	La tenue décontractée de Leucé, qui rêve de calme et de solitude.
+c277_01	Subalterne_Leucé	La tenue portée par Leucé à ses débuts dans la société.
+c277_02	Partenaire_Leucé	La tenue de Leucé une fois qu'elle a été soumise la dure réalité de la vie en société.
+c278_01	Modifiée_Hel	Un uniforme personnalisé pour Hel l'androïde.
+c278_02	Prototype_Hel	Un uniforme modifié pour Hel l'androïde.
+c279_01	Sur mesure_Laufey	Costume sur commande de Laufey androïde.
+c279_02	Personnalisée_Laufey	Costume personnalisé de Laufey androïde.
+c279_88	Personnalisée_Laufey	Quelle impolitesse.\Je vais t'apprendre les bonnes manières.
+c279_89	Sur mesure_Laufey	Oh, quel étrange visiteur.\Bienvenue ! Merci d'être là.
+c280_01	Innocente_Tyché	Allez, on joue ?
+c280_02	Rêveuse_Tyché	Explorons les rêves ensemble !
+c281_00	Sonoda_Hikari	À la recherche du paradis où brille mon propre soleil...
+c281_01	Fuyarde_Thisbé	La tristesse d'une jeune femme, dissimulée par une capuche noire.
+c281_02	Labyrinthienne_Thisbé	Les fleurs du paradis sont plus belles que celles-ci.
+c283_00	Chikako_Nagihara	Uniforme des employées du Café de Petit.
+c283_01	Soubrette_Morgen	Un uniforme de soubrette que Verdelet a confectionné sur mesure pour Morgen.
+c283_02	Domestique_Morgen	Un uniforme de domestique qui brille lorsque Morgen est à côté de Verdelet.
+c283_10	Servante Loyale_Morgen	La tenue de combat de Morgen, qui n'a qu'un seul maître.
+c283_12	Domestique Classique_Morgen	Tenue de combat pour Morgen le fidèle,\qui ne sert qu'un seul maître.
+c283_89	Servante Loyale_Morgen	La tenue de combat de Morgen, qui n'a qu'un seul maître.
+c285_01	Initiateur_Natalis	Protectrice du champ de bataille, Natalis se démarque par son aura majestueuse.
+c285_02	Révélateur_Natalis	Les joyaux dont Natalis se pare font tous partie de sa collection personnelle.
+c285_10	Guide_Natalis	La tenue de Natalis, celle d’un guide menant les âmes vers la gloire.
+c285_11	Guerre et chance_Natalis	Héros infernaux.\Levez la tête et contemplez Natalis, déesse de la chance et de la guerre.
+c286_00	_Verdelet	Le propriétaire du Café de Petit.
+c286_01	Serveur_Verdelet	Le costume impeccable de Verdelet.
+c286_02	Majordome_Verdelet	La tenue de combat de Verdelet,\à votre service.
+c287_00	Futaba_Hikaru	Une apprentie danseuse prometteuse\portant une tenue d'entraînement.
+c287_01	Danseuse_Salomé	La tenue de danseuse de Salomé, éblouissante de beauté.
+c287_02	Dynamique_Salomé	La tenue de danseuse de Salomé, qui mène les âmes à la tentation.
+c287_88	Dynamique_Salomé	La tenue de danseuse de Salomé, qui mène les âmes à la tentation.
+c287_89	Danseuse_Salomé	La tenue de danseuse de Salomé, éblouissante de beauté.
+c289_00	_Durandal	Son apparence dans le Royaume des mortels, copiée sur celle de Rufus.
+c289_01	Illusoire_Durandal	Tenue de combat de Durandal, à l'indéfectible dignité en toutes circonstances.
+c289_02	Cauchemar_Durandal	Tenue de combat de couleur cendre qui optimise la puissance de Durandal.
+c289_10	Puissante lame_Durandal	Tenue de combat pour Durandal, qui sème la terreur chez les démons.
+c290_00	Royaume des mortels_Brigit	Brigit, après s'être transformée en fillette pour conserver sa magie.
+c290_01	Éclatante_Brigit	Rose écarlate qui fleurit dans le Royaume infernal. \Robe de roses de Brigit, d'un pourpre profond.
+c290_02	Écarlate_Brigit	Rose rouge-sang qui fleurit de plaisir. \Robe de bal de Brigit qui resplendit de beauté.
+c292_00	_Luine	« En garde ! » Armure et sabre de bambou que Luine utilise au kendo.
+c292_01	Pieuse_Luine	Cette calme silhouette est si sombre qu'on dirait une ombre.
+c292_02	Lance de vengeance_Luine	Cette fluide soie rouge prouve l'indéfectible fidélité de Luine.
+c294_00	Hanazono_Sayoko	Le cliché de la déléguée de classe qui fait respecter le règlement de l'école, quelle que soit sa sévérité.
+c294_01	Dame_Báthory	Une robe gothique débordant d'élégance pour Báthory.
+c294_02	Sanglant_Báthory	Une tenue habillée pour Báthory, plus sombre que la nuit.
+c294_10	Venimeuse_Báthory	Le serpent noir se nourrit de la peine et de la colère.\Il lève sa tête sur son corps enroulé.
+c295_00	Asagiri_Thérésa	La veste d'uniforme de l'école pour filles Saint Michael lui va à ravir.
+c295_01	Songeuse_Inconnue	Inconnue tombée dans un sommeil sans fin. \Quels rêves peut-elle bien faire ?
+c295_02	Silencieuse_Inconnue	Inconnue affichant un sourire. \Elle pourrait se réveiller plus tôt qu'on ne le pense...
+c296_00	Rei_Kurashiki	L'étui contient un fusil antimat... euh, un violoncelle tout à fait ordinaire.
+c296_01	Tireuse_Hildr	La tenue de soubrette d'Hildr. Elle est assortie à son fusil antimatériel.
+c296_02	Sniper_Hildr	Parée au combat ! Vous a-t-elle dans le viseur ?
+c299_00	_Père Noël	Le costume que porte le Père Noël pour son emploi à temps partiel. Il échange des cadeaux contre des âmes.
+c299_01	Mémorable_Père Noël	Oui, le Père Noël est habillé en bleu.\Il a bien le droit de porter autre chose que du rouge, non ?
+c299_02	Satanique_Père Noël	Le Père Noël tout de noir vêtu. À la place des cadeaux, il distribue des cauchemars ! Super !
+c300_00	Solutionneuse_Tio	Spécialiste de la résolution de problèmes vivant dans le Souterrain sous les traits d'une servante.
+c300_01	Estimable_Pietas	L'habit fait le soldat. Une tenue de domestique de combat pour la spécialiste de la résolution de problèmes.
+c300_02	Loyale_Pietas	Une vraie professionnelle a toujours un tablier impeccable !
+c301_01	Indomptable_Jacheongbi	Armes à feu rétro de Jacheongbi la guerrière.
+c301_02	Rebelle_Jacheongbi	Armes à feu hi-tech de Jacheongbi la guerrière.
+c302_00	Kuroi_Akira	
+c302_01	Obscur_Atum	
+c305_01	Guide_Rita	La tenue de baptême de Rita.\Sa jupe bouffante s'inspire des cloches d'église.
+c305_02	Sainte_Rita	Cette adepte des forces obscures ne craint\pas les crocs maléfiques qui s'approchent en silence.
+c305_10	Impénitente_Rita	Aucun retour en arrière n'est possible.\Le parfum merveilleux du paradis n'est plus qu'un rêve.
+c305_89	Impénitente_Rita	Aucun retour en arrière n'est possible.\Le parfum merveilleux du paradis n'est plus qu'un rêve.
+c308_00	Royaume des mortels_Kubaba	Costume noir d'encre de Kubaba, directrice de l'École pour filles Saint Michel.
+c308_01	Cavalière_Kubaba	Kubaba, endurcie par un nombre incalculable de combats, et sa moto préférée.
+c308_02	Vengeresse_Kubaba	On accélère !\Quand on ne suit pas le rythme, on est laissé pour compte !
+c308_10	Rapide_Kubaba	Kubaba, brûlant de sa soif de vengeance, et sa moto grondante.
+c310_00	Takanashi_Kana	Vous avez marché dans une flaque ? Pas grave ! \Bès a le ciré et les bottes de sa passeuse de pacte.
+c310_01	Printemps_Bès	Bès sur son coussin tout doux, en train de rêvasser, comme toujours.
+c310_02	Floraison_Bès	Bès sur son coussin moelleux, entourée de fleurs de printemps.
+c311_00	_Khépri	La mini-jupe de Khépri, caractérisée par le contraste entre le noir et le blanc.
+c311_01	Ténébreuse_Khépri	La combinaison de Khépri. Ses couleurs dominantes symbolisent la lumière et l'obscurité.
+c311_02	Impitoyable_Khépri	La forme ultime de l'implacable Khépri.
+c311_10	Chilling_Khepri	Le costume de Khepri pour des vacances après la chasse.\Conçu dans un souci de commodité.
+c311_89	Impitoyable_Khépri	La forme ultime de l'implacable Khépri.
+c312_00	Ichigo_Ihara	Une lycéenne timide qui suit une formation pour devenir pâtissière.
+c312_01	Cynique_Tyrving	Les couteaux servent uniquement à couper les gâteaux à la crème de Tyrving.
+c312_02	Maudite_Tyrving	Les couteaux servent uniquement à couper les gâteaux à la fraise de Tyrving.
+c314_01	Débutante_Mona	0
+c315_01	Alchimiste_Mathusalem	Le manteau de Mathusalem. Idéal pour les longs voyages.
+c315_02	Chercheur_Mathusalem	Le manteau de voyage de Mathusalem.
+c315_10	Élégant_Mathusalem	Le costume immaculé de Mathusalem.\Il le porte généralement pour les grandes occasions.
+c315_89	Bien habillé_Mathusalem	Trench-coat très classe de Mathusalem.
+c316_00	Royaume des mortels_Odin	La démone Odin, déguisée en jeune fille humaine.
+c316_01	Alchimiste_Odin	La tenue d'Odin, à la tête du Laboratoire de la renaissance,\qui peut donner aux Childs et aux démons l'apparence dont ils rêvent.
+c316_02	Chercheuse_Odin	La tenue d'Odin l'alchimiste, toujours en quête de beauté transcendantale.
+c317_00	Père_Babila	Vêtement de curé tapageur contrastant beaucoup avec un comportement serein.
+c317_01	Hypocrite_Babel	Âme sombre cachée derrière un beau sourire.
+c317_02	Faux prophète_Babel	Uniforme gris perle inapproprié à une âme si noire.
+c318_01	Religieuse_Bari	Costume traditionnel de prière de Bari.
+c318_02	Pieuse_Bari	Costume traditionnel de Bari pour laisser le destin la guider.
+c318_10	Équinoxiale_Bari	Costume de Bari, qui a été incitée par les voix des morts à passer une porte infranchissable.
+c318_11	Fée des morts_Bari	Écoutez...\Entendez-vous les hurlements des morts, juste derrière vous ?
+c318_12	Guide spirituelle_Bari	Un costume traditionnel pour Bari, qui guide les morts.
+c318_89	Équinoxiale_Bari	Costume de Bari, qui a été incitée par les voix des morts\à passer une porte infranchissable menant au monde des vivants.
+c319_00	_Salican Doryeong	Je n'habite pas quelque petite bourgade...\Je viens du Royaume infernal.
+c319_01	Réincarné_Salican Doryeong	Kimono bleu de Salican Doryeong lorsqu'il répète en boucle le cycle de la vie et la mort.
+c319_02	Gardien_Salican Doryeong	Kimono bleu de Salican Doryeong, gardien de la fleur d'Hadès.
+c321_01	Céleste_Luna	Une robe et des chaussures couleur perle, spécialement conçues pour Luna.
+c321_02	Chasseresse_Luna	Une robe faite sur mesure pour Luna,\accompagnée d'un châle de dentelle rouge.
+c324_01	Néophyte_Mona	Une tenue fringante portée par Mona au début de sa carrière d'assistante.
+c324_02	Novice_Mona	Une tenue adorable portée par Mona au début de sa carrière d'assistante.
+c324_21	Frêle_Mona	Un costume pour Mona.
+c329_01	Pilote_Davi	Une tenue qui aide tout pilote à surmonter les dangers du circuit.
+c329_02	Outsider_Davi	Une version améliorée de la tenue personnalisée de l'île d'Amos.
+c332_01	Indépendante_Ganesha	Robe d'exorciste officielle que porte Ganesha quand elle part en quête de richesses\La classe !
+c332_02	Nandikesvara_Ganesha	Robe d'exorciste d'une Ganesha très heureuse.\Curieusement, c'est aussi une tenue officielle.
+c333_00	Exorciste en formation_Déborah	Une mini robe blanche en édition limitée.
+c333_01	Exorciste_Déborah	Une tenue de combat adaptée aux exigences de Déborah.
+c333_02	Captivante_Deborah	Une tenue de combat personnalisée pour la noble Déborah.
+c333_88	Captivante_Deborah	Vous avez blasphémé le nom du Seigneur ! Pensiez-vous que je vous le pardonnerais ?
+c334_01	Onirique_Lisa	Les ailes de Lisa se déploient pendant qu'elle essaie de récupérer le précieux trésor qu'elle a perdu.
+c334_02	Désabusée_Lisa	L'épée de Lisa scintille et sa volonté de remettre la main sur son précieux trésor illumine le monde.
+c335_01	Pouvoir inégalé_Hathor	Hathor est une descendante du Minotaure.\Sa force monstrueuse est fascinante.
+c335_02	Extinction_Hathor	Une tenue pour un combat qu'elle ne peut pas se permettre de perdre.\Moins elle couvre, plus elle protège.
+c335_10	Victoire assurée_Hathor	Une tenue qui garantit la victoire grâce à son impact psychologique.\Elle doit avoir 19 ans pour la porter.
+c336_01	Champ_Pan	Robe aux couleurs printanières pour Pan, qui surveille les champs.
+c336_02	Mouton_Pan	Robe argentée scintillante, couverte de fleurs printanières.
+c336_89	Champs_Pan	Au nom de la paix, je vous protègerai.
+c337_01	Mascotte_Freyja	Avec ce costume à froufrous,\j'ai le miaounopole de la choutitude !
+c337_02	Sprinteuse_Freyja	Un uniforme spécial pour Freyja,\idéal pour courir.
+c338_01	Immaculée_Pomone	La robe blanche immaculée de Pomone, telle une fleur épanouie.
+c338_02	Nuptiale_Pomone	La robe blanche immaculée de Pomone, telle une fleur magnifique.
+c339_01	Ambivalente_Davi	Une autre Davi. Son cœur déteste Mona.
+c339_02	Divisée_Davi	Une autre Davi. Elle arbore couleurs préférées de Mona.
+c342_01	Éclosion de plumes_Yami	Les plumes bordeaux de Yami se déploient\en libérant une odeur sucrée.
+c342_02	Fantômatique_Yami	On peut entendre les ailes de Yami battre\dans l'abondance de fleurs rouges des abîmes du Royaume infernal.
+c342_11	Odeur sombre_Yami	À l'instant où elle libère son pouvoir magique caché,\une odeur riche et envoûtante se déploie.
+c343_01	Épée solitaire_Tiamat	Une robe pour Tiamat, qui découpe en morceaux tout ce qu'elle voit.
+c343_02	Cinglante_Tiamat	Une robe pour la tyrannique Tiamat, qui agite impitoyablement sa lame.
+c344_01	Opaline_Isolde	Le bikini trois-pièces au style marin d'Isolde,\la star de Scandale estival.
+c344_02	Baigneuse_Isolde	La chaleur de l'été ne vous ratera pas !\Ce bikini pour Isolde vise directement votre cœur.
+c344_10	Torride_Isolde	Vous croyez pouvoir y résister ?\Isolde vous met au défi d'affronter l'épine ultime !
+c344_11	Ensorcelante_Isolde	Un bikini ensorcelant pour Isolde\qui sort tout droit d'un rêve.
+c344_89	Torride_Isolde	Vous croyez pouvoir y résister ?\Isolde vous met au défi d'affronter l'épine ultime !
+c345_01	Ténébreuse_Anémone	Un maillot de bain à la pointe en termes\de mode et de protection contre les UV.
+c345_02	Somptueuse_Anémone	Un somptueux bikini en dentelle pour Anemone.
+c345_10	Radieuse_Anémone	Un maillot de bain blanc pour Anemone,\ce n'est pas le soleil qui vous fera transpirer à la plage.
+c345_11	Passion ardente_Anemone	Un magnifique maillot de bain pour Isolde\qui sort tout droit d'un rêve.
+c345_87	Passion ardente_Anemone	Un magnifique maillot de bain pour Isolde\qui sort tout droit d'un rêve.
+c345_88	Somptueuse_Anémone	Un somptueux bikini en dentelle pour Anemone.
+c345_89	Radieuse_Anémone	Un maillot de bain blanc pour Anemone,\ce n'est pas le soleil qui vous fera transpirer à la plage.
+c346_01	Colossal_Tristan	Tristan 400 % plus musclé à cause des effets indésirables du ConverSoda.
+c346_02	Solitaire_Tristan	La tenue estivale de Tristan.\Pour une raison inconnue, cette forme fait disparaître toute motivation.
+c347_01	Prophétesse_Dana	Les habits d'une déesse alors qu'elle n'était encore qu'une prophétesse.
+c347_02	Messie_Dana	Les habits d'une déesse revenue parmi nous une seconde fois.
+c348_00	Apprentie_Mars♥	La tenue d'apprentie de Mars♥.
+c348_01	Jolie_Mars♥	Il ne faut pas oublier de répéter !\Chaque jour plus près de la pop star parfaite !
+c348_02	Mimi_Mars♥	Toujours au centre de l'attention !\Les fans sont captivés par cette performance incroyable !
+c348_10	Romantique_Mars♥	La tenue de scène super mimi\de Mars♥ la romantique ♥
+c349_00	Apprentie_Saturne♥	La tenue d'apprentie de Saturne♥.
+c349_01	Mystérieuse_Saturne♥	À peine née, cette pop star se démarque déjà !
+c349_02	Stellaire_Saturne♥	Elle brille plus fort que quiconque au concert, rien que pour Maestro !
+c350_00	Apprentie_Neptune♥	La tenue d'apprentie de Neptune♥.
+c350_01	Travailleuse_Neptune♥	Maîtresse ! Je suis une pop star, moi aussi ! Regardez-moi !
+c350_02	Souriante_Neptune♥	Je mettrai tout mon cœur dans cette chanson. Parviendra-t-elle jusqu'à ma maîtresse ?
+c351_00	Apprentie_Vénus♥	La tenue d'apprentie de Vénus♥.
+c351_01	Candide_Vénus♥	J'adore m'amuser !\Admirez la candeur de ma performance !
+c351_02	Florale_Vénus♥	Voilà la pop star prodige !\Ne lâchez pas des yeux cette performance glamour !
+c352_00	Producteur_Maestro	Costard de producteur de Maestro.
+c353_00	Yoko_Tsukasa	La passeuse de pacte crédule\de Charlotte.
+c353_01	_Charlotte	La tenue de Charlotte, chevalier à la loyauté sans limites.
+c353_02	Glorieuse_Charlotte	La tenue de Charlotte, chevalier qui descend tout droit des cieux.
+c354_01	Embrasée_Déméter	La tenue de combat de Déméter, imprégnée d'une flamme purificatrice.
+c354_02	Pourpre_Déméter	La tenue de combat rouge de Déméter, qui brûle d'un feu ardent.
+c354_10	Folle_Déméter	Une tenue de combat démoniaque pour une infirmière folle.
+c354_89	Pourpre_Déméter	La tenue de combat rouge de Déméter, qui brûle d'un feu ardent.
+c355_01	Gardienne_Chang'e	Une nouvelle forme maternelle de Chang'e, qui protège la ville des sources chaudes avec Mei.
+c355_02	Inugami_Chang'e	Une forme évoluée de Chang'e la gardienne, qui combat au côté d'un chien-loup et de Wukong.
+c358_01	_HATSUNE MIKU	La tenue de scène d'une chanteuse virtuelle.\Ses chansons apaisent même les cœurs des démons !
+c358_02	Diva_HATSUNE MIKU	La tenue de scène d'une chanteuse virtuelle.\Écoutez sa voix d'ange résonner dans le monde entier !
+c359_01	_SNOW MIKU	Une tenue de miko qui rappelle une grue à couronne rouge.\Elle donne une allure élégante et digne.
+c359_02	Hivernale_SNOW MIKU	Une tenue de miko qui rappelle une grue à couronne rouge.\Sa danse apaise l'esprit de ceux qui ont la chance de l'admirer.
+c360_01	Libre_Maât	La tenue de combat raffinée de Maât, qui s'est libérée de ses chaînes.
+c360_02	Divine_Maât	La tenue de combat sacrée de Maât, divinité descendue dans ce royaume.
+c360_10	Abîme_Maât	Destination finale de Maât au terme de sa longue quête de vérité.\Constatez par vous-même la profondeur de cette abysse...
+c361_01	Dévorante_Caducée	Caducée descend, ailes battantes,\projetant une ombre ténébreuse.
+c361_02	Serpent noir_Caducée	Caducée, ceinte d'un halo noir,\descend jusqu'à votre monde.
+c361_10	Arme_Caducée	Mitra portant les ailes de Caducée.
+c361_87	Arme_Caducée	Bienvenue dans l'antre de la vipère,\créatures insignifiantes.
+c361_88	Serpent noir_Caducée	N'ignore pas tes désirs torrides.\Ils te donneront la force dont tu as besoin.
+c361_89	Dévorante_Caducée	L'idole des faibles\dans les profondeurs d'un lieu terrible.
+c362_01	Gentil_Léo	Son sac est rempli de babioles.\La tenue décontractée de Léo.
+c362_02	Incube_Léo	Il manque d'assurance au combat.\Une tenue de combat pour Léo le peureux.
+c362_10	Soubrette_Léo	Bonjour ! Je suis Léo l'incube...\Euh, la succube, je veux dire !
+c362_11	Majordome_Léo	Le costume chic de Léo pour escorter une noble demoiselle.
+c363_01	Voleuse fantôme_Lupin	La tenue de travail assortie au ciel nocturne de Lupin, la Voleuse fantôme.
+c363_02	Avant-garde_Lupin	Si vous apercevez Lupin la Voleuse fantôme, ça veut dire que votre trésor est déjà en sa possession...
+c364_01	Douce_Sytry	Une mini-jupe d'un blanc aussi pur que l'amour d'une jeune fille.
+c364_02	Affectueuse_Sytry	Le blanc symbolise l'amour pur d'une jeune fille, et le rouge l'amour passionné.
+c364_10	_Chouettry	Chouette, Chouette Chouette. Chouette!
+c365_01	Antiténèbres_Lisa	Lisa, unité antiténèbres n° 1.\Une arme conçue pour éliminer le Roi des démons en personne.
+c365_02	Antidémon_Lisa	Lisa, unité antidémon n° 1.\Une arme conçue pour éliminer le Roi des démons en personne.
+c366_01	Travailleuse_Dino	Quand on veut, on peut !\Le travail finit toujours par payer !
+c366_02	Optimiste_Dino	Une tenue de combat pour Dino, spécialiste des catastrophes.\Elle se charge des incendies !
+c367_01	Reine des démons_Davi	Le look idéal de Reine des démons, selon Davi !
+c367_02	Vraie Reine des démons_Davi	Quand je me suis éveillée, j'avais la puissance d'une vraie Reine des démons !\Personne n'est plus puissant que la reine que j'ai imaginée !
+c367_88	Vraie Reine des démons_Davi	
+c367_89	Reine des démons_Davi	
+c369_00	_Vieille Dame	
+c370_01	Torride_Mona	Un maillot de bain exubérant pour Mona.
+c370_02	Plongeuse_Mona	Un été ardent, une peau éclatante et de précieux souvenirs.
+c370_10	Éclatante_Mona	Voulez-vous aller plonger avec moi ?\Un maillot de bain rose plus torride que l'été.
+c370_89	Torride_Mona	
+c371_01	Bikini_Lisa	Un bikini audacieux pour Lisa. Il promet un été grisant.
+c371_02	Vacancière_Lisa	Un maillot de bain bleu clair. Cet été sera inoubliable.
+c371_10	Éclatante_Lisa	Le maillot de bain humide et éclatant de Lisa. Elle ne l'utilise pas pour aller dans l'eau...
+c372_01	Natation_Davi	Pour nager dans toutes les positions !\Le maillot de bain d'été de Davi.
+c372_02	Vacancière_Davi	Le véritable été ne fait que commencer !\L'été de Davi aussi !
+c372_10	Sportive_Davi	Jouons au beach-volley !\Un maillot de bain sportif pour Davi.
+c373_01	Voyou_Midas	Un Midas rendu encore plus fort par le renouvellement de son pacte.\On dirait une personne totalement différente !
+c373_02	Messager_Midas	Le néant et la paix... Enracinez-vous entre la vision et le rêve !\Un costume pour Midas, le Messager aux ailes noires.
+c374_01	Nuptiale_Hildr	La robe de mariée blanche d'Hildr, devenue une mariée,\qui ne se montre qu'à celui qu'elle aime.
+c374_02	Immaculée_Hildr	Le mariage est un serment éternel d'amour.\Celui qui le brise regrettera d'être né !
+c377_00	Mortelle_Iphis	L'apparence d'Iphis dans le Royaume des mortels.
+c377_01	Romantique_Iphis	Le costume de cérémonie porté par Iphis pour épouser sa femme.
+c377_02	Écarlate_Iphis	La tenue de combat écarlate d'Iphis, qu'elle porte pour protéger son épouse.
+c377_10	Nuptiale_Iphis	Iphis lorsqu'elle est devenue elle-même une mariée immaculée.
+c377_11	Obscure_Iphis	Iphis vêtue d'une robe de mariée\ternie par l'obscurité.
+c377_89	Nuptiale_Iphis	J'ai enfin trouvé l'amour. Ça ne sera peut-être pas facile, mais je ne compte pas le laisser partir.
+c378_00	Katsuragi_Touka	Fille nerveuse à l'idée de retrouver sa mère après le divorce de ses parents.
+c378_01	_Pallas	Armure de combat de Pallas, qui ne veut que destruction et désespoir.
+c378_02	Vêtue de ténèbres_Pallas	Armure de combat de Pallas, nimbée des ténèbres de la lance noire.
+c379_01	_Athéna	Armure de combat d'Athéna, qui protège les vivants de son grand bouclier.
+c379_02	Dévotion bienveillante_Athéna	Armure de combat d'Athéna, qui devient un rempart de volonté sincère et sans reproche.
+c381_01	Virevoltante_Sytry	Apparence aguicheuse de Sytry en bikini.
+c381_02	Amour d'été_Sytry	L'été, ça veut dire la plage ! \La plage, ça veut dire les maill... je veux dire, l'amour !
+c381_10	Envoûtante_Sytry	Sytry dégage un parfum doux et dangereux.
+c382_01	Féline_Nemain	Une tenue dont chaque parcelle exsude le pouvoir magique de Freyr.
+c382_02	Combattante_Nemain	Une tenue pour une personne sinistre et assoiffée de sang.
+c382_10	Rose inca_Nemain	Une robe de soirée très classe\dont la teinte rouge attire les regards.
+c383_01	Ressuscité_Freyr	Un costume conçu pour résister à la nouvelle puissance magique de Freyr.
+c383_02	Déchaîné_Freyr	Freyr devient encore plus fort,\même s'il ne semble pas s'en rendre compte.
+c383_11	Poupée maudite_Freyr	Qu'est-ce qui est arrivé au corps sexy de Freyr ?
+c384_01	Prototype_Narvi	Un prototype de l'androïde Narvi.
+c384_02	Personnalisée_Narvi	Une forme personnalisée de l'androïde Narvi.
+c385_01	_Marie Rose	Une tenue punk pour Marie. Le style dépareillé donne un certain charme.
+c385_02	Combattante_Marie Rose	La tenue de combat de Marie. L'alliance du style et de la commodité.
+c385_10	Baigneuse_Marie Rose	Un maillot de bain rétro qui va à ravir à Marie.
+c385_11	Bleu Russe_Marie Rose	Un bikini bleu à pois blancs pour Marie.
+c385_12	Minuet_Marie Rose	Un adorable bikini rose et blanc pour Marie.
+c386_01	_Kasumi	Une tenue de ninja pour Kasumi qui met l'accent sur la mobilité.\Seule la chef du clan peut la porter.
+c386_02	Blanc Immaculé_Kasumi	Une tenue de ninja pour Kasumi. Sa porteuse doit s'assurer qu'elle reste immaculée,\même dans les combats les plus intenses.
+c386_10	Geranium_Kasumi	Un maillot de bain rose pour Kasumi qui fait tourner les têtes.
+c386_11	Némophile_Kasumi	Un adorable maillot de bain pour Kasumi\qui évoque la brume enveloppant le ciel bleu.
+c386_12	Margarita_Kasumi	Une tenue ostentatoire pour Kasumi qui brille de mille feux.
+c386_13	_Kasumi	Est-ce vraiment Kasumi ? Ou bien est-ce...
+c386_88	_Kasumi？	Est-ce vraiment Kasumi ? Ou bien est-ce...
+c387_01	_Honoka	Une tenue d'écolière avec gilet imposée par l'école d'Honoka.
+c387_02	Décontractée_Honoka	La tenue d'écolière d'Honoka sans le gilet pour un style plus décontracté.
+c387_10	Mo-Mo Denim_Honoka	Un maillot de bain pour Honoka qui berce les rêves de ses admirateurs.
+c387_11	Dauphinelle_Honoka	Un charmant maillot de bain bleu clair pour Honoka.
+c390_01	Sorcière_Eochaid	Qu'est-ce qui se cache dans la citrouille ?
+c390_02	Fatale_Eochaid	La magie est illusion, les tours sont amusants !\Avez-vous aimé le spectacle d'Eochaid ?
+c390_88	Fatale_Eochaid	
+c391_01	Fêtarde_Medb	Un pyjama pour déchaîner toute sa puissance.
+c391_02	Nocturne_Medb	La tenue festive que porte Medb le soir d'Halloween.
+c392_01	Modifiée_Davi	Une nouvelle Davi, née d'un mystérieux cocon.
+c392_02	Néo_Davi	Une nouvelle Davi qui a fait face au néant et déploie ses ailes d'un noir profond.
+c392_10	Mélancolique_Davi	Davi en deuil, qui pleure des larmes noires.\Les mots de Mona, son grand amour, pourront-ils l'atteindre ?
+c392_89	Modifiée_Davi	Une nouvelle Davi, née d'un mystérieux cocon.
+c393_01	Rayonnante_Mona	Une robe dont la lumière guide Mona vers un nouvel avenir.
+c393_02	Céleste_Mona	Une robe magnifique qui ne perdra jamais sa lumière, même plongée dans le désespoir.
+c393_10	Radieuse_Mona	Une forme passée de Mona qui continue à briller, même dans les environnements les plus rudes du Royaume infernal.
+c394_01	Courtisane_Báthory	Un kimono chic porté par les courtisanes.\Báthory semble penser qu'il s'agit d'un simple kimono.
+c394_02	Suprême_Báthory	Seules les courtisanes à la beauté et au talent comparables à ceux d'une geisha\peuvent se prétendre courtisanes suprêmes. Báthory n'a jamais été aussi délicieuse.
+c395_01	Élève mystérieuse_Ève	Uniforme d'un célèbre lycée privé (il s'agit d'une imitation).
+c395_02	Veste rose_Ève	Veste qui va parfaitement à Ève.
+c396_01	Danseuse_Louve-Garou	Louve-Garou a pris la forme d'une miko pour exaucer le vœu d'un jeune homme. La tenue de miko est empreinte du pouvoir sacré de Toshigami, la divinité du Nouvel An.
+c396_02	Oracle_Louve-Garou	Louve-Garou est désormais une miko accomplie.\Sa puissance et sa bonne fortune atteignent des sommets !
+c397_01	Noël_Léda	Léda a enfilé un costume de Père Noël\pour distribuer des cadeaux.
+c397_02	Sulfureuse_Léda	Le costume de Père Noël de Léda, mais en plus sexy !\Un cadeau à lui seul.
+c398_01	Corde_Jacheongbi	Jacheongbi tenant un gayageum fait de bois de Paulownia.
+c398_02	Gayageum_Jacheongbi	Jacheongbi, qui est à présent une joueuse de gayageum.
+c400_01	Triste_Banshee	Tenue recouverte des larmes versées par Banshee\pour la famille qu'elle a abandonnée.
+c400_02	Dispersée_Banshee	Tenue contenant les prières de Banshee pour protéger sa famille.
+c401_01	_SNOW MIKU	Robe de neige hivernale scintillante
+c401_02	PRINCESS_SNOW MIKU	Robe de princesse hivernale gardienne
+c402_01	_Noel	Costume de Noel.
+c402_02	4e escadron_Noel	Costume du 4e escadron du NOL de Noel.
+c402_10	_μ-12	Costume de Successeur d'Azure de Noel.
+c403_01	_Makoto	Costume de Makoto.
+c403_02	Intel Dept du NOL_Makoto	Tenue de combat de Makoto, contraire à son statut à l'Intelligence Department.
+c404_01	_Nine	Costume de Nine.
+c404_02	Six héros_Nine	Costume Six héros de Nine.
+c405_01	Perçante_Luine	La tenue de combat de Luine, qui anéantira tous ses ennemis.
+c405_02	Lancière du roi_Luine	Tenue de combat de Luine, qui fauche sans merci les ennemis se dressant sur sa route.
+c405_88	Lancière du roi_Luine	Tenue de combat de Luine, qui fauche sans merci les ennemis se dressant sur sa route.
+c405_89	Perçante_Luine	Tenue de combat de Luine, qui ne laisse aucun adversaire debout.
+c406_01	_Serval	Costume de Serval.
+c406_02	Savane_Serval	Costume de Serval savane.
+c407_01	_Raton laveur	Costume de Raton laveur.
+c407_02	Arboricole_Raton laveur	Costume de Raton laveur arboricole.
+c408_01	_Fennec	Costume de Fennec.
+c408_02	Désert_Fennec	Costume de Fennec désert.
+c409_01	Affamée_Limos	Je suis encore en pleine croissance ♥\J'en veux plus, bien plus ♥
+c409_02	Rassasiée_Limos	Classique, fourré à la crème, peu importe !\Je veux manger mes donuts préférés jusqu'à exploser ♥
+c409_10	Repue_Limos	Vous semblez n'avoir plus faim... Déjà ? Allez, laissez-moi vous régaler de quelques autres plats, ils sont délicieux !
+c410_00	Mortelle_Œil de lynx	Œil de lynx, qui est désormais élève dans le dojo de Luine.
+c410_01	Fière_Œil de lynx	La tenue de combat d'Œil de lynx, archère de renom.
+c410_02	Tireuse d'élite_Œil de lynx	La tenue de combat d'Œil de lynx, tireuse d'élite.
+c412_00	Prêtre_Caïn	Un prêtre de la branche du Vatican du Cercle des exorcistes.
+c412_01	Exorciste_Caïn	Tenue de prêtre reçue du Cercle des exorcistes.
+c412_02	Inquisiteur des hérétiques_Caïn	Tenue reçue du Cercle des exorcistes pour l'inquisition des hérétiques.
+c412_88	Inquisiteur des hérétiques_Caïn	Tenue reçue du Cercle des exorcistes pour l'inquisition des hérétiques.
+c412_89	Exorciste_Caïn	Tenue de prêtre reçue du Cercle des exorcistes.
+c413_00	_Abel	
+c413_21	Exalté_Abel	
+c414_00	Mortelle_Billy	Billy la démone déguisée en fille du Royaume des mortels.
+c414_01	Tireuse_Billy	Infaillible !\La tenue de Billy pour les batailles de pistolets à eau.
+c414_02	Sniper_Billy	Elle ne laisse pas sa proie s'échapper !\La tenue de Billy pour les batailles de pistolets à eau.
+c414_10	Projection_Billy	Pour gagner à tout prix ! \Costume de Billy pour les batailles de pistolet à eau.
+c414_89	Projection_Billy	Pour gagner à tout prix ! \Costume de Billy pour les batailles de pistolet à eau.
+c415_00	Mortelle_Annie	Annie la démone déguisée en fille du Royaume des mortels.
+c415_01	Téméraire_Annie	La quintessence de l'hydrotireuse.\La tenue d'Annie pour les batailles de pistolets à eau.
+c415_02	Sauvage_Annie	La trinité de l'eau, de soi et du pistolet à eau.\La tenue d'Annie pour les batailles de pistolets à eau.
+c416_00	Royaume des mortels_Keino	Keino la démone, déguisée en fille du Royaume des mortels.\Elle tient une mystérieuse boîte de couture.
+c416_01	Princesse_Keino	On entend le bruit de ciseaux dans l'obscurité...
+c416_02	Spectrale_Keino	Des ciseaux empoisonnés qui vous sont destinés.
+c416_10	Intrépide_Keino	Keino a éveillé son pouvoir enfoui.\Les ciseaux sont encore plus terrifiants.
+c416_87	Intrépide_Keino	Les huit méridiens extraordinaires de Keino sont éveillés.\Le pouvoir qui sommeillait en elle est désormais palpable.
+c417_00	Forme humaine_Tamamo	L'esprit Tamamo sous la forme d'une femme.\Sa beauté est comparable à celle d'une courtisane.
+c417_01	Renarde à neuf queues_Tamamo	Un esprit de légende connu sous le nom du renard à neuf queues.
+c417_02	Enchanteresse_Tamamo	Un esprit si captivant qu'un regard lui suffit pour charmer qui que ce soit.
+c417_10	Été_Tamamo	Une queue de cheval haute pour rester au frais durant l'été.
+c417_87	Été_Tamamo	Une queue de cheval haute pour rester au frais durant l'été.
+c417_89	Renarde à neuf queues_Tamamo	Quelle audace, d'oser m'attaquer !
+c418_01	Justicière_Mafdet	En fusionnant avec l'arc du grand prêtre,\Mafdet renaît sous une nouvelle forme.
+c418_02	Parangon_Mafdet	En fusionnant avec l'arc du grand prêtre,\Mafdet devint l'incarnation de la justice.
+c419_01	Adultère_Catherine	Robe sexy qui fait fondre tous les hommes.
+c419_02	Invertie et diabolique_Catherine	Robe de mariée de Catherine, tissée d'amour pur.
+c420_01	Copine_Katherine	Tenue chic, idéale pour une femme carriériste.
+c420_02	Mariée virginale_Katherine	Robe de mariée d'un blanc virginal.
+c420_10	Pourpre sauvage_Katherine	Katherine vêtue d'une robe écarlate incarnant\les nouvelles opportunités qui l'attendent.
+c420_89	Pourpre sauvage_Katherine	Katherine vêtue d'une robe écarlate incarnant\les nouvelles opportunités qui l'attendent.
+c421_01	_Rin	Adorable robe bleu ciel à col marin.
+c421_02	Pure_Rin	Rin, belle comme un ange dans sa robe de mariée.
+c422_01	Tentatrice_Héqet	Une robe pour Héqet, séductrice de tous les instants.
+c422_02	Mère_Héqet	Une robe pour Héqet, une mère qui souhaite voir l'humanité prospérer.
+c422_88	Mère_Héqet	Salut, toi. Ça te dit de régler le problème du taux de natalité avec moi ?
+c423_01	Agile_Laima	Une robe pour Laima, qui allie agilité et beauté dans ses techniques de combat.
+c423_02	Persistante_Laima	La tenue de combat de Laima, qui lui rend tout le piquant de sa jeunesse.
+c423_10	Amour pur_Laima	Laima a été capturée, modifiée et endoctrinée par une humaine.
+c423_87	Amour pur_Laima	Laima a été capturée, modifiée et endoctrinée par Makiko Manyuda.\Elle ne peut plus faire la différence entre les rêves et la réalité.
+c423_88	Robe de prédilection_Laima	Elle est obsédée par les faibles, bien qu'elle en soit une aussi.
+c423_89	Agile_Laima	Une démone qui harcèle le maître\à cause de son obsession pour les faibles.
+c424_01	Forgeronne_Héphaïstos	
+c425_01	Punisseur_Seth	L'épée améliorée de Seth,\dotée d'une compétence d'univers.
+c425_02	Sacrificateur_Seth	L'armure améliorée de Seth,\dotée d'une compétence d'univers.
+c425_10	Légionnaire_Seth	L'armure d'un chevalier maudit\qui protège le sanctuaire d'une idole.
+c425_87	Légionnaire_Seth	C'est une époque sombre.
+c425_88	Sacrificateur_Seth	C'est une époque sombre.
+c425_89	Punisseur_Seth	Admirez ! Mon maître se venge.
+c426_00	Duoh_Vera	Un nouveau costume qu'Ophois a réussi à obtenir au deuxième essai.
+c426_01	Pressée_Ophois	Une tenue spéciale qui aide la personne qui la porte à avoir une longueur d'avance.
+c426_02	Pionnière_Ophois	Une tenue spéciale qui souligne l'élégance de la pionnière.
+c428_01	Substitut_Seth	La tenue divine de Seth, fabriquée en lin, un tissu fréquemment utilisé pour les linceuls.
+c428_02	Avatar_Seth	La tenue en lin de Seth, inspirée par la robe de l'ange des désastres.
+c428_88	Avatar_Seth	Le Seigneur te jugera.
+c428_89	Substitut_Seth	Confesse tes péchés et repentis-toi dans la mort.
+c429_00	Mortelle_Ziva	Ziva, qui se fait passer pour une reine du Royaume des mortels.
+c429_01	Paisible_Ziva	Une robe magnifique qui souligne l'élégance de Ziva.
+c429_02	Plaines enneigées_Ziva	Une robe ravissante qui fait ressortir la beauté de Ziva.
+c429_10	Festive_Ziva	La robe la plus resplendissante de Ziva, dont les couleurs rappellent les fêtes de Noël.
+c429_88	Plaines enneigées_Ziva	Un amour qui résiste au froid le plus mordant. \La lumière de Ziva apaise le froid glacial.
+c430_00	Mortelle_Giltiné	Giltiné, qui se fait passer pour une femme du Royaume des mortels.
+c430_01	Polaire_Giltiné	Un manteau long idéal pour chasser dans la toundra.
+c430_02	Enneigée_Giltiné	Un manteau long adapté à la chasse sur la banquise.
+c430_10	Festive_Giltiné	Le manteau long d'une chasseuse de démons qui aime les fêtes de Noël.
+c431_01	Skieuse_Eshu	Une tenue de ski pour Eshu, qui s'agite dans la neige.
+c431_02	Neige_Eshu	Une tenue de ski pour Eshu, qui reste impassible dans le blizzard.
+c431_10	Festive_Eshu	Une tenue de ski pour Eshu, qui profite pleinement des fêtes.
+c432_01	Clair de lune_Artémis	Les ailes d'une déesse qui traque discrètement sa proie depuis les nuages.
+c432_02	Enragée_Artémis	Les ailes d'une déesse furieuse qui déchiquette sa proie.
+c433_01	Énergique_Pachet	Un costume pour Pachet, aussi sexy que mignon.
+c433_02	Mignonne_Pachet	Un costume pour Pachet qui la rend plus adorable que jamais.
+c433_10	Été fort plaisant_Pakhet	Le tout premier maillot de bain de Pakhet, choisi avec soin.
+c434_01	Douce_Léda	Léda, pleine de charme et d'amour pour le chocolat.
+c434_02	Charmante_Léda	Léda, tout simplement envoûtante.
+c435_01	Élégante_Sytry	Un costume de soubrette pour Sytry, qui invite aux fantasmes les plus délicieux.
+c435_02	Soubrette_Sytry	Un costume de soubrette pour Sytry, qui captive les hommes de ce monde.
+c435_10	Sincère_Sytry	L'amour est tout près de moi.\Forme véritable de Sytry, qui a découvert l'amour.
+c436_01	Anxieuse_Serket	Un costume pour Serket, qui se demande ce qu'est vraiment l'amour.
+c436_02	Soubrette_Serket	Un costume de soubrette pour Serket, inspiré par celui de Sytry.
+c436_10	Bouche bée_Serket	Vous êtes mon seul salut. \La véritable forme de Serket, qui a découvert l'amour.
+c436_89	Bouche bée_Serket	Vous êtes mon seul salut. \La véritable forme de Sytry, qui a découvert l'amour.
+c437_01	Mignonne_Euros	Euros vêtue d'une tenue mignonne.
+c437_02	Joyeuse_Euros	Euros vêtue d'une tenue joyeuse.
+c438_01	Camarade_Sémélé	La robe de Sémélé pour son mariage avec Loki.\Veuillez m'accepter, Loki.
+c438_02	Enchantée_Sémélé	Je veux être votre épouse.\La robe de mariée de Sémélé, qui témoigne de son intense désir d'être aimée par Loki.
+c438_10	Déguisée_Sémélé	Une robe noire osée portée par la directrice "Abigail" de l'école Saint Michel.
+c438_11	Dégénérée_Sémélé	Plus de souvenirs, plus de désirs. Tout ce qu'il reste, c'est...
+c438_12	Jeune_Sémélé	Tout ce que je voulais, c'était quelqu'un à qui parler.
+c439_01	Rêveuse_Saturne♥	Un costume théâtral pour Saturne♥,\qui rêvait d'incarner Juliette.
+c439_02	Actrice_Saturne♥	Un costume théâtral pour Saturne♥, qui s'est transformée en Juliette.
+c440_01	Parfaite_Mona	Mona est aussi jolie qu'une fleur en pleine floraison.
+c440_02	Jolie_Mona	Mona est aussi onirique qu'une fleur éclairée par la lune.
+c440_10	Exquise_Mona	Mona dans une aventure onirique, entourée d'une multitude de pétales qui flottent.
+c441_01	Épée de rituel_Robin	Robin la justicière met son\épée au service de la justice !
+c441_02	Héroïne_Robin	Une lueur étincelle dans l'obscurité.\C'est celle de la juste et noble lame de Robin.
+c442_00	_Impératrice	Les vêtements qu'elle portait autrefois pour chercher la vérité avec ses amis.
+c442_01	Nirodhasatya_Nirriti	Épée ornée de joyaux de Nirriti, qui tranche la souffrance.
+c442_02	Tathata_Nirriti	Épée ornée de joyaux de Nirriti, qui annihile le mal et l'aide à atteindre l'état de Śūnyatā (Vacuité).
+c442_10	Voisine_Nirriti	La tenue de soirée de Nirriti.\Kalaratri l'a choisie pour elle.
+c442_11	Maître Zen_Nirriti	Je préfère garder l'esprit libre et méditatif, même dans le monde extérieur.
+c443_01	Voleur fantôme_Rafale	Alors que le son d'une guitare électrique retentit dans le silence de la nuit, le Voleur fantôme descend sur la ville crépusculaire.
+c443_02	Fantôme_Rafale	Ne vous laissez pas amadouer par la guitare fantôme, ou vous risquez de perdre vos objets de valeur et votre cœur.
+c444_01	_Mitra	
+c444_10	Uniforme_Mitra	
+c444_11	_Mitra	
+c445_01	Obscurité totale_Kalaratri	Kalaratri a tiré son épée dans les ténèbres pour protéger sa déesse.
+c445_02	Première aube_Kalaratri	L'épée de Kalaratri illumine le chemin qui les attend, elle et sa déesse.
+c445_10	Employée de bureau_Kalaratri	Elle va avoir encore plus de bouches à nourrir.\Sur les épaules de Kalarati pèse un fardeau de plus en plus lourd.
+c445_11	Décontractée_Kalaratri	La nouvelle prof de chinois à l'école Saint Michel.\Elle est sévère, mais pourtant les élèves l'apprécient.
+c445_88	Lumineuse_Kalaratri	Je suis l'ombre de la déesse,\l'étoile morte qui reflète sa lumière.
+c445_89	Obscurité totale_Kalaratri	Chère déesse, prends place.\Je serai ton siège.
+c446_01	Féroce_Argos	L'épée d'Argos, la gardienne de l'île secrète.
+c446_02	Garde du corps_Argos	Les crocs brillants d'Argos la garde du corps, la protectrice de l'île secrète.
+c446_88	Garde du corps_Argos	À vous qui avez pénétré sur l'île secrète sans y être invités.\Prenez garde aux crocs qui la garde.
+c447_01	Exorciste_Miriam	Un habit de bonne sœur porté en se promettant d'exécuter la volonté des cieux.
+c447_02	Calomnieuse_Miriam	L'habit ne fait pas la nonne.
+c447_10	Sévère_Miriam	Je fouetterai les âmes corrompues pour les apaiser.
+c447_11	_Miriam	
+c447_87	Sévère_Miriam	Pécheurs, préparez-vous à être punis.
+c447_89	Sévère_Miriam	Pécheurs, préparez-vous à être punis.
+c448_00	Décontractée_Mircalla	La tenue choisie par Mircalla pour sa sortie spéciale.
+c448_01	Rusée_Mircalla	La robe à bretelles de Mircalla, préparée spécialement pour vous.
+c448_02	Séduisante_Mircalla	La silhouette séduisante de Mircalla vous captive.
+c448_88	Séduisante_Mircalla	Ooh, tu sens bon.\Puis-je boire une petite gorgée de ton sang ?
+c449_01	Déterminée_Laura	La tenue spéciale de Laura, dédiée au confort.
+c449_02	Traqueuse_Laura	La tenue spéciale de Laura, adaptée à son style de vie athlétique.
+c450_01	Tragédienne_Roussalka	Roussalka, incarnant la tragique Juliette.
+c450_02	Héroïne_Roussalka	Roussalka, totalement transformée en Juliette, l'héroïne.
+c451_01	_Ayane	Ayane, virevoltant dans le ciel nocturne tel un papillon.
+c451_02	Peach Blossom_Ayane	Une tenue de combat pour Ayane, l'image d'un pétale de cerisier tombant dans la brise printanière.
+c451_10	Fylgja_Ayane	Une ninja qui a traqué une station balnéaire. Est-ce que le beach-volley fait partie de la mission ?
+c452_01	_Leifang	Une tenue de combat pour Leifang inspirée d'un phénix tournoyant dans les cieux.
+c452_02	Vermilion Bird Mirage_Leifang	Une tenue de combat pour Leifang ornée des plumes de l'Oiseau vermillon.
+c452_10	Colorée_Leifang	Un maillot de bain pour Leifang aussi rouge que le soleil ardent.
+c453_01	Bienveillante_Mercure	Un maillot de bain fait main originaire de l'île d'Amos qui est rafraîchissant dans la chaleur estivale.
+c453_02	Étreignante_Mercure	Le parasol de Mercure, qui reflète la beauté de l'océan.
+c454_01	Seigneur_Juno	Une tenue tropicale que seul Juno\peut porter.
+c454_02	Implorant_Juno	Une tenue tropicale en édition limitée\vendue uniquement sur l'île d'Amos.
+c454_88	Implorant_Juno	Si tu es sage, je ferai vite.
+c454_89	Seigneur_Juno	Si tu es sage, je ferai vite.
+c455_01	Dame_Tiwaz	Un costume que Juno a tout spécialement commandé pour Tiwaz.
+c455_02	Passionnée_Tiwaz	Un costume personnalisé parfaitement adapté à la chaleur de l'île d'Amos.
+c455_10	Fantasque_Tiwaz	Un événement nocturne estival spécialement préparé pour vous.\Comment ne pas tomber amoureux d'elle ?
+c455_11	Reine_Tiwaz	Un costume personnalisé à porter lors des disputes avec Juno.
+c455_12	Nuptiale_Tiwaz	Une robe de mariée mignonne mais sophistiquée\confectionnée pour son mariage avec Juno.
+c455_86	Nuptiale_Tiwaz	Une robe de mariée mignonne mais sophistiquée\confectionnée pour son mariage avec Juno.
+c455_87	Fantasque_Tiwaz	Un événement nocturne estival spécialement préparé pour vous.\Comment ne pas tomber amoureux d'elle ?
+c456_01	Mascotte_Clotho	Clotho, la mascotte du casino, dans une tenue de lapin sexy.
+c456_02	Fatidique_Clotho	Clotho dans son uniforme de travail, prête à servir ses invités.
+c457_01	Spectateur_Ulysse	Une queue-de-pie confortable qui permet de supporter même les tâches les plus pénibles.
+c457_02	Neutre_Ulysse	Une queue-de-pie qui souligne l'élégance d'un majordome.
+c458_01	En course_Zéphyr	La tenue spéciale de Zéphyr, résistante à l'air marin de l'île.
+c458_02	Rapide_Zéphyr	Une voiture spéciale que Tiwaz a fait assembler pour Zéphyr.
+c458_10	Fusée_Zéphyr	Mon seul obstacle, c'est moi-même !\La voiture que Zéphyr utilise pour dépasser ses limites.
+c459_01	Traqueuse_Cacia	Les balles de Cacia pourchassent leurs cibles\jusqu'au bout du Royaume infernal.
+c459_02	Spectre_Cacia	Prudence à qui entend des sifflements dans les rues, la nuit.\C'est peut-être le son des balles de Cacia.
+c460_01	Maraudeuse_Cacus	Une faux utilisée par Cacus, la Sorcière infernale, pour trancher les démons avides.
+c460_02	Liberté_Cacus	Les flammes de l'enfer qui entourent Caucus, la Sorcière, brûlent les démons trop avides.
+c460_10	Vache en chef_Cacus	Un costume que sa sœur lui a trouvé pour le Nouvel An.
+c460_88	Liberté_Cacus	Dans la ville résonnent des cris menaçants\quand la faux enflammée de la sorcière brille de son éclat rougeoyant.
+c461_01	Souvenir_Aurore	Aurore comme elle apparaît dans les souvenirs de Mitra.
+c461_02	Confession_Aurore	J'entends le battement des ailes d'Aurore quand je ferme les yeux.
+c461_10	Camarade_Aurore	Nouvel uniforme scolaire de Saint Michel
+c462_01	Solennelle_Thérésa	L'épée de Thérésa, forgée dans sa volonté.\Elle transperce tout pour se protéger.
+c462_02	Dévote_Thérésa	L'épée de Thérésa brille\pour guider les agneaux perdus vers le droit chemin.
+c463_01	Paradis perdu_Ève	Une épée écarlate utilisée par Ève, la démone élégante et redoutable.
+c463_02	Abattue_Ève	L'épée bleue d'Ève brille de mille feux dans le ciel.
+c463_10	Automnale_Ève	Une magnifique tenue qu'Ève avait préparée pour célébrer la pleine lune de ce soir.
+c464_01	Magnifique_Arhat	La lance d'Arhat distingue le bien du mal\et purge les impuretés.
+c464_02	Immortelle_Arhat	La lance d'Arhat repousse les esprits malins\et punit l'armée de démons.
+c464_10	Bodhisattva_Arhat	Arhat dans son esprit.\Elle est enveloppée d'une lueur aussi pure et tranquille que l'eau.
+c464_11	Naïve_Arhat	Une tenue décontractée pour Arhat, qui rêve d'un nouveau commencement.\Elle reflète la frugalité de Kalaratri.
+c465_01	Loyale_Sunah	Une tenue conçue spécialement pour résister à toutes les tentations.
+c465_02	Droite_Sunah	Une tenue conçue spécialement pour montrer le respect de sa porteuse envers son maître.
+c465_88	Droite_Sunah	La décision prise par Sunah de ne servir qu'un seul maître.
+c466_01	Insouciante_Nezha	Une tenue ultra performante. Conçue avec du tissu souple spécialement pour Nezha.
+c466_02	Torride_Nezha	Une tenue de combat conçue spécialement pour Nezha.
+c467_01	Sévère_Ziva	Ziva la sorcière endormie a été réveillée pendant un blizzard.
+c467_02	Embrasée_Ziva	La démone Ziva fait tournoyer ses mains dans les airs,\accumulant et manipulant les énergies du feu et de la glace.
+c468_00	Chie_Amamiya	Robe créée par la marque pour laquelle Chie travaille exclusivement comme mannequin.
+c468_01	Chuchoteuse_Métis	Métis a les lèvres pincées, ce qui lui donne un air sévère. Mais que ressent-elle vraiment ?
+c468_02	Vérité_Métis	Métis, qui est habituellement inexpressive, sourit chaudement.
+c469_01	Éclatante_Aria	La tenue Planet Party d'Aria\qui reflète les rêves et la passion.
+c469_02	Blizzard_Aria	Une tenue Planet Party pour Aria.\La foule demande un bis quand elle la voit.
+c469_10	Tip-top_Aria	C'est grâce à vous tous que\j'ai enfin pu déployer les ailes de mes rêves.
+c469_11	Uuniforme scolaire_Aria	Aria porte le bel uniforme scolaire de l'ashram qu'elle a intégré récemment.
+c469_87	Tip-top_Aria	C'est grâce à vous tous que\j'ai enfin pu déployer les ailes de mes rêves.
+c470_01	Étincelante_Neptune♥	Une tenue de scène de Planet Party pour leur représentation de fin d'année.
+c470_02	Neige_Neptune♥	Les ailes de l'espoir, déployées pour répandre la musique de Planet Party.
+c471_01	Étincelante_Mars♥	La tenue de Planet Party de Mars♥, qui scintille comme les étoiles.
+c471_02	Enneigée_Mars♥	Les fans se pâment dès que Mars♥ bat des ailes.
+c471_88	Enneigée_Mars♥	Elle déploie ses ailes et prend son envol, sur scène, ne faisant qu'un avec les autres membres du groupe.
+c472_01	Éblouissante_Vénus♥	Une tenue de scène de Planet Party qui reflète la personnalité joyeuse de Vénus♥.
+c472_02	Hiver_Vénus♥	La tenue de scène ailée de Vénus♥ qui représente la liberté.
+c473_01	Élément de surprise_Titania	Une lance étincelante traverse les ombres. Faites place à Titania.
+c473_02	Euphorique_Titania	La lumière est revenue ! Le bouclier de Titania repousse la nuit et appelle l'aurore.
+c474_01	Forgeronne_Héphaïstos	Persévérance, c'est ainsi que se nomme le marteau d'Héphaïstos.
+c474_02	Incandescente_Héphaïstos	Un bon forgeron maîtrise aussi bien les flammes que les ombres.
+c474_10	Professeure_Héphaïstos	Une professeure de chimie de l'école Saint Michel. Elle est très mauvaise pédagogue.
+c474_87	Incandescente_Héphaïstos	Il n'y a rien de plus futile qu'une âme pathétique essayant de se débattre.
+c474_88	Incandescente_Héphaïstos	Il n'y a rien de plus futile qu'une âme pathétique essayant de se débattre.
+c474_89	Forgeronne_Héphaïstos	Tous ces êtres faibles et inutiles... Brûlez donc et laissez vos cendres s'envoler.
+c475_01	Aurorale_Saturne♥	Une tenue de scène de Planet Party qui représente les vœux de Saturne♥.
+c475_02	Givrée_Saturne♥	Une tenue de leader avec des ailes, pour que le vent porte la voix de quiconque la revêt.
+c476_00	Tsumiki_Tsubokura	Étudiante passant son temps à faire de la recherche. \Tante de la passeuse de pacte de Métis.
+c476_01	Joyeuse_Nephthys	Je repense au sourire chaleureux de Nephthys\en savourant l'amertume du chocolat.
+c476_02	Paisible_Nephthys	Laisse-moi réchauffer ton cœur de glace et le faire fondre comme du chocolat sur la langue.
+c476_88	Paisible_Nephthys	J'ai du chocolat sucré pour tout le monde ! Allez, c'est le moment de s'amuser !
+c479_00	Escrimeuse_Kiyomi Tachibana	"Je prouverai ma valeur en persévérant." Une tenue d'escrime qui incarne la détermination de Kiyomi.
+c479_01	Tenace_Maupin	L'épée de Maupin, décernée à une gagnante couverte de gloire.
+c479_02	Légendaire_Maupin	Une épée unique au monde pour Maupin.\Elle et sa propriétaire sont entrées dans la légende.
+c479_20	Étudiante_Kiyomi Tachibana	Kiyomi porte toujours un survêtement\pour être prête au pied levé.
+c480_00	Escrimeuse_Karen Kenzaki	Pour l'instant, elle a l'air gauche dans sa tenue d'escrime,\mais elle rêve de devenir comme son idole, Kiyomi.
+c480_01	Charmante_Bradamante	Une épée pour Bradamante qui danse en toute liberté.
+c480_02	Insouciante_Bradamante	Une épée forgée dans le cœur de Bradamante.\Elle tranche tout ce qui lui fait du mal.
+c480_20	Étudiante_Karen Kenzaki	Comme d'habitude, Karen est un vrai rayon de soleil.
+c481_00	Osamichi_Okuno	Plus Osamichi dessine, plus il s'approche de son rêve.
+c481_01	Grenadière_Wyatt	Un lance-grenades\qui illustre la préférence de Wyatt pour la puissance de feu.
+c481_02	Flingueuse_Wyatt	Le lance-grenades de Wyatt peut faire exploser\les métaux les plus résistants.
+c481_88	Flingueuse_Wyatt	La vie est un combat ! Ne cède pas la moindre parcelle de terrain, soldat !
+c482_00	Takuro_Takuwa	Il est difficile de savoir ce qu'elle pense\derrière son sourire innocent.
+c482_01	Innocente_Théophano	Théophano vous accueille avec un magnifique sourire.
+c482_02	Excentrique_Théophano	Que pense réellement Théophano derrière son sourire enjôleur ?
+c483_00	Kurumi_Kurumigawa	Une étudiante à l'université qui aime le cosplay.\Ses compétences en gaming sont impressionnantes.
+c483_01	Commandante_Artémisia	Un uniforme pour Artemisia, la commandante en chef.
+c483_02	Commandante indomptable_Artémisia	Un uniforme pour Artemisia, la commandante imbattable.
+c484_01	_Judas	
+c485_01	Ombre ténébreuse_Yuna	Le moment où la lumière de l'espoir fut avalée par les ténèbres,\une ombre est née de l'inconscient de Yuna.
+c485_02	Ombre apathique_Yuna	L'ombre née de l'inconscient de Yuna\a délicatement enveloppé son cœur solitaire.
+c485_10	Lumière d'espoir_Yuna	Après s'être échappée de l'influence du mal, Yuna cherche la lumière de l'espoir.
+c486_01	Chasseuse_Kubaba	La moto préférée de Kubaba démarre avec la puissance d'un ouragan.
+c486_02	Vitesse de pointe_Kubaba	Dégagez la voie !\La moto préférée de Kubaba roule à pleine vitesse.
+c486_10	Fusilière_Kubaba	La puissance de la fleur de l'âge, retrouvée grâce à la potion secrète de Babel.
+c486_87	Fusilière_Kubaba	Y a des volontaires prêts à mourir ? Je vais vous transformer en gruyère.
+c486_88	Vitesse de pointe_Kubaba	Le plus grand combat de l'histoire va commencer.\La gloire sera réservée aux survivants.
+c486_89	Chasseuse_Kubaba	Tu veux t'asseoir sur le trône ? Alors, sois prêt à tout perdre !
+c488_00	Kaede_Kayamori	Un étudiant séduisant qui aime les cosplays féminins.
+c488_01	Fée insouciante_Dryade	Dryade passe sa vie à se laisser porter par le vent.
+c488_02	Fée garçon manqué_Dryade	Les chaînes qui retiennent le comportement égoïste et désagréable de Dryade.
+c488_20	Cosplay_Kaede Kayamori	Le cosplay féminin de Kaede Kayamori.\On a déjà vu ce personnage quelque part...
+c489_01	_Loki	Un homme naïf a prié Dieu\et un démon est apparu, entouré des vents glacés de l'enfer.
+c489_02	Conspiration sombre_Loki	Un homme naïf a prié Dieu\et un démon est apparu, armé d'une faux.
+c489_10	Abyssal_Loki	Dans l'obscurité la plus totale, le démon Loki est apparu,\ailes battantes.
+c489_11	Ermite_Loki	Une grande chaîne entrave le Démon, mais lorsque l'heure sera venue,\il se libérera et sèmera à nouveau le chaos sur Terre.
+c489_87	Abyssal_Loki	Sans Dieu, le monde est aussi terrifiant que l'emprise d'un fantôme affamé.
+c489_88	Conspiration sombre_Loki	Entends-tu la voix du démon, t'attirant dans le labyrinthe ?
+c489_89	_Loki	Viens avec moi.\Je te montrerai le plus merveilleux des enfers.
+c490_00	_Konoike Hana	
+c490_01	Assistante_Guren	
+c491_00	_Konoike Misato	
+c491_01	En deuil_Souka	
+c492_00	_He Xiangu	
+c493_00	Kirara_Hoshikawa	Une tenue décontractée et confortable pour rester longuement assis à réviser.
+c493_01	Glorieuse_Messie	Une longue lance capable d'arrêter une armée rebelle d'un seul coup.
+c493_02	Impératrice_Messie	Une cape légendaire qui serait transmise dans la famille royale de Butena.
+c493_88	Impératrice_Messie	Je protégerai mon peuple et mon pays au nom de la famille royale.
+c494_00	_Tamaki Fumino	Une tenue de conférence portée par une professeure douce, mais charismatique.
+c494_01	Clémente_Rosanna	L'habit traditionnel que portent les impératrices et les consorts de Butena.
+c494_02	Tolérante_Rosanna	La tenue de Rosanna, faite du plus beau tissu de Butena.
+c495_00	Bleu russe_Silk	Femelle Bleu Russe sous surveillance dans un refuge pour animaux.
+c495_01	Problématique_Catsi	Ne te laisse pas avoir par le sourire de ce chaton.
+c495_02	Libéré_Catsi	Même si c'est une Child, tu devrais mettre une clochette sur son collier.
+c496_00	Retriever_Poppy	Femelle Golden Retriever sous surveillance dans un refuge pour animaux.
+c496_01	Chienne rêveuse_Lassi	Lassi sourit, vêtue d'une robe immaculée...
+c496_02	Chienne heureuse_Lassi	Si quelqu'un éprouve de la joie, Lassi la ressent également.
+c497_01	Revenante_Odin	Une cape classique qui montre le sens de la mode d'Odin.
+c497_02	Parfaite_Odin	La cape classique d'Odin,\faite d'un mystérieux tissu alchimique.
+c497_10	Rêveuse_Odin	La tenue de travail d'Odin à l'école.
+c498_01	_Sol	L'attaquant impitoyable domine tous ses ennemis avec une puissance féroce.
+c498_02	Chasseur de primes_Sol	Ancien scientifique, il gagne désormais sa vie en tant que chasseur de primes.\Son arme de prédilection est le Outrage v Ⅱ.
+c498_10	Feu des enfers_Sol	Sol prend cette forme lorsqu'il utilise l'ensemble de sa puissance avec le Dragon Install. Il réduit en cendres ces ennemis avec le pouvoir incandescent d'un dieu enragé.
+c498_87	Feu des enfers_Sol	Sol prend cette forme lorsqu'il utilise l'ensemble de sa puissance avec le Dragon Install.\Il réduit en cendres ces ennemis avec le pouvoir incandescent d'un dieu enragé.
+c499_01	_Ramlethal	Cheffe d'une escouade spéciale d'Illyria.
+c499_02	Brigadier_Ramlethal	En combat, Ramlethal manie deux épées larges.\Elle avance sur le champ de bataille, ne laissant derrière elle que chaos et destruction.
+c500_01	_Millia	Elle a réuni les membres de l'ancienne Guilde des assassins après être devenue la directrice du Bureau administratif de l'après-guerre.
+c500_02	Vierge de fer_Millia	Discrète et rapide, elle élimine ses ennemis à l'aide de ses cheveux.\Grâce à la Magie interdite, ses cheveux répondent à tous ses désirs.
+c501_01	Enthousiaste_Ragaraja	Renge, voyante du temple Chikamiya, estime que\les vêtements de sport sont appropriés pour le travail.
+c501_02	Détachée_Ragaraja	"Il est possible d'atteindre le Nirvana dans ce monde."
+c501_10	Vidyaraja_Ragaraja	Pied droit en enfer, pied gauche au paradis.
+c501_11	Frustrée_Ragaraja	Un costume pour Ragaraja, qui noie\la tristesse de la réalité dans la boisson.
+c501_87	Vidyaraja_Ragaraja	Laissez-nous sauver l'humanité en brûlant\ses péchés avec les feux de l'enfer.
+c501_88	Détachée_Ragaraja	Rends-toi, démon !
+c501_89	Enthousiaste_Ragaraja	La vie est courte et l'humanité\ne peut pas échapper à ses péchés.
+c502_01	Voyante_Keika To	C'est une prêtresse encore novice.\Sera-t-elle à la hauteur ?
+c502_02	Appel Fantôme_Keika To	Une robe est d'autant plus précieuse quand\on l'achète avec l'argent qu'on a gagné.
+c502_10	Fantôme_Keika To	Une autre facette de To Keika,\possédée par l'esprit d'une prêtresse sans nom.
+c502_11	Uniforme Scolaire_Keika To 	Keika To porte l'uniforme scolaire de l'ashram qu'elle a intégré avec Ragaraja, sa professeure. L'uniforme lui-même semble assez ordinaire.
+c503_01	Obéissance_Bari	Bari habillée de vêtements qui charment et subjuguent les démons.
+c503_02	Hautaine_Bari	Bari se montre arrogante envers les démons, bien qu'elle soit une Child.
+c503_10	Solstice d'été_Bari	Bari profite de la chaleur de l'été avec ce maillot de bain audacieux.
+c503_88	Hautaine_Bari	Tu atteindras l'apogée de la béatitude avec moi.
+c504_00	Sponsor universitaire_Marduk	Le sponsor mystère de l'Université Sudo est en réalité une démone\qui se prend pour une déesse dans le Royaume des mortels.
+c504_01	Avocat en Devenir_Marduk	Cette démone, qui se fait passer pour une déesse parmi les mortels,\transporte un livre académique pour paraître intelligente.
+c504_02	Gouvernante Déesse_Marduk	Marduk, qui veut devenir une déesse du Royaume des mortels,\adopte cette apparence pour amplifier ses pouvoirs magiques.
+c505_00	_Fuuka Kitasato	Une as du sprint du club de cyclisme de l'Université de la capitale.
+c505_01	Coureuse_Boréas	Des vêtements avec un motif tâches de guépard, le roi de la vitesse.
+c505_02	Balayante_Boréas	Boréas court, laissant un nuage\de poussière dorée derrière elle.
+c505_10	Repos_Boréas	Boréas se repose à l'ombre après une course intense.
+c506_00	_Sayaka Minaoka	Une grimpeuse solitaire du club de cyclisme de l'Université de la capitale.
+c506_01	Coureur_Notus	La veste noire de Notus, qui rappelle une panthère solitaire.
+c506_02	Tempétueuse_Notus	Notus apparaît et disparaît dans une bourrasque noire.
+c507_00	Miko_Sulhee	Sulhee est une miko qui vit en bord de mer et qui adore l'alcool.\Son vrai nom est Satomi Sakamura.
+c507_01	Miko suppléante_Phorcus	Phorcus a pour devoir de protéger le village à la place de la miko.\Cependant, elle ne sait pas utiliser le katana ou les shuriken.
+c507_02	Buveuse_Phorcus	Phorcus boit du saké sous le soleil d'été.\Peu importe la quantité qu'elle ingurgite, elle reste sobre.
+c507_10	Picoleuse_Phorcus	Phorcus sirote du saké dans un petit temple,\coiffée d'un chapeau de paille pour se protéger du soleil estival.
+c507_88	Buveuse_Phorcus	Dis, tu veux boire un verre avec moi ?
+c508_01	Chamane_Chandra	Une chamane qui a juré de se venger du démon qui a tué sa famille.
+c508_02	Lame vengeresse_Chandra	Une chamane qui aiguise la lame de sa vengeance pour protéger le village.
+c509_01	Sang écarlate_Strigoï	Un costume classique dont le design\reflète le raffinement de Strigoï.
+c509_02	Immortelle_Strigoï	Un costume blanc pour Strigoï qui dégouline d'élégance et d'opulence.\Rares sont celles qui pourraient le porter comme elle.
+c509_10	Sanglante_Strigoï	La reine des vampires, devenue parfaite\grâce au pouvoir de l'élixir.
+c509_87	Sanglante_Strigoï	On entend un battement d'ailes menaçant dans le château en ruines.
+c509_88	Immortelle_Strigoï	Je suis la dernière soldate et gardienne de ce château maudit.
+c509_89	Sang écarlate_Strigoï	Vous vous tenez à ma porte sans invitation, mais je vous accueille dans ce château maudit.
+c510_01	Adversaire_Kresnik	La tenue de travail d'un chasseur de vampires.\Sans ça, le travail serait très peu attractif.
+c510_02	Martyre_Kresnik	Quand elle chasse les vampires, Kresnik ne peut\empêcher son propre sang de vampire de bouillir.
+c510_10	Fumeuse_Kresnik	Même les chasseuses de vampires\ont besoin de faire une pause, parfois.
+c511_01	Indécise_Philotes	Il pleut parfois le soir en été,\mais ça ne le dérange pas.
+c511_02	Amicale_Philotes	Prenons une cape pour nous protéger,\et partons en balade en cet après-midi pluvieux.
+c512_01	Confiante_Turan	Un imperméable qui redonne le sourire, même en cas de temps humide.
+c512_02	Libérée_Turan	Et si on allait au bout de cet arc-en-ciel ?
+c513_01	Adorée_Akrasia	Une tenue pour Akrasia, dans laquelle réside la lumière de la guérison.
+c513_02	Toute-puissante_Akrasia	Seuls les croyants dévoués\peuvent voir le halo d'Akrasia.
+c513_10	Déesse de la guerre_Akrasia	Akrasia la miséricordieuse prend en main le fouet de l'amour.
+c513_87	Déesse de la guerre_Akrasia	Akrasia la miséricordieuse prend en main le fouet de l'amour.
+c513_88	Toute-puissante_Akrasia	Miséricorde pour les fidèles, jugement pour les traîtres.
+c513_89	Adorée_Akrasia	Levez les yeux, vous qui êtes perdus dans les ténèbres.\Que la lumière brille sur vous.
+c514_01	Arnaqueuse_Duetsha	Quand je rencontre quelqu'un qui m'énerve,\ma batte de baseball préférée commence à s'enflammer.
+c514_02	Trompeuse_Duetsha	Voilà comment je punis les adorateurs de démons qui me provoquent !
+c515_00	_Archimago	
+c516_02	Pulpeuse_Érysichthon	La tenue de combat d'Érysichthon est... \pleine de trous, comme autant de sucreries.
+c517_01	Représailles_Grendel	Tu crois vraiment pouvoir échapper à cette balle ?
+c517_02	Agresseuse_Grendel	Les pistolets de Grendel la démente\ne laissent aucune proie leur échapper.
+c518_01	Malchanceuse_Sunny	
+c520_01	Draconique_Ishimi	Une démone antique dont la vengeance est la seule raison de vivre.
+c520_02	Imitation_Ishimi	Son regard voit à travers les duperies.
+c520_10	Transformation_Ishimi	La forme originale d'Ishimi.\Elle a parfois tendance à oublier qui elle est.
+c520_87	Transformation_Ishimi	Le serpent caché sous l'eau revêtit la corne d'un dragon et s'éleva jusqu'aux cieux.
+c520_88	Imitation_Ishimi	Plus une personne est pure, plus elle est utile.
+c520_89	Draconique_Ishimi	Lorsque je mords une âme,\elle ne peut plus me quitter.
+c521_01	Résistante_Zegati	Combinaison en cuir légère, mais robuste dans laquelle\on peut parcourir des kilomètres.
+c521_02	Libre_Zegati	La façon dont elle s'habille reflète son désir\de vivre une vie libre, sans contrainte.
+c521_10	Torrent_Zegati	Comme les nuages ou la brise,\elle file à toute vitesse.
+c521_87	Torrent_Zegati	Je m'incline devant personne.
+c521_88	Libre_Zegati	Je me sens véritablement moi-même pendant mon temps libre.
+c521_89	Résistante_Zegati	Personne peut me satisfaire.\Je me suffis amplement. Moi seule.
+c522_01	Fonceuse_Dalia	Quand j'ai quelque chose en vue, je n'abandonne jamais.
+c522_02	Chargeuse_Dalia	Les cornes de Dalia, qui représentent\sa détermination sans faille de modifier le destin.
+c523_01	Épiphanie_Nicole	Les collants de Nicole. En hiver, ils gardent ses jambes au chaud.
+c523_02	Réincarnation_Nicole	Traîneau dernier modèle, modifié pour permettre de retrouver un tireur de traîneau en fuite.
+c523_88	Réincarnation_Nicole	Joyeux Noël !\Je vous demande pardon, mais je vous apporterai votre cadeau la prochaine fois.
+c524_01	Polaire_Pépita	Manteau de Pépita, icône \de l'élégance classique de la famille du Père Noël.
+c524_02	Pluie blanche_Pépita	Manteau de Pépita tenant bien chaud à sa propriétaire, \même en plein blizzard.
+c525_01	Prédatrice_Grilla	Vêtements de Grilla la démone, qui voudrait devenir Ô saint cauchemar.
+c525_02	Chute de neige_Grilla	Ailes de cauchemar qu'elle a obtenues après plusieurs siècles d'entraînement intensif.
+c526_01	Sévère_Rani	L'adorable clochette est un cadeau de Papa.\Son tintement est net et agréable à l'oreille.
+c526_02	Tigre noir_Rani	La tenue de combat spéciale de son frère.\Elle n'a pas à s'inquiéter d'être blessée avec ça.
+c526_10	Fille adorée_Rani	Rani adore les fleurs, et donc cette robe.\Pas de doute, c'est bien la benjamine de la famille.
+c526_87	Fille adorée_Rani	Les fleurs tombent comme de la neige...\Serait-ce un cadeau de Papa ?
+c526_88	Tigre noir_Rani	Si tu me cherches,\ma famille te le fera regretter !
+c526_89	Sévère_Rani	Tu veux te prendre une raclée ?\Je te préviens, je suis super forte !
+c527_01	Rusée_Reynard	La queue touffue et élégante de Reynard.\Avec ça, personne ne peut résister à son charme.
+c527_02	Égoïste_Reynard	Une tenue de combat pour la sauvage Reynard.\Elle est incroyablement résistante.
+c529_01	Septentrionale_Kubera	Malgré son apparence négligée, elle est la plus intelligente des exorcistes.
+c529_02	Sage_Kubera	Kubera est destinée à suivre les traces de Merlin l'Enchanteur.
+c530_01	Dame_Kanaloa	Kanaloa avec une apparence simple.\Elle est déguisée en humaine ordinaire.
+c530_02	Sauvage_Kanaloa	Kanaloa en état d'alerte.\Elle sort ses tentacules pour utiliser toute sa puissance.
+c530_10	Bikini_Kanaloa	Kanaloa en maillot de bain. Lorsqu'elle est fatiguée, c'est sa façon de se relaxer.
+c533_01	_Oneiros	
+c537_01	Capitaine_Élysée	Un look marin pour Élysée,\débordante d'enthousiasme et prête à partir.
+c537_02	Libérée_Élysée	Et si on partait en voyage vers le paradis ?
+c538_01	Sagace_Sallos	L'esprit gardien de la sainte relique Chronohoplon.
+c538_02	Salace_Sallos	Des couettes pour être encore plus adorable !
+c539_01	Chaotique_Belial	Belial, pouvoir exécutif du Royaume infernal, passe à l'action dans le Royaume des mortels.
+c539_02	Destructrice_Belial	Une version un peu plus élégante de la tenue de Belial pour son séjour dans le Royaume des mortels.
+c539_10	Exécutrice_Belial	La véritable forme de Belial l'exécutrice. Elle dégage un certain charisme en tant que consule du Royaume infernal.
+c539_87	Exécutrice_Belial	La véritable forme de Belial l'exécutrice. Elle dégage un certain charisme en tant que consule du Royaume infernal.
+c539_88	Destructrice_Belial	Une version un peu plus élégante de la tenue de Belial pour son séjour dans le Royaume des mortels.
+c539_89	Chaotique_Belial	Belial, pouvoir exécutif du Royaume infernal, passe à l'action dans le Royaume des mortels.
+c545_01	Veilleuse_Ariel	Ariel la Veilleuse, qui surveille le Royaume des mortels au nom des cieux.
+c545_02	Messagère_Ariel	Ariel la Messagère, qui accomplit des missions pour les cieux.
+c550_00	_Carol	Comme d'habitude,\Carol est habillée pour la salle d'audience.
+c550_01	Bénie_Scrouge	Le tintement des cloches de Scrooge\est empli de chaleur pour les longues journées d'hiver.
+c550_02	Festive_Scrouge	J'aimerais que Noël se termine jamais...\C'était quoi, son cadeau ?
+c552_01	Lapine noire_Ophois	Une tenue de lapine\obtenue grâce à un bon de costume.
+c552_02	Lapine blanche_Ophois	Une tenue de lapine immaculée\considérée comme symbole de bonne fortune.
+m001_01	Grosse_Pyronoctule	Quelle chaleur !
+m001_02	Énorme_Pyronoctule	Le point faible d'une Pyronoctule est son nombril !
+m002_01	Grosse_Cryonoctule	Ça caille !
+m002_02	Énorme_Cryonoctule	Le point faible d'une Cryonoctule est son nombril !
+m003_01	Ardent_Pyrodragon	Un Pyrodragon colère. Il s'enveloppe de flammes pour se protéger.
+m003_02	Féroce_Pyrodragon	Un Pyrodragon colère. Ne laissez pas les flammes détourner\votre attention des rayures sur son armure (il y a passé du temps).
+m004_01	Stoïque_Cryodragon	Un Cryodragon sans pitié. Il s'enveloppe de glace pour se protéger.
+m004_02	Glacial_Cryodragon	Un Cryodragon sans pitié. Repérez les rayures sur armure de glace\(il y a passé du temps).
+m005_01	_Félimiam	Un Félimiam en peluche.
+m005_02	_Féliglouton	Un Féliglouton en peluche. Si vous tenez à votre main,\ne touchez pas à ses bonbons.
+m006_01	Bruyant_Oreillard	Un Oreillard tapageur.
+m006_02	Loufoque_Oreillard	Un Oreillard fou. Bavoir en option.
+m007_00	_Teddy	Animal en peluche maudit au nom incongru de "Teddy".
+m007_01	Piteux_Teddy	Teddy, l'animal en peluche maudit.\La partie déchirée de sa tête donne accès à son âme.
+m007_02	Chaotique_Roi Teddy	Teddy, l'animal en peluche maudit.\La fermeture éclair empêche les esprits vengeurs de sortir.
+m008_01	Doucereuse_Gélatine	Un amas de gélatine animé. Son véritable corps est le noyau à l'intérieur.
+m008_02	Doucereuse_Gelée	Un amas de gelée animé. Attention, l'humidité pourrait le faire fondre !
+m009_01	Pétillante_Gélatine	Un amas de gélatine animé. Son véritable corps est le gros globe oculaire.
+m009_02	Pétillante_Gelée	Un amas de gelée animé. Si vous l'exposez à l'eau,\vous aurez des surprises !
+m010_01	Pétillant_Amorphe	Une créature née d'un flan au goût de myrtille.
+m010_02	Pétillant_Toximorphe	Une créature née d'un flan empoisonné au goût de myrtille.
+m011_01	Doucereux_Amorphe	Une créature née d'un flan au goût de fraise.
+m011_02	Doucereux_Toximorphe	Une créature née d'un flan empoisonné au goût de fraise.
+m012_01	Éphémère_Dondon	Un Dondon éphémère qui s'assèche au bout d'un an.
+m012_02	Perpétuel_Dondon	Un Dondon perpétuel qui change de couleur à l'automne.
+m013_01	Goulu_Fantoche	Une poupée de chiffon vendue avec des carottes.
+m013_02	Insatiable_Fantoche	Cette poupée de chiffon a perdu ses carottes, mais son prix a quand même augmenté.
+m015_01	Ardent_Fennec	Un Fennec ailé, né sous la chaleur du soleil.
+m015_02	Féérique_Fennec	Un Fennec ailé qui s'est changé en fée.
+m017_01	Justicier_Dipode	Un Dipode justicier à l'apparence duveteuse.
+m017_02	Vertueux_Dipode	Un Dipode vertueux à l'apparence duveteuse. Son véritable corps se limite à ses pieds.
+m018_01	Inéluctable_Pom	Cette créature est faite uniquement de poils naturellement bouclés.
+m018_02	Fatidique_Pom	Vous pouvez le teindre, mais impossible de le défriser.
+m021_01	Paresseux_Baudet	Ce Baudet paresseux adore tuer le temps en faisant des sifflets avec des brins d'herbe.
+m021_02	Hédoniste_Baudet	Ce Baudet incorrigible a découvert les plaisirs de la vie.
+m022_01	Libre_Canis	"Les cicatrices sont le signe d'un véritable guerrier."\L'apparence de combat d'un esprit canin un peu vieux jeu.
+m022_02	Docile_Canis	"La loyauté est un privilège réservé aux chiens."\Une apparence de combat faite pour les esprits canins fidèles.
+m023_01	Végétal_Lézarque	Ce Lézarque a été découvert pour la première fois dans une ville polluée.
+m023_02	Rocheux_Lézarque	Ce Lézarque a été découvert pour la première fois dans les ruines d'une ville abandonnée.
+m025_01	Guerrière_Baie	La partie la plus sucrée de la fraise, c'est son extrémité.
+m025_02	Ravageuse_Baie	Cette baie est tout sauf sucrée...
+m026_01	Paresseux_Poussin	Attention à ne pas emporter ce Poussin paresseux\quand vous passez le balai.
+m026_02	Paresseux_Multipoussin	Ces Poussins paresseux se sont rassemblés pour former un ensemble parfait.
+m026_10	Été_Poussin	Lunettes de soleil prisées des poussins paresseux quand ils vont buller à la plage.
+m027_01	Graine de Mandragore	L'apparence de combat de la Graine de mandragore. Elle ne convient pas à tout le monde.
+m027_02	_Mandragore	L'apparence de combat de la Mandragore. Je ne pense pas que ça m'irait...
+m028_01	Ouro_furet	L'apparence de combat de l'Ourofuret. Portez-le autour de votre cou pour rester au chaud tout l'hiver.
+m028_02	Ouro_tigre	L'apparence de combat de l'Ourotigre. Enroulez-le autour de votre taille pour vous réchauffer.
+m029_01	Lumineux_Croc	L'apparence de combat du Croc lumineux, qui brille dans le noir.
+m029_02	Flamboyant_Croc	L'apparence de combat du Croc flamboyant. Les flammes bleues produisent une chaleur extrême.
+m030_01	Verte_Sphère	L'apparence de combat de la Sphère verte, faite d'émeraude véritable.
+m030_02	Verdoyante_Sphère	L'apparence de combat de la Sphère verdoyante, faite d'émeraude raffinée.
+m031_01	Morne_Souche	L'apparence de combat d'une souche très généreuse.\Elle est en piteux état.
+m031_02	Vieille_Souche	L'apparence de combat de la vieille Souche. Les piverts sont ses ennemis, pas ses armes.
+m035_01	Barbare_Gremlin	Un casque plus gros que l'estomac d'un Gremlin.
+m035_02	Chef_Gremlin	Un casque plus gros que l'estomac d'un Gremlin.\Les plumes tape-à-l'œil représentent le statut de la créature.
+m036_01	Éloquent_Messager	L'apparence de combat du Messager, qui diminue le volume de votre voix.
+m036_02	Mortel_Messager	L'apparence de combat du Messager, qui augmente le volume de votre voix.
+m037_01	Obscur_Traqueur	L'apparence de combat du Traqueur. Je jurerais en avoir déjà vu un dans une ruelle sombre...
+m037_02	Cauchemardesque_Traqueur	L'apparence de combat du Traqueur. Un jour, j'ai rêvé que des démons paresseux me pourchassaient.
+m038_00	Akihiko_Akabane	Une tenue d'exorciste décontractée trouvée dans une ruelle du Royaume des mortels.
+m038_01	Angélique_Diablo	Les quatre yeux étincelants de Diablo voient ce que vous désirez.
+m038_02	Maléfique_Diablo	Les six yeux étincelants de Diablo voient vos instincts les plus primaires.
+m038_10	Funeste_Diablo	Ceux qui sont nés du mal doivent respecter les lois du mal.\Une fleur maléfique réincarnée. Tout ce que vous voyez est intentionnel.
+m039_01	Féroce_Kali Yuga	L'apparence de Kali Yuga ne laisse aucun doute quant à sa férocité.
+m039_02	Bestial_Kali Yuga	L'apparence de Kali Yuga ne laisse aucun doute quant à sa brutalité sauvage.
+m040_00	Isao_Takusari	L'apparence ordinaire du Tueur aux chaînes âgé.
+m040_01	Ordinaire_Tueur aux chaînes	L'apparence de combat du Tueur aux chaînes aux vices incontrôlables.
+m040_02	Menaçant_Tueur aux chaînes	L'apparence de combat du Tueur aux chaînes spirituellement éveillé.
+m045_00	Junko_Takeuchi	La tenue d'une femme qui se languit du parfum mélancolique des fleurs.
+m045_01	Solitaire_Bouquet	Une créature née du bouquet d'une femme trahie.
+m045_02	Obsessionnel_Bouquet	Une créature née du bouquet d'une femme vindicative.
+m047_01	Mystérieux_Œuf-surprise	L'apparence de combat du mystérieux Œuf-surprise.\Son véritable corps est un mystère... et un œuf.
+m047_02	Étonnant_Œuf-surprise	L'apparence de combat de l'étonnant Œuf-surprise.\Son véritable corps est un poussin féroce à peine éclos.
+m048_01	Peureux_Lapinou	L'adorable arrière-train d'un petit lapin.
+m048_02	Téméraire_Lapinou	Ne vous fiez surtout pas à son apparence adorable !
+m049_00	Tetsuji_Akiyama	Une tenue décontractée empreinte de l'obsession d'un mathématicien repoussant.
+m049_01	Vieux_Sac d'os	L'apparence de combat de Sac d'os, qui a une veine de pendu.
+m049_02	Fringant_Sac d'os	L'apparence de combat de Sac d'os, qui a une veine de pendu.\Comment arrive-t-il à combattre comme ça ?
+m050_00	Akio_Yamaguchi	La tenue portée généralement par le maraîcher célibataire du quartier.
+m050_01	Matinale_Guillotine	Rien ne me procure plus de joie que d'utiliser ma guillotine. Des volontaires ?
+m050_02	Zénithale_Guillotine	Rien ne me procure plus de joie que d'utiliser ma guillotine.\Si vous avez besoin de couper une tête, vous savez où me trouver.
+m051_00	Wakako_Kyogoku	Une tenue de bureau extrêmement malchanceuse, parfois hantée par la Faucheuse.
+m051_01	Frénétique_Hadès	L'apparence de combat d'Hadès, qui n'a pas de forme physique.\Seules sa tête et ses ailes ont échappé aux flammes.
+m051_02	Expiatoire_Hadès	L'apparence de combat d'Hadès, qui n'a pas de forme physique.\Sa chaleur est telle qu'on se brûle au moindre contact.
+m051_10	Fatale_Hadès	Une impasse pour Hadès, encore plus proche des ténèbres.
+m052_01	Accablant_Basilic	Ce Basilic à écailles est parfaitement adapté aux environnements désertiques.
+m052_02	Inexpugnable_Basilic	Ce Basilic évolué prétend que ses écailles le rendent invincible.
+m053_00	Enka_Mizukami	Passeuse de pacte d'Hydre. \Protège les petits et les faibles de ses poings.
+m053_01	Chaotique_Hydre	Monstre découvert à l'école pour filles Saint Michael et dont on ignore tout.
+m053_02	Avide_Hydre	Capable de mener une conversation simple... les bons jours.
+m054_00	Morishige_Mariko	La tenue de travail d'une enseignante aguerrie.
+m054_01	Juge_Gomorrhe	Gomorrhe est énervée et dégage une odeur de soufre.
+m054_02	Implacable_Gomorrhe	Gomorrhe est énervée et brûle des feux de l'enfer.
+m056_00	Makiko_Manyuda	La tenue ordinaire de la passeuse de pacte d'Abaddon. Elle a quelque chose de suspect...
+m056_01	Infâme_Abaddon	L'apparence de combat d'Abaddon. Son âme se trouve quelque part dans le canon de ses armes.
+m056_02	Artilleur_Abaddon	L'apparence de combat d'Abaddon. Pourquoi une machine de combat aurait-elle besoin d'une âme ?
+m057_00	Kotaro_Kurotatsu	Même les démons les plus affamés se sentent mieux en voyant cet uniforme.
+m057_01	Vespéral_Iâh	Avec ces écailles bleutées, Iâh se fond dans la nuit.
+m057_02	Ténébreux_Iâh	Avec ces écailles bleutées, Iâh disparaît dans l'ombre des nuages.
+m057_10	Nuit d'azur_Iâh	Les nuits d'azur, le sombre dragon prend forme humaine...
+m059_00	_Vis	Cette vis pointue a gagné l'âme de Bazooka après être rentrée dans le talon d'un démon.
+m059_01	Recrue_Bazooka	Un casque solide pour Bazooka.\On n'est jamais trop prudent.
+m059_02	Soldat_Bazooka	Un casque très robuste pour Bazooka. Attention aux balles perdues.
+m061_01	Doucereuse_Seringue	Une seringue remplie de jus de fraise.
+m061_02	Doucereuse_Seringue	Une seringue remplie de jus de fraise, avec de la pulpe de fraise en plus.
+m062_01	Juteuse_Seringue	Une seringue remplie de jus de raisin.
+m062_02	Juteuse_Seringue	Une seringue remplie de jus de raisin.\Pour plus de texture, le jus contient de la peau de raisin râpée.
+m063_00	_Seringue	Vous avez trouvé l'une des seringues usagées de Déméter dans un hôpital abandonné.
+m063_01	Toxique_Ampoule	Une apparence de combat qui rend les alliés d'Ampoule plus forts.
+m063_02	Pernicieuse_Ampoule	Une apparence de combat qui rend les alliés d'Ampoule plus forts. Attention à ne pas renforcer les ennemis en même temps.
+m064_01	Porcelet_Pikli	Pikli, le porcelet à la peau brillante.
+m064_02	Porcelet_Pikli enrubanné	Le ruban donne un air dynamique à Pikli.
+m065_01	Porcelet_Kokli	Kokli, le porcelet à la peau étincelante.
+m065_02	Porcelet_Kokli enrubanné	Le ruban donne un air fringant à Kokli.
+m066_01	Porcelet_Kikli	Kikli, le porcelet à la peau rose.
+m066_02	Porcelet_Kikli enrubanné	Le ruban donne un air chaleureux à Kikli.
+m067_01	Aquatique_Graine	Une Graine aquatique qui émet une aura humide.
+m067_02	Aquatique_Esprit	Un esprit de l'eau qui est né de la plantation d'une Graine aquatique.
+m068_01	Sombre_Graine	Une Graine sombre qui émet une aura nocturne.
+m068_02	Sombre_Esprit	Un esprit de la nuit qui est né de la plantation d'une Graine sombre.
+m069_01	Lumineuse_Graine	Une Graine lumineuse qui émet une aura matinale.
+m069_02	Lumineux_Esprit	Un esprit de l'aube qui est né de la plantation d'une Graine lumineuse.
+m070_01	Répressive_Chaîne rouge	Une chaîne qui a capturé une âme de feu.
+m070_02	Libératrice_Chaîne rouge	Une chaîne qui a libéré une âme de feu.
+m071_01	Répressive_Chaîne verte	Une chaîne qui a capturé une âme forestière.
+m071_02	Libératrice_Chaîne verte	Une chaîne qui a libéré une âme forestière.
+m072_01	Répressive_Chaîne bleue	Une chaîne qui a capturé une âme océanique.
+m072_02	Libératrice_Chaîne bleue	Une chaîne qui a libéré une âme océanique.
+m073_01	Bienfaisant_Cubik	L'apparence de combat angulaire du Cubik bienfaisant.\Ne marchez pas dessus.
+m073_02	Bienfaisant_Cubik	L'apparence de combat angulaire du Cubik bienfaisant.\Ne marchez surtout pas dessus.
+m074_01	Toxique_Cubik	L'apparence de combat agaçante du Cubik toxique.\Attention à ne pas marcher dessus en pleine nuit.
+m074_02	Toxique_Cubik	L'apparence de combat agaçante du Cubik toxique.\Attention à ne pas marcher pendant une crise de somnambulisme.
+m075_01	Aquatique_Cubik	L'apparence de combat humide du Cubik aquatique.\Il rafraîchit quand on marche dessus.
+m075_02	Aquatique_Cubik	L'apparence de combat humide du Cubik aquatique.\Il rafraîchit beaucoup quand on marche dessus.
+m076_01	Mielleux_Cubik	L'apparence de combat lumineuse du Cubik mielleux.\Pratique pendant les coupures de courant.
+m076_02	Mielleux_Cubik	L'apparence de combat lumineuse du Cubik mielleux.\Peut aussi servir de lampe de poche.
+m077_01	Cube_Moa	La combinaison de plusieurs cubes mobiles.
+m077_02	Colossal_Moa	La combinaison de plusieurs cubes mobiles.\Encore plus bruyants qu'avant.
+m077_10	Morne_Moa	La ténacité de Moa, jusqu'ici cachée, enfin déchaînée.
+m078_01	Verdoyant_Cocon	Le cocon d'une fée née d'une émeraude.
+m078_02	Verdoyante_Chrysalide	Une chrysalide féérique faite d'émeraude.
+m080_01	Flamboyant_Cocon	Le cocon d'une fée née d'un rubis.
+m080_02	Flamboyante_Chrysalide	Une chrysalide féérique faite de rubis.
+m081_01	Lumineux_Cocon	Le cocon d'une fée née d'une citrine.
+m081_02	Lumineuse_Chrysalide	Une chrysalide féérique faite de citrine.
+m082_01	Cérulescent_Cocon	Le cocon d'une fée née d'un saphir.
+m082_02	Cérulescente_Chrysalide	Une chrysalide féérique faite de saphir.
+m083_01	Sombre_Cocon	Le cocon d'une fée née d'une améthyste.
+m083_02	Sombre_Chrysalide	Une chrysalide féérique faite d'améthyste.
+m084_01	Pi_Cubik	L'apparence de combat flamboyante du Cubik pi.\Le toucher fait passer le temps plus vite.
+m084_02	Pi_Cubik	L'apparence de combat flamboyante du Cubik pi.\Il tient dans la poche.
+m086_01	Répressive_Chaîne lumineuse	Une chaîne qui a capturé une âme de luciole.
+m086_02	Libératrice_Chaîne lumineuse	Une chaîne qui a libéré une âme de luciole.
+m087_01	Répressive_Chaîne sombre	Une chaîne qui a capturé une âme d'ombre.
+m087_02	Libératrice_Chaîne sombre	Une chaîne qui a libéré une âme d'ombre.
+m089_01	Porcelet_Mikli	Mikli, le porcelet à la peau sensible.
+m089_02	Porcelet_Mikli enrubanné	Le ruban donne un air cool à Mikli.
+m090_01	Porcelet_Fikli	Fikli, le porcelet à la peau terne.
+m090_02	Porcelet_Fikli enrubanné	Le ruban ajoute une touche de confort à Fikli.
+m092_01	Rafraîchissante_Seringue	Une seringue remplie de sirop de menthe.
+m092_02	Rafraîchissante_Seringue	Une seringue remplie de sirop de menthe. N'oubliez pas vos vaccins !
+m093_01	Automnale_Seringue	Une seringue lumineuse remplie de jus de pomme.
+m093_02	Automnale_Seringue	Une seringue lumineuse remplie de jus de pommes d'automne.
+m095_01	Pétillante_Seringue	Une seringue remplie de soda limpide.
+m095_02	Pétillante_Seringue	Une seringue remplie de soda.
+m096_01	Lumineuse_Sphère	L'apparence de combat de la Sphère lumineuse, faite de citrine.
+m096_02	Éclatante_Sphère	L'apparence de combat de la Sphère éclatante, faite de citrine raffinée.
+m097_01	Aquatique_Sphère	L'apparence de combat de la Sphère aquatique, faite de saphir véritable.
+m097_02	Océanique_Sphère	L'apparence de combat de la Sphère océanique, faite de saphir raffiné.
+m098_01	Sombre_Sphère	L'apparence de combat de la Sphère sombre, faite d'améthyste véritable.
+m098_02	Ténébreuse_Sphère	L'apparence de combat de la Sphère ténébreuse, faite d'améthyste raffinée.
+m100_01	Ardente_Sphère	L'apparence de combat de la Sphère ardente, faite de rubis véritable.
+m100_02	Flamboyante_Sphère	L'apparence de combat de la Sphère flamboyante, faite de rubis raffiné.
+m101_01	Petite_Gouttelette rouge	L'apparence de combat de la Gouttelette rouge. Elle a le goût délicieux de l'eau d'une meule à aiguiser.
+m101_02	Grosse_Gouttelette rouge	L'apparence de combat de la grosse Gouttelette rouge. Elle a le goût délicieux d'une vive sensation.
+m102_01	Petite_Gouttelette bleue	L'apparence de combat de la Gouttelette bleue. Elle a le goût délicieux du flegme.
+m102_02	Grosse_Gouttelette bleue	L'apparence de combat de la grosse Gouttelette bleue. Elle a le goût délicieux du malaise.
+m103_01	Petite_Gouttelette jaune	L'apparence de combat de la Gouttelette jaune. Elle a le goût délicieux de l'acidité.
+m103_02	Grosse_Gouttelette jaune	L'apparence de combat de la grosse Gouttelette jaune. Elle a le goût délicieux de l'aigreur.
+m104_01	Petite_Gouttelette violette	L'apparence de combat de la Gouttelette violette. Elle a le goût délicieux de l'austérité.
+m104_02	Grosse_Gouttelette violette	L'apparence de combat de la grosse Gouttelette violette. Elle a le goût délicieux de l'amertume.
+m105_01	Petite_Gouttelette verte	L'apparence de combat de la Gouttelette verte. Elle a le goût délicieux de la fraîcheur.
+m105_02	Grosse_Gouttelette verte	L'apparence de combat de la grosse Gouttelette verte. Elle a le goût délicieux du rafraîchissement.
+m107_01	Verdoyante_Graine	Une Graine verdoyante qui émet une aura végétale.
+m107_02	Verdoyant_Esprit	Un esprit des plaines qui est né de la plantation d'une Graine verdoyante.
+m109_01	Ardente_Graine	Une Graine ardente qui émet une aura enflammée.
+m109_02	Ardent_Esprit	Un esprit des flammes qui est né de la plantation d'une Graine ardente.
+m110_01	_Veron	Une apparence de combat née des envies folles de Veron.
+m110_02	Veron_Veron	Une apparence de combat née des envies folles de Veron.\Encore une fois, Veron rêve d'agriculture.
+m111_01	_Feuron	Une apparence de combat née des envies folles de Feuron.
+m111_02	Feuron_Feuron	Une apparence de combat née des envies folles de Feuron.\Encore une fois, Feuron rêve chaudes journées.
+m112_01	_Bleuron	Une apparence de combat née des envies folles de Bleuron.
+m112_02	Bleuron_Bleuron	Une apparence de combat née des envies folles de Bleuron.\Encore une fois, Bleuron rêve de rivières cristallines.
+m113_01	_Noiron	Une apparence de combat née des envies folles de Noiron.
+m113_02	Noiron_Noiron	Une apparence de combat née des envies folles de Noiron.\Encore une fois, Noiron rêve de l'espace.
+m114_01	_Luron	Une apparence de combat née des envies folles de Luron.
+m114_02	Luron_Luron	Une apparence de combat née des envies folles de Luron.\Encore une fois, Luron rêve de grandeur.
+m116_01	Défenseur_Cador	Ne vous laissez pas duper par ses oreilles. En réalité, ce sont les poings de fer de Cador.
+m116_02	Champion_Cador	Je parie que ces gants et cette ceinture de champion se vendraient à un bon prix...
+m117_01	Pantin_Mistigri	Ce chat est un faux !
+m117_02	Démon_Mistigri	Le véritable corps de ce chat se cache dans l'ombre.
+m118_01	Incisif_Assaillant	L'Assaillant silencieux, armé de son sabre tranchant.
+m118_02	Persévérant_Assaillant	L'Assaillant silencieux, armé de son shuriken acéré.
+m119_01	Incisif_Ninja	Le Ninja solitaire, armé de son sabre tranchant.
+m119_02	Persévérant_Ninja	Le Ninja solitaire, armé de son shuriken acéré.
+m120_01	Incisif_Assassin	L'Assassin implacable, armé de son sabre tranchant.
+m120_02	Persévérant_Assassin	L'Assassin implacable, armé de son shuriken acéré.
+m121_01	Incisif_Guerrier	Le Guerrier honnête, armé de son sabre tranchant.
+m121_02	Persévérant_Guerrier	Le Guerrier honnête, armé de son shuriken acéré.
+m123_01	Incisif_Spectre	Le Spectre redoutable, armé de son sabre tranchant.
+m123_02	Persévérant_Spectre	Le Spectre redoutable, armé de son shuriken acéré.
+m124_01	Ardent_Veilleur	Un Veilleur né des feux de l'enfer.
+m124_02	Infernal_Veilleur	Un Veilleur né des flammes du purgatoire.
+m125_01	Frémissant_Veilleur	Un Veilleur né de la fraîcheur de la neige.
+m125_02	Glacial_Veilleur	Un Veilleur né du gel de la reine des glaces.
+m126_01	Sombre_Veilleur	Un Veilleur né du tissu confectionné par une sorcière.
+m126_02	Ténébreux_Veilleur	Un Veilleur né des yeux d'un démon.
+m127_01	Palustre_Veilleur	Un Veilleur né d'un marécage maudit.
+m127_02	Vénéneux_Veilleur	Un Veilleur né d'une plante démoniaque vénéneuse.
+m128_01	Lumineux_Veilleur	Un Veilleur né des yeux d'une bête sauvage.
+m128_02	Éclatant_Veilleur	Un Veilleur né des griffes du soleil.
+m130_01	Ardent_Globule	L'apparence de combat de Globule, trouvée dans la boîte d'un diable à ressort. Elle est encore chaude.
+m130_02	Flamboyant_Globule	La bouche du Globule flamboyant est un portail menant à son lieu de naissance, le cœur d'un volcan.
+m131_01	Humide_Globule	L'apparence de combat de Globule, trouvée dans la boîte d'un diable à ressort. Elle est encore fraîche.
+m131_02	Aquatique_Globule	La bouche du Globule aquatique est un portail menant à son lieu de naissance, la mare aux canards.
+m132_01	Végétal_Globule	L'apparence de combat de Globule, trouvée dans la boîte d'un diable à ressort. Elle est encore crue.
+m132_02	Verdoyant_Globule	La bouche du Globule verdoyant est un portail menant à son lieu de naissance, les plaines du Mexique.
+m133_01	Lumineux_Globule	L'apparence de combat de Globule, trouvée dans la boîte d'un diable à ressort. Elle est encore brillante.
+m133_02	Éclatant_Globule	La bouche du Globule éclatant est un portail menant à son lieu de naissance, les taches noires du soleil.
+m134_01	Sombre_Globule	L'apparence de combat de Globule, trouvée dans la boîte d'un diable à ressort. Elle a l'air ancienne.
+m134_02	Ténébreux_Globule	La bouche du Globule ténébreux est un portail menant à son lieu de naissance, la fosse commune.
+m136_00	Katsuko_Kagiwada	Vous avez trouvé la tenue décontractée de Lady dans un parc d'attractions abandonné.
+m136_01	Captive_Lady	Les entraves de Lady. Ne brisez pas le sceau...
+m136_02	Démente_Lady	Les entraves de Lady. Veillez à ce qu'elles soient bien fermées pour contenir toute sa fureur.
+m137_01	Pimpant_Groom	Quelle idée de combattre avec un nœud papillon, mais sans haut-de-forme ?
+m137_02	Dément_Groom	N'oubliez pas les bonnes manières, même au combat.\Tout le monde sait qu'un vrai gentleman porte des bretelles.
+m137_10	Gardien des tombes_Groom	Surveillance permanente pour s'assurer que les restes ne sont pas déterrés.
+m139_01	Brillante_Gouttelette d'Aurore	La splendide armure gélatineuse de la Gouttelette d'Aurore.
+m141_00	Munetaka_Mushikabe	Cet appareil photo renferme des secrets qu'il vaut mieux ne pas connaître.
+m141_01	Onirique_Halloween	Un monstre démoniaque né des cauchemars d'Halloween.
+m141_02	Cauchemardesque_Halloween	Un faux monstre né des élucubrations d'Halloween. Il ne fait que jeter de la poudre aux yeux.
+m142_01	Ardente_Vengeresse	La tenue de combat rouge de Vengeresse, dont la couleur symbolise sa colère.
+m142_02	Flamboyante_Vengeresse	La tenue de combat rouge de Vengeresse, dont la couleur symbolise son sang.
+m143_01	Aquatique_Vengeresse	La tenue de combat bleue de Vengeresse, dont la couleur symbolise son chagrin.
+m143_02	Déferlante_Vengeresse	La tenue de combat bleue de Vengeresse, dont la couleur symbolise la peine qui emplit son cœur.
+m144_01	Verte_Vengeresse	La tenue de combat verte de Vengeresse, dont la couleur symbolise son animosité.
+m144_02	Verdoyante_Vengeresse	La tenue de combat verte de Vengeresse, dont la couleur symbolise son dépit.
+m145_01	Lumineuse_Vengeresse	La tenue de combat dorée de Vengeresse, dont la couleur symbolise son châtiment.
+m145_02	Aveuglante_Vengeresse	La tenue de combat dorée de Vengeresse, dont la couleur symbolise sa violence.
+m146_01	Sombre_Vengeresse	La tenue de combat violette de Vengeresse, dont la couleur symbolise sa malédiction.
+m146_02	Ténébreuse_Vengeresse	La tenue de combat violette de Vengeresse, dont la couleur symbolise sa rancœur.
+m148_01	Résonnant_Charivari	Le haut-parleur résonnant de Charivari. Impossible de régler le volume.
+m148_02	Fracassant_Charivari	Le haut-parleur fracassant de Charivari. Le bien le plus précieux du démon indigent.
+m149_01	DJ_Hertz	Vous avez trouvé le clavier de Hertz dans une boîte de nuit du Royaume des mortels.
+m149_02	Showman_Hertz	Vous avez trouvé la platine de Hertz dans une boîte de nuit du Royaume infernal.
+m150_01	Faux_Mille	L'apparence de combat de Mille, qui a la bonté de montrer son point faible.
+m150_02	Crucial_Mille	L'apparence de combat implacable de Mille. Le seul moyen de gagner, c'est de faire face à l'adversaire !
+m151_01	Lapin fou_Malabar	L'apparence ordinaire du lapin fou.
+m151_02	Lapin fou_Goliath	L'apparence éveillée du lapin fou.
+m152_01	Basket_Combattant	Ne vous laissez pas duper par ses grandes oreilles. Les poings de Basket le combattant semblent être faits de fer.
+m152_02	Basket_Champion	Ne vous laissez pas duper par ses adorables oreilles. Les poings de Basket le champion semblent être faits de fer.
+m152_10	Minuit_Combattant	Si vous voyez des oreilles de lapin, cachez-vous. Ses poings dangereux peuvent transpercer les ténèbres.
+m153_01	Terrifiant_Manti	Manti, né des cauchemars d'une certaine personne, avec ses bras semblables à des faux.
+m153_02	Cauchemardesque_Manti	Manti, né des cauchemars d'un homme malheureux, avec ses bras semblables à des faux.
+m154_00	Yano_Mayomi	Vloggeuse à la langue acérée.
+m154_01	Ténébreux_Gungnir	Le noir est incorruptible, c'est la couleur ultime de la justice ! \Ailes noires imprégnées de la volonté de Gungnir.
+m154_02	Ardent_Gungnir	Le rouge, tel le sang coulant dans les veines, est la couleur ultime de la justice ! \Ailes rouges imprégnées de l'obsession de Gungnir.
+m155_01	Petite_Goutte rouge	L'apparence de combat de la Goutte rouge, créée par Davi avec du ketchup.
+m155_02	Petite_Goutte rouge	La force d'âme dont Davi a imprégné le ketchup donne de l'énergie à la Goutte rouge.
+m156_01	Petite_Goutte jaune	L'apparence de combat de la Goutte jaune, créée par Davi avec des coquilles d'œuf brisées.
+m156_02	Petite_Goutte jaune	La tristesse dont Davi a imprégné les coquilles donne de l'énergie à la Goutte jaune.
+m157_01	Petite_Goutte verte	L'apparence de combat de la Goutte verte, créée par Davi avec des restes d'épinards.
+m157_02	Petite_Goutte verte	La détresse dont Davi a imprégné les épinards donne de l'énergie à la Goutte verte.
+m158_01	Petite_Goutte bleue	L'apparence de combat de la Goutte bleue, créée par Davi avec de l'eau renversée.
+m158_02	Petite_Goutte bleue	Le regret dont Davi a imprégné l'eau donne de l'énergie à la Goutte bleue.
+m159_01	Petite_Goutte violette	L'apparence de combat de la Goutte violette, créée par Davi avec de la peau de raisin.
+m159_02	Petite_Goutte violette	L'envie de meurtre dont Davi a imprégné la peau de raisin donne de l'énergie à la Goutte violette.
+m160_01	Petite_Goutte d'Aurore	L'adorable armure gélatineuse de la Goutte d'Aurore.
+m160_02	Petite_Goutte d'Aurore	L'adorable armure gélatineuse de la Goutte d'Aurore, créée par Davi avec amour.
+m161_01	Petite_Larme rouge	Vous avez trouvé une petite Larme rouge dans un sac de bonbons caché par Davi.
+m161_02	Petite_Larme rouge	Vous avez trouvé une petite Larme rouge dans un sac de bonbons caché par Davi.
+m162_01	Petite_Larme jaune	Vous avez trouvé une petite Larme jaune dans un tas de pétales oublié par Apollon.
+m162_02	Petite_Larme jaune	L'apparence de combat de la petite Larme jaune. On dit qu'elle a été faite avec une étoile filante.
+m163_01	Petite_Larme verte	Vous avez trouvé une petite Larme verte dans des épinards jetés discrètement par Davi.
+m163_02	Petite_Larme verte	L'apparence de combat de la petite Larme verte. On dit qu'elle provient d'un garde du palais d'Émeraude.
+m164_01	Petite_Larme bleue	Vous avez trouvé une petite Larme bleue dans l'un des flacons de parfum de Lisa.
+m164_02	Petite_Larme bleue	L'apparence de combat de la petite Larme bleue. On dit qu'elle a été trouvée dans un glacier.
+m165_01	Petite_Larme violette	Un jour d'orage, une petite Larme violette est tombée du ciel.
+m165_02	Petite_Larme violette	Un jour d'orage, une petite Larme violette est tombée de la Voie lactée.
+m166_01	Petite_Larme d'Aurore	En réalité, Mona ne l'a pas trouvée dans un glacier de l'Antarctique.
+m166_02	Petite_Larme d'Aurore	Peut-être qu'on l'a vraiment trouvée dans un glacier de l'Antarctique...
+m167_01	Petit_Cœur rouge	L'armure gélatineuse rose du Cœur rouge.
+m167_02	Petit_Cœur rouge	L'armure gélatineuse rose du Cœur rouge. Le cœur symbolise mon amour.
+m168_01	Petit_Cœur jaune	L'armure gélatineuse brillante du Cœur jaune.
+m168_02	Petit_Cœur jaune	L'armure gélatineuse brillante du Cœur jaune. Elle peut aussi servir de lampe pour la salle à manger.
+m169_01	Petit_Cœur vert	L'armure gélatineuse rafraîchissante du Cœur vert.
+m169_02	Petit_Cœur vert	L'armure gélatineuse rafraîchissante du Cœur vert. Parfaite pour consoler un démon abattu.
+m170_01	Petit_Cœur bleu	L'armure gélatineuse humide du Cœur bleu.
+m170_02	Petit_Cœur bleu	L'armure gélatineuse humide du Cœur bleu. Protège la peau épaisse des démons.
+m171_01	Petit_Cœur violet	L'armure gélatineuse douce du Cœur violet.
+m171_02	Petit_Cœur violet	L'armure gélatineuse douce du Cœur violet. Parfaite pour soulager l'insomnie.
+m172_01	Petit_Cœur d'Aurore	L'armure gélatineuse du Cœur d'Aurore, qui brille comme l'aurore.
+m172_02	Petit_Cœur d'Aurore	L'armure gélatineuse aux couleurs de l'aurore du Cœur d'Aurore. Il est très taquin.
+m173_01	Gros_Cœur rouge	L'armure gélatineuse rose du Cœur rouge. Solennelle et morose.
+m173_02	Gros_Cœur rouge	L'armure gélatineuse rose du Cœur rouge. Sa chaleur est insupportable.
+m174_01	Gros_Cœur jaune	L'armure gélatineuse brillante du Cœur jaune. Elle bout presque de colère.
+m174_02	Gros_Cœur jaune	L'armure gélatineuse brillante du Cœur jaune. La lumière de l'espoir brille en son sein.
+m175_01	Gros_Cœur vert	L'armure gélatineuse rafraîchissante du Cœur vert. Elle s'attache aux démons les plus faibles.
+m175_02	Gros_Cœur vert	L'armure gélatineuse rafraîchissante du Cœur vert. Elle sent la nature.
+m176_01	Gros_Cœur bleu	L'armure gélatineuse humide du Cœur bleu. Elle chante une chanson.
+m176_02	Gros_Cœur bleu	L'armure gélatineuse humide du Cœur bleu. Elle chante l'hymne de la victoire.
+m177_01	Gros_Cœur violet	L'armure gélatineuse douce du Cœur violet. C'est une solitaire.
+m177_02	Gros_Cœur violet	L'armure gélatineuse douce du Cœur violet. Solitaire ou pas, elle refuse de pleurer de tristesse.
+m178_01	Gros_Cœur d'Aurore	L'armure gélatineuse du Cœur d'Aurore, qui brille comme l'aurore.
+m178_02	Gros_Cœur d'Aurore	L'armure gélatineuse du Cœur d'Aurore, qui brille comme l'aurore. Ses épaules ne sont jamais tendues, puisqu'il n'en a pas.
+m185_01	Silencieux_Actéon	La forme standard d'Actéon, protecteur des vierges.
+m185_02	Solitaire_Actéon	Actéon une fois qu'il a vu sa puissance augmenter grâce à la bénédiction de Diane.
+m185_10	Nuit Noire_Actéon	Le cuir d'Actéon qui protège la forêt dans la nuit silencieuse.
+m187_01	Errant_Dagon	L'apparence de Dagon après qu'il a atteint l'éveil spirituel de la haute mer.
+m187_02	Vagabond_Dagon	L'apparence de Dagon après qu'il a atteint l'éveil spirituel des abysses.
+m188_01	Antique_Denier	L'apparence de combat d'une pièce d'or frappée du visage d'un souverain antique.
+m188_02	Cupide_Denier	Réjouissez-vous, car celui qui a distribué cette pièce n'est autre que le seigneur Mammon !
+m189_01	Surprenant_Mimic	Un coffre au trésor qui garde vos biens les plus précieux.
+m189_02	Horrifiant_Mimic	Un coffre au trésor qui garde votre unique bien le plus précieux.
+m190_01	Impétueux_Coffreur	L'apparence de combat de Coffreur, créée à partir d'un trésor volé.
+m190_02	Fougueux_Coffreur	L'apparence de combat de Coffreur, créée à partir d'un butin mal acquis.
+m191_00	Chimère_enterrée	La stèle de Chimère, avec en bonus des esprits vengeurs.
+m191_01	Silencieuse_Chimère	L'apparence de combat de Chimère, issue d'un cimetière abandonné.
+m191_02	Apocalyptique_Chimère	L'apparence de combat de Chimère, issue de la tombe d'une sorcière.
+m192_01	Roi_Dragon de sang	L'apparence de combat du Dragon de sang, purifiée par des flammes royales.
+m192_02	Empereur_Dragon de sang	L'apparence de combat du Dragon de sang, purifiée par des flammes impériales.
+m193_01	Loquaces_Pompons	L'apparence de combat des Pompons, faite de poils de chat recueillis à la main.
+m193_02	Volubiles_Pompons	L'apparence de combat des Pompons, faite de poils de démon recueillis à la main.
+m194_01	Sylvestre_Veron	Une apparence de combat née des rêves de forêt de Veron.
+m194_02	Verdoyant_Veron	Une apparence de combat née des rêves de prairie de Veron.
+m195_01	Lumineux_Luron	Une apparence de combat née des rêves de clair de lune de Luron.
+m195_02	Éclatant_Luron	Une apparence de combat née des rêves de lumière du soleil de Luron.
+m196_01	Ardent_Feuron	Une apparence de combat née des rêves d'allumettes en feu de Feuron.
+m196_02	Flamboyant_Feuron	Une apparence de combat née des rêves de feu de camp de Feuron.
+m197_01	Pluvial_Bleuron	Une apparence de combat née des rêves d'averse de Bleuron.
+m197_02	Océanique_Bleuron	Une apparence de combat née des rêves d'océan de Bleuron.
+m198_01	Sombre_Noiron	Une apparence de combat née des rêves les plus noirs de Noiron.
+m198_02	Ténébreux_Noiron	Une apparence de combat née des rêves les plus sombres de Noiron.
+m199_01	Roi_Dragon azur	L'apparence de combat du Dragon azur, sacrée dans l'eau bénite du roi.
+m199_02	Empereur_Dragon azur	L'apparence de combat du Dragon azur, sacrée dans la meilleure bière de l'empereur.
+m200_00	_Ankh	Mystérieux canope dans lequel repose le passeur de pacte d'Ankh.
+m200_01	Garde_Ankh	Les bras croisés d'Ankh sont si serrés qu'il est impossible de les décroiser.
+m200_02	Exécuteur_Ankh	Les bras croisés d'Ankh sont d'une robustesse à toute épreuve.
+m201_00	Monsieur_Vis	Vis de laquelle émane un soupçon de magie.\On peut presque la voir remuer.
+m201_01	Bombardier_Chef Mech	Le combat d'un soldat vaincu ne se termine jamais.
+m201_02	Artificier_Chef Mech	Que s'abatte sur vous la vengeance du soldat vaincu !
+m202_00	_Vis	Vis de laquelle émane un soupçon de magie.\On peut presque la voir cliqueter.
+m202_01	Armé_Soldat Mech	Les ordres du maître sont loi !\Le soldat Mech part au combat.
+m202_02	Surarmé_Soldat Mech	La volonté du maître est loi !\Le soldat Mech part au combat.
+m203_00	_Cymbale	Passeuse de pacte de Brème.
+m203_01	Pirouette_Brème	Sa silhouette de cymbale anthropomorphique est très attirante.
+m203_02	Tourbillonnante_Brème	Monde magique, cymbales magiques, Brème magique...
+m206_01	Implacable_Boss Cochon	Tenue plutôt bizarre, pour un cochon courageux.
+m206_02	Meurtrier_Boss Cochon	Tenue plutôt dingue, pour un cochon héroïque.
+m211_01	Habile_Angelot	La flèche à pointe en cœur d'Angelot, le chercheur d'amour, est dirigée vers vous.
+m211_02	Imparable_Angelot	La flèche à pointe en cœur d'Angelot, le guerrier de l'amour, est dirigée vers vous.
+m212_01	Verdoyant_Rune	L'un des serviteurs de Cléopâtre, décoré d'émeraudes.
+m212_02	Pharaon_Rune	L'un des serviteurs de Cléopâtre, qui a juré de protéger le trône de sa pharaonne.
+m215_01	Passionné_Goutteroi	Un souverain ne perd jamais son ambition de vue, roi !\Goutte est un souverain passionné avec de grands rêves, roi !
+m215_02	Fervent_Goutteroi	Fuis vers le soleil couchant, roi !\Ne perds pas ce fervent souverain de vue, roi !
+m215_88	Fervent_Goutteroi	Fuis vers le soleil couchant, roi ! \Ne perds pas ce fervent souverain de vue, roi !
+m215_89	Passionné_Goutteroi	Un souverain ne perd jamais son ambition de vue, roi ! \Goutte est un souverain passionné avec de grands rêves, roi !
+m216_01	Silencieux_Lutin	Douuuces jambes... Saiiintes mains...
+m216_02	Festif_Lutin	Ne sous-estimez pas le pouvoir d'une prière de lutin.
+m217_01	Silencieux_Nez Rouge	On peut presque ressentir la fierté que ressent le renne le plus rapide du monde.
+m217_02	Festif_Nez Rouge	Il a gagné en puissance pour tirer le plus gros traîneau du monde.
+m223_01	Vorace_Hotte	La Hotte aux grandes dents, qui ne mange que les enfants sages.
+m223_02	Punitive_Hotte	La Hotte à la langue géante, qui mange aussi les enfants pas sages.
+m225_01	Hyper_Cosmime	Une adorable armure gélatineuse imprégnée de la puissance du cosmos.
+m225_02	Hyper_Cosmime	Une adorable armure gélatineuse imprégnée de la puissance du cosmos.
+m228_89	Opulent_Goutteprince	Goutteprince de type Ombre.
+m229_01	Super_Cosmime	Feint l'indifférence mais brûle d'amour pour vous en secret.
+m229_02	Super_Cosmime	Feint l'indifférence mais brûle d'amour pour vous en secret.
+m230_01	Giga_Cosmime	L'apogée de l'évolution. La couronne dorée du roi des Cosmimes.
+m230_02	Giga_Cosmime	L'apogée de l'évolution. La couronne dorée du roi des Cosmimes.
+m231_01	Tombale_Croix	
+m231_02	Meurtrière_Croix	
+m232_89	Opulent_Goutteprince	Goutteprince de type Eau.
+m233_89	Opulent_Goutteprince	Un Goutteprince de type Feu.
+m234_89	Opulent_Goutteprince	Goutteprince de type Lumière.
+m235_89	Opulent_Goutteprince	Goutteprince de type Bois.
+m236_89	Colossal_Goutteroi	Un Goutteroi de feu.
+m237_89	Colossal_Goutteroi	Goutteroi de type Bois.
+m238_89	Énorme_Goutteroi	Goutteroi de type Lumière.
+m239_89	Colossal_Goutteroi	Goutteroi de type Eau.
+m245_01	Abandonnée_créature	Monstre misérable, abandonné par son créateur.
+m245_02	De son créateur_créature	Ce monstre abandonné a un nom... \"Créature".
+m253_01	Lapin_YUKINE	YUKINE, le lapin qui suit SNOW MIKU partout.
+m253_02	Lapin_YUKINE	YUKINE, le lapin qui suit SNOW MIKU partout.
+m254_01	Mini_Davi	Faite d'un fragment de la Reine des démons Davi III.
+m254_02	Mascotte_Davi	Faite des rêves de la Reine des démons Davi III.
+m255_01	Jouet_Ampoule	Du poison né d'émotions amères et douloureuses.
+m255_02	Nocive_Ampoule	Le poison ultime de la mort, qui sème le désespoir sans distinction.
+m256_89	Colossal_Goutteroi	Goutteroi de type Ombre.
+m261_01	Ambivalente_Moa	Une robe personnalisée\pour les deux seules Moa du monde.
+m261_02	Monochrome_Moa	Il n'y a pas de lumière sans ombre.\Une Moa plus audacieuse que jamais s'apprête à entrer en scène !
+m261_88	Monochrome_Moa	
+m262_89	Créateur_Cocon	
+m263_01	Lapin_YUKINE	
+m264_01	Dévoreuse_Procel	L'incarnation infernale du Désir. Elle dévorera tout sur son passage.
+m264_02	Abysse_Procel	Des cornes écarlates, elles pousseront à mesure qu'elles se nourrissent de désir.
+m264_88	Abysse_Procel	J'ai dévoré un démon dans les profondeurs de l'enfer.\Oyez ! Je m'exprime par sa voix !
+m264_89	Dévoreuse_Procel	La cupidité engendre le péché.\Le péché engendre la mort.
+m265_01	_Mimic	
+m266_01	_Kali Yuga	
+m267_01	_Basilic	
+m268_01	_Combattant	
+m269_01	Bienfaisant_Cubik	
+m270_01	Toxique_Cubik	
+m271_01	Cérulescente_Chrysalide	
+m272_01	Mielleux_Cubik	
+m273_01	Pi_Cubik	
+m274_01	_Moa	
+m275_01	Toxique_Ampoule	
+m276_01	Nocive_Ampoule	
+m277_01	_Guillotine	
+m278_01	Goutte d'eau_Bœuf	Esprit de goutte d'eau. Avec un peu de chance, vous trouverez ces bœufs couverts de rosée \bondissant sur votre tête les jours de pluie.
+m278_02	Nuage d'eau_Bœuf	Les bœufs de nuage d'eau sont des groupes de bœufs de goutte d'eau. Vous pouvez en voir en observant une mare suffisamment longtemps.
+m279_01	Braise_Bœuf	Esprit de feu. Plus féroce qu'elle en a l'air, cette minuscule braise est capable de réduire une montagne en cendres.
+m279_02	Flamme_Bœuf	Les bœufs de flamme sont des groupes de bœufs de braise. \Ils sont plus gros et plus féroces que leurs homologues plus petits.
+m280_01	Pousse_Bœuf	Esprit de feuille. \Dégage une odeur d'herbe fraîchement coupée au soleil.
+m280_02	Feuille_Bœuf	Les bœufs de feuille sont des groupes de bœufs de pousse. \Avec un peu de chance, vous en verrez faire la sieste dans les champs d'herbe baignés de soleil.
+m281_01	Étincelle_Bœuf	Esprit de la lumière du soleil. Le souffle chaud du bœuf d'étincelle \vous réchauffe les mains et les pieds les jours d'hiver.
+m281_02	Lumière solaire_Bœuf	Les bœufs de lumière solaire sont des groupes de bœufs de goutte d'étincelle. Ils servent de guides aux grains de poussière qui flottent dans l'air.
+m282_01	Ombre stellaire_Bœuf	Esprit du ciel nocturne. Tient compagnie aux étoiles les plus solitaires de la voûte céleste.
+m282_02	Ombre lunaire_Bœuf	Les bœufs de l'ombre lunaire sont des groupes de bœufs d'ombre stellaire. \Ils chantent des comptines aux étoiles solitaires du ciel nocturne.
+sc001_01	Sources chaudes_Mona	Mona prend un bain aux sources
+sc002_01	Sources chaudes_Lisa	Lisa prend un bain aux sources
+sc003_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc004_01	Sources chaudes_Cheoyong	Cheoyong prend un bain aux sources
+sc005_01	Sources chaudes_Arès	Arès prend un bain aux sources
+sc007_01	Sources chaudes_Phénix	Phénix prend un bain aux sources
+sc008_01	Sources chaudes_Frigg	Frigg prend un bain aux sources
+sc009_01	Sources chaudes_Hector	Hector prend un bain aux sources
+sc010_01	Sources chaudes_Déméter	Déméter prend un bain aux sources
+sc011_01	Sources chaudes_Dino	Dino prend un bain aux sources
+sc012_01	Sources chaudes_Agamemnon	Agamemnon prend un bain aux sources
+sc013_01	Sources chaudes_Artémis	Artémis prend un bain aux sources
+sc014_01	Sources chaudes_Astrée	Astrée prend un bain aux sources
+sc017_01	Sources chaudes_Cù-Sith	Cù-Sith prend un bain aux sources
+sc018_01	Sources chaudes_Coré	Coré prend un bain aux sources
+sc019_01	Sources chaudes_Éris	Éris prend un bain aux sources
+sc020_01	Sources chaudes_Fortuna	Fortuna prend un bain aux sources
+sc022_01	Sources chaudes_Mayahuel	Mayahuel prend un bain aux sources
+sc026_01	Sources chaudes_Éos	Éos prend un bain aux sources
+sc027_01	Sources chaudes_Cynthia	Cynthia prend un bain aux sources
+sc028_01	Sources chaudes_Léda	Léda prend un bain aux sources
+sc029_01	Sources chaudes_Séléné	Séléné prend un bain aux sources
+sc030_01	Sources chaudes_P'tite détective	P'tite détective prend un bain aux sources
+sc031_01	Sources chaudes_Freyja	Freyja prend un bain aux sources
+sc032_01	Sources chaudes_Alecto	Alecto prend un bain aux sources
+sc033_01	Sources chaudes_Diane	Diane prend un bain aux sources
+sc034_01	Sources chaudes_Mnémosyne	Mnémosyne prend un bain aux sources
+sc035_01	Sources chaudes_Perséphone	Perséphone prend un bain aux sources
+sc036_01	Sources chaudes_Hermès	Hermès prend un bain aux sources
+sc037_01	Sources chaudes_Judas	Judas prend un bain aux sources
+sc038_01	Sources chaudes_Calypso	Calypso prend un bain aux sources
+sc039_01	Sources chaudes_Morrigan	Morrigan prend un bain aux sources
+sc040_01	Sources chaudes_Shamash	Shamash prend un bain aux sources
+sc041_01	Sources chaudes_Tiamat	Tiamat prend un bain aux sources
+sc043_01	Sources chaudes_Héra	Héra prend un bain aux sources
+sc044_01	Sources chaudes_Panthéon	Panthéon prend un bain aux sources
+sc045_01	Sources chaudes_Aria	Aria prend un bain aux sources
+sc047_01	Sources chaudes_Hestia	Hestia prend un bain aux sources
+sc048_01	Sources chaudes_Nemain	Nemain prend un bain aux sources
+sc049_01	Sources chaudes_Maât	Maât prend un bain aux sources
+sc051_01	Sources chaudes_Freyr	Freyr prend un bain aux sources
+sc052_01	Sources chaudes_Byleth	Byleth prend un bain aux sources
+sc053_01	Sources chaudes_Métis	Métis prend un bain aux sources
+sc054_01	Sources chaudes_Légende	Légende prend un bain aux sources
+sc056_01	Sources chaudes_Jeanne d'Arc	Jeanne d'Arc prend un bain aux sources
+sc057_01	Sources chaudes_Lan Fei	Lan Fei prend un bain aux sources
+sc058_01	Sources chaudes_Nirriti	Nirriti prend un bain aux sources
+sc060_01	Sources chaudes_Tisiphone	Tisiphone prend un bain aux sources
+sc061_01	Sources chaudes_Sirène	Sirène prend un bain aux sources
+sc062_01	Sources chaudes_Europe	Europe prend un bain aux sources
+sc063_01	Sources chaudes_Phrygie	Phrygie prend un bain aux sources
+sc064_01	Sources chaudes_Méduse	Méduse prend un bain aux sources
+sc065_01	Sources chaudes_Érato	Érato prend un bain aux sources
+sc066_01	Sources chaudes_Aton	Aton prend un bain aux sources
+sc067_01	Sources chaudes_Thanatos	Thanatos prend un bain aux sources
+sc068_01	Sources chaudes_Ambroisie	Ambroisie prend un bain aux sources
+sc069_01	Sources chaudes_Ptah	Ptah prend un bain aux sources
+sc072_01	Sources chaudes_Fenrir	Fenrir prend un bain aux sources
+sc073_01	Sources chaudes_Navi	Navi prend un bain aux sources
+sc074_01	Sources chaudes_Quirinus	Quirinus prend un bain aux sources
+sc082_01	Sources chaudes_Calchas	Calchas prend un bain aux sources
+sc083_01	Sources chaudes_Neith	Neith prend un bain aux sources
+sc086_01	Sources chaudes_Goga	Goga prend un bain aux sources
+sc090_01	Sources chaudes_Vulcain	Vulcain prend un bain aux sources
+sc091_01	Sources chaudes_Méra	Méra prend un bain aux sources
+sc091_02	Sources chaudes_Méra	Méra prend un bain aux sources
+sc095_01	Sources chaudes_Vesta	Vesta prend un bain aux sources
+sc099_01	Sources chaudes_Melpomène	Melpomène prend un bain aux sources
+sc101_01	Sources chaudes_Syrinx	Syrinx prend un bain aux sources
+sc106_01	Sources chaudes_Médéia	Médéia prend un bain aux sources
+sc107_01	Sources chaudes_Apollon	Apollon prend un bain aux sources
+sc110_01	Sources chaudes_Flins	Flins prend un bain aux sources
+sc112_01	Sources chaudes_Elias	Elias prend un bain aux sources
+sc115_01	Sources chaudes_Sonnet	Sonnet prend un bain aux sources
+sc117_01	Sources chaudes_Yaga	Yaga prend un bain aux sources
+sc120_01	Sources chaudes_Flore	Flore prend un bain aux sources
+sc121_01	Sources chaudes_Muse	Muse prend un bain aux sources
+sc122_01	Sources chaudes_Samaël	Samaël prend un bain aux sources
+sc122_02	Sources chaudes_Samaël	Samaël prend un bain aux sources
+sc123_01	Sources chaudes_Baphomet	Baphomet prend un bain aux sources
+sc124_01	Sources chaudes_Ève	Ève prend un bain aux sources
+sc125_01	Sources chaudes_Attis	Attis prend un bain aux sources
+sc126_01	Sources chaudes_Salmacis	Salmacis prend un bain aux sources
+sc127_01	Sources chaudes_Bastet	Bastet prend un bain aux sources
+sc130_01	Sources chaudes_Génie	Génie prend un bain aux sources
+sc132_01	Sources chaudes_Midas	Midas prend un bain aux sources
+sc133_01	Sources chaudes_Titania	Titania prend un bain aux sources
+sc135_01	Sources chaudes_Valkyrie	Valkyrie prend un bain aux sources
+sc139_01	Sources chaudes_Pomone	Pomone prend un bain aux sources
+sc141_01	Sources chaudes_Amor	Amor prend un bain aux sources
+sc142_01	Sources chaudes_Hypnos	Hypnos prend un bain aux sources
+sc147_01	Sources chaudes_Baal	Baal prend un bain aux sources
+sc148_01	Sources chaudes_Inanna	Inanna prend un bain aux sources
+sc149_01	Sources chaudes_Roussalka	Roussalka prend un bain aux sources
+sc153_01	Sources chaudes_Épona	Épona prend un bain aux sources
+sc154_01	Sources chaudes_Thot	Thot prend un bain aux sources
+sc155_01	Sources chaudes_Écho	Écho prend un bain aux sources
+sc156_01	Sources chaudes_Élisabeth	Élisabeth prend un bain aux sources
+sc158_01	Sources chaudes_Naïade	Naïade prend un bain aux sources
+sc159_01	Sources chaudes_Sémélé	Sémélé prend un bain aux sources
+sc164_01	Sources chaudes_Ishtar	Ishtar prend un bain aux sources
+sc167_01	Sources chaudes_Chang'e	Chang'e prend un bain aux sources
+sc169_01	Sources chaudes_Euros	Euros prend un bain aux sources
+sc172_01	Sources chaudes_Yuna	Yuna prend un bain aux sources
+sc173_01	Sources chaudes_Daoine Sidhe	Daoine Sidhe prend un bain aux sources
+sc174_01	Sources chaudes_A.I	A.I prend un bain aux sources
+sc175_01	Sources chaudes_Croix Rouge	Croix Rouge prend un bain aux sources
+sc176_01	Sources chaudes_Eshu	Eshu prend un bain aux sources
+sc178_01	Sources chaudes_Morgane	Morgane prend un bain aux sources
+sc180_01	Sources chaudes_Mammon	Mammon prend un bain aux sources
+sc183_01	Sources chaudes_Dana	Dana prend un bain aux sources
+sc184_01	Sources chaudes_Élysée	Élysée prend un bain aux sources
+sc186_01	Sources chaudes_Erebus	Erebus prend un bain aux sources
+sc186_02	Sources chaudes_Erebus	Erebus prend un bain aux sources
+sc187_01	Sources chaudes_Thétis	Thétis prend un bain aux sources
+sc188_01	Sources chaudes_Atalante	Atalante prend un bain aux sources
+sc189_01	Sources chaudes_Kratos	Kratos prend un bain aux sources
+sc190_01	Sources chaudes_Isis	Isis prend un bain aux sources
+sc191_01	Sources chaudes_Sekhmet	Sekhmet prend un bain aux sources
+sc193_01	Sources chaudes_Viroupa	Viroupa prend un bain aux sources
+sc194_01	Sources chaudes_Astarté	Astarté prend un bain aux sources
+sc195_01	Sources chaudes_Cybèle	Cybèle prend un bain aux sources
+sc196_01	Sources chaudes_Idunn	Idunn prend un bain aux sources
+sc198_01	Sources chaudes_Zélos	Zélos prend un bain aux sources
+sc199_01	Sources chaudes_Aurore	Aurore prend un bain aux sources
+sc200_01	Sources chaudes_Seshat	Seshat prend un bain aux sources
+sc202_01	Sources chaudes_Victoriae	Victoriae prend un bain aux sources
+sc203_01	Sources chaudes_Harmonia	Harmonia prend un bain aux sources
+sc203_02	Sources chaudes_Harmonia	Harmonia prend un bain aux sources
+sc205_01	Sources chaudes_Merlin	Merlin prend un bain aux sources
+sc208_01	Sources chaudes_Firo	Firo prend un bain aux sources
+sc209_01	Sources chaudes_Hécate	Hécate prend un bain aux sources
+sc210_01	Sources chaudes_Tartare	Tartare prend un bain aux sources
+sc214_01	Sources chaudes_Jupiter	Jupiter prend un bain aux sources
+sc216_01	Sources chaudes_Louve-Garou	Louve-Garou prend un bain aux sources
+sc218_01	Sources chaudes_Alf	Alf prend un bain aux sources
+sc219_01	Sources chaudes_Ymir	Ymir prend un bain aux sources
+sc220_01	Sources chaudes_Atropos	Atropos prend un bain aux sources
+sc221_01	Sources chaudes_Jana	Jana prend un bain aux sources
+sc222_01	Sources chaudes_Eldorado	Eldorado prend un bain aux sources
+sc223_01	Sources chaudes_Air	Air prend un bain aux sources
+sc225_01	Sources chaudes_Rudolphe	Rudolphe prend un bain aux sources
+sc227_01	Sources chaudes_Mafdet	Mafdet prend un bain aux sources
+sc228_01	Sources chaudes_Vivian	Vivian prend un bain aux sources
+sc228_02	Sources chaudes_Vivian	Vivian prend un bain aux sources
+sc229_01	Sources chaudes_Brownie	Brownie prend un bain aux sources
+sc230_01	Sources chaudes_Skuld	Skuld prend un bain aux sources
+sc231_01	Sources chaudes_Rhea Silvia	Rhea Silvia prend un bain aux sources
+sc232_01	Sources chaudes_Daphné	Daphné prend un bain aux sources
+sc233_01	Sources chaudes_Argès	Argès prend un bain aux sources
+sc234_01	Sources chaudes_Hercule	Hercule prend un bain aux sources
+sc235_01	Sources chaudes_Danu	Danu prend un bain aux sources
+sc237_01	Sources chaudes_Typhon	Typhon prend un bain aux sources
+sc238_01	Sources chaudes_Medb	Medb prend un bain aux sources
+sc239_01	Sources chaudes_Dianus	Dianus prend un bain aux sources
+sc239_02	Sources chaudes_Dianus	Dianus prend un bain aux sources
+sc242_01	Sources chaudes_Ailill	Ailill prend un bain aux sources
+sc246_01	Sources chaudes_Krampus	Krampus prend un bain aux sources
+sc247_01	Sources chaudes_Myrina	Myrina prend un bain aux sources
+sc250_01	Sources chaudes_Xenie	Xenie prend un bain aux sources
+sc250_02	Sources chaudes_Xenie	Xenie prend un bain aux sources
+sc252_01	Sources chaudes_Arhat	Arhat prend un bain aux sources
+sc253_01	Sources chaudes_Nicole	Nicole prend un bain aux sources
+sc261_01	Sources chaudes_Sarasu	Sarasu prend un bain aux sources
+sc261_02	Sources chaudes_Sarasu	Sarasu prend un bain aux sources
+sc262_01	Sources chaudes_Daphnis	Daphnis prend un bain aux sources
+sc266_01	Sources chaudes_Horus	Horus prend un bain aux sources
+sc267_01	Sources chaudes_Cléopâtre	Cléopâtre prend un bain aux sources
+sc274_01	Sources chaudes_Bast	Bast prend un bain aux sources
+sc275_01	Sources chaudes_Harpie	Harpie prend un bain aux sources
+sc277_01	Sources chaudes_Leucé	Leucé prend un bain aux sources
+sc278_01	Sources chaudes_Hel	Hel prend un bain aux sources
+sc279_01	Sources chaudes_Laufey	Laufey prend un bain aux sources
+sc280_01	Sources chaudes_Tyché	Tyché prend un bain aux sources
+sc281_01	Sources chaudes_Thisbé	Thisbé prend un bain aux sources
+sc281_02	Sources chaudes_Thisbé	Thisbé prend un bain aux sources
+sc283_01	Sources chaudes_Morgen	Morgen prend un bain aux sources
+sc285_01	Sources chaudes_Natalis	Natalis prend un bain aux sources
+sc286_01	Sources chaudes_Verdelet	Verdelet prend un bain aux sources
+sc287_01	Sources chaudes_Salomé	Salomé prend un bain aux sources
+sc289_01	Sources chaudes_Durandal	Durandal prend un bain aux sources
+sc290_01	Sources chaudes_Brigit	Brigit prend un bain aux sources
+sc292_01	Sources chaudes_Luine	Luine prend un bain aux sources
+sc294_01	Sources chaudes_Báthory	Báthory prend un bain aux sources
+sc295_01	Sources chaudes_Inconnue	Inconnue prend un bain aux sources
+sc296_01	Sources chaudes_Hildr	Hildr prend un bain aux sources
+sc299_01	Sources chaudes_Père Noël	Père Noël prend un bain aux sources
+sc300_01	Sources chaudes_Pietas	Pietas prend un bain aux sources
+sc301_01	Sources chaudes_Jacheongbi	Jacheongbi prend un bain aux sources
+sc305_01	Sources chaudes_Rita	Rita prend un bain aux sources
+sc308_01	Sources chaudes_Kubaba	Kubaba prend un bain aux sources
+sc310_01	Sources chaudes_Bès	Bès prend un bain aux sources
+sc311_01	Sources chaudes_Khépri	Khépri prend un bain aux sources
+sc312_01	Sources chaudes_Tyrving	Tyrving prend un bain aux sources
+sc315_01	Sources chaudes_Mathusalem	Mathusalem prend un bain aux sources
+sc316_01	Sources chaudes_Odin	Odin prend un bain aux sources
+sc317_01	Sources chaudes_Babel	Babel prend un bain aux sources
+sc318_01	Sources chaudes_Bari	Bari prend un bain aux sources
+sc319_01	Sources chaudes_Salican Doryeong	Salican Doryeong prend un bain aux sources
+sc321_01	Sources chaudes_Luna	Luna prend un bain aux sources
+sc324_01	Sources chaudes_Mona	Mona prend un bain aux sources
+sc329_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc332_01	Sources chaudes_Ganesha	Ganesha prend un bain aux sources
+sc333_01	Sources chaudes_Déborah	Déborah prend un bain aux sources
+sc334_01	Sources chaudes_Lisa	Lisa prend un bain aux sources
+sc335_01	Sources chaudes_Hathor	Hathor prend un bain aux sources
+sc335_02	Sources chaudes_Hathor	Hathor prend un bain aux sources
+sc336_01	Sources chaudes_Pan	Pan prend un bain aux sources
+sc337_01	Sources chaudes_Freyja	Freyja prend un bain aux sources
+sc337_02	Sources chaudes_Freyja	Freyja prend un bain aux sources
+sc338_01	Sources chaudes_Pomone	Pomone prend un bain aux sources
+sc339_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc342_01	Sources chaudes_Yami	Yami prend un bain aux sources
+sc342_02	Sources chaudes_Yami	Yami prend un bain aux sources
+sc343_01	Sources chaudes_Tiamat	Tiamat prend un bain aux sources
+sc344_01	Sources chaudes_Isolde	Isolde prend un bain aux sources
+sc345_01	Sources chaudes_Anémone	Anémone prend un bain aux sources
+sc346_01	Sources chaudes_Tristan	Tristan prend un bain aux sources
+sc347_01	Sources chaudes_Dana	Dana prend un bain aux sources
+sc348_01	Sources chaudes_Mars♥	Mars♥ prend un bain aux sources
+sc349_01	Sources chaudes_Saturne♥	Saturne♥ prend un bain aux sources
+sc350_01	Sources chaudes_Neptune♥	Neptune♥ prend un bain aux sources
+sc351_01	Sources chaudes_Vénus♥	Vénus♥ prend un bain aux sources
+sc353_01	Sources chaudes_Charlotte	Charlotte prend un bain aux sources
+sc354_01	Sources chaudes_Déméter	Déméter prend un bain aux sources
+sc355_01	Sources chaudes_Chang'e	Chang'e prend un bain aux sources
+sc360_01	Sources chaudes_Maât	Maât prend un bain aux sources
+sc361_01	Sources chaudes_Caducée	Caducée prend un bain aux sources
+sc362_01	Sources chaudes_Léo	Léo prend un bain aux sources
+sc363_01	Sources chaudes_Lupin	Lupin prend un bain aux sources
+sc364_01	Sources chaudes_Sytry	Sytry prend un bain aux sources
+sc365_01	Sources chaudes_Lisa	Lisa prend un bain aux sources
+sc366_01	Sources chaudes_Dino	Dino prend un bain aux sources
+sc367_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc370_01	Sources chaudes_Mona	Mona prend un bain aux sources
+sc371_01	Sources chaudes_Lisa	Lisa prend un bain aux sources
+sc372_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc373_01	Sources chaudes_Midas	Midas prend un bain aux sources
+sc374_01	Sources chaudes_Hildr	Hildr prend un bain aux sources
+sc377_01	Sources chaudes_Iphis	Iphis prend un bain aux sources
+sc378_01	Sources chaudes_Pallas	Pallas prend un bain aux sources
+sc379_01	Sources chaudes_Athéna	Athéna prend un bain aux sources
+sc381_01	Sources chaudes_Sytry	Sytry prend un bain aux sources
+sc382_01	Sources chaudes_Nemain	Nemain prend un bain aux sources
+sc383_01	Sources chaudes_Freyr	Freyr prend un bain aux sources
+sc385_01	Sources chaudes_Marie Rose	Marie Rose prend un bain aux sources
+sc386_01	Sources chaudes_Kasumi	Kasumi prend un bain aux sources
+sc387_01	Sources chaudes_Honoka	Honoka prend un bain aux sources
+sc390_01	Sources chaudes_Eochaid	Eochaid prend un bain aux sources
+sc391_01	Sources chaudes_Medb	Medb prend un bain aux sources
+sc392_01	Sources chaudes_Davi	Davi prend un bain aux sources
+sc393_01	Sources chaudes_Mona	Mona prend un bain aux sources
+sc394_01	Sources chaudes_Báthory	Báthory prend un bain aux sources
+sc395_01	Sources chaudes_Ève	Ève prend un bain aux sources
+sc396_01	Sources chaudes_Louve-Garou	Louve-Garou prend un bain aux sources
+sc397_01	Sources chaudes_Léda	Léda prend un bain aux sources
+sc398_01	Sources chaudes_Jacheongbi	Jacheongbi prend un bain aux sources
+sc400_01	Sources chaudes_Banshee	Banshee prend un bain aux sources
+sc402_01	Sources chaudes_Noel	Noel prend un bain aux sources
+sc403_01	Sources chaudes_Makoto	Makoto prend un bain aux sources
+sc404_01	Sources chaudes_Nine	Nine prend un bain aux sources
+sc405_01	Sources chaudes_Luine	Luine prend un bain aux sources
+sc406_01	Sources chaudes_Serval	Serval prend un bain aux sources
+sc407_01	Sources chaudes_Raton laveur	Raton laveur prend un bain aux sources
+sc408_01	Sources chaudes_Fennec	Fennec prend un bain aux sources
+sc409_01	Sources chaudes_Limos	Limos prend un bain aux sources
+sc410_01	Sources chaudes_Œil de lynx	Œil de lynx prend un bain aux sources
+sc412_01	Sources chaudes_Caïn	Caïn prend un bain aux sources
+sc414_01	Sources chaudes_Billy	Billy prend un bain aux sources
+sc415_01	Sources chaudes_Annie	Annie prend un bain aux sources
+sc416_01	Sources chaudes_Keino	Keino prend un bain aux sources
+sc417_01	Sources chaudes_Tamamo	Tamamo prend un bain aux sources
+sc418_01	Sources chaudes_Mafdet	Mafdet prend un bain aux sources
+sc419_01	Sources chaudes_Catherine	Catherine prend un bain aux sources
+sc420_01	Sources chaudes_Katherine	Katherine prend un bain aux sources
+sc421_01	Sources chaudes_Rin	Rin prend un bain aux sources
+sc422_01	Sources chaudes_Héqet	Héqet prend un bain aux sources
+sc423_01	Sources chaudes_Laima	Laima prend un bain aux sources
+sc425_01	Sources chaudes_Seth	Seth prend un bain aux sources
+sc426_01	Sources chaudes_Ophois	Ophois prend un bain aux sources
+sc428_01	Sources chaudes_Seth	Seth prend un bain aux sources
+sc429_01	Sources chaudes_Ziva	Ziva prend un bain aux sources
+sc430_01	Sources chaudes_Giltiné	Giltiné prend un bain aux sources
+sc431_01	Sources chaudes_Eshu	Eshu prend un bain aux sources
+sc432_01	Sources chaudes_Artémis	Artémis prend un bain aux sources
+sc433_01	Sources chaudes_Pachet	Pachet prend un bain aux sources
+sc434_01	Sources chaudes_Léda	Léda prend un bain aux sources
+sc435_01	Sources chaudes_Sytry	Sytry prend un bain aux sources
+sc436_01	Sources chaudes_Serket	Serket prend un bain aux sources
+sc437_01	Sources chaudes_Euros	Euros prend un bain aux sources
+sc438_01	Sources chaudes_Sémélé	Sémélé prend un bain aux sources
+sc439_01	Sources chaudes_Saturne♥	Saturne♥ prend un bain aux sources
+sc440_01	Sources chaudes_Mona	Mona prend un bain aux sources
+sc441_01	Sources chaudes_Robin	Robin prend un bain aux sources
+sc442_01	Sources chaudes_Nirriti	Nirriti prend un bain aux sources
+sc443_01	Sources chaudes_Rafale	Rafale prend un bain aux sources
+sc445_01	Sources chaudes_Kalaratri	Kalaratri prend un bain aux sources
+sc446_01	Sources chaudes_Argos	Argos prend un bain aux sources
+sc447_01	Sources chaudes_Miriam	Miriam prend un bain aux sources
+sc448_01	Sources chaudes_Mircalla	Mircalla prend un bain aux sources
+sc449_01	Sources chaudes_Laura	Laura prend un bain aux sources
+sc450_01	Sources chaudes_Roussalka	Roussalka prend un bain aux sources
+sc451_01	Sources chaudes_Ayane	Ayane prend un bain aux sources
+sc452_01	Sources chaudes_Leifang	Leifang prend un bain aux sources
+sc453_01	Sources chaudes_Mercure	Mercure prend un bain aux sources
+sc454_01	Sources chaudes_Juno	Juno prend un bain aux sources
+sc455_01	Sources chaudes_Tiwaz	Tiwaz prend un bain aux sources
+sc456_01	Sources chaudes_Clotho	Clotho prend un bain aux sources
+sc457_01	Sources chaudes_Ulysse	Ulysse prend un bain aux sources
+sc458_01	Sources chaudes_Zéphyr	Zéphyr prend un bain aux sources
+sc459_01	Sources chaudes_Cacia	Cacia prend un bain aux sources
+sc460_01	Sources chaudes_Cacus	Cacus prend un bain aux sources
+sc461_01	Sources chaudes_Aurore	Aurore prend un bain aux sources
+sc462_01	Sources chaudes_Thérésa	Thérésa prend un bain aux sources
+sc463_01	Sources chaudes_Ève	Ève prend un bain aux sources
+sc464_01	Sources chaudes_Arhat	Arhat prend un bain aux sources
+sc465_01	Sources chaudes_Sunah	Sunah prend un bain aux sources
+sc466_01	Sources chaudes_Nezha	Nezha prend un bain aux sources
+sc467_01	Sources chaudes_Ziva	Ziva prend un bain aux sources
+sc468_01	Sources chaudes_Métis	Métis prend un bain aux sources
+sc469_01	Sources chaudes_Aria	Aria prend un bain aux sources
+sc470_01	Sources chaudes_Neptune♥	Neptune♥ prend un bain aux sources
+sc471_01	Sources chaudes_Mars♥	Mars♥ prend un bain aux sources
+sc472_01	Sources chaudes_Vénus♥	Vénus♥ prend un bain aux sources
+sc473_01	Sources chaudes_Titania	Titania prend un bain aux sources
+sc474_01	Sources chaudes_Héphaïstos	Héphaïstos prend un bain aux sources
+sc475_01	Sources chaudes_Saturne♥	Saturne♥ prend un bain aux sources
+sc476_01	Sources chaudes_Nephthys	Nephthys prend un bain aux sources
+sc479_01	Sources chaudes_Maupin	Maupin prend un bain aux sources
+sc480_01	Sources chaudes_Bradamante	Bradamante prend un bain aux sources
+sc481_01	Sources chaudes_Wyatt	Wyatt prend un bain aux sources
+sc482_01	Sources chaudes_Théophano	Théophano prend un bain aux sources
+sc483_01	Sources chaudes_Artémisia	Artémisia prend un bain aux sources
+sc485_01	Sources chaudes_Yuna	Yuna prend un bain aux sources
+sc486_01	Sources chaudes_Kubaba	Kubaba prend un bain aux sources
+sc488_01	Sources chaudes_Dryade	Dryade prend un bain aux sources
+sc489_01	Sources chaudes_Loki	Loki prend un bain aux sources
+sc493_01	Sources chaudes_Messie	Messie prend un bain aux sources
+sc494_01	Sources chaudes_Rosanna	Rosanna prend un bain aux sources
+sc495_01	Sources chaudes_Catsi	Catsi prend un bain aux sources
+sc495_02	Sources chaudes_Catsi	Catsi prend un bain aux sources
+sc496_01	Sources chaudes_Lassi	Lassi prend un bain aux sources
+sc496_02	Sources chaudes_Lassi	Lassi prend un bain aux sources
+sc497_01	Sources chaudes_Odin	Odin prend un bain aux sources
+sc498_01	Sources chaudes_Sol	Sol prend un bain aux sources
+sc499_01	Sources chaudes_Ramlethal	Ramlethal prend un bain aux sources
+sc500_01	Sources chaudes_Millia	Millia prend un bain aux sources
+sc501_01	Sources chaudes_Ragaraja	Ragaraja prend un bain aux sources
+sc501_02	Sources chaudes_Ragaraja	Ragaraja prend un bain aux sources
+sc502_01	Sources chaudes_Keika To	Keika To prend un bain aux sources
+sc502_02	Sources chaudes_Keika To	Keika To prend un bain aux sources
+sc503_01	Sources chaudes_Bari	Bari prend un bain aux sources
+sc503_02	Sources chaudes_Bari	Bari prend un bain aux sources
+sc504_01	Sources chaudes_Marduk	Marduk prend un bain aux sources
+sc504_02	Sources chaudes_Marduk	Marduk prend un bain aux sources
+sc505_01	Sources chaudes_Boréas	Boréas prend un bain aux sources
+sc505_02	Sources chaudes_Boréas	Boréas prend un bain aux sources
+sc506_01	Sources chaudes_Notus	Notus prend un bain aux sources
+sc506_02	Sources chaudes_Notus	Notus prend un bain aux sources
+sc507_01	Sources chaudes_Phorcus	Phorcus prend un bain aux sources
+sc507_02	Sources chaudes_Phorcus	Phorcus prend un bain aux sources
+sc508_01	Sources chaudes_Chandra	Chandra prend un bain aux sources
+sc508_02	Sources chaudes_Chandra	Chandra prend un bain aux sources
+sc509_01	Sources chaudes_Strigoï	Strigoï prend un bain aux sources
+sc509_02	Sources chaudes_Strigoï	Strigoï prend un bain aux sources
+sc510_01	Sources chaudes_Kresnik	Kresnik prend un bain aux sources
+sc510_02	Sources chaudes_Kresnik	Kresnik prend un bain aux sources
+sc511_01	Sources chaudes_Philotes	Philotes prend un bain aux sources
+sc511_02	Sources chaudes_Philotes	Philotes prend un bain aux sources
+sc512_01	Sources chaudes_Turan	Turan prend un bain aux sources
+sc512_02	Sources chaudes_Turan	Turan prend un bain aux sources
+sc513_01	Sources chaudes_Akrasia	Akrasia prend un bain aux sources
+sc513_02	Sources chaudes_Akrasia	Akrasia prend un bain aux sources
+sc514_01	Sources chaudes_Duetsha	Duetsha prend un bain aux sources
+sc514_02	Sources chaudes_Duetsha	Duetsha prend un bain aux sources
+sc517_01	Sources chaudes_Grendel	Grendel prend un bain aux sources
+sc517_02	Sources chaudes_Grendel	Grendel prend un bain aux sources
+sc520_01	Sources chaudes_Ishimi	Ishimi prend un bain aux sources
+sc520_02	Sources chaudes_Ishimi	Ishimi prend un bain aux sources
+sc521_01	Sources chaudes_Zegati	Zegati prend un bain aux sources
+sc521_02	Sources chaudes_Zegati	Zegati prend un bain aux sources
+sc522_01	Sources chaudes_Dalia	Dalia prend un bain aux sources
+sc522_02	Sources chaudes_Dalia	Dalia prend un bain aux sources
+sc523_01	Sources chaudes_Nicole	Nicole prend un bain aux sources
+sc523_02	Sources chaudes_Nicole	Nicole prend un bain aux sources
+sc524_01	Sources chaudes_Pépita	Pépita prend un bain aux sources
+sc524_02	Sources chaudes_Pépita	Pépita prend un bain aux sources
+sc525_01	Sources chaudes_Grilla	Grilla prend un bain aux sources
+sc525_02	Sources chaudes_Grilla	Grilla prend un bain aux sources
+sc526_01	Sources chaudes_Rani	Rani prend un bain aux sources
+sc526_02	Sources chaudes_Rani	Rani prend un bain aux sources
+sc527_01	Sources chaudes_Reynard	Reynard prend un bain aux sources
+sc527_02	Sources chaudes_Reynard	Reynard prend un bain aux sources
+sc529_01	Sources chaudes_Kubera	Kubera prend un bain aux sources
+sc529_02	Sources chaudes_Kubera	Kubera prend un bain aux sources
+sc530_01	Sources chaudes_Kanaloa	Kanaloa prend un bain aux sources
+sc530_02	Sources chaudes_Kanaloa	Kanaloa prend un bain aux sources
+sc537_01	Sources chaudes_Élysée	Élysée prend un bain aux sources
+sc537_02	Sources chaudes_Élysée	Élysée prend un bain aux sources
+sc538_01	Sources chaudes_Sallos	Sallos prend un bain aux sources
+sc538_02	Sources chaudes_Sallos	Sallos prend un bain aux sources
+sc539_01	Sources chaudes_Belial	Belial prend un bain aux sources
+sc539_02	Sources chaudes_Belial	Belial prend un bain aux sources
+sc545_01	Sources chaudes_Ariel	Ariel prend un bain aux sources
+sc545_02	Sources chaudes_Ariel	Ariel prend un bain aux sources
+sc550_01	Sources chaudes_Scrouge	Scrouge prend un bain aux sources
+sc550_02	Sources chaudes_Scrouge	Scrouge prend un bain aux sources
+sc552_01	Sources chaudes_Ophois	Ophois prend un bain aux sources
+sc552_02	Sources chaudes_Ophois	Ophois prend un bain aux sources
+sm003_01	Sources chaudes_Pyrodragon	Pyrodragon prend un bain aux sources
+sm004_01	Sources chaudes_Cryodragon	Cryodragon prend un bain aux sources
+sm004_02	Sources chaudes_Cryodragon	Cryodragon prend un bain aux sources
+sm007_01	Sources chaudes_Teddy	Teddy prend un bain aux sources
+sm036_01	Sources chaudes_Messager	Messager prend un bain aux sources
+sm037_01	Sources chaudes_Traqueur	Traqueur prend un bain aux sources
+sm038_01	Sources chaudes_Diablo	Diablo prend un bain aux sources
+sm039_01	Sources chaudes_Kali Yuga	Kali Yuga prend un bain aux sources
+sm040_01	Sources chaudes_Tueur aux chaînes	Tueur aux chaînes prend un bain aux sources
+sm045_01	Sources chaudes_Bouquet	Bouquet prend un bain aux sources
+sm049_01	Sources chaudes_Sac d'os	Sac d'os prend un bain aux sources
+sm050_01	Sources chaudes_Guillotine	Guillotine prend un bain aux sources
+sm051_01	Sources chaudes_Hadès	Hadès prend un bain aux sources
+sm052_01	Sources chaudes_Basilic	Basilic prend un bain aux sources
+sm053_01	Sources chaudes_Hydre	Hydre prend un bain aux sources
+sm054_01	Sources chaudes_Gomorrhe	Gomorrhe prend un bain aux sources
+sm054_02	Sources chaudes_Gomorrhe	Gomorrhe prend un bain aux sources
+sm056_01	Sources chaudes_Abaddon	Abaddon prend un bain aux sources
+sm057_01	Sources chaudes_Iâh	Iâh prend un bain aux sources
+sm059_01	Sources chaudes_Bazooka	Bazooka prend un bain aux sources
+sm063_01	Sources chaudes_Ampoule	Ampoule prend un bain aux sources
+sm077_01	Sources chaudes_Moa	Moa prend un bain aux sources
+sm124_01	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm124_02	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm125_01	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm125_02	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm126_01	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm126_02	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm127_01	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm127_02	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm128_01	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm128_02	Sources chaudes_Veilleur	Veilleur prend un bain aux sources
+sm136_01	Sources chaudes_Lady	Lady prend un bain aux sources
+sm137_01	Sources chaudes_Groom	Groom prend un bain aux sources
+sm141_01	Sources chaudes_Halloween	Halloween prend un bain aux sources
+sm142_01	Sources chaudes_Vengeresse	Vengeresse prend un bain aux sources
+sm143_01	Sources chaudes_Vengeresse	Vengeresse prend un bain aux sources
+sm144_01	Sources chaudes_Vengeresse	Vengeresse prend un bain aux sources
+sm145_01	Sources chaudes_Vengeresse	Vengeresse prend un bain aux sources
+sm146_01	Sources chaudes_Vengeresse	Vengeresse prend un bain aux sources
+sm148_01	Sources chaudes_Charivari	Charivari prend un bain aux sources
+sm149_01	Sources chaudes_Hertz	Hertz prend un bain aux sources
+sm150_01	Sources chaudes_Mille	Mille prend un bain aux sources
+sm151_01	Sources chaudes_Malabar	Malabar prend un bain aux sources
+sm152_01	Sources chaudes_Combattant	Combattant prend un bain aux sources
+sm153_01	Sources chaudes_Manti	Manti prend un bain aux sources
+sm154_01	Sources chaudes_Gungnir	Gungnir prend un bain aux sources
+sm189_01	Sources chaudes_Mimic	Mimic prend un bain aux sources
+sm190_01	Sources chaudes_Coffreur	Coffreur prend un bain aux sources
+sm191_01	Sources chaudes_Chimère	Chimère prend un bain aux sources
+sm192_01	Sources chaudes_Dragon de sang	Dragon de sang prend un bain aux sources
+sm193_01	Sources chaudes_Pompons	Pompons prend un bain aux sources
+sm194_01	Sources chaudes_Veron	Veron prend un bain aux sources
+sm195_01	Sources chaudes_Luron	Luron prend un bain aux sources
+sm196_01	Sources chaudes_Feuron	Feuron prend un bain aux sources
+sm197_01	Sources chaudes_Bleuron	Bleuron prend un bain aux sources
+sm198_01	Sources chaudes_Noiron	Noiron prend un bain aux sources
+sm199_01	Sources chaudes_Dragon azur	Dragon azur prend un bain aux sources
+sm200_01	Sources chaudes_Ankh	Ankh prend un bain aux sources
+sm201_01	Sources chaudes_Chef Mech	Chef Mech prend un bain aux sources
+sm201_02	Sources chaudes_Chef Mech	Chef Mech prend un bain aux sources
+sm202_01	Sources chaudes_Soldat Mech	Soldat Mech prend un bain aux sources
+sm202_02	Sources chaudes_Soldat Mech	Soldat Mech prend un bain aux sources
+sm203_01	Sources chaudes_Brème	Brème prend un bain aux sources
+sm203_02	Sources chaudes_Brème	Brème prend un bain aux sources
+sm206_01	Sources chaudes_Boss Cochon	Boss Cochon prend un bain aux sources
+sm206_02	Sources chaudes_Boss Cochon	Boss Cochon prend un bain aux sources
+sm211_01	Sources chaudes_Angelot	Angelot prend un bain aux sources
+sm211_02	Sources chaudes_Angelot	Angelot prend un bain aux sources
+sm212_01	Sources chaudes_Rune	Rune prend un bain aux sources
+sm212_02	Sources chaudes_Rune	Rune prend un bain aux sources
+sm215_01	Sources chaudes_Goutteroi	Goutteroi prend un bain aux sources
+sm216_01	Sources chaudes_Lutin	Lutin prend un bain aux sources
+sm217_01	Sources chaudes_Nez Rouge	Nez Rouge prend un bain aux sources
+sm223_01	Sources chaudes_Hotte	Hotte prend un bain aux sources
+sm245_01	Sources chaudes_créature	créature prend un bain aux sources
+sm255_01	Sources chaudes_Ampoule	Ampoule prend un bain aux sources
+sm255_02	Sources chaudes_Ampoule	Ampoule prend un bain aux sources
+sm261_01	Sources chaudes_Moa	Moa prend un bain aux sources
+sm264_01	Sources chaudes_Procel	Procel prend un bain aux sources

@@ -6,6 +6,10 @@
   ],
   "expressions": [
     {
+      "name": "confused",
+      "file": "confused.exp.json"
+    },
+    {
       "name": "idle",
       "file": "idle.exp.json"
     },
@@ -16,6 +20,10 @@
     {
       "name": "joy",
       "file": "joy.exp.json"
+    },
+    {
+      "name": "serious",
+      "file": "serious.exp.json"
     }
   ],
   "motions": {

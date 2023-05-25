@@ -1,0 +1,9 @@
+﻿// key	RAID_SCROLL_NAME_	RAID_SCROLL_DESCRIPTION_
+102	Bronze Chest	A special treasure chest only obtained from raids.
+103	Bronze Chest	A special treasure chest only obtained from raids.
+104	Silver Chest	A special treasure chest only obtained from raids.
+105	Gold Chest	A special treasure chest only obtained from raids.
+106	Platinum Chest	A special treasure chest only obtained from raids.
+95	Raid Summon Ticket	Summons a raid boss.\(Cannot be used if a raid boss has already been summoned.)
+96	Raid Reset	Resets raid level and summons a Lv.1 raid boss.\(Cannot be used if a raid boss has already been summoned.)
+97	Raid Shop Reset Ticket	Resets the raid shop.

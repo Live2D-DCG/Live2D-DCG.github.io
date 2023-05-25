@@ -1,0 +1,6 @@
+﻿// key	SKIN_DUNGEON_NAME_	SKIN_DUNGEON_SECOND_NAME_	SKIN_DUNGEON_LOCATION_DESC_	SKIN_DUNGEON_BUFF_
+100101	<size=0.8>Lv.1.</size>	Adventurer's Labyrinth	BLANK	For <color=ff0000>Enemy Team</color>: <color=ff7b02>Drive Damage</color> <color=ffc400>↑</color>
+100102	<size=0.8>Lv.2.</size>	Explorer's Labyrinth	BLANK	For <color=ff0000>Enemy Team</color>: <color=ff7b02>Drive Damage</color> <color=ffc400>↑</color>
+100103	<size=0.8>Lv.3.</size>	Pioneer's Labyrinth	BLANK	For <color=ff0000>Enemy Team</color>: <color=ff7b02>Drive Damage</color> <color=ffc400>↑</color> and <color=ff7b02>Vampirism</color>
+100104	<size=0.8>Lv.4.</size>	Seeker's Labyrinth	BLANK	For <color=ff0000>Enemy Team</color>: <color=ff7b02>Drive Damage</color> <color=ffc400>↑</color>, <color=ff7b02>Vampirism</color>,\<color=ff7b02>Nullify Time Debuff</color>
+100105	<size=0.8>Lv.5.</size>	Great Sage's Labyrinth	BLANK	For <color=ff0000>Enemy Team</color>, <color=ff7b02>Drive Damage</color> <color=ffc400>↑</color>, <color=ff7b02>Vampirism</color>,\<color=ff7b02>Nullify Time Debuff</color>,\ and <color=ff7b02>Nullify Disable Debuff</color> <color=ff7b02>(Petrify, Silence, Confuse, Stun, Sleep)</color>

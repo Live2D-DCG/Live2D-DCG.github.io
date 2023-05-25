@@ -1,0 +1,14 @@
+﻿// key	RECIPE_CONDITION_MATERIAL_NAME_	RECIPE_CONDITION_MATERIAL_DESC_
+1050001	5★ Child	A 5★ base rarity Child. The selected Child counts as 1 unit, regardless of its growth status.
+2101011	Common Puppet	Common Puppet. The selected item counts as 1 unit, regardless of its growth status.
+2101022	Uncommon Puppet	Uncommon Puppet. The selected item counts as 1 unit, regardless of its growth status.
+2101033	Rare Puppet	Rare Puppet. The selected item counts as 1 unit, regardless of its growth status.
+2101044	Epic Puppet	Epic Puppet. The selected item counts as 1 unit, regardless of its growth status.
+2101055	Legendary Puppet	Legendary Puppet. The selected item counts as 1 unit, regardless of its growth status.
+2155001	5★ A Grade Weapon	5★ Grade A weapons. The selected item counts as 1 unit, regardless of its growth status.
+2255001	5★ A Grade Armor	5★ Grade A armor. The selected item counts as 1 unit, regardless of its growth status.
+2355001	5★ A Grade Accessory	5★ Grade A accessories. The selected item counts as 1 unit, regardless of its growth status.
+2830001	3★ Soul Carta	3★ Soul Cartas. The selected item counts as 1 unit, regardless of its growth status.
+2840001	4★ Soul Carta	4★ Soul Cartas. The selected item counts as 1 unit, regardless of its growth status.
+2850001	5★ Soul Carta	5★ Soul Cartas. The selected item counts as 1 unit, regardless of its growth status.
+3050001	5★ Costume	5★ Child costumes.

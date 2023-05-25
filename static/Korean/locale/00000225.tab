@@ -1,0 +1,6 @@
+﻿// key	SKIN_DUNGEON_NAME_	SKIN_DUNGEON_SECOND_NAME_	SKIN_DUNGEON_LOCATION_DESC_	SKIN_DUNGEON_BUFF_
+100101	<size=0.8>Lv1.</size>	冒険者の迷宮	空欄	<color=ff0000>敵チーム</color>に<color=ff7b02>ドライブダメージ</color><color=ffc400>▲</color>付与
+100102	<size=0.8>Lv2.</size>	追究者の迷宮	空欄	<color=ff0000>敵チーム</color>に<color=ff7b02>ドライブダメージ</color><color=ffc400>▲</color>付与
+100103	<size=0.8>Lv3.</size>	先駆者の迷宮	空欄	<color=ff0000>敵チーム</color>に<color=ff7b02>ドライブダメージ</color><color=ffc400>▲</color>、<color=ff7b02>吸血</color>付与
+100104	<size=0.8>Lv4.</size>	求道者の迷宮	空欄	<color=ff0000>敵チーム</color>に<color=ff7b02>ドライブダメージ</color><color=ffc400>▲</color>、<color=ff7b02>吸血</color>、\<color=ff7b02>時間系デバフ無効</color>付与
+100105	<size=0.8>Lv5.</size>	大賢者の迷宮	空欄	<color=ff0000>敵チーム</color>に<color=ff7b02>ドライブダメージ</color><color=ffc400>▲</color>、<color=ff7b02>吸血</color>、\<color=ff7b02>時間系デバフ無効</color>、\<color=ff7b02>無力化(石化、沈黙、混乱、気絶、睡眠)</color><color=ff7b02>デバフ無効</color>付与

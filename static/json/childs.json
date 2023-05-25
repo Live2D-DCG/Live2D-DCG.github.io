@@ -2615,9 +2615,18 @@
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Involved"
             },
             "02": {
+                "title": "Concealing"
+            },
+            "10": {
+                "title": "Mommy"
+            },
+            "87": {
+                "title": ""
+            },
+            "88": {
                 "title": ""
             }
         }
@@ -2726,6 +2735,20 @@
             },
             "02": {
                 "title": "Antihero"
+            }
+        }
+    },
+	"c236": {
+        "name": "Djinnia",
+        "variants": {
+            "00": {
+                "title": "Human"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
             }
         }
     },
@@ -5108,6 +5131,9 @@
             },
             "02": {
                 "title": "Berserk"
+            },
+            "10": {
+                "title": ""
             }
         }
     },
@@ -6010,6 +6036,12 @@
             },
             "02": {
                 "title": "Empress"
+            },
+			"10": {
+                "title": ""
+            },
+			"87": {
+                "title": ""
             },
             "88": {
                 "title": "Empress"
@@ -6923,6 +6955,20 @@
                 "title": ""
             },
             "02": {
+                "title": ""
+            }
+        }
+    },
+	"c569": {
+        "name": "Hecate",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            },
+            "10": {
                 "title": ""
             }
         }
@@ -13225,6 +13271,14 @@
             }
         }
     },
+	"xc159": {
+        "name": "Semele",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc167": {
         "name": "Chang'e",
         "variants": {
@@ -13355,6 +13409,14 @@
     },
     "xc247": {
         "name": "Myrina",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc262": {
+        "name": "Daphnis",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -13569,6 +13631,14 @@
             }
         }
     },
+	"xc360": {
+        "name": "Maat",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
 	"xc364": {
         "name": "Sweet Sytry",
         "variants": {
@@ -13619,6 +13689,14 @@
     },
 	"xc382": {
         "name": "Catgirl Neamhain",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc390": {
+        "name": "Eochaid",
         "variants": {
             "10": {
                 "title": "Puppet"

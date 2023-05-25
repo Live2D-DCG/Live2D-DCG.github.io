@@ -1,0 +1,16 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"eye_brow_y","val":0},
+		{"id":"eye_brow_rt","val":0},
+		{"id":"eyelid_r","val":0.58,"def":0.5},
+		{"id":"eyelid_l","val":0.6,"def":0.5},
+		{"id":"BROW_OFF","val":0},
+		{"id":"MOUTH_OFF","val":1},
+		{"id":"ANGRY","val":0},
+		{"id":"SERIOUS","val":0},
+		{"id":"CONFUSED","val":1}
+	]
+}

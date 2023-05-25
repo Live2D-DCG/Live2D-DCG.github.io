@@ -1,0 +1,292 @@
+﻿// key	PUPPET_ICON_	PUPPET_TARGET_VISUAL_	PUPPET_SKILL_DESC_
+21120028			Effet 1 :\Jauge de compétence {value_1} pour 1 allié de type Eau.
+21150011			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour 1 allié aléatoire pendant {duration_1} s.
+21220029			Effet 1 :\ATQ {value_1} pour 1 allié de type Feu pendant {duration_1} s.
+21310012			Effet 1 :\Inflige {p_value_1} points de dégâts bonus à la cible attaquée.
+21320009			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à 1 allié de type Bois (sauf l'utilisateur) pendant {duration_1} s.
+21320030			Effet 1 :\Coup final d'ATQ de point faible {value_1} à 1 allié de type Bois pendant {duration_1} s.
+21350017			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à l'utilisateur pendant {duration_1} s.
+21410016			Effet 1 :\AGI {value_1} pour 1 allié de type Lumière pendant {duration_1} s.
+21420004			Effet 1 :\Confère Rage (cumule jusqu'à {p_value_1} des dégâts subis puis les convertit en une contre-attaque) à l'utilisateur pendant {duration_1} phases.
+21420031			Effet 1 :\PRÉC {value_1} pour 1 allié de type Lumière pendant {duration_1} s.
+21520003			Effet 1 :\DÉF {value_1} pour l'utilisateur pendant {duration_1} s.
+21520005			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour l'utilisateur pendant {duration_1} s.
+21520032			Effet 1 :\PRÉC d'affaiblissement {value_1} pour 1 allié de type Ombre pendant {duration_1} s.
+22110074			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} tours.
+22110079			Effet 1 :\Inflige {p_value_1} points de dégâts bonus à la cible attaquée.
+22110081			Effet 1 :\Jauge de compétence {value_1} à la cible attaquée.
+22140046			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+22210048			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+22220082			Effet 1 :\Confère Affaiblissement défensif {value_1} (ne peut pas être utilisé avec des boucliers pour absorber des dégâts d'affaiblissement, ni avec d'autres barrières) à 1 allié de type Feu pendant {duration_1} s.
+22310043			Effet 1 :\Absorbe {p_value_1} sous forme de PV.
+22320041			Effet 1 :\Soigne {puppet_h_value_1} PV à l'utilisateur.
+22340075			Effet 1 :\DÉF de point faible {value_1} pour la cible attaquée pendant {duration_1} s.
+22450078			Effet 1 :\Capacité de régénération {value_1} pour 1 allié (PV les plus bas) pendant {duration_1} s.
+22510057			Effet 1 :\Chances de CRT {value_1} pour l'utilisateur pendant {duration_1} s.
+22510063			Effet 1 :\CRT {value_1} pour l'utilisateur pendant {duration_1} s.
+22510066			Effet 1 :\Dégâts de compétence glissée {value_1} pour l'utilisateur pendant {duration_1} s.
+22520035			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à l'utilisateur pendant {duration_1} s.
+22530044			Effet 1 :\ESQ d'affaiblissement {value_1} pour 1 allié (PV les plus bas) pendant {duration_1} s.
+22550042			Effet 1 :\Coup final d'attaque critique {value_1} pour 1 allié de type Ombre pendant {duration_1} s.
+23110111			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à la cible attaquée pendant {duration_1} tours.
+23110144			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Feu parmi les cibles attaquées.
+23120117			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour l'utilisateur pendant {duration_1} s.
+23130134			Effet 1 :\Soigne {puppet_h_value_1} PV à 1 allié (PV les plus bas).
+23210106			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Bois parmi les cibles attaquées.
+23210109			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF à la cible attaquée.
+23220138			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+23310090			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Eau parmi les cibles attaquées.
+23330095			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 1 allié (PV les plus bas) pendant {duration_1} s.
+23350150			Effet 1 :\ESQ {value_1} pour 2 alliés (PV les plus bas) pendant {duration_1} s.
+23410093			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Ombre parmi les cibles attaquées.
+23450103			Effet 1 :\ESQ {p_value_1} de chances de retirer des effets de dégâts continus à 1 allié (affecté par des dégâts continus).
+23450146			Effet 1 :\DÉF d'ATQ de point faible {value_1} pour 2 alliés de type Lumière pendant {duration_1} s.
+23510123			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Lumière parmi les cibles attaquées.
+23510130			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF à la cible attaquée.
+23520135			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à l'utilisateur pendant {duration_1} s.
+23530147			Effet 1 :\ESQ d'affaiblissement {value_1} pour 2 alliés de type Ombre pendant {duration_1} s.
+24110164			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à 2 ennemis (ATQ la plus élevée) pendant {duration_1} tours.
+24110191			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\{p_value_1} de chances d'infliger Anti-soin (sauf pour Vampirisme et Absorption de PV) à la cible attaquée pendant {duration_1} s.
+24120154			Effet 1 :\Absorbe {p_value_1} sous forme de PV.
+24120183			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour l'utilisateur pendant {duration_1} s.
+24120218			Effet 1 :\{value_1}Barrière (absorbe les dégâts de toutes les attaques ennemies avant que les PV ne soient affectés - Utilisation impossible avec les affaiblissements défensifs) pour 1 allié de type Eau pendant {duration_1} s.\\Effet 2 :\DÉF contre toutes les compétences {value_1} pour 1 allié de type Eau pendant 16 s (annulation après 16 s ou si attaqué {duration_1} fois).
+24140179			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+24150170			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour 2 alliés (ATQ la plus élevée) pendant {duration_1} s.
+24150207			Effet 1 :\Coup final de compétence de base {value_1} pour 1 allié de type Eau (meilleure ATQ) pendant {duration_1} s.
+24150222			Effet 1 :\Soigne {puppet_h_value_1} PV à 2 alliés (PV les plus bas).
+24210206			Effet 1 :\En Boss géant à 20, inflige Brasier à tous les ennemis ({p_value_1} points de dégâts bonus selon le nombre d'alliés de type Feu, 10 max).
+24210211			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 1 ennemi aléatoire pendant {duration_1} s.
+24220171			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 2 alliés de type Feu pendant {duration_1} s.
+24220177			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à l'utilisateur pendant {duration_1} s.
+24240193			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Bois parmi les cibles attaquées.
+24250155			Effet 1 :\ATQ {value_1} pour 1 allié attaquant pendant {duration_1} s.
+24310163			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à l'utilisateur pendant {duration_1} s.
+24310178			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Eau parmi les cibles attaquées.
+24310217			Effet 1 :\Absorbe {p_value_1} des dégâts infligés et les récupère comme PV.
+24320156			Effet 1 :\DÉF contre les dégâts de Poison {p_value_1} pour 2 alliés (PV les plus bas) pendant {duration_1} s.
+24350168			Effet 1 :\ESQ d'affaiblissement {value_1} pour 1 allié (ATQ la plus élevée) pendant {duration_1} s.
+24410166			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Ombre parmi les cibles attaquées.
+24410220			Effet 1 : \{p_value_1} de chances de conférer Attaque à distance (ignore les provocations et les renvois ennemis) à l'utilisateur pendant {duration_1} s.
+24420174			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Annulation à l'utilisateur pendant {duration_1} s.
+24420188			Effet 1 :\ATQ {value_1} pour 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+24450158			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 1 allié (PV les plus bas) pendant {duration_1} s.
+24450214			Effet 1 :\Récupération (soin) {value_1} à 2 alliés (PV les plus bas) pendant {duration_1} s.
+24510215			Effet 1 :\Chances de CRT {value_1} pour l'utilisateur pendant {duration_1} s.
+24520172			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+24550157			Effet 1 :\Chances de CRT {value_1} pour 1 allié attaquant pendant {duration_1} s.
+24550182			Effet 1 :\{p_value_1} de chances de conférer Éveil (dégâts critiques +30 % et dégâts de compétence glissée augmentés en fonction du nombre de renforcements sur soi) pour 2 alliés attaquants de type Ombre pendant {duration_1} s.
+24550189			Effet 1 :\Chances de CRT {value_1} pour 1 allié (ATQ la plus élevée) pendant {duration_1} s.
+25110197			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Feu parmi les cibles attaquées.
+25210204			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 2 ennemis de type Bois pendant {duration_1} s.
+25240200			Effet 1 :\DÉF {value_1} pour la cible attaquée pendant {duration_1} s.
+25310202			Effet 1 :\Coup final d'ATQ de point faible {value_1} pour l'utilisateur pendant {duration_1} s.
+25340209			Effet 1 :\ESQ d'affaiblissement {value_1} à 1 ennemi (le plus de renforcements) pendant {duration_1} s.
+25410201			Effet 1 :\Inflige {p_value_1} points de dégâts bonus à la cible attaquée\\Effet 2 : chances d'activation : {puppet_buff_2_prob} %\Conférer Concentration (PRÉC+ et 100 % de CRT) à l'utilisateur pendant {duration_2} s.
+25430194			Effet 1 :\{p_value_1} de chances de retirer Pétrification à 2 alliés (affecté par Pétrification).
+25510195			Effet 1 :\Chances de CRT {value_1} pour l'utilisateur pendant {duration_1} s.\\Effet 2 :\Coup final d'attaque critique {value_1} pour l'utilisateur pendant {duration_2} s.
+25520196			Effet 1 :\{p_value_1} de chances d'infliger Pétrification (impossible d'agir, effet supprimé au bout de 10 s ou après avoir subi {duration_1} attaques) à 2 ennemis aléatoires.
+31120001			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+31120018			Effet 1 :\DÉF {value_1} pour 1 allié de type Eau pendant {duration_1} s.
+31120033			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à l'utilisateur pendant {duration_1} s.
+31220000			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour l'utilisateur pendant {duration_1} s.
+31220019			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 1 allié de type Feu pendant {duration_1} s.
+31240015			Effet 1 :\DÉF {value_1} pour la cible attaquée pendant {duration_1} s.
+31320020			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à 1 allié de type Bois pendant {duration_1} s.
+31330008			Effet 1 :\DÉF d'ATQ de point faible {value_1} pour 1 allié (PV les plus bas) pendant {duration_1} s.
+31420013			Effet 1 :\Confère Rage (cumule jusqu'à {p_value_1} des dégâts subis puis les convertit en une contre-attaque) à l'utilisateur pendant {duration_1} phases.
+31420021			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour 1 allié de type Lumière pendant {duration_1} s.
+31440010			Effet 1 :\Inflige Cécité (réduction de la PRÉC d'attaque de {p_value_1}) à la cible attaquée pendant {duration_1} s.
+32130039			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 1 allié (affaibli) pendant {duration_1} s.
+32150036			Effet 1 :\Dégâts de compétence {value_1} pour tous les alliés pendant {duration_1} s.
+32150077			Effet 1 :\Charge de la jauge de compétence {value_1} pour 1 allié de type Eau pendant {duration_1} s.
+32210056			Effet 1 :\Dégâts de compétence de base {value_1} pour l'utilisateur pendant {duration_1} s.
+32210067			Effet 1 :\À des types Bois parmi les cibles attaquées pendant {duration_1} s, infligeant ESQ {value_1}.
+32220069			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+32220072			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 1 allié de type Feu pendant {duration_1} s.
+32230038			Effet 1 :\Soigne {puppet_h_value_1} PV à 1 allié (PV les plus bas).
+32250065			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\{p_value_1} de chances d'infliger Anti-soin (sauf pour Vampirisme et Absorption de PV) à la cible attaquée pendant {duration_1} s.
+32410053			Effet 1 :\AGI {value_1} pour l'utilisateur pendant {duration_1} s.
+32420040			Effet 1 :\Confère Rage (cumule jusqu'à {p_value_1} des dégâts subis puis les convertit en une contre-attaque) à l'utilisateur pendant {duration_1} phases.
+32430049			Effet 1 :\Capacité de régénération {value_1} pour 1 allié de type Lumière pendant {duration_1} s.
+32430061			Effet 1 :\Soins {value_1} pour 1 allié de type Lumière pendant {duration_1} s.
+32510050			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF aux ennemis de type Lumière parmi les cibles attaquées.
+32510062			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Lumière parmi les cibles attaquées.
+32510080			Effet 1 :\{p_value_1} points de dégâts fixes à les cibles attaquées.
+32550059			Effet 1 :\Chances de CRT {value_1} pour 1 allié de type Ombre pendant {duration_1} s.
+33110121			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à la cible attaquée pendant {duration_1} tours.
+33120125			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+33150092			Effet 1 :\Charge de la jauge de compétence {value_1} pour 1 allié (ATQ la plus élevée) pendant {duration_1} s.
+33150107			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour 2 alliés de type Eau pendant {duration_1} s.
+33210088			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à la cible attaquée pendant {duration_1} s.
+33210132			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Bois parmi les cibles attaquées.
+33220124			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à l'utilisateur pendant {duration_1} s.
+33230141			Effet 1 :\Soigne {puppet_h_value_1} PV à 2 alliés (PV les plus bas).
+33240128			Effet 1 :\{p_value_1} chances d'infliger Étourdissement (étourdi 1 s de plus à chaque attaque reçue, 5 s max) à 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+33250091			Effet 1 :\{p_value_1} de chances de retirer Confusion à 2 alliés (affecté par Confusion).
+33250139			Effet 1 :\{p_value_1} de chances de conférer Interversion ATQ/DÉF (échange les stats d'ATQ et de DÉF) à l'utilisateur pendant {duration_1} s.
+33310100			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à l'utilisateur pendant {duration_1} s.
+33310116			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Eau parmi les cibles attaquées.
+33350113			Effet 1 :\DÉF {value_1} pour 2 alliés de type Bois pendant {duration_1} s.
+33350153			Effet 1 :\Retire 1 affaiblissement à 2 alliés (type Bois, affaibli) avec {p_value_1} de chance.
+33410108			Effet 1 :\Capacité de régénération {value_1} pour la cible attaquée pendant {duration_1} s.
+33410122			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\{p_value_1} de chances d'infliger Anti-soin (sauf pour Vampirisme et Absorption de PV) à la cible attaquée pendant {duration_1} s.
+33410129			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Ombre parmi les cibles attaquées.
+33420133			Effet 1 :\Confère Rage (cumule jusqu'à {p_value_1} des dégâts subis puis les convertit en une contre-attaque) à l'utilisateur pendant {duration_1} phases.
+33420143			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.
+33450094			Effet 1 :\Capacité de régénération {value_1} pour 2 alliés (PV les plus bas) pendant {duration_1} s.
+33510089			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF à la cible attaquée.
+33510148			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Lumière parmi les cibles attaquées.
+33520127			Effet 1 :\Confère Renvoi (renvoie {p_value_1} des dégâts subis) à l'utilisateur pendant {duration_1} s.
+33540097			Effet 1 :\DÉF de point faible {value_1} pour la cible attaquée pendant {duration_1} s.
+34110191			Effet 1 :\Inflige Marque ({p_value_1} dégâts continus toutes les 4 s et dégâts bonus selon le nb de renforcements sur la cible, 6 max) à 2 ennemis (renforcé) parmi les cibles attaquées pendant {duration_1} s.
+34120154			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à tous les alliés pendant {duration_1} s.
+34120183			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Immortalité (les PV ne peuvent pas descendre en dessous de 1) à l'utilisateur pendant {duration_1} s.
+34130167			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 2 alliés (affaibli) pendant {duration_1} s.
+34140179			Effet 1 :\{p_value_1} de chances d'infliger Silence (empêche d'utiliser les compétences et réinitialise la jauge de compétence) à 2 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+34150170			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Temps de recharge des compétences {value_1} s pour 3 alliés de type Eau pendant {duration_1} tours.
+34150192			Effet 1 :\DÉF {value_1} pour 2 alliés (PV les plus bas) pendant {duration_1} s.
+34210159			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 2 ennemis (PV les plus bas) parmi les cibles attaquées pendant {duration_1} s.
+34210186			Effet 1 :\Inflige {p_value_1} points de dégâts bonus aux ennemis de type Bois parmi les cibles attaquées.
+34210206			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF à la cible attaquée.
+34210211			Effet 1 :\Inflige Déchirement ({p_value_1} points de dégâts et points de dégâts bonus aux cibles subissant des affaiblissements de dégâts continus) 3 fois à 3 ennemis aléatoires.
+34220171			Effet 1 :\Confère Épée à double tranchant {p_value_1} (augmentation de l'ATQ et réduction de la DÉF) à 3 alliés de type Feu pendant {duration_1} s.
+34220177			Effet 1 :\Confère Renvoi (renvoie {p_value_1} des dégâts subis) à l'utilisateur pendant {duration_1} s.
+34230175			Effet 1 :\Soigne {puppet_h_value_1} PV à 2 alliés (PV les plus bas).
+34240193			Effet 1 :\Inflige Venin (inflige {p_value_1} points de dégâts continus. Soin & régénération -50 % et impossibilité de raccourcir ou prolonger l'affaiblissement) à 2 ennemis (PV les plus bas) parmi les cibles attaquées pendant {duration_1} s.
+34250205			Effet 1 :\{p_value_1} de chances d'infliger Éraflure (dégâts continus et durée de Saignement augmentés) à 2 ennemis (affecté par Saignement) pendant {duration_1} s.
+34310163			Effet 1 :\Inflige {p_value_1} points de dégâts bonus à la cible attaquée.
+34310178			Effet 1 :\Absorbe {p_value_1} sous forme de PV.
+34310217			Effet 1 :\Inflige {p_value_1} points de dégâts pour chacun de vos renforcements (8 au max) à 2 ennemis (PV les plus bas).
+34320156			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} (effet supprimé au bout de 16 s ou après avoir subi {duration_1} attaques) pour 3 alliés (PV les plus bas) pendant 16 s.
+34330165			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Ténacité (effet supprimé au bout de 16 s ou après avoir subi {duration_1} attaques physiques) à 1 allié (PV les plus bas) pendant 16 s.
+34340181			Effet 1 :\DÉF de point faible {value_1} pour 2 ennemis (DÉF la plus basse) parmi les cibles attaquées pendant {duration_1} s.
+34340208			Effet 1 :\Chances d'activation : {puppet_buff_1_prob} %\Inflige Anti-Barrière (supprime Barrière et inflige des dégâts à hauteur de {p_value_1} des PV de Barrière restants) à 2 ennemis avec Barrière.
+34350185			Effet 1 :\Durée d'affaiblissement {value_1} pour 2 alliés de type Bois pendant 16 s.
+34410166			Effet 1 :\Inflige Cécité (réduction de la PRÉC d'attaque de {p_value_1}) à 2 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+34410184			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\{p_value_1} de chances d'infliger Anti-soin (sauf pour Vampirisme et Absorption de PV) à 3 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+34420174			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 4 alliés aléatoires pendant {duration_1} s.
+34420176			Effet 1 :\Confère Rage (cumule jusqu'à {p_value_1} des dégâts subis puis les convertit en une contre-attaque) à l'utilisateur pendant {duration_1} phases.
+34440162			Effet 1 :\{p_value_1} de chances d'infliger Confusion à 1 ennemi aléatoire parmi les cibles attaquées pendant {duration_1} s.
+34440180			Effet 1 :\{p_value_1} de chances d'infliger Pétrification (impossible d'agir, effet supprimé au bout de 16 s ou après avoir subi {duration_1} attaques) à 2 ennemis (ATQ la plus élevée) parmi les cibles attaquées pendant 16 s.
+34450158			Effet 1 :\Jauge d'assaut {value_1} pour l'utilisateur.
+34510213			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF aux ennemis de soutien parmi les cibles attaquées.
+34520172			Effet 1 :\DÉF {value_1} pour 3 alliés aléatoires pendant {duration_1} s.
+34520173			Effet 1 :\Confère Renvoi (renvoie {p_value_1} des dégâts subis) à 2 alliés de type Ombre pendant {duration_1} s.
+34530160			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Immortalité (les PV ne peuvent pas descendre en dessous de 1) à 1 allié (PV les plus bas) pendant {duration_1} s.
+34540161			Effet 1 :\Jauge d'assaut {value_1} pour 1 ennemi aléatoire parmi les cibles attaquées.
+34540210			Effet 1 :\Chances d'activation : {puppet_buff_1_prob} %\{p_value_1} de chances d'infliger Soin mortel (les soins appliqués à la cible sont convertis en dégâts) à 2 ennemis (PV les plus bas) pendant {duration_1} s.
+34550157			Effet 1 :\Coup final d'attaque critique {value_1} pour 1 allié (ATQ la plus élevée) pendant {duration_1} s.
+34550189			Effet 1 :\Dégâts de compétence glissée {value_1} pour 2 alliés de type Ombre (ATQ la plus élevée) pendant {duration_1} s.
+35110197			Effet 1 :\{p_value_1} points de dégâts fixes à 3 ennemis (PV les plus bas).
+35140212			Effet 1 :\Jauge d'assaut {value_1} pour 1 ennemi aléatoire.
+35210204			Effet 1 :\Inflige {p_value_1} points de dégâts ignorant la DÉF à la cible attaquée.\\Effet 2 :\Inflige {p_value_2} points de dégâts bonus aux ennemis (affecté par Saignement) parmi les cibles attaquées.
+35240200			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 2 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+35310202			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à l'utilisateur pendant {duration_1} s.
+35320199			Effet 1 :\Confère Provocation ({p_value_1} de chances d'activation) à l'utilisateur pendant {duration_1} s.\\Effet 2 :\DÉF {value_2} pour l'utilisateur pendant {duration_2} s.
+35340209			Effet 1 : \Inflige Lame dansante (DÉF -20 % et {p_value_1} points de dégâts continus toutes les 2 s) à 2 ennemis (PV les plus bas) pendant {duration_1} s.
+35410201			Effet 1 :\Inflige Cécité (réduction de la PRÉC d'attaque de {p_value_1}) à 2 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+35430194			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 2 alliés (affaibli) pendant {duration_1} s.
+41140023			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour la cible attaquée pendant {duration_1} s.
+41210007			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à la cible attaquée pendant {duration_1} s.
+41240024			Effet 1 :\DÉF {value_1} pour la cible attaquée pendant {duration_1} s.
+41320006			Effet 1 :\Absorbe {p_value_1} sous forme de PV.
+41340025			Effet 1 :\DÉF de point faible {value_1} pour la cible attaquée pendant {duration_1} s.
+41440026			Effet 1 :\ESQ d'affaiblissement {value_1} pour la cible attaquée pendant {duration_1} s.
+41520022			Effet 1 :\Confère Renvoi (renvoie {p_value_1} des dégâts subis) à l'utilisateur pendant {duration_1} s.
+41540027			Effet 1 :\ATQ {value_1} pour la cible attaquée pendant {duration_1} s.
+42110047			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à la cible attaquée pendant {duration_1} tours.
+42110051			Effet 1 :\{p_value_1} de chances de retirer 1 affaiblissement à 2 alliés (affaibli).
+42110055			Effet 1 :\{p_value_1} de chances de retirer 1 renforcement à la cible attaquée.
+42210037			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à la cible attaquée pendant {duration_1} s.
+42210068			Effet 1 :\Dégâts de compétence de base {value_1} pour tous les alliés de type Feu pendant {duration_1} s.
+42240073			Effet 1 :\DÉF {value_1} pour la cible attaquée pendant {duration_1} s.
+42310083			Effet 1 :\{p_value_1} points de dégâts fixes aux ennemis de type Eau parmi les cibles attaquées.
+42330058			Effet 1 :\DÉF d'ATQ de point faible {value_1} pour 2 alliés de type Bois pendant {duration_1} s.
+42350045			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 2 alliés de type Bois pendant {duration_1} s.
+42410084			Effet 1 :\AGI {value_1} pour les ennemis de type Ombre parmi les cibles attaquées pendant {duration_1} s.
+42450086			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 2 alliés (affaibli) pendant {duration_1} s.
+42540085			Effet 1 :\ATQ {value_1} pour les ennemis de type Lumière parmi les cibles attaquées pendant {duration_1} s.
+43120118			Effet 1 :\DÉF {value_1} pour 2 alliés de type Eau pendant {duration_1} s.
+43140142			Effet 1 :\Charge de la jauge de compétence {value_1} pour 2 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+43250120			Effet 1 :\ATQ {value_1} pour 2 alliés (ATQ la plus élevée) pendant {duration_1} s.
+43320140			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) à tous les alliés de type Bois pendant {duration_1} s.
+43340126			Effet 1 :\Charge de la jauge de compétence {value_1} pour la cible attaquée pendant {duration_1} s.
+43340151			Effet 1 :\Jauge d'assaut {value_1} pour la cible attaquée.
+43410096			Effet 1 :\Soins {value_1} pour la cible attaquée pendant {duration_1} s.
+43430115			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 2 alliés (affaibli) pendant {duration_1} s.
+43530136			Effet 1 :\Soigne {puppet_h_value_1} PV à 2 alliés (PV les plus bas).
+43540099			Effet 1 :\ATQ {value_1} pour 2 ennemis (ATQ la plus élevée) parmi les cibles attaquées pendant {duration_1} s.
+43550110			Effet 1 :\Dégâts de compétence {value_1} pour 1 allié (ATQ la plus élevée) pendant {duration_1} s.
+43550145			Effet 1 :\Confère Barrière {value_1} (ne peut pas être utilisé avec des barrières d'affaiblissement, consommé avant les PV pour toutes les attaques ennemies) à 2 alliés de type Ombre pendant {duration_1} s.
+44130167			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Immortalité (les PV ne peuvent pas descendre en dessous de 1) à 2 alliés (PV les plus bas) pendant {duration_1} s.
+44150192			Effet 1 :\Soigne {puppet_h_value_1} PV à tous les alliés.
+44230175			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 5 alliés (PV les plus bas) pendant {duration_1} s.
+44250205			Effet 1 :\Jauge de compétence {value_1} pour 2 alliés (ATQ la plus élevée).
+44310187			Effet 1 :\Inflige Bombe (explose au bout de {duration_1} s et inflige {p_value_1} points de dégâts) à 3 ennemis aléatoires parmi les cibles attaquées pendant {duration_1} s.
+44330165			Effet 1 :\Régénération de {puppet_h_value_1} PV (une fois toutes les 2 s) pour 2 alliés (affaibli) pendant {duration_1} s.
+44340208			Effet 1 :\Inflige Ténacité explosive (annule 2 charges ou moins de Ténacité, inflige des dégâts à hauteur de {p_value_1} de chaque charge restante) à 3 ennemis avec Ténacité.
+44430216			Effet 1 : Chances d'activation : {puppet_buff_1_prob} %\Confère Immortalité (les PV ne peuvent pas descendre en dessous de 1) à 2 alliés (PV les plus bas) pendant {duration_1} s.
+44440162			Effet 1 :\Jauge d'assaut {value_1} pour 1 ennemi aléatoire parmi les cibles attaquées.
+44440180			Effet 1 :\{p_value_1} de chances d'infliger Pétrification (impossible d'agir, effet supprimé au bout de 20 s ou après avoir subi {duration_1} attaques) à 2 ennemis aléatoires parmi les cibles attaquées.
+44450214			Effet 1 (Chances d'activation {puppet_buff_1_prob} %) :\Confère Lien vital (convertit {p_value_1} des points de dégâts subis sous forme de régénération à 2 alliés (PV les plus bas)) à tous les alliés pendant {duration_1} s.
+44450228			Effet 1 :\Frénésie (ATQ {value_1} et Invincibilité. Étourdit toujours la cible pendant 5 s ensuite) pour 5 alliés de type Lumière pendant {duration_1} s.
+44510169			Effet 1 :\Inflige Saignement ({p_value_1} points de dégâts continus toutes les 2 s) à 4 ennemis aléatoires pendant {duration_1} s.
+44510213			Effet 1 :\Confère coup final de compétence de point faible {value_1} à l'utilisateur pendant {duration_1} s.
+44530160			Effet 1 :\Confère Frénésie (ATQ {value_1} et Invincibilité. Inflige toujours Étourdissement à la cible pendant 5 s après) à tous les alliés attaquants pendant {duration_1} s.
+44540210			Effet 1 :\Inflige Nécrose ({p_value_1} points de dégâts continus toutes les 2 s, impossibilité de raccourcir ou prolonger l'affaiblissement) à 3 ennemis aléatoires pendant {duration_1} s.
+45110197			Effet 1 :\Inflige Poison (inflige {p_value_1} points de dégâts chaque fois que la cible agit et des dégâts bonus quand elle subit des dégâts) à la cible attaquée pendant {duration_1} tours.
+45140212			Effet 1 :\{p_value_1} de chances d'infliger Silence (empêche d'utiliser les compétences et réinitialise la jauge de compétence) à 3 ennemis aléatoires pendant {duration_1} s.
+45150198			Effet 1 :\{p_value_1} de chances de charger pleinement la jauge de compétence de 3 alliés aléatoires (sauf l'utilisateur)\\Effet 2 :\Jauge d'assaut {value_2} pour l'utilisateur.
+45320199			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour l'utilisateur pendant {duration_1} s.
+45430194			Effet 1 :\Ressuscite 1 allié mort avec {p_value_1} PV.
+45510195			Effet 1 :\Inflige Affaiblissement explosif (retire un affaiblissement, puis inflige des dégâts selon le type d'effet, multipliés par {p_value_1}) à la cible attaquée.
+45520196			Effet 1 :\{p_value_1} de chances d'infliger Pétrification (impossible d'agir, effet supprimé au bout de 20 s ou après avoir subi {duration_1} attaques) à 3 ennemis aléatoires parmi les cibles attaquées.
+51210014			Effet 1 :\Dégâts de compétence de base {value_1} pour les alliés de type Feu.
+51420002			Effet 1 :\ESQ {value_1} pour les alliés de type Lumière.
+51510034			Effet 1 :\Chances de CRT {value_1} pour tous les alliés.
+52120060			Effet 1 :\DÉF {value_1} pour les alliés de type Eau.
+52140070			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour les ennemis de type Feu.
+52250064			Effet 1 :\ATQ {value_1} pour les alliés de type Feu.
+52340054			Effet 1 :\DÉF de point faible {value_1} pour les ennemis de type Eau.
+52350052			Effet 1 :\DÉF {value_1} pour les alliés de type Bois.
+52410071			Effet 1 :\AGI {value_1} pour les alliés de type Lumière.
+52520076			Effet 1 :\Confère Renvoi (renvoie {p_value_1} des dégâts subis) à l'utilisateur.
+53110131			Effet 1 :\Dégâts de Poison {value_1} pour les alliés de type Eau.
+53140112			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour les ennemis de type Feu.
+53220152			Effet 1 :\PV max {value_1} pour les alliés de type Feu.
+53240102			Effet 1 :\DÉF {value_1} pour tous les ennemis.
+53310104			Effet 1 :\Dégâts de compétence glissée {value_1} pour les alliés de type Bois.
+53320101			Effet 1 :\Confère Vampirisme (restaure {p_value_1} PV en attaquant) aux alliés de type Bois.
+53340114			Effet 1 :\DÉF de point faible {value_1} pour les ennemis de type Eau.
+53340149			Effet 1 :\Coup final de compétence glissée {value_1} pour les alliés de type Bois.
+53420087			Effet 1 :\ESQ {value_1} pour les alliés de type Lumière.
+53430137			Effet 1 :\ESQ d'affaiblissement {value_1} pour les alliés de type Lumière.
+53440119			Effet 1 :\ESQ d'affaiblissement {value_1} pour tous les ennemis.
+53510098			Effet 1 :\Dégâts de compétence glissée {value_1} pour les alliés de type Ombre.
+54110164			Effet 1 :\Dégâts de compétence d'assaut {value_1} pour les alliés de type Eau.
+54150207			Effet 1 :\Coup final d'ATQ de point faible {value_1} pour les alliés de type Eau.
+54150222			Effet 1 :\Niveau de charge de la jauge de compétence {value_1} pour les alliés de type Eau.
+54210159			Effet 1 :\Coup final de compétence d'assaut {value_1} pour les alliés de type Feu.
+54210186			Effet 1 :\Coup final de compétence de base {value_1} pour les alliés de type Feu.
+54250155			Effet 1 :\ATQ {value_1} pour les alliés de type Feu.
+54310187			Effet 1 :\Coup final de compétence glissée {value_1} pour les alliés de type Bois.
+54340181			Effet 1 :\DÉF de point faible {value_1} pour tous les ennemis.
+54350168			Effet 1 :\DÉF {value_1} pour les alliés de type Bois.
+54350185			Effet 1 :\Vitesse de charge de la jauge de compétence {value_1} pour les alliés de type Bois.
+54410184			Effet 1 :\Dégâts de compétence {value_1} pour les alliés de type Lumière.
+54410220			Effet 1 :\Dégâts de compétence glissée {value_1} pour les alliés de type Lumière.
+54420176			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour tous les alliés.
+54420188			Effet 1 :\ATQ {value_1} pour tous les ennemis.
+54430216			Effet 1 :\Soin {value_1} pour tous les alliés.
+54450228			Effet 1 : \Niveau de charge de la jauge de compétence {value_1} pour les alliés de type Lumière.
+54510169			Effet 1 :\Dégâts de compétence glissée {value_1} pour les alliés de type Ombre.
+54510215			Effet 1 :\ATQ {value_1} pour les alliés de type Ombre.
+54520173			Effet 1 :\DÉF contre tous les dégâts de compétence {value_1} pour tous les alliés.
+54540161			Effet 1 :\ATQ {value_1} pour tous les ennemis.
+54550182			Effet 1 :\ATQ {value_1} pour les alliés de type Ombre.
+55140212			Effet 1 :\ESQ d'affaiblissement {value_1} pour les ennemis de type Feu.
+55150198			Effet 1 :\Charge de la jauge de compétence {value_1} pour tous les alliés.
+55240200			Effet 1 :\DÉF {value_1} pour tous les ennemis.
+55310202			Effet 1 :\Coup final d'ATQ de point faible {value_1} pour les alliés de type Bois.
+55340209			Effet 1 :\En JcJ, dégâts continus infligés par tous les ennemis {value_1}.
+55520196			Effet 1 :\ESQ d'affaiblissement {value_1} pour les ennemis de type Lumière.

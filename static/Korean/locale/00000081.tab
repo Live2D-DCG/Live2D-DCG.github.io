@@ -1,0 +1,268 @@
+﻿// key	BACKGROUND_IMAGE_NAME_	BACKGROUND_IMAGE_DESCRIPTION_
+1	Ambiance grise	Un espace gris dans lequel les démons se sentent bien.
+10	Pas de nom	[No description]
+2	Ambiance jaune	Un espace jaune rappelant le coucher de soleil du Royaume infernal.
+2001	Route de la supérette	C'est le chemin du travail.
+2002	Un après-midi au café	Les démons s'y réfugient l'après-midi.
+2003	Hall du grand magasin	Le hall d'un grand magasin propre et ordonné.
+2004	Hall de l'hôtel	Un hôtel de luxe où les démons séjournent régulièrement.
+2005	Entrée de l'appartement	Un vieil homme effrayant poursuit tous ceux qui provoquent du remue-ménage.
+2006	Un matin au parc	Un nombre étonnamment grand de pactes ont été passés dans ce parc paisible.
+2007	Billetterie	Difficile de trouver le temps de voir un film, mais bon...
+2008	Rivière	Un chemin longeant la rivière. Une odeur d'eau stagnante plane.
+2009	Salle de sport	Je vais essayer d'y aller au moins cinq fois ce mois-ci.
+2010	Gare ferroviaire	Le long des rails, ma vie est un constant tumulte de trains en marche.
+2011	Terrasse du café	Un café où il faut rappeler aux employés de tamponner la carte de fidélité.
+2012	Route escarpée	Essayez de convaincre vos jambes tremblantes d'aller jusqu'au sommet.
+2013	Bibliothèque	Chut ! On est dans une bibliothèque. Et rendez vos livres à temps !
+2014	Salle de classe vide	Ce lieu est hanté par l'amertume de nombreux élèves.
+2015	École	De futurs passeurs de pactes s'y réunissent.
+2016	École, entrée arrière	Le temps semble s'être arrêté au printemps. Rien à voir avec les démons.
+2017	Rue pluvieuse	Une odeur de terre émane de cette rue pluvieuse.
+2018	Grand magasin	Un endroit populaire chez les passeurs de pactes. Rejoignons-nous devant l'entrée !
+2019	Cour de récréation	Une cour d'école bien entretenue. Heureusement, il n'y a personne en ce moment.
+2020	Université, entrée avant	De futurs grands académiciens privilégiés étudient ici.
+2021	Café pâtisserie	Ce café vend les meilleures pâtisseries du coin.
+2022	Hall de l'immeuble	Des bureaux et des appartements se trouvent dans cet immeuble sécurisé.
+2023	Entrée du cinéma	109CINÉMAS, situé en plein cœur du centre-ville.
+2024	Église de nuit	Une rumeur sordide circule à propos d'un exorciste travaillant ici.
+2025	Inutilisé	[No description]
+2026	Rue calme	Une rue tranquille et peu empruntée.
+2027	Rivière de nuit	Un parc illuminé de néons.
+2028	Parc de nuit	Un chemin traversant un parc. La nuit, il vous donne la chair de poule.
+2029	Un matin au café	Un café lumineux aux employés compétents.
+2030	Piste cyclable	Un parc qui offre une superbe piste cyclable bien entretenue.
+2031	Couloir de l'immeuble	Un couloir décoré de bouquets de fleurs parfaitement arrangés.
+2032	Gymnase	Les démons, c'est tout dans les muscles et rien dans la tête.
+2033	Bas quartiers	Ça a l'air glauque, mais on s'y habitue.
+2034	Rue de nuit	Il ne reste que la lumière des lampadaires et le clair de lune.
+2035	Rue de jour	Un centre commercial bondé de visiteurs qui vont et viennent.
+2036	Allée	Une petite rue fréquentée par des chats.
+2037	Arrêt de bus	Un arrêt de bus à la tombée de la nuit.
+2038	Train	Un train étrange plus souvent en retard qu'à l'heure.
+2039	Quai	Pour des raisons de sécurité, veuillez patienter derrière la ligne.
+2040	Café littéraire	La plupart des livres ici sont inconnus.
+2041	Ruelle tranquille	Une petite rue tranquille que vous traversez pour rentrer.
+2042	Vieille rue	Une rue mystérieuse où les habitations traditionnelles cohabitent avec les habitations rénovées.
+2043	Extérieur du centre commercial	La silhouette de ces bâtiments ultra-modernes est éblouissante.
+2044	Intérieur du centre commercial	Les démons perdus errent ici au milieu des lumières clignotantes.
+2045	Ruines du centre commercial	D'ici, on peut voir la Voie lactée.
+2046	Vue sur la côte	Les lumières de la ville fondent à la surface de la rivière.
+2047	Zone côtière à minuit	Vous avez fait tout ce chemin à la recherche de passeurs de pactes.
+2048	Zone côtière, vue nocturne	Il suffit d'un pas en arrière pour découvrir cette vue.
+2049	Centre-ville	Un lieu de désir où se tient le concours de prétendants au trône des démons.
+2050	Pied de la montagne	Le nombre de lumières au loin est équivalent au nombre de désirs.
+2051	Coucher de soleil à Nakasu	Un immeuble résidentiel est en construction.
+2052	Minuit à Nakasu	Le bruit et l'agitation du jour s'estompent à mesure que la nuit tombe.
+2053	Au-dessus de Nakasu	Il y a sûrement un démon là-haut, au-dessus de ce banc de sable qui semble paisible.
+2054	Harlem Street	Un quartier des plaisirs où les démons et leurs sbires se fondent dans la lumière des néons.
+2055	Immeubles de nuit	Les véritables démons sortent la nuit.
+2056	Héliport	Un héliport vide.
+2057	Chantier de nuit	Un chantier vide où le travail est terminé.
+2058	Chantier à minuit	Il a beau faire nuit, on entend encore le son des marteaux.
+2059	Chapelle	Un lieu sacré où les exorcistes exercent leur activité.
+2060	Entrepôt de l'école	L'entrepôt d'une école. Il baigne dans une aura sinistre.
+2061	Plage	Le sable chaud brille à la lumière du soleil.
+2062	Phare	Une vue de l'océan et d'un phare distant.
+2063	Tunnel	Au loin, on voit les lumières de la ville. L'air est glacial.
+2064	Tour de fer	La vue d'une tour de fer illuminée par un beau coucher de soleil.
+2065	Lac	Un lac magnifique à l'eau limpide.
+2066	Chemin bordant le lac	Un lac traversé par un pont, parfait pour se promener.
+2067	Zone boisée	Le mélange parfait entre le parfum de la terre et celui des plantes et revigorant.
+2068	Chemin des sources	La vue d'un chemin et d'un escalier de pierre menant à une source.
+2069	Restaurant japonais	Un restaurant japonais chic dont le chef a étudié dans sa région d'origine.
+2070	Parc tranquille	Un banc parfait pour se détendre à l'ombre des arbres.
+2071	Parc d'attractions	Un petit parc d'attractions fréquenté par quelques fans inconditionnels.
+2072	Parc d'attractions à minuit	Un parc d'attractions de nuit, joliment décoré pour une parade.
+2073	Parc d'attractions abandonné	Un parc d'attractions abandonné depuis longtemps. La grande roue a l'air triste.
+2074	Refuge de l'ours polaire	Vous avez bien travaillé, monsieur l'ours blanc.
+2075	Cage aux singes	Une cage pleine de singes chamailleurs.
+2076	Aquarium	Un aquarium où nagent des créatures aquatiques de toutes tailles.
+2077	Allée	La terre cahoteuse a un certain charme.
+2078	Marché nocturne	Une place du marché pendant un festival.
+2079	Pas de nom	La vue d'un bâtiment considéré comme sacré.
+2080	Inutilisé	[No description]
+2081	Allée du marché	[No description]
+2082	Chemin de montagne	Un chemin légèrement en pente, idéal pour une balade tranquille.
+2083	Jungle de béton	Un paysage urbain grisâtre. On y voit de nombreux bâtiments en béton.
+2084	Pas de nom	Un passage piéton d'une grande ville qui ne dort jamais.
+2085	Intérieur de l'église	Lorsqu'on respire, l'air sacré brûle les poumons.
+2086	Chambre du Maître	Le loyer serait trop cher sans votre petit boulot et votre bourse d'apprenti démon.
+2087	Salon de thé de Lan Fei	Le salon de thé tenu par Lan Fei. Enfin, elle appelle ça un salon de thé...
+2088	Chemin de fer pluvieux	La sortie d'une station sous la pluie.
+2089	Cuisine du Maître	Toutes sortes d'incidents surviennent ici.
+2090	Centre sportif	À un certain moment de l'année, une odeur d'alcool et de fête se fait sentir.
+2091	Parvis du château	Un parvis chargé d'histoire.
+2092	Temple au clair de lune	Un temple paisible qui baigne dans le clair de lune.
+2093	Statue de bouddha	Le bodhisattva Maitrya sourit tendrement au monde.
+2094	Salle de yoga	L'intérieur d'une salle de yoga.
+2095	Maison du Maître	Vous vivez ici, seul et en paix.
+2096	Toilettes du Maître	Il y a beaucoup plus de produits de toilette depuis l'arrivée des succubes.
+2097	Petit boulot du Maître	La supérette où vous travaillez dur tous les jours pour payer le loyer.
+2098	Supérette	La devanture de la supérette où vous travaillez.
+2099	Studio rouge	Le studio rouge de Chaîne Evil. Toujours à vos côtés.
+2100	Studio bleu	Le studio bleu de Chaîne Evil. Toujours à vos côtés.
+2101	Centre-ville au matin	Le centre-ville, envahi par les touristes le matin.
+2102	Centre-ville de nuit	Le centre-ville, toujours animé la nuit.
+2103	Entrée du gratte-ciel	L'entrée d'un gratte-ciel.
+2104	Salle d'arcade	La salle d'arcade que vous fréquentiez souvent, avant que l'argent ne manque.
+2105	Vue des gratte-ciels	Un paysage urbain. Au loin, on voit des gratte-ciels.
+2106	Lac d'un vieux temple	Un vieux sanctuaire et un joli lac.
+2107	Tour radio	Une rue tranquille et une tour radio.
+2108	Quincaillerie des Ténèbres	Une quincaillerie des Ténèbres aux marchandises douteuses.
+2109	Place	Une place et une tour horloge.
+2110	Église paisible	Une église paisible où travaillent des exorcistes.
+2111	Chantier l'après-midi	Un chantier vide où vous venez souvent lorsque vous voulez être seul.
+2112	Supérette à minuit	La supérette concurrente, qui prospère grâce à la station à proximité.
+2113	Au-dessus de la ville	Une vue plongeante sur une aire résidentielle.
+2114	Cour de l'église	Une cour d'église décorée d'une croix.
+2115	Cabinet d'avocats	Mona a poussé le propriétaire d'origine à la laisser l'utiliser comme cabinet de conseil.
+2116	Carrefour	Un carrefour urbain très fréquenté où le bruit des klaxons ne cesse jamais.
+2117	Télévision du Maître	Une télévision que vous avez récupérée dans une déchetterie et réparée.
+2118	Passage piéton	Un passage piéton à l'attente particulièrement longue.
+2119	Parking	Un parking avec un chemin de fer.
+2120	Entrée de la tour radio	L'entrée d'une tour radio.
+2121	Laboratoire	Un laboratoire douteux dont les sujets d'étude sont toujours différents.
+2122	Terrain de jeu	Un terrain de jeu fréquenté par Davi et ses amis.
+2123	Salle d'entraînement	Une salle d'entraînement impeccable.
+2124	Amphithéâtre	L'apprentissage est un voyage sans fin.
+2125	Bureau	Un champ de bataille entre employés débordés.
+2126	Librairie	Une librairie pour ceux qui aiment apprendre. Vous n'en faites pas partie.
+2127	Restaurant familial	Un restaurant qui sert des plats locaux, tenu par quelqu'un du coin.
+2129	Usine abandonnée	Une usine en ruines.
+2130	Bâtiment abandonné	Un bâtiment abandonné.
+2131	Hôpital	Le grand hôpital où travaille la passeuse de pactes de Déméter.
+2133	Fontaine du parc de nuit	Un parc avec une jolie fontaine illuminée.
+2134	Chemin de promenade	Un chemin bien entretenu qui longe la rivière.
+2135	Parking à vélos	La bordure extérieure d'un parc, où les gens garent leur vélo.
+2136	Fontaine du parc	Un parc avec une fontaine. Ce parc est populaire auprès des familles.
+2137	Terrain de football	Un terrain de football fait de gazon naturel.
+2139	Terrain de baseball	Un terrain de baseball rempli de l'enthousiasme des fans.
+2141	Fast-food	Un grand fast-food populaire chez les passeurs de pactes.
+2142	Caisse du fast-food	Les clients affamés attendent leur commande ici.
+2144	Toit de l'école	C'est le toit d'une école. On ne peut y aller qu'au déjeuner.
+2145	Galerie marchande	La galerie marchande d'un grand magasin.
+2146	Musée	Un musée d'art moderne dont l'exposition principale change tous les trimestres.
+2147	Colline	Une colline qui offre une vue plongeante de la ville.
+2148	Maison hantée	On dit que cette maison abandonnée est hantée.
+2151	Pont pédestre	Un pont abrupt qui fait mal aux genoux.
+2152	Station essence de nuit	Une station-service en libre-service qui reste ouverte toute la nuit.
+2153	Chemin bordé de cerisiers	Une route bordée de cerisiers.
+2154	Pont bordé de cerisiers	Un paysage printanier de beaux cerisiers en fleurs.
+2155	Boutique des sources chaudes	Des sources chaudes prétendument adaptées aux démons.
+2157	Vieux sanctuaire	Un vieux sanctuaire dont les tuiles sont levées vers le ciel.
+2158	Souterrain	Un réseau de tunnels abandonnés et repris par des démons.
+2159	Colonie souterraine	On peut y trouver des provisions pour le Souterrain.
+2160	Arbres de la cour	Un lieu pour se reposer à l'ombre.
+2161	Poste de police	Au moindre soupçon, appelez la police.
+2164	Chambre de Mona	Une chambre aux couleurs criardes que Mona a fabriquée sans autorisation.
+2175	Pont de la vie	Ne vous faites pas avoir par le nom. En réalité, c'est un champ de bataille.
+2176	Bar Replay	Normalement, on boit pour oublier. Ici, c'est l'inverse.
+2177	Tunnel pédestre à minuit	De nombreux démons aussi passent par ici.
+2178	Parc de nuit	Un parc de nuit où la lune commence à peine à briller.
+2179	Centre sportif	Un centre sportif, terre sacrée des amoureux du sport.
+2180	Donjon doré	Le seigneur Mammon passait souvent par ici.
+2181	Salle de karaoké	Une salle de karaoké dans une salle d'arcade.
+2182	Obélisque céleste	Une étrange structure qui est apparue dans la ville.
+2183	Descente de l'obélisque	Une tour géante mystérieuse que les démons anciens attendent.
+2184	Chute de l'obélisque	L'obélisque est en ruines, mais les sbires des démons veulent le restaurer.
+2185	Pyramide de Cléopâtre	La pyramide au sein de l'obélisque reconstruit à l'aide de la magie.
+2186	Fresques de Michel-Ange	L'intérieur de la chapelle Sixtine, reconstituée à l'aide de la magie.
+2187	Couloir de Michel-Ange	À vérifier.
+2188	Royaume infernal	La capitale du Royaume infernal, où le chaos coule comme une rivière.
+2189	Parc d'Halloween	Une aire de jeux autour du thème d'Halloween.
+2196	Donjon vert	Un espace vide du cœur qui baigne dans une aura verte.
+2197	Donjon rouge	Un espace vide dans le cœur qui baigne dans une aura rouge.
+2198	Donjon sombre	Un espace vide dans le cœur qui baigne dans une aura grise.
+2199	Donjon lumineux	Un espace vide dans le cœur qui baigne dans une aura violette.
+2200	Donjon bleu	Un espace vide dans le cœur qui baigne dans une aura bleue.
+2201	Labyrinthe de la renaissance	Section du concours du Roi des démons, laboratoire d'étude de l'énergie démoniaque.
+2203	Rue décorée pour Noël	La boulangerie où Rudolphe travaille.
+2204	Grand magasin décoré pour Noël	Un grand magasin décoré pour Noël.
+2205	Parc décoré pour Noël	Un parc d'attractions où défile une parade de Noël.
+2222	Cabinet d'avocats	Essayez de vous détendre et d'oublier vos soucis.
+2224	Saint Michael la nuit	C'est une belle nuit... mais quelque part, un sinistre complot est à l'œuvre.
+2240	Scène de diva ♪	Le concert d'une diva acclamée par des fans enthousiastes.
+2241	Nouveau centre-ville en journée	Nouveau centre-ville en journée, comptant plus de bâtiments en construction que d'habitants.
+2242	Nouveau centre-ville de nuit	Nouveau centre-ville de nuit, où il fait si sombre qu'on ne distingue pas les habitants des démons.
+2264	Petit matin	Une année chasse l'autre...Ah, être ensemble au lever du soleil.
+2267	Cercle des exorcistes	Que tous les exorcistes trouvent le repos.
+2268	Cercle des exorcistes en ruine	Mystère caché dans les ruines.
+2269	Périphérie du Cercle des exorcistes	La puissance du démon qui a poussé les exorcistes à la folie plane encore dans l'air.
+2289	Champ la nuit	La nuit est tombée sur l'immense champ caressé par la brise.
+2296	Feu d'artifice de Noël	Magnifique feu d'artifice de Noël.
+2297	Espace de Loki	Espace créé par Loki et pouvant exister (ou non) dans la réalité.
+2300	Toit du café	Toit depuis lequel on peut regarder le soleil se coucher.
+2301	Terre vue de l'espace	La terre vue depuis l'espace. Ce que vous voyez sous vos pieds, c'est la lune.
+2302	Spectacle de feux d'artifice du nouvel an	Feux d'artifice pour célébrer un nouveau départ.
+2303	Usine de poupées	L'expérience a réussi. \Allez chercher votre copain.
+2304	Lac du ciel	Un lac reflétant le ciel bleu.\Quelle vue apaisante !
+2305	Lac du ciel nocturne	Un lac reflétant le ciel étoilé.
+2306	Laboratoire d'Orcus	Laboratoire de recherches d'Orcus, le scientifique qui dissèque les âmes.
+2307	Couloir du Metro City Museum	Équipé de nombreux appareils de sécurité \pour tenir les voleurs à distance.
+2308	Labyrinthe de la renaissance détruit	Tu as choisi la mauvaise solution. \Toute négociation est impossible.
+2309	Metro City Museum	Musée de New York. \Diverses pièces artistiques, culturelles et historiques y sont stockées et exposées.
+2310	Base du Voleur fantôme	Base de PHAN+IC, \bien cachée à l'abri des regards.
+2311	Cosmochamp d'Arhat	Espace virtuel pouvant uniquement être créé par une poignée d'exorcistes.
+2312	Campus de Saint Michel sous la poussière	L'énergie démoniaque est palpable dans cette école religieuse.
+2313	Les catacombes	Endroit caché de l'école ayant perdu son objectif d'origine.
+2314	Univers de Thérésa	Ici, vous pouvez obtenir ce que vous voulez... même si ça ne dure pas.
+2315	Âme pure	Précieux trésor stocké au Metro City Museum.
+2316	Trésor disparu	Où sont l'âme pure ou le Voleur fantôme ?
+2317	New York	Même New York n'est pas à l'abri des ombres des ténèbres.
+2318	New York de nuit	New York est tellement belle, la nuit...
+2325	Chez Arhat	Dans le lieu que la déesse pointait, une fille était étendue inconsciente.
+2326	Chambre des épreuves	Le temps des ténèbres et de la peur à endurer pour revendiquer le trône de la déesse.
+2327	Rue au Népal	Pour venir, j’ai suivi la voix d’un être cher qui s’en est allé au loin.
+2328	Festival au Népal	Quand le soleil se couche pour laisser place à la lune, le paysage change de visage.
+2329	Temple de Kumari	Le lieu le plus sacré mais aussi le plus solitaire au monde.
+2330	Temple abandonné	La tombe abandonnée d'une déesse. Seules les étoiles sans nom se souviennent d'elle.
+2331	Dames gelées	Mes amis sont partis rejoindre un monde tout proche et pourtant si lointain.
+2332	Salle d'attente	C'est ici que Planet Party se prépare avant son show.\On entend les fans hurler au-dehors.
+2335	Chambre secrète du manoir de l'île d'Amos	Chambre secrète de Juno sur l'île d'Amos.
+2336	Manoir de Juno et Tiwaz	Une chambre dans le manoir de Juno et Tiwaz.\Leur demeure est gigantesque.
+2337	Jardin du manoir de l'île d'Amos	Ulysse prend soin de ce magnifique jardin au quotidien.
+2338	Une nuit au jardin	Les nuits sont longues sur l'île d'Amos.
+2339	Club sur la plage	Un club illuminé sur la plage qui propose un vaste choix de cocktails délicieux.
+2340	Une nuit à l'hôtel	L'endroit parfait dans cet hôtel de luxe pour admirer le coucher de soleil.
+2341	Une nuit sur l'île d'Amos	Une jolie rue de l'île d'Amos, en pleine nuit d'été.
+2342	Chambre de la dépendance de Tiwaz	Un endroit secret où Tiwaz et Juno règlent leurs comptes.
+2343	Une nuit dans la dépendance	Un endroit luxueux, mais Tiwaz déteste être seule dans la dépendance.
+2344	Dépendance de Tiwaz	Une dépendance luxueuse qui témoigne des goûts de Tiwaz.
+2345	Chambre d'hôpital de Ziva	Sa propriétaire a laissé ses marques un peu partout dans cette chambre d'hôpital confortable.
+2346	Monde du Chintamani	Un étrange monde monochrome créé par Chintamani.
+2347	Circuit D1	Circuit qui s'étend à l'infini, permettant aux pilotes d'atteindre de grandes vitesses.
+2348	Gradins du circuit D1	Gradins permettant d'accueillir des milliers de démons.
+2349	Chintamani de Loki	Chintamani personnel de Loki.
+2350	Cachette de Judas	Repaire de Judas. L'endroit est sombre et humide...
+2351	Univers de Judas	Ici règne la loi du plus fort.
+2354	Laboratoire de Babel	Laboratoire secret utilisé pour faire pousser la plante maudite appelée « sang de démon ».
+2355	Salle d'audience de Loki	Salle d'audience de Loki, le roi de l'avent.
+2356	Le Chintamani en flammes	La folie qui s'est insinuée dans l'esprit de Mitra s'enflamme d'un coup.
+2357	Univers de démence	Univers intérieur de quelqu'un devenu fou. Plus chaud que l'enfer et infligeant d'atroces douleurs.
+2358	Couloir sombre	D'étranges sons proviennent de ce couloir vide. Est-ce le vent... ou quelqu'un qui rit ?
+2374	Grotte dans la forêt	Grotte se trouvant dans les profondeurs d'une forêt. Peut-être n'est-elle pas aussi vide qu'elle en a l'air...
+2375	Flammes mourantes	Les flammes sont mourantes, mais la chaleur insupportable et la douleur atroce qui en émanent le sont-elles également ?
+2376	Cosmochamp de Miriam	Terrible prison vouée à l'extermination de certains.
+2377	Univers de Báthory	Enfer choisi volontairement dans l'espoir d'y voir briller un jour la lumière des cieux...
+2378	Arrière-plan de néons	L'heure des néons commence à la tombée de la nuit...
+2379	Maison du démon la nuit	Un silence assourdissant règne sur le perron de cette maison démoniaque.
+2381	Maison de Miriam	Doux souvenirs cachés derrière d'autres souvenirs. Les souvenirs perdus ne peuvent plus être protégés.
+2382	Filiale européenne du Cercle des exorcistes	Autel bâti sur une histoire de foi éternelle. Pourtant, l'autel de lumière lui-même projette des ombres...
+2383	Maison de l'adepte démoniaque	Rien n'est plus dénué de sens que la foi. Ceux dont la foi est mise à l'épreuve connaissent une fin tragique.
+2384	Espace de Caducée	Dans un recoin sombre de l'esprit de chacun se trouve Caducée, qui darde la langue...
+2385	Chambre d'hôpital	En situation critique, même les démons sont hospitalisés au Royaume des mortels.
+2386	Studio	À la fois un chez-soi où se détendre et un studio où dépenser son énergie.
+2387	Festival des lanternes de papier	Pour bien démarrer la nouvelle année, remplissez de vos vœux une lanterne de papier et laissez-la s'envoler dans les airs...
+2445	Salle de concert de Planet Party	Lieu de concert exclusif de Planet Party. \Venez profiter du show incroyable et des magnifiques chansons du groupe.
+2454	Patinoire de Noël	Allons patiner pour Noël. On va bien s'amuser !
+2455	Veille du Nouvel An	Le ciel s'éclaircit déjà, le soleil va se lever.
+3	Ambiance violette	Un espace violet rappelant le ciel nocturne du Royaume infernal.
+3046	Vue sur la côte	Les lumières de la ville fondent à la surface de la rivière.
+3059	Chapelle	Un lieu sacré où les exorcistes exercent leur activité.
+4	Ambiance dorée	Un espace doré rappelant le ciel étoilé du Royaume infernal.
+5	Ambiance verte	Un espace vert rappelant la végétation du Royaume infernal.
+6	Ambiance rouge	Un espace rouge rappelant la lave du Royaume infernal.
+7	Pas de nom	[No description]
+8	Pas de nom	[No description]
+9	Pas de nom	[No description]

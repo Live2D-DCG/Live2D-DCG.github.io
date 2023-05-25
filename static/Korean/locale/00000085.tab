@@ -1,0 +1,749 @@
+﻿// key	CHARACTER_DUNGEON_NAME_	CHARACTER_DUNGEON_SECOND_NAME_	CHARACTER_DUNGEON_LOCATION_DESC_
+1000	Collab.	SNOW MIKU	Souvenirs de la rencontre avec SNOW MIKU dans un paysage immaculé.
+100001	Niveau 1	Désastre I	
+100002	Niveau 2	Monde d'argent I	
+100003	Niveau 3	Désastre II	
+100004	Niveau 4	Rencontre I	
+100005	Niveau 5	Rencontre II	
+100006	Niveau 6	Promesse à deux I	
+100007	Niveau 7	Monde d'argent II	
+100008	Niveau 8	Promesse à deux II	
+1010	Collaboration	SNOW MIKU	Souvenirs de la rencontre avec SNOW MIKU dans un paysage immaculé.
+101001	Niveau 1	Désastre I (difficile)	
+101002	Niveau 2	Monde d'argent I (difficile)	
+101003	Niveau 3	Désastre II (difficile)	
+101004	Niveau 4	Rencontre I (difficile)	
+101005	Niveau 5	Rencontre II (difficile)	
+101006	Niveau 6	Promesse à deux I (difficile)	
+101007	Niveau 7	Monde d'argent II (difficile)	
+101008	Niveau 8	Promesse à deux II (difficile)	
+1100	Narratif	Guerre sacrée	Les cieux se déchirent\et le dieu des ténèbres descend sur terre.
+110001	Niveau 1	Une prière pour les mourants I	
+110002	Niveau 2	Une prière pour les mourants II	
+110003	Niveau 3	Âme brisée I	
+110004	Niveau 4	Tentation	
+110005	Niveau 5	La chute	
+110006	Niveau 6	Âme brisée II	
+110007	Niveau 7	Croisade	
+110008	Niveau 8	Incarnation	
+1110	Narratif	Guerre sacrée	Les cieux se déchirent\et le dieu des ténèbres descend sur terre.
+111001	Niveau 1	Une prière pour les mourants I (diff.)	
+111002	Niveau 2	Une prière pour les mourants II (diff)	
+111003	Niveau 3	Âme brisée I (difficile)	
+111004	Niveau 4	Tentation (difficile)	
+111005	Niveau 5	La chute (difficile)	
+111006	Niveau 6	Âme brisée II (difficile)	
+111007	Niveau 7	Croisade (difficile)	
+111008	Niveau 8	Incarnation (difficile)	
+1200	<Narratif>	Un nouveau Roi des démons	Le 3e Roi des démons fait son apparition...
+120001	Niveau 1	Jugement dernier !	
+120002	Niveau 2	Jugement dernier !!!	
+120003	Niveau 3	Jugement dernier ?	
+120004	Niveau 4	JUGEMENT DERNIER !	
+1210	<Narratif>	Un nouveau Roi des démons	Le 3e Roi des démons fait son apparition...
+121001	Niveau 1	Jugement dernier ! (difficile)	
+121002	Niveau 2	Jugement dernier !!! (difficile)	
+121003	Niveau 3	Jugement dernier ? (difficile)	
+121004	Niveau 4	JUGEMENT DERNIER ! (difficile)	
+1300	Narratif	Fleur froide	La noirceur d'une fille qui admire les démons.
+130001	Niveau 1	Harcèlement	
+130002	Niveau 2	Poursuite	
+130003	Niveau 3	Fleur froide I	
+130004	Niveau 4	Cache-cache	
+130005	Niveau 5	Fleur froide II	
+130006	Niveau 6	Jeu du mensonge	
+130007	Niveau 7	Fleur froide III	
+130008	Niveau 8	Folie silencieuse	
+1310	Narratif	Fleur froide	La noirceur d'une fille qui admire les démons.
+131001	Niveau 1	Harcèlement (difficile)	
+131002	Niveau 2	Poursuite (difficile)	
+131003	Niveau 3	Fleur froide I (difficile)	
+131004	Niveau 4	Cache-cache (difficile)	
+131005	Niveau 5	Fleur froide II (difficile)	
+131006	Niveau 6	Jeu du mensonge (difficile)	
+131007	Niveau 7	Fleur froide III (difficile)	
+131008	Niveau 8	Folie silencieuse (difficile)	
+1400	<Narratif>	Le règne de la justice	Nous avons tous des sentiments qui nous sont chers.
+140001	Niveau 1	Une lueur dans l'obscurité	
+140002	Niveau 2	Dilemme	
+140003	Niveau 3	Le règne de la justice Ⅰ	
+140004	Niveau 4	Laisser le passé derrière soi	
+140005	Niveau 5	Le règne de la justice Ⅱ	
+140006	Niveau 6	De vieux souvenirs	
+140007	Niveau 7	Le règne de la justice Ⅲ	
+140008	Niveau 8	La bonne voie	
+1410	<Narratif>	Le règne de la justice	Nous avons tous des sentiments qui nous sont chers.
+141001	Niveau 1	Difficile - Une lueur dans l'obscurité	
+141002	Niveau 2	Difficile - Le bourbier	
+141003	Niveau 3	Difficile - Le règne de la justice Ⅰ	
+141004	Niveau 4	Difficile - Laisser le passé derrière soi	
+141005	Niveau 5	Difficile - Le règne de la justice Ⅱ	
+141006	Niveau 6	Difficile - De vieux souvenirs	
+141007	Niveau 7	Difficile - Le règne de la justice Ⅲ	
+141008	Niveau 8	Difficile - La bonne voie	
+1500	Narratif	Réconciliation	L'histoire secrète du nouveau Midas
+150001	Niveau 1	Évasion	
+150002	Niveau 2	Crimes	
+150003	Niveau 3	Réconciliation I	
+150004	Niveau 4	Entrée en scène	
+150005	Niveau 5	Réconciliation II	
+150006	Niveau 6	Les Piliers	
+150007	Niveau 7	Réconciliation III	
+150008	Niveau 8	Frères	
+1510	Narratif	Réconciliation	L'histoire secrète du nouveau Midas
+151001	Niveau 1	DIFFICILE - Évasion	
+151002	Niveau 2	DIFFICILE - Crimes	
+151003	Niveau 3	DIFFICILE - Réconciliation I	
+151004	Niveau 4	DIFFICILE - Entrée en scène	
+151005	Niveau 5	DIFFICILE - Réconciliation II	
+151006	Niveau 6	DIFFICILE - Les Piliers	
+151007	Niveau 7	DIFFICILE - Réconciliation III	
+151008	Niveau 8	DIFFICILE - Frères	
+1600	<Narratif>	L♥VE hypermortel	Rêves d'une jolie rose rouge
+160001	Niveau 1	L♥VE hypermortel I	
+160002	Niveau 2	Attaque de cœur	
+160003	Niveau 3	L♥VE hypermortel II	
+160004	Niveau 4	Perte de sang mortelle I	
+160005	Niveau 5	L♥VE hypermortel III	
+160006	Niveau 6	Perte de sang mortelle II	
+160007	Niveau 7	L♥VE hypermortel IV	
+160008	Niveau 8	Frôler la mort	
+1610	<Narratif>	L♥VE hypermortel	Rêves d'une jolie rose rouge
+161001	Niveau 1	Difficile - L♥VE hypermortel I	
+161002	Niveau 2	Difficile - Attaque de cœur	
+161003	Niveau 3	Difficile - L♥VE hypermortel II	
+161004	Niveau 4	Difficile - Perte de sang mortelle I	
+161005	Niveau 5	Difficile - L♥VE hypermortel III	
+161006	Niveau 6	Difficile - Perte de sang mortelle II	
+161007	Niveau 7	Difficile - L♥VE hypermortel IV	
+161008	Niveau 8	Difficile - Frôler la mort	
+1700	Narratif	Ombre et Lumière	Ce qui est advenu de la fille et de son opposé
+170001	Niveau 1	Présence	
+170002	Niveau 2	Ombre et Lumière I	
+170003	Niveau 3	Chevauchement	
+170004	Niveau 4	Athéna	
+170005	Niveau 5	Souvenirs	
+170006	Niveau 6	Pallas	
+170007	Niveau 7	Ombre et Lumière II	
+170008	Niveau 8	Ensemble	
+1710	Narratif	Ombre et Lumière	Ce qui est advenu de la fille et de son opposé
+171001	Niveau 1	Présence (difficile)	
+171002	Niveau 2	Ombre et Lumière I (difficile)	
+171003	Niveau 3	Chevauchement (difficile)	
+171004	Niveau 4	Athéna (difficile)	
+171005	Niveau 5	Souvenirs (difficile)	
+171006	Niveau 6	Pallas (difficile)	
+171007	Niveau 7	Ombre et Lumière II (difficile)	
+171008	Niveau 8	Ensemble (difficile)	
+1900	Narratif	Serment éternel	Celle que le destin lie à Báthory
+190001	Niveau 1	Serment éternel I	
+190002	Niveau 2	Rencontre	
+190003	Niveau 3	Serment éternel II	
+190004	Niveau 4	L'histoire continue	
+190005	Niveau 5	Serment éternel III	
+190006	Niveau 6	Partenaire	
+190007	Niveau 7	Serment éternel IV	
+190008	Niveau 8	Rosaire en verre	
+1910	Narratif	Serment éternel	Celle que le destin lie à Báthory
+191001	Niveau 1	DIFFICILE - Serment éternel I	
+191002	Niveau 2	DIFFICILE - Rencontre	
+191003	Niveau 3	DIFFICILE - Serment éternel II	
+191004	Niveau 4	DIFFICILE - L'histoire continue	
+191005	Niveau 5	DIFFICILE - Serment éternel III	
+191006	Niveau 6	DIFFICILE - Partenaire	
+191007	Niveau 7	DIFFICILE - Serment éternel IV	
+191008	Niveau 8	DIFFICILE - Rosaire en verre	
+2000	<Narratif>	Duo de superproductions	Il ne peut y avoir deux étoiles sur scène ! \Retiens ton souffle et admire l'affrontement entre les deux super-divas !
+200001	Niveau 1	Duo de superproductions Ⅰ	BLANK
+200002	Niveau 2	Flash info	BLANK
+200003	Niveau 3	Duo de superproductions Ⅱ	BLANK
+200004	Niveau 4	Micro éteint	BLANK
+200005	Niveau 5	Duo de superproductions Ⅲ	BLANK
+200006	Niveau 6	Superproduction	BLANK
+200007	Niveau 7	Duo de superproductions Ⅳ	BLANK
+200008	Niveau 8	Prime Time	BLANK
+2010	<Narratif>	Duo de superproductions	Il ne peut y avoir deux étoiles sur scène ! \Retiens ton souffle et admire l'affrontement entre les deux super-divas !
+201001	Niveau 1	Duo de superproductions Ⅰ (difficile)	BLANK
+201002	Niveau 2	Flash info (difficile)	BLANK
+201003	Niveau 3	Duo de superproductions Ⅱ (difficile)	BLANK
+201004	Niveau 4	Micro éteint (difficile)	BLANK
+201005	Niveau 5	Duo de superproductions Ⅲ (difficile)	BLANK
+201006	Niveau 6	Superproduction (difficile)	BLANK
+201007	Niveau 7	Duo de superproductions Ⅳ (difficile)	BLANK
+201008	Niveau 8	Prime Time (difficile)	BLANK
+2100	Narratif	Mon cher	Une histoire douce-amère de la Saint-Valentin ?
+210001	Niveau 1	Mon cher	
+210002	Niveau 2	Quel genre de chocolat vous aimez ?	
+210003	Niveau 3	Mon cher	
+210004	Niveau 4	Un cadeau spécial	
+210005	Niveau 5	Mon cher	
+210006	Niveau 6	Le vol du gâteau au chocolat	
+210007	Niveau 7	Mon cher	
+210008	Niveau 8	Fait avec amour	
+2110	Narratif	Mon cher	Une histoire douce-amère de la Saint-Valentin ?
+211001	Niveau 1	Mon cher (difficile)	
+211002	Niveau 2	Quel genre de chocolat vous aimez ? (difficile)	
+211003	Niveau 3	Mon cher (difficile)	
+211004	Niveau 4	Un cadeau spécial (difficile)	
+211005	Niveau 5	Mon cher (difficile)	
+211006	Niveau 6	Le vol du gâteau au chocolat (difficile)	
+211007	Niveau 7	Mon cher (difficile)	
+211008	Niveau 8	Fait avec amour (difficile)	
+2200	Narratif	La révélation	Une lueur née du chaos et du vide : un abysse stygien.
+220001	Niveau 1	Révélation divine I	
+220002	Niveau 2	Détectives et adorateurs de démons	
+220003	Niveau 3	Révélation divine II	
+220004	Niveau 4	Pactes et souvenirs	
+220005	Niveau 5	Révélation divine III	
+220006	Niveau 6	L'encens de la prière	
+220007	Niveau 7	Révélation divine IV	
+220008	Niveau 8	Révélation divine de Dieu	
+2210	Narratif	La révélation	Une lueur née du chaos et du vide : un abysse stygien.
+221001	Niveau 1	Révélation divine I (difficile)	
+221002	Niveau 2	Détectives et adorateurs de démons (difficile)	
+221003	Niveau 3	Révélation divine II (difficile)	
+221004	Niveau 4	Pactes et souvenirs (difficile)	
+221005	Niveau 5	Révélation divine III (difficile)	
+221006	Niveau 6	L'encens de la prière (difficile)	
+221007	Niveau 7	Révélation divine IV (difficile)	
+221008	Niveau 8	Révélation divine de Dieu (difficile)	
+2400	Narratif	Histoire du Labo. de la renaissance	Le passé inconnu du Laboratoire de recherche alchimique démoniaque
+240001	Niveau 1	Tablette démoniaque	none
+240002	Niveau 2	Tout sur la beauté	none
+240003	Niveau 3	Tablette démoniaque	none
+240004	Niveau 4	Canon	none
+240005	Niveau 5	Tablette démoniaque	none
+240006	Niveau 6	Esthétisme	none
+240007	Niveau 7	Tablette démoniaque	none
+240008	Niveau 8	Laboratoire de la renaissance	none
+2410	Narratif	Histoire du Labo. de la renaissance	Le passé inconnu du Laboratoire de recherche alchimique démoniaque
+241001	Niveau 1	Tablette démoniaque (difficile)	none
+241002	Niveau 2	Tout sur la beauté (difficile)	none
+241003	Niveau 3	Tablette démoniaque (difficile)	none
+241004	Niveau 4	Canon (difficile)	none
+241005	Niveau 5	Tablette démoniaque (difficile)	none
+241006	Niveau 6	Esthétisme (difficile)	none
+241007	Niveau 7	Tablette démoniaque (difficile)	none
+241008	Niveau 8	Laboratoire de la renaissance (difficile)	none
+2500	Narratif	Donut perdu	Qui a volé le donut ?
+250001	Niveau 1	La quête du donut 1	
+250002	Niveau 2	Le coupable est proche	
+250003	Niveau 3	La quête du donut 2	
+250004	Niveau 4	Glaçage à la fraise	
+250005	Niveau 5	La quête du donut 3	
+250006	Niveau 6	Fête aux sources	
+250007	Niveau 7	La quête du donut 4	
+250008	Niveau 8	Trois dernières options	
+2510	Narratif	Donut perdu	Qui a volé le donut ?
+251001	Niveau 1	La quête du donut 1 (difficile)	
+251002	Niveau 2	Le coupable est proche (difficile)	
+251003	Niveau 3	La quête du donut 2 (difficile)	
+251004	Niveau 4	Glaçage à la fraise (difficile)	
+251005	Niveau 5	La quête du donut 3 (difficile)	
+251006	Niveau 6	Fête aux sources (difficile)	
+251007	Niveau 7	La quête du donut 4 (difficile)	
+251008	Niveau 8	Trois dernières options (difficile)	
+2600	Narratif	Collab. BBCF	L'histoire d'Azure... une histoire différente
+260001	Niveau 1	Causalité 1	
+260002	Niveau 2	À la recherche de quelqu'un	
+260003	Niveau 3	Causalité 2	
+260004	Niveau 4	Rencontre surprise(?)	
+260005	Niveau 5	Causalité 3	
+260006	Niveau 6	Haute Magister	
+260007	Niveau 7	Causalité 4	
+260008	Niveau 8	Volontés respectives	
+2610	Narratif	Collab. BBCF	L'histoire d'Azure... une histoire différente
+261001	Niveau 1	DIFFICILE : Causalité 1	
+261002	Niveau 2	DIFFICILE : À la recherche de quelqu'un	
+261003	Niveau 3	DIFFICILE : Causalité 2	
+261004	Niveau 4	DIFFICILE : Rencontre surprise(?)	
+261005	Niveau 5	DIFFICILE : Causalité 3	
+261006	Niveau 6	DIFFICILE : Haute Magister	
+261007	Niveau 7	DIFFICILE : Causalité 4	
+261008	Niveau 8	DIFFICILE : Volontés respectives	
+2700	Narratif	Mystère estival	Faites fuir la chaleur de l'été avec une expérience à glacer le sang !
+270001	Niveau 1	Fais-moi peur 1	
+270002	Niveau 2	Promenade en soirée	
+270003	Niveau 3	Fais-moi peur 2	
+270004	Niveau 4	Visiteurs nocturnes	
+270005	Niveau 5	Fais-moi peur 3	
+270006	Niveau 6	Apparition après l'école	
+270007	Niveau 7	Fais-moi peur 4	
+270008	Niveau 8	Mystère estival	
+2710	Narratif	Mystère estival	Faites fuir la chaleur de l'été avec une expérience à glacer le sang !
+271001	Niveau 1	Fais-moi peur 1 (difficile)	
+271002	Niveau 2	Promenade en soirée (difficile)	
+271003	Niveau 3	Fais-moi peur 2 (difficile)	
+271004	Niveau 4	Visiteurs nocturnes (difficile)	
+271005	Niveau 5	Fais-moi peur 3 (difficile)	
+271006	Niveau 6	Apparition après l'école (difficile)	
+271007	Niveau 7	Fais-moi peur 4 (difficile)	
+271008	Niveau 8	Mystère estival (difficile)	
+2800	Narratif	Aucun paradis	Le rideau se lève sur la fuite mouvementée du duo.
+280001	Niveau 1	La fuite 1	
+280002	Niveau 2	Mon soleil	
+280003	Niveau 3	La fuite 2	
+280004	Niveau 4	Le soleil ne se couche jamais	
+280005	Niveau 5	La fuite 3	
+280006	Niveau 6	Ténèbres	
+280007	Niveau 7	La fuite 4	
+280008	Niveau 8	Dans le labyrinthe	
+2810	Narratif	Aucun paradis	Le rideau se lève sur la fuite mouvementée du duo.
+281001	Niveau 1	La fuite 1 (difficile)	
+281002	Niveau 2	Mon soleil (difficile)	
+281003	Niveau 3	La fuite 2 (difficile)	
+281004	Niveau 4	Le soleil ne se couche jamais (difficile)	
+281005	Niveau 5	La fuite 3 (difficile)	
+281006	Niveau 6	Ténèbres (difficile)	
+281007	Niveau 7	La fuite 4 (difficile)	
+281008	Niveau 8	Dans le labyrinthe (difficile)	
+2900	<Narratif>	Halloween secret	Tout le monde a un secret qu'il ne souhaite jamais voir divulgué. \... C'est mon cas, à moi aussi.
+290001	Niveau 1	Le secret de Laima	BLANK
+290002	Niveau 2	Le secret divulgué	BLANK
+290003	Niveau 3	Le secret de Laima	BLANK
+290004	Niveau 4	Le vol de la caméra	BLANK
+290005	Niveau 5	Le secret de Laima	BLANK
+290006	Niveau 6	La poursuite de Typhon	BLANK
+290007	Niveau 7	Le secret de Laima	BLANK
+290008	Niveau 8	Pardon !	BLANK
+2910	<Narratif>	Halloween secret	Tout le monde a un secret qu'il ne souhaite jamais voir divulgué. \... C'est mon cas, à moi aussi.
+291001	Niveau 1	Le secret de Laima (difficile)	BLANK
+291002	Niveau 2	Le secret divulgué (difficile)	BLANK
+291003	Niveau 3	Le secret de Laima (difficile)	BLANK
+291004	Niveau 4	Le vol de la caméra (difficile)	BLANK
+291005	Niveau 5	Le secret de Laima (difficile)	BLANK
+291006	Niveau 6	La poursuite de Typhon (difficile)	BLANK
+291007	Niveau 7	Le secret de Laima (difficile)	BLANK
+291008	Niveau 8	Pardon ! (difficile)	BLANK
+3000	<Narratif>	Deuxième chance	Pas de deuxième chance ! Je n'hésiterai plus !
+300001	Niveau 1	Chance supplémentaire	
+300002	Niveau 2	Chance inattendue	
+300003	Niveau 3	Chance supplémentaire	
+300004	Niveau 4	Allons-y !	
+300005	Niveau 5	Chance supplémentaire	
+300006	Niveau 6	Chance	
+300007	Niveau 7	Chance supplémentaire	
+300008	Niveau 8	Pas de deuxième chance	
+3010	<Narratif>	Deuxième chance	Pas de deuxième chance ! Je n'hésiterai plus !
+301001	Niveau 1	Chance supplémentaire(diff)	
+301002	Niveau 2	Chance inattendue(diff)	
+301003	Niveau 3	Chance supplémentaire(diff)	
+301004	Niveau 4	Allons-y !(diff)	
+301005	Niveau 5	Chance supplémentaire(diff)	
+301006	Niveau 6	Chance(diff)	
+301007	Niveau 7	Chance supplémentaire(diff)	
+301008	Niveau 8	Pas de deuxième chance(diff)	
+3100	Narratif	Seul l'amour compte	Comment ça, c'était la panique à leur arrivée à la station ?
+310001	Niveau 1	Au ski I	
+310002	Niveau 2	Direction la station de ski	
+310003	Niveau 3	Au ski II	
+310004	Niveau 4	Nouvelle possibilité de pacte	
+310005	Niveau 5	Au ski III	
+310006	Niveau 6	La neige appelle à la confusion	
+310007	Niveau 7	Au ski IV	
+310008	Niveau 8	Feux d'artifice du réveillon	
+3110	Narratif	Seul l'amour compte	Comment ça, c'était la panique à leur arrivée à la station ?
+311001	Niveau 1	Au ski I (difficile)	
+311002	Niveau 2	Direction la station de ski (difficile)	
+311003	Niveau 3	Au ski II (difficile)	
+311004	Niveau 4	Nouvelle possibilité de pacte (difficile)	
+311005	Niveau 5	Au ski III (difficile)	
+311006	Niveau 6	La neige appelle à la confusion (difficile)	
+311007	Niveau 7	Au ski IV (difficile)	
+311008	Niveau 8	Feux d'artifice du réveillon (difficile)	
+3200	Narratif	Le Père Noël arrive en ville	Gloire au ciel et paix sur la terre.
+320001	Niveau 1	L'arrivée du Père Noël	
+320002	Niveau 2	Cadeau de Noël	
+320003	Niveau 3	L'arrivée du Père Noël	
+320004	Niveau 4	Gloire et paix	
+320005	Niveau 5	L'arrivée du Père Noël	
+320006	Niveau 6	Je déteste les sales mioches !	
+320007	Niveau 7	L'arrivée du Père Noël	
+320008	Niveau 8	Le vœu d'un enfant sage	
+3210	Narratif	Le Père Noël arrive en ville	
+321001	Niveau 1	DIFFICILE : L'arrivée du Père Noël	
+321002	Niveau 2	DIFFICILE : Cadeau de Noël	
+321003	Niveau 3	DIFFICILE : L'arrivée du Père Noël	
+321004	Niveau 4	DIFFICILE : L'arrivée du Père Noël	
+321005	Niveau 5	DIFFICILE : L'arrivée du Père Noël	
+321006	Niveau 6	DIFFICILE : Sales mioches !	
+321007	Niveau 7	DIFFICILE : L'arrivée du Père Noël	
+321008	Niveau 8	DIFFICILE : Le vœu d'un enfant sage	
+3300	Narratif	Déjà vu	Des chocolats faits par moi-même, la mignonne petite Pachet !
+330001	Niveau 1	Déjà vuⅠ	
+330002	Niveau 2	Le jour sans fin	
+330003	Niveau 3	Déjà vuⅡ	
+330004	Niveau 4	Chocolats spéciaux	
+330005	Niveau 5	Déjà vuⅢ	
+330006	Niveau 6	Aux côtés de Pachet	
+330007	Niveau 7	Déjà vuⅣ	
+330008	Niveau 8	La fin du rêve	
+3310	Narratif	Déjà vu	Des chocolats faits par moi-même, la mignonne petite Pachet !
+331001	Niveau 1	Déjà vuⅠ(difficile)	
+331002	Niveau 2	Le jour sans fin(difficile)	
+331003	Niveau 3	Déjà vuⅡ(difficile)	
+331004	Niveau 4	Chocolats spéciaux(difficile)	
+331005	Niveau 5	Déjà vuⅢ(difficile)	
+331006	Niveau 6	Aux côtés de Pachet(difficile)	
+331007	Niveau 7	Déjà vuⅣ(difficile)	
+331008	Niveau 8	La fin du rêve(difficile)	
+3400	Narratif	L'amour est aveugle	Des bonbons de la part de Maître ? Moi aussi, j'en veux !
+340001	Niveau 1	Le White Day I	
+340002	Niveau 2	Bonbon géant	
+340003	Niveau 3	Le White Day II	
+340004	Niveau 4	Je veux t'aider	
+340005	Niveau 5	L'Opération Choco-Rêve	
+340006	Niveau 6	Vous voulez des chocolats ?	
+340007	Niveau 7	Rivales en amour	
+340008	Niveau 8	Un bonbon très spécial	
+3410	Narratif	L'amour est aveugle	Des bonbons de la part de Maître ? Moi aussi, j'en veux !
+341001	Niveau 1	Le White Day I (difficile)	
+341002	Niveau 2	Bonbon géant (difficile)	
+341003	Niveau 3	Le White Day II (difficile)	
+341004	Niveau 4	Je veux t'aider (difficile)	
+341005	Niveau 5	L'Opération Choco-Rêve (difficile)	
+341006	Niveau 6	Vous voulez des chocolats ? (difficile)	
+341007	Niveau 7	Rivales en amour (difficile)	
+341008	Niveau 8	Un bonbon très spécial (difficile)	
+3500	<Narratif>	Fantôme contre les exorcistes	Je viendrai voler ton cœur à la tombée de la nuit.
+350001	Niveau 1	Direction New York	
+350002	Niveau 2	Préparations	
+350003	Niveau 3	Déborah et Jonas	
+350004	Niveau 4	Le jour J	
+350005	Niveau 5	Désastre total	
+350006	Niveau 6	Panique	
+350007	Niveau 7	Victoire	
+350008	Niveau 8	On ne bouge plus !	
+3510	<Narratif>	Fantôme contre les exorcistes	Je viendrai voler ton cœur à la tombée de la nuit.
+351001	Niveau 1	Direction New York (difficile)	
+351002	Niveau 2	Préparations (difficile)	
+351003	Niveau 3	Déborah et Jonas (difficile)	
+351004	Niveau 4	Le jour J (difficile)	
+351005	Niveau 5	Désastre total (difficile)	
+351006	Niveau 6	Panique (difficile)	
+351007	Niveau 7	Victoire (difficile)	
+351008	Niveau 8	On ne bouge plus ! (difficile)	
+3600	<Narratif>	Girls Be Ambitious!	L'honneur, la gloire, même vous... \Tout cela est à moi !
+360001	Niveau 1	Les prémices de la jalousie	
+360002	Niveau 2	Aidez-moi	
+360003	Niveau 3	Restez en dehors de ça	
+360004	Niveau 4	Suis-je suspecte ?	
+360005	Niveau 5	L'idéal féminin I	
+360006	Niveau 6	L'appât et le raisin	
+360007	Niveau 7	L'idéal féminin II	
+360008	Niveau 8	Vous ne m'échapperez pas	
+3610	<Narratif>	Girls Be Ambitious!	L'honneur, la gloire, même vous... \Tout cela est à moi !
+361001	Niveau 1	Les prémices de la jalousie (difficile)	
+361002	Niveau 2	Aidez-moi (difficile)	
+361003	Niveau 3	Restez en dehors de ça (difficile)	
+361004	Niveau 4	Suis-je suspecte ? (difficile)	
+361005	Niveau 5	L'idéal féminin I (difficile)	
+361006	Niveau 6	L'appât et le raisin (difficile)	
+361007	Niveau 7	L'idéal féminin II (difficile)	
+361008	Niveau 8	Vous ne m'échapperez pas (difficile)	
+3700	<Narratif>	Point de vue démoniaque	On va s'occuper d'eux avant que Torii l'apprenne.
+370001	Niveau 1	Chanson originale	BLANK
+370002	Niveau 2	Supernova de Harlem Street	BLANK
+370003	Niveau 3	Événement surprise	BLANK
+370004	Niveau 4	Ravie de vous rencontrer !	BLANK
+370005	Niveau 5	Je compte sur vous !	BLANK
+370006	Niveau 6	Faites du bruit !	BLANK
+370007	Niveau 7	C'est l'hôpital qui se moque de la charité	BLANK
+370008	Niveau 8	Un beau diable	BLANK
+3710	<Narratif>	Point de vue démoniaque	On va s'occuper d'eux avant que Torii l'apprenne.
+371001	Niveau 1	Chanson originale (difficile)	BLANK
+371002	Niveau 2	Supernova de Harlem Street (difficile)	BLANK
+371003	Niveau 3	Événement surprise (difficile)	BLANK
+371004	Niveau 4	Ravie de vous rencontrer ! (difficile)	BLANK
+371005	Niveau 5	Je compte sur vous ! (difficile)	BLANK
+371006	Niveau 6	Faites du bruit ! (difficile)	BLANK
+371007	Niveau 7	C'est l'hôpital qui se moque de la charité (difficile)	BLANK
+371008	Niveau 8	Un beau diable (difficile)	BLANK
+3800	<Narratif>	Formule démoniaque	Qui c'est, le meilleur pilote de l'île d'Amos ?
+380001	Niveau 1	Une rumeur menaçante	
+380002	Niveau 2	Un plan suspect	
+380003	Niveau 3	Cheval sombre	
+380004	Niveau 4	Préliminaires	
+380005	Niveau 5	Course en plein ciel	
+380006	Niveau 6	Foule en colère	
+380007	Niveau 7	Keep Calm & Carry On	
+380008	Niveau 8	La vérité, c'est que...	
+3810	<Narratif>	Formule démoniaque	Qui c'est, le meilleur pilote de l'île d'Amos ?
+381001	Niveau 1	Une rumeur menaçante(diff)	
+381002	Niveau 2	Un plan suspect(diff)	
+381003	Niveau 3	Cheval sombre(diff)	
+381004	Niveau 4	Préliminaires(diff)	
+381005	Niveau 5	Course en plein ciel(diff)	
+381006	Niveau 6	Foule en colère(diff)	
+381007	Niveau 7	Keep Calm & Carry On(diff)	
+381008	Niveau 8	La vérité, c'est que...(diff)	
+3900	Narratif	Fantasy island	Une rencontre inattendue sur les îles de Vénus... Vous pourriez trouver un bon partenaire.
+390001	Niveau 1	Vacances fantaisie	
+390002	Niveau 2	Lettre mystérieuse	
+390003	Niveau 3	Vacances fantaisie	
+390004	Niveau 4	À la poursuite d'un individu louche	
+390005	Niveau 5	Vacances fantaisie	
+390006	Niveau 6	Deux Kasumi ?	
+390007	Niveau 7	Vacances fantaisie	
+390008	Niveau 8	Trésor	
+3910	Narratif	Fantasy island	Une rencontre inattendue sur les îles de Vénus... Vous pourriez trouver un bon partenaire.
+391001	Niveau 1	Vacances fantaisie (difficile)	
+391002	Niveau 2	Lettre mystérieuse (difficile)	
+391003	Niveau 3	Vacances fantaisie (difficile)	
+391004	Niveau 4	À la poursuite d'un individu louche (difficile)	
+391005	Niveau 5	Vacances fantaisie (difficile)	
+391006	Niveau 6	Deux Kasumi ? (difficile)	
+391007	Niveau 7	Vacances fantaisie (difficile)	
+391008	Niveau 8	Trésor (difficile)	
+4000	<Narratif>	Vacances oniriques	Un pays imaginaire chaotique et sens dessus dessous !\Qu'ont-ils perdu dans le rêve ?
+400001	Niveau 1	Une ville étrange	
+400002	Niveau 2	Phénomène fantastique	
+400003	Niveau 3	Malentendus et conseils	
+400004	Niveau 4	Odeur de poivre noir	
+400005	Niveau 5	Un étrange goûter	
+400006	Niveau 6	Le jeu de la reine	
+400007	Niveau 7	La duchesse et Sa Majesté	
+400008	Niveau 8	Le jugement	
+4010	<Narratif>	Vacances oniriques	Un pays imaginaire chaotique et sens dessus dessous !\Qu'ont-ils perdu dans le rêve ?
+401001	Niveau 1	Une ville étrange (difficile)	
+401002	Niveau 2	Phénomène fantastique (difficile)	
+401003	Niveau 3	Malentendus et conseils (difficile)	
+401004	Niveau 4	Odeur de poivre noir (difficile)	
+401005	Niveau 5	Un étrange goûter (difficile)	
+401006	Niveau 6	Le jeu de la reine (difficile)	
+401007	Niveau 7	La duchesse et Sa Majesté (difficile)	
+401008	Niveau 8	Le jugement (difficile)	
+4100	Narratif	Un rêve de chien	Neptune♥ est à deux doigts de réaliser son rêve de devenir la plus grande pop star de tous les temps. \... Pourquoi ça n'a pas l'air de la rendre heureuse ?
+410001	Niveau 1	Souvenirs de Neptune♥	
+410002	Niveau 2	Malice de Vénus♥	
+410003	Niveau 3	99 % d'efforts	
+410004	Niveau 4	Dire la vérité	
+410005	Niveau 5	Poser des questions	
+410006	Niveau 6	Un indice	
+410007	Niveau 7	J'attendais toujours	
+410008	Niveau 8	Avec 1 % de courage !	
+4110	Narratif	Un rêve de chien	Neptune♥ est à deux doigts de réaliser son rêve de devenir la plus grande pop star de tous les temps. \... Pourquoi ça n'a pas l'air de la rendre heureuse ?
+411001	Niveau 1	Souvenirs de Neptune♥ (difficile)	
+411002	Niveau 2	Malice de Vénus♥ (difficile)	
+411003	Niveau 3	99 % d'efforts (difficile)	
+411004	Niveau 4	Dire la vérité (difficile)	
+411005	Niveau 5	Poser des questions (difficile)	
+411006	Niveau 6	Un indice (difficile)	
+411007	Niveau 7	J'attendais toujours (difficile)	
+411008	Niveau 8	Avec 1 % de courage ! (difficile)	
+4200	Narratif	Allez !	Les malentendus s'accumulent et les dressent l'une contre l'autre.\Comment leur histoire va-t-elle se terminer ?
+420001	Niveau 1	Célèbre escrimeuse	
+420002	Niveau 2	Tournoi amical	
+420003	Niveau 3	Résultats invraisemblables	
+420004	Niveau 4	Désirs	
+420005	Niveau 5	Cauchemars	
+420006	Niveau 6	Childs disparus	
+420007	Niveau 7	Fusion	
+420008	Niveau 8	Les adieux	
+4210	Narratif	Allez !	Les malentendus s'accumulent et les dressent l'une contre l'autre.\Comment leur histoire va-t-elle se terminer ?
+421001	Niveau 1	Célèbre escrimeuse (difficile)	
+421002	Niveau 2	Tournoi amical (difficile)	
+421003	Niveau 3	Résultats invraisemblables (difficile)	
+421004	Niveau 4	Désirs (difficile)	
+421005	Niveau 5	Cauchemars (difficile)	
+421006	Niveau 6	Childs disparus (difficile)	
+421007	Niveau 7	Fusion (difficile)	
+421008	Niveau 8	Les adieux (difficile)	
+4300	<Narratif>	La Dolce Vita	Remémorez-vous de doux souvenirs \enfouis profondément dans votre esprit.
+430001	Niveau 1	Pourquoi pas moi ?	
+430002	Niveau 2	Le diamant d'innocence	
+430003	Niveau 3	Montrez-moi votre cœur	
+430004	Niveau 4	Commencer doucement	
+430005	Niveau 5	Bienvenue dans le monde du cosplay	
+430006	Niveau 6	Contre la montre	
+430007	Niveau 7	Costume terminé	
+430008	Niveau 8	Événement : première convention des fans	
+4310	<Narratif>	La Dolce Vita	Remémorez-vous de doux souvenirs \enfouis profondément dans votre esprit.
+431001	Niveau 1	Pourquoi pas moi ? (difficile)	
+431002	Niveau 2	Le diamant d'innocence (difficile)	
+431003	Niveau 3	Montrez-moi votre cœur (difficile)	
+431004	Niveau 4	Commencer doucement (difficile)	
+431005	Niveau 5	Bienvenue dans le monde du cosplay (difficile)	
+431006	Niveau 6	Contre la montre (difficile)	
+431007	Niveau 7	Costume terminé (difficile)	
+431008	Niveau 8	Événement : première convention des fans (difficile)	
+4400	<Narratif>	Chatte, chienne et démon	Une chienne et une chatte s'enfuient à l'autre bout du monde !
+440001	Niveau 1	Bénévolat	
+440002	Niveau 2	Refuge étrange	
+440003	Niveau 3	À l'aide, ouaf !	
+440004	Niveau 4	Lassi et Catsi	
+440005	Niveau 5	Les souhaits du duo	
+440006	Niveau 6	Pagaille poilue	
+440007	Niveau 7	Évasion	
+440008	Niveau 8	Paix rétablie	
+4410	<Narratif>	Chatte, chienne et démon	Une chienne et une chatte s'enfuient à l'autre bout du monde !
+441001	Niveau 1	Bénévolat (difficile)	
+441002	Niveau 2	Refuge étrange (difficile)	
+441003	Niveau 3	À l'aide, ouaf ! (difficile)	
+441004	Niveau 4	Lassi et Catsi (difficile)	
+441005	Niveau 5	Les souhaits du duo (difficile)	
+441006	Niveau 6	Pagaille poilue (difficile)	
+441007	Niveau 7	Évasion (difficile)	
+441008	Niveau 8	Paix rétablie (difficile)	
+4500	<Narratif>	On The Road	Tant que j'ai une moto, je n'ai pas besoin de mots !
+450001		Entrée de la belle Davi	
+450002		Ce qui n'est pas visible	
+450003		La promesse	
+450004		Un souhait	
+450005		La vérité sur l'histoire de fantômes	
+450006		La course	
+450007		L'accident	
+450008		Revanche	
+4510	<Narratif>	On The Road	Tant que j'ai une moto, je n'ai pas besoin de mots !
+451001		HARDEntrée de la belle Davi	
+451002		HARDCe qui n'est pas visible	
+451003		HARDLa promesse	
+451004		HARDUn souhait	
+451005		HARDLa vérité sur l'histoire de fantômes	
+451006		HARDLa course	
+451007		HARDL'accident	
+451008		HARDRevanche	
+4600	<Narratif>	Rêve éveillé	Car les événements qui se déroulent sous vos yeux sont semblables à un rêve.
+460001	Niveau 1	Premier amour	
+460002	Niveau 2	Entre la raison et l'émotion	
+460003	Niveau 3	Croisée des chemins	
+460004	Niveau 4	Un pacte périlleux	
+460005	Niveau 5	Le rêve de Turan	
+460006	Niveau 6	À la poursuite de la liberté	
+460007	Niveau 7	Quiproquo	
+460008	Niveau 8	Après-midi pluvieux	
+4610	<Narratif>	Rêve éveillé	Car les événements qui se déroulent sous vos yeux sont semblables à un rêve.
+461001	Niveau 1	Premier amour (difficile)	
+461002	Niveau 2	Entre la raison et l'émotion (difficile)	
+461003	Niveau 3	Croisée des chemins (difficile)	
+461004	Niveau 4	Un pacte périlleux (difficile)	
+461005	Niveau 5	Le rêve de Turan (difficile)	
+461006	Niveau 6	À la poursuite de la liberté (difficile)	
+461007	Niveau 7	Quiproquo (difficile)	
+461008	Niveau 8	Après-midi pluvieux (difficile)	
+4700	<Narratif>	Extra Game	Pour nous autres démons, la guerre, c'est toute notre vie! Bienvenue sur le champ de bataille infernal!
+470001	Niveau 1	House Show	
+470002	Niveau 2	Dark Match	
+470003	Niveau 3	"I Quit" Match	
+470004	Niveau 4	First Blood Match	
+470005	Niveau 5	Inferno Match	
+470006	Niveau 6	Hardcore Match	
+470007	Niveau 7	Death Match	
+470008	Niveau 8	Championnat	
+4710	<Narratif>	Extra Game	Pour nous autres démons, la guerre, c'est toute notre vie! Bienvenue sur le champ de bataille infernal!
+471001	Niveau 1	House Show (difficile)	
+471002	Niveau 2	Dark Match (difficile)	
+471003	Niveau 3	"I Quit" Match (difficile)	
+471004	Niveau 4	First Blood Match (difficile)	
+471005	Niveau 5	Inferno Match (difficile)	
+471006	Niveau 6	Hardcore Match (difficile)	
+471007	Niveau 7	Death Match (difficile)	
+471008	Niveau 8	Championnat (difficile)	
+4800	<Narratif>	Le déserteur	Rassemblez tous les Childs à problème au même endroit ! \Lequel est le pire de tous ?
+480001	Niveau 1	Là où tout s'effondre	
+480002	Niveau 2	Ingratitude	
+480003	Niveau 3	Je m'appelle Dianus !	
+480004	Niveau 4	Un véritable démon	
+480005	Niveau 5	Un véritable souhait	
+480006	Niveau 6	La trahison est la vertu du Mal	
+480007	Niveau 7	Inversion des rôles ?	
+480008	Niveau 8	La fin du voyage	
+4810	<Narratif>	Le déserteur	Rassemblez tous les Childs à problème au même endroit ! \Lequel est le pire de tous ?
+481001	Niveau 1	Là où tout s'effondre (difficile)	
+481002	Niveau 2	Ingratitude (difficile)	
+481003	Niveau 3	Je m'appelle Dianus ! (difficile)	
+481004	Niveau 4	Un véritable démon (difficile)	
+481005	Niveau 5	Un véritable souhait (difficile)	
+481006	Niveau 6	La trahison est la vertu du Mal (difficile)	
+481007	Niveau 7	Inversion des rôles ? (difficile)	
+481008	Niveau 8	La fin du voyage (difficile)	
+4900	<Narratif>	Tentation interne	Avec qui vais-je jouer, aujourd'hui ?
+490001	Niveau 1	Tentation douce-amère Ⅰ	
+490002	Niveau 2	Tentation douce-amère Ⅱ	
+490003	Niveau 3	Jouet amusant	
+490004	Niveau 4	Comme Sherlock	
+490005	Niveau 5	Fragment Ⅰ	
+490006	Niveau 6	Fragment Ⅱ	
+490007	Niveau 7	Fragment Ⅲ	
+490008	Niveau 8	Démon sournois	
+4910	<Narratif>	Tentation interne	Avec qui vais-je jouer, aujourd'hui ?
+491001	Niveau 1	Tentation douce-amère Ⅰ(difficile)	
+491002	Niveau 2	Tentation douce-amère Ⅱ(difficile)	
+491003	Niveau 3	Jouet amusant(difficile)	
+491004	Niveau 4	Comme Sherlock(difficile)	
+491005	Niveau 5	Fragment Ⅰ(difficile)	
+491006	Niveau 6	Fragment Ⅱ(difficile)	
+491007	Niveau 7	Fragment Ⅲ(difficile)	
+491008	Niveau 8	Démon sournois(difficile)	
+5000	<Narratif>	La bénédiction de Noël	Une démone solitaire est partie en quête de sa destinée pendant la saison de Noël.\Où ses pas vont-ils la conduire ?
+500001	Niveau 1	On passe à la pratique !	
+500002	Niveau 2	La princesse affamée	
+500003	Niveau 3	Une princesse au travail	
+500004	Niveau 4	Combattant de Noël	
+500005	Niveau 5	Compagnons d'infortune I	
+500006	Niveau 6	Compagnons d'infortune II	
+500007	Niveau 7	Grilla la démone	
+500008	Niveau 8	Joyeux Noël !	
+5010	<Narratif>	La bénédiction de Noël	Une démone solitaire est partie en quête de sa destinée pendant la saison de Noël.\Où ses pas vont-ils la conduire ?
+501001	Niveau 1	La bénédiction de Noël (difficile)	
+501002	Niveau 2	On passe à la pratique ! (difficile)	
+501003	Niveau 3	La princesse affamée (difficile)	
+501004	Niveau 4	Une princesse au travail (difficile)	
+501005	Niveau 5	Combattant de Noël (difficile)	
+501006	Niveau 6	Compagnons d'infortune I (difficile)	
+501007	Niveau 7	Compagnons d'infortune II (difficile)	
+501008	Niveau 8	Grilla la démone (difficile)	
+5100	<Narratif>	Qu'est-ce que l'amour ?	Vivian réconforte tout le monde sans discrimination. Quelles leçons d'amour va-t-elle transmettre ?
+510001	Niveau 1	Un moyen de satisfaire tout le monde	
+510002	Niveau 2	Une promesse faite à une fille	
+510003	Niveau 3	À vrai dire...	
+510004	Niveau 4	Faisons l'amour Ⅰ	
+510005	Niveau 5	Faisons l'amour Ⅱ	
+510006	Niveau 6	Faisons l'amour Ⅲ	
+510007	Niveau 7	Mémoire	
+510008	Niveau 8	La grande Vivian	
+5110	<Narratif>	Qu'est-ce que l'amour ?	Vivian réconforte tout le monde sans discrimination. Quelles leçons d'amour va-t-elle transmettre ?
+511001	Niveau 1	Un moyen de satisfaire tout le monde (difficile)	
+511002	Niveau 2	Une promesse faite à une fille (difficile)	
+511003	Niveau 3	À vrai dire... (difficile)	
+511004	Niveau 4	Faisons l'amour Ⅰ (difficile)	
+511005	Niveau 5	Faisons l'amour Ⅱ (difficile)	
+511006	Niveau 6	Faisons l'amour Ⅲ (difficile)	
+511007	Niveau 7	Mémoire (difficile)	
+511008	Niveau 8	La grande Vivian (difficile)	
+5600	<Narratif>	Festival estival	Un festival d'été qui\s'annonce très mouvementé.
+560001	Niveau 1	Festival estival	
+560002	Niveau 2	À vos marques !	
+560003	Niveau 3	Partez !	
+560004	Niveau 4	Le retour des sœurs arroseuses	
+560005	Niveau 5	Revanche au pistolet à eau	
+560006	Niveau 6	La bataille décisive	
+560007	Niveau 7	C'était un avertissement ou un conseil ?	
+560008	Niveau 8	Mise à l'écart	
+5610	<Narratif>	Festival estival	Un festival d'été qui\s'annonce très mouvementé.
+561001	Niveau 1	Festival estival (difficile)	
+561002	Niveau 2	À vos marques ! (difficile)	
+561003	Niveau 3	Partez ! (difficile)	
+561004	Niveau 4	Le retour des sœurs arroseuses (difficile)	
+561005	Niveau 5	Revanche au pistolet à eau (difficile)	
+561006	Niveau 6	La bataille décisive (difficile)	
+561007	Niveau 7	C'était un avertissement ou un conseil ? (difficile)	
+561008	Niveau 8	Mise à l'écart (difficile)	
+5800	<Narratif>	Battle Royale	Le début du choix d'un nouvel ordre saint ?
+580001	Niveau 1	Intersection	
+580002	Niveau 2	Commerce	
+580003	Niveau 3	Battle Royale Ⅰ	
+580004	Niveau 4	Battle Royale Ⅱ	
+580005	Niveau 5	Battle Royale Ⅲ	
+580006	Niveau 6	Battle Royale Ⅳ	
+580007	Niveau 7	Casse-cou	
+580008	Niveau 8	Découverte	
+5810	<Narratif>	Battle Royale	Le début du choix d'un nouvel ordre saint ?
+581001	Niveau 1	HARD Intersection	
+581002	Niveau 2	HARD Commerce	
+581003	Niveau 3	HARD Battle Royale Ⅰ	
+581004	Niveau 4	HARD Battle Royale Ⅱ	
+581005	Niveau 5	HARD Battle Royale Ⅲ	
+581006	Niveau 6	HARD Battle Royale Ⅳ	
+581007	Niveau 7	HARD Casse-cou	
+581008	Niveau 8	HARD Découverte	

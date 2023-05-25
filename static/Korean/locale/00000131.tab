@@ -1,0 +1,175 @@
+﻿// key	RECIPE_NAME_	RECIPE_DESC_
+20001	Enchanter 10 tickets d'invocation : Eau	Permet d'enchanter 10 tickets d'invocation.
+20002	Enchanter 10 tickets d'invocation : Feu	Permet d'enchanter 10 tickets d'invocation.
+20003	Enchanter 10 tickets d'invocation : Bois	Permet d'enchanter 10 tickets d'invocation.
+20004	Enchanter 10 tickets d'invocation : Lumière	Permet d'enchanter 10 tickets d'invocation.
+20005	Enchanter 10 tickets d'invocation : Ombre	Permet d'enchanter 10 tickets d'invocation.
+20006	Enchanter des tickets d'invocation 5★ : Eau	Permet d'enchanter des tickets d'invocation 5★.
+20007	Enchanter des tickets d'invocation 5★ : Feu	Permet d'enchanter des tickets d'invocation 5★.
+20008	Enchanter des tickets d'invocation 5★ : Bois	Permet d'enchanter des tickets d'invocation 5★.
+20009	Enchanter des tickets d'invocation 5★ : Lumière	Permet d'enchanter des tickets d'invocation 5★.
+20010	Enchanter des tickets d'invocation 5★ : Ombre	Permet d'enchanter des tickets d'invocation 5★.
+30001	Forger des tickets d'invoc. de carte d'âme prism. 5★	Permet d'utiliser des matériaux 5★ pour forger des tickets d'invocation de carte d'âme prismatique 5★.
+30002	Forger des tickets d'invoc. de carte d'âme 5★	Permet d'utiliser des matériaux 4★ pour forger des tickets d'invocation de carte d'âme prismatique 5★.
+30003	Forger des tickets d'invoc. de carte d'âme 4 à 5★	Permet d'utiliser des matériaux 4★ pour forger des tickets d'invocation de carte d'âme prismatique 4 à 5★.
+40002	Décomposer des matériaux d'évolution : Eau 2★	Permet de décomposer des matériaux d'évolution 2★ pour en obtenir deux de 1★.
+40003	Décomposer des matériaux d'évolution : Eau 3★	Permet de décomposer des matériaux d'évolution 3★ pour en obtenir deux de 2★.
+40004	Décomposer des matériaux d'évolution : Eau 4★	Permet de décomposer des matériaux d'évolution 4★ pour en obtenir trois de 3★.
+40005	Décomposer des matériaux d'évolution : Eau 5★	Permet de décomposer des matériaux d'évolution 5★ pour en obtenirtrois de 4★.
+40006	Décomposer des matériaux d'évolution : Feu 2★	Permet de décomposer des matériaux d'évolution 2★ pour en obtenir deux de 1★.
+40007	Décomposer des matériaux d'évolution : Feu 3★	Permet de décomposer des matériaux d'évolution 3★ pour en obtenir deux de 2★.
+40008	Décomposer des matériaux d'évolution : Feu 4★	Permet de décomposer des matériaux d'évolution 4★ pour en obtenir trois de 3★.
+40009	Décomposer des matériaux d'évolution : Feu 5★	Permet de décomposer des matériaux d'évolution 5★ pour en obtenirtrois de 4★.
+40010	Décomposer des matériaux d'évolution : Bois 2★	Permet de décomposer des matériaux d'évolution 2★ pour en obtenir deux de 1★.
+40011	Décomposer des matériaux d'évolution : Bois 3★	Permet de décomposer des matériaux d'évolution 3★ pour en obtenir deux de 2★.
+40012	Décomposer des matériaux d'évolution : Bois 4★	Permet de décomposer des matériaux d'évolution 4★ pour en obtenir trois de 3★.
+40013	Décomposer des matériaux d'évolution : Bois 5★	Permet de décomposer des matériaux d'évolution 5★ pour en obtenirtrois de 4★.
+40014	Décomposer des matériaux d'évolution : Lumière 2★	Permet de décomposer des matériaux d'évolution 2★ pour en obtenir deux de 1★.
+40015	Décomposer des matériaux d'évolution : Lumière 3★	Permet de décomposer des matériaux d'évolution 3★ pour en obtenir deux de 2★.
+40016	Décomposer des matériaux d'évolution : Lumière 4★	Permet de décomposer des matériaux d'évolution 4★ pour en obtenir trois de 3★.
+40017	Décomposer des matériaux d'évolution : Lumière 5★	Permet de décomposer des matériaux d'évolution 5★ pour en obtenirtrois de 4★.
+40018	Décomposer des matériaux d'évolution : Ombre 2★	Permet de décomposer des matériaux d'évolution 2★ pour en obtenir deux de 1★.
+40019	Décomposer des matériaux d'évolution : Ombre 3★	Permet de décomposer des matériaux d'évolution 3★ pour en obtenir deux de 2★.
+40020	Décomposer des matériaux d'évolution : Ombre 4★	Permet de décomposer des matériaux d'évolution 4★ pour en obtenir trois de 3★.
+40021	Décomposer des matériaux d'évolution : Ombre 5★	Permet de décomposer des matériaux d'évolution 5★ pour en obtenirtrois de 4★.
+50001	Boîte porte-bonheur Noyau Amp. ATQ	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50002	Boîte porte-bonheur Noyau Amp. DÉF	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50003	Boîte porte-bonheur Noyau Amp. AGI	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50004	Boîte porte-bonheur Noyau Amp. CRT	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50005	Boîte de sélect. de Child (Héphaïstos)	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50006	Boîte de sélect. d'apparence des sources (Héphaïstos)	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50007	Boîte de sélect. de costume (Héphaïstos)	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50010	Couronne d'Aurore_3	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50011	Ailes d'Aurore_3	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50012	Cœurillon_3	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50013	Onyx	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50014	Sceau de maître forgeron	Recette d'événement à l'occasion de l'ouverture de la forge d'Héphaïstos. \Permet de forger des objets pendant toute la durée de l'événement.
+50201	Création de noyau d'Ignition	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50202	Boîte porte-bonheur d'app. des sources (Héphaïstos)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50203	Boîte porte-bonheur de matériaux de noyau	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50204	Boîte de sélect. de costume (Héphaïstos)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50205	Onyx	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50206	Ticket d'invocation x10	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50301	Vache en chef Cacus	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50302	Fiole quintessentielle	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50303	Gants d'alchimiste	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50304	Kit d'alchimie	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50308	Pierre taillée d'arme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50309	Pierre taillée d'armure	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50310	Pierre taillée d'accessoire	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50311	Boîte de sélect. de Child spécial (3 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50312	Pierre taillée d'arme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50313	Pierre taillée d'armure	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50314	Pierre taillée d'accessoire	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50315	Outil de fabrication d'arme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50316	Outil de fabrication d'armure	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50317	Outil de fabrication d'accessoire	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50318	Boîte de sélect. de carte d'âme spéciale (3 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50319	Boîte de sélect. de carte prismatique spéciale (3 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50320	Boîte de sélect. d'app. spéciale des sources (3 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50321	Boîte porte-bonheur Noyau Amp. ATQ	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50322	Boîte porte-bonheur Noyau Amp. DÉF	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50323	Boîte porte-bonheur Noyau Amp. AGI	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50324	Boîte porte-bonheur Noyau Amp. CRT	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50325	Matériau de Noyau Amp. ATQ	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50326	Matériau de Noyau Amp. DÉF	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50327	Matériau de Noyau Amp. AGI	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50328	Matériau de Noyau Amp. CRT	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50329	Onyx	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50330	Matériau de Noyau Amp. ATQ	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50331	Matériau de Noyau Amp. DÉF	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50332	Matériau de Noyau Amp. AGI	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50333	Matériau de Noyau Amp. CRT	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50334	Recette de prod. Onyx I	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50335	Recette de prod. Onyx II	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50336	Recette de prod. Onyx III	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50337	Boîte de sélect. de Child (été)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50338	Ticket d'invocation de Child 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50339	de ticket d'invocation de carte d'âme prismatique 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50340	de ticket d'invocation de carte d'âme 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50341	Amp. Matériau de noyau d'ATQ 1	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50342	Amp. Matériau de noyau de DÉF 1	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50343	Amp. Matériau de noyau d'AGI 1	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50344	Amp. Matériau de noyau de CRT 1	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50345	Amp. Matériau de noyau d'ATQ 2	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50346	Amp. Matériau de noyau de DÉF 2	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50347	Amp. Matériau de noyau d'AGI 2	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50348	Amp. Matériau de noyau de CRT 2	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50349	Boîte de sélect. d'apparence des sources (été)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50350	onyx	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50351	Jus de fruits à la noix de coco	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50352	Automnale Ève	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50353	Paradis perdu Ève	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50354	Fabrication de tickets d'invocation5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50355	Fabrication de tickets d'invocation de carte d'âme prismatique 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50356	Fabrication de tickets d'invocation de carte d'âme 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50357	Lampion azuré	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50358	Lampion écarlate	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50359	Lampion émeraude	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50360	Lampion ambré	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50361	Lampion parme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50362	Raffineur d'arme +15	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50363	Raffineur d'armure +15	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50364	Raffineur d'accessoire +15	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50365	Lampion azuré	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50366	Lampion écarlate	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50367	Lampion émeraude	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50368	Lampion ambré	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50369	Lampion parme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50370	Pastèque	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50371	Boîte de sélect. Noyau Amp.	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50372	Boîte de sélect. de Child spécial (4 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50373	Boîte de sélect. de pouvoir d'apparence spéciale des sources (4 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50374	Boîte de sélect. de carte prismatique spéciale (4 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50375	Boîte porte-bonheur Noyau Amp. (4 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50376	Boîte porte-bonheur de noyau (édition limitée 4 ans)	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50377	Épique Ticket d'invocation de marionnette	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50378	PremiumTicket d'invocation de marionnette	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50379	Ticket d'invocation de marionnette	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50380	Rognures d'ongles	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50381	Fil rougi	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50382	Ongle rouillé	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50383	Cheveux tombés	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50384	5★ Child Summon Ticket	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50385	Ticket d'invocation de carte d'âme prismatique 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50386	Tickets d'invocation de carte d'âme 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50387	Matériau de Noyau Amp. ATQ	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50388	Matériau de Noyau Amp. DÉF	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50389	Matériau de Noyau Amp. AGI	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50390	Matériau de Noyau Amp. CRT	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50391	Pièce d'or de célébration	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50392	Échanger des trésors	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50393	Échanger des alliances ornées d'améthystes	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50394	Échanger des alliances ornées d'émeraudes	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50395	Échanger des alliances ornées de grenats	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50396	Échanger des alliances ornées de topazes	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50397	Ticket d'entrée A	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50398	Ticket d'entrée B	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50399	Ticket d'entrée C	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50400	Ticket d'entrée D	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50401	Épique Ticket d'invocation de marionnette	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50402	5★ Child Summon Ticket	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50403	de ticket d'invocation de carte d'âme prismatique 5★	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50404	PremiumTicket d'invocation de marionnette	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50405	Tickets d'invocation de carte d'âme	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50406	Amp. Matériau de noyau d'ATQ	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50407	Amp. Matériau de noyau de DÉF	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50408	Amp. Matériau de noyau d'AGI	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50409	Amp. Matériau de noyau de CRT	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+50410	Onyx	Recette d'événement. \Permet de forger des objets pendant toute la durée de l'événement.
+60201	Production de marionnette - Ordinaire	Production ordinaire - Marionnettes unique avec des cheveux tombés.
+60202	Production de marionnette - Unique	Production unique - Marionnettes rare avec des ongles rouillés.
+60203	Production de marionnette - Rare	Production rare - Marionnettes épiques avec du fil rougi.
+60204	Production de marionnette - Épique	Production épique - Marionnettes légendaires avec des rognures d'ongles.
+60205	Production de marionnette - Légendaire	Production de marionnettes légendaires avec du sel charbonneux.
+60301	Réutilisation de marionnette - Ordinaire	Production ordinaire - Marionnettes unique avec réutilisation de marionnettes ordinaire.
+60302	Réutilisation de marionnette - Unique	Production unique - Marionnettes rare avec réutilisation de marionnettes rare.
+60303	Réutilisation de marionnette - Rare	Production rare - Marionnettes épiques avec réutilisation de marionnettes rares.
+60304	Réutilisation de marionnette - Épique	Production épique - Marionnettes légendaires avec réutilisation de marionnettes épiques.
+60401	Production de rembourrage	Production de rembourrage (le matériau d'EXP des marionnettes) avec de l'onyx et du nettoyant pour marionnette.
+60402	Production de bouts de coton	Production de boulettes de coton (le matériau d'EXP des marionnettes) avec de l'onyx et du nettoyant pour marionnette.
+60403	Production de vieux coton	Production de vieux coton (le matériau d'EXP des marionnettes) avec de l'onyx et du nettoyant pour marionnette.
+70001	Production de tickets de défi Seigneur de l'amas I	Produire 10 tickets de défi Seigneur de l'amas I.
+70002	Production de tickets de défi Seigneur de l'amas II	Produire 10 tickets de défi Seigneur de l'amas II.
+70003	Vente de tickets de défi Seigneur de l'amas I	Récupérer des cheveux tombés lors de défis Seigneur de l'amas I.
+70004	Vente de tickets de défi Seigneur de l'amas II	Récupérer des Ongle rouillé lors de défis Seigneur de l'amas II.

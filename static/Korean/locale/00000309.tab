@@ -1,0 +1,274 @@
+﻿// key	SUMMON_SCROLL_NAME_	SUMMON_SCROLL_DESCRIPTION_
+1001	3-5★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>
+1002	1-3★Child召唤券	在金币召唤池中召唤一名<size=1.1><color=ffc400>1★</color></size>至<size=1.1><color=ffc400>3★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>
+1003	4-5★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>4★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1004	2-4★Child召唤券	在金币召唤池中召唤一名<size=1.1><color=ffc400>2★</color></size>至<size=1.1><color=ffc400>4★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1005	1-5★Child召唤券	在金币召唤池中召唤一名<size=1.1><color=ffc400>1★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1006	1-2★Child召唤券	在金币召唤池中召唤一名<size=1.1><color=ffc400>1★</color></size>至<size=1.1><color=ffc400>2★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1007	2-3★Child召唤券	在金币召唤池中召唤一名<size=1.1><color=ffc400>2★</color></size>至<size=1.1><color=ffc400>3★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1008	3-4★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>3★</color></size>至<size=1.1><color=ffc400>4★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1101	3★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>3★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1102	4★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>4★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1103	5★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1201	3-5★强化Child召唤券	召唤一名强化用Child
+1202	1-5★强化Child召唤券	召唤一名强化用Child
+1203	1-3★强化Child召唤券	召唤一名强化用Child
+1204	3★强化Child召唤券	召唤一名强化用Child
+1205	4★强化Child召唤券	召唤一名强化用Child
+1206	5★强化Child召唤券	召唤一名强化用Child
+1400	限量5★水属性召唤券	在高级召唤池中召唤一名\<size=1.1><color=2287d8>水属性</color> <color=ffc400>5★Child</color></size>。
+1401	5★Child召唤券	可让你获得奥尔加、绪林克斯、夏娃或朱庇特的5★Child召唤券。
+1402	限量5★暗属性召唤券	
+1403	5★Child召唤券(活动)	此5★Child召唤券将召唤米里娜、黛娜、玛亚特或潘提翁其中之一。
+1404	5★Child召唤券	可召唤哈迪斯、黛娜、弗雷、梅芙或墨提斯的5★Child召唤券
+1405	5★水属性Child召唤券	可让你获得5★水属性Child的5★水属性Child召唤券（包含暗黑克星丽莎）。
+1406	5★Child召唤券	可让你获得夏娃、那伊阿得斯、玛尔斯或圣诞老人的5★Child召唤券
+1407	5★Child召唤券	可让你获得玛亚特、解放的玛亚特、嫦娥或守护神嫦娥的5★Child召唤券
+1408	5★水属性Child召唤券	可让你获得塔纳托斯、奥尔加、夏娃、那伊阿得斯、玛尔斯、鲁萨尔卡、嫦娥或卡吕普索的5★Child召唤券
+1409	5★木属性Child召唤券	可让你获得薮猫、迈达斯、亚巴顿、玛门、艾波娜、绪林克斯、塞壬或赫拉的Child召唤券。
+1410	5★Child召唤券	可让你获得弗雷、潘提翁、玛亚特或嫦娥的Child召唤券。
+1411	玩家特选召唤券Ⅰ	可召唤玩家特选出的前三名辅助型Child的召唤券。
+1412	玩家特选召唤券Ⅱ	可召唤玩家特选出的前三名干扰型Child的召唤券。
+1413	玩家特选召唤券	可召唤玩家特选出的前三名攻击型Child的召唤券。
+1414	5★Child召唤券	此5★Child召唤券将召唤布朗尼、艾波娜、坎卜斯或迈达斯。
+1415	玩家特选召唤券Ⅳ	可召唤玩家特选出的前三名治愈型Child的召唤券。
+1416	5★Child召唤券	此5★Child召唤券将召唤玛弗德特、芭丝特、玛尔斯或朱庇特。
+1417	玩家特选召唤券Ⅴ	可召唤玩家特选出的前三名防御型Child的召唤券。\（黛娜、迪娜希或玛尔斯）
+1418	5★Child召唤券	此Child召唤券将召唤嫦娥、潘提翁、墨提斯或艾波娜。
+1419	5★Child召唤券	此Child召唤券将召唤暗黑克星丽莎、夏娃、那伊阿得斯或希特莉。
+1420	5★Child召唤券	此Child召唤券将召唤新人莫娜、嫦娥、巴托里、墨提斯、魔王妲比或摩根中的一个
+1421	5★Child召唤券	此5★Child召唤券将召唤新人莫娜、秋牡丹、黛娜或流氓迈达斯。
+1422	5★Child召唤券	可让你获得艾丽、派对巨星梅芙、迪娜希或烈日沙滩莫娜的5★Child召唤券。
+1423	5★Child召唤券	此召唤券将召唤花魁巴托里、转校生夏娃、田园的潘或流氓迈达斯。
+1424	5★Child召唤券	此召唤券将召唤淑女巴托里或花魁巴托里。
+1425	5★Child召唤券	此召唤券将召唤新人莫娜或烈日沙滩莫娜。
+1426	5★Child召唤券	此召唤券将召唤暗黑克星丽莎或比基尼丽莎。
+1427	5★Child召唤券	此召唤券将召唤净火的狄蜜特、白诚雅典娜、神圣的妮可或白手伊索尔德。
+1428	5★Child召唤券	此召唤券将召唤星夜阿斯特赖亚、白诚雅典娜、春之贝丝或情报员布朗尼。
+1429	5★Child召唤券	可召唤神乐狼人、月光狼人、帕拉斯或虚幻的迪朗达尔的召唤券。
+1430	5★Child召唤券	一张召唤纯白的波摩纳、雅典娜或伪君子巴贝尔的召唤券。
+1431	5★Child召唤券	一张召唤新娘希尔德、纯白的波摩纳、天真维纳斯♥或复苏的弗雷的召唤券。
+1432	5★Child召唤券	一张召唤舞姬狼人、阳光海滩莫娜、女士巴托里或不屈自请妃的召唤券。
+1433	5★Child召唤券	一张召唤炼金术士沃丹、比基尼丽莎、新手莫娜或尼普顿♥的召唤券。
+1434	5★Child召唤券	一张召唤自嘲的娜薇，纯白的波摩纳，努力派迪诺或盛夏秋牡丹的召唤券。
+1435	5★Child召唤券	一张召唤净火的狄蜜特、炼金术士沃丹、春之贝丝或骑士达芙妮的召唤券。
+1436	5★Child召唤券	一张召唤伪君子巴贝尔、复苏的弗雷、新娘希尔德或女士巴托里的召唤券。
+1437	5★Child召唤券	一张召唤圣诞勒达、\逃亡提斯柏或预言者黛娜的召唤券。
+1438	5★Child召唤券	一张召唤神秘的转校生夏娃、白手伊索尔德、指引者丽塔或九尾狐玉藻前的召唤券。
+1439	5★Child召唤券	一张召唤正义之花玛弗德特或正义的玛弗德特的召唤券。
+1440	5★Child召唤券	一张召唤舞姬狼人或月光狼人的召唤券。
+1441	5★Child召唤券	一张召唤自嘲的娜薇、舞蹈家莎乐美、骑士达佛涅斯或阳光海滩莫娜的召唤券。
+1442	5★Child召唤券	一张召唤饥饿的丽莫斯、花魁巴托里、雅典娜或纯白的波摩纳的召唤券。
+1443	DOAXVV召唤券	一张召唤霞、穗香、玛丽·萝丝、绫音或丽凤的召唤券。
+1444	5★Child召唤券	一张召唤爱恨交织妲比、骄傲菲尔诺特、天真维纳斯♥或淑女巴托里的召唤券。
+1445	5★Child召唤券	一张召唤决战安妮、骑士库巴巴、枪手比利或净火的狄蜜特的召唤券。
+1446	5★Child召唤券	一张召唤校园泳装妲比、神乐狼人、伪君子巴贝尔或正义之花玛弗德特的召唤券。
+1447	5★Child召唤券	一张召唤不屈自请妃、盛夏秋牡丹、新手莫娜或黑暗克星丽莎的召唤券。
+1448	5★Child召唤券	一张召唤勤勉的迪诺、纯白的波摩纳、努力派涅普顿♥或帕拉斯的召唤券。
+1449	5★Child召唤券	一张召唤神秘的转校生夏娃、白手伊索尔德、指引者丽塔或魔方摩亚的召唤券。
+1450	5★Child召唤券	一张召唤魔姬庆野、雅典娜、浪漫的伊菲斯或蜕变妲比的召唤券。
+1451	3-5★圣诞活动召唤券	一张召唤回忆中的圣诞老人、欺瞒的坎卜斯、神圣的妮可、不请自来的鲁道夫、沉默的妖精或好孩子的礼物袋的召唤券。
+1452	5★Child召唤券	一张召甜美的希特莉、复苏的弗雷、新月露娜或自嘲的娜薇的召唤券。
+1453	5★Child召唤券	一张召唤平静的吉娃、梦想家萨图恩♥、天真维纳斯♥或纯白的波摩纳的召唤券。
+1454	5★Child召唤券	一张召唤淑女巴托里、逃亡提斯柏、饥饿的丽莫斯或枪手比利的召唤券。
+1455	5★Child召唤券	一张召唤神乐狼人、派对巨星梅芙、嘲笑的提尔锋或小小的迪娜希的召唤券。
+1456	5★Child召唤券	一张召唤新人莫娜、阳光的嫦娥、星夜阿斯特莉亚或先知黛娜的召唤券。
+1457	5★Child召唤券	一张召唤决战安妮、炼金术士沃丹、比基尼丽莎或努力派涅普顿♥的召唤券。
+1458	5★Child召唤券	一张召唤花魁巴托里、舞蹈家莎乐美、魅力的布丽姬或传教的黛娜的召唤券。
+1459	5★Child召唤券	一张召唤驱魔师尼尔提、白手伊索尔德、孤剑迪亚马特或梦想家萨图恩♥的召唤券。
+1460	5★Child召唤券	一张召唤温柔的里欧、勤勉的迪诺、学校泳装妲比或逃亡提斯柏的召唤券。
+1461	5★Child召唤券	一张召唤饥饿的丽莫斯、枪手比利、滑雪艾修或新人莫娜的召唤券。
+1462	5★Child召唤券	一张召唤骑士达芙妮,耀眼维纳斯♥,伪君子巴贝尔或淑女巴托里的召唤券。
+1463	5★Child召唤券	一张召唤焦急的塞尔凯特、闪耀的玛尔斯♥、田园的潘或悲痛的报丧女妖的召唤券。
+1464	5★Child召唤券	一张召唤正义之花玛弗德特、花魁巴托里、平静的吉娃或魅惑的海奎特的召唤券。
+1465	5★Child召唤券	一张召唤九尾狐玉藻前、蜕变妲比、努力派涅普顿♥或圣诞勒达的召唤券。
+1466	5★Child召唤券	一张召唤月光狼人、努力派涅普顿♥、漫无目的的潘提翁或逃亡提斯柏的召唤券。
+1467	5★Child召唤券	一张召唤冰之刃尤弥尔、闪亮涅普顿♥、纯白的波摩纳或可爱的欧洛斯的召唤券。
+1468	5★Child召唤券	一张召唤神乐狼人、淑女巴托里、黎明萨图恩♥或烈日沙滩莫娜的召唤券。
+1469	5★Child召唤券	一张召唤梦想家萨图恩♥、驱魔师该隐、阳光的嫦娥或新人莫娜的召唤券。
+1470	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1471	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1472	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1473	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1474	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1475	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1476	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1477	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1478	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1479	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1480	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1481	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1482	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1483	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1484	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1485	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1486	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1487	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1488	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1489	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1490	5★攻击型Child召唤券	召唤一个<size=1.1><color=ff0000>攻击型</color><color=ffc400>5★Child</color></size>。\<color=ffff00>（包含每次维护后的新Child，更新召唤池。不包括跨界合作Child。）</color>
+1491	5★防御型Child召唤券	召唤一个<size=1.1><color=ff0000>防御型</color><color=ffc400>5★Child</color></size>。\<color=ffff00>（包含每次维护后的新Child，更新召唤池。不包括跨界合作Child。）</color>
+1492	5★治愈型Child召唤券	召唤一个<size=1.1><color=ff0000>治愈型</color><color=ffc400>5★Child</color></size>。\<color=ffff00>（包含每次维护后的新Child，更新召唤池。不包括跨界合作Child。）</color>
+1493	5★干扰型Child召唤券	召唤一个<size=1.1><color=ff0000>干扰型</color><color=ffc400>5★Child</color></size>。\<color=ffff00>（包含每次维护后的新Child，更新召唤池。不包括跨界合作Child。）</color>
+1494	5★辅助型Child召唤券	召唤一个<size=1.1><color=ff0000>辅助型</color><color=ffc400>5★Child</color></size>。\<color=ffff00>（包含每次维护后的新Child，更新召唤池。不包括跨界合作Child。）</color>
+1495	5★水属性Child召唤券	召唤1名<size=1.1><color=ff0000>水属性</color> <color=ffc400>5★Child</color></size>。\<color=ffff00>(每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1496	5★火属性Child召唤券	召唤1名<size=1.1><color=ff0000>火属性</color> <color=ffc400>5★Child</color></size>。\<color=ffff00>(每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1497	5★木属性Child召唤券	召唤1名<size=1.1><color=ff0000>木属性</color> <color=ffc400>5★Child</color></size>。\<color=ffff00>(每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1498	5★光属性Child召唤券	召唤1名<size=1.1><color=ff0000>光属性</color> <color=ffc400>5★Child</color></size>。\<color=ffff00>(每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1499	5★暗属性Child召唤券	召唤1名<size=1.1><color=ff0000>暗属性</color> <color=ffc400>5★Child</color></size>。\<color=ffff00>(每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1500	爆发者Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1501	爆发者Child召唤券I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1502	爆发者Child召唤券II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1503	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1504	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1505	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1506	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1507	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1508	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1509	5★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1510	5★Child召唤券	在高级召唤池中召唤一名<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。
+1511	世界BOSS最佳5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1512	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1513	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1514	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1515	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1516	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1517	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1518	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1519	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1520	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1521	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1522	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1523	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1524	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1525	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1526	广告召唤奖励召唤券	在广告召唤池中召唤一名<size=1.1><color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>
+1527	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1528	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1529	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1530	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1531	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1532	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1533	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1534	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1535	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1536	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1537	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1538	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1539	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1540	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1541	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1542	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1543	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1544	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1545	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1546	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1547	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1548	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1549	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1550	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1551	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1552	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1553	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1554	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1555	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1556	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1557	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1558	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1559	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1560	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1561	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1562	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1563	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1564	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1565	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1566	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1567	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1568	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1569	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1570	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1571	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1572	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1573	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1574	爆发者Child召唤券礼包	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1575	爆发者Child召唤券礼包I	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1576	爆发者Child召唤券礼包II	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1577	5★Child召唤券	召唤一名5★Child。\点击下方的按钮来查看可获得的Child。
+1801	3-5★Child10x召唤券	在高级召唤池中召唤10名<size=1.1><color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>
+1811	3-5★水属性Child 10x 召唤券	召唤10名<size=1.1><color=ff0000>水属性</color> <color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。\<color=ffff00>（每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1812	3-5★火属性Child 10x 召唤券	召唤10名<size=1.1><color=ff0000>火属性</color> <color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。\<color=ffff00>（每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1813	3-5★木属性Child 10x 召唤券	召唤10名<size=1.1><color=ff0000>木属性</color> <color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。\<color=ffff00>（每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1814	3-5★光属性Child 10x 召唤券	召唤10名<size=1.1><color=ff0000>光属性</color> <color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。\<color=ffff00>（每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1815	3-5★暗属性Child 10x 召唤券 	召唤10名<size=1.1><color=ff0000>暗属性</color> <color=ffc400>3★</color></size>至<size=1.1><color=ffc400>5★</color></size><size=1.1><color=ffff33><b>Child</b></color></size>。\<color=ffff00>（每次维护结束后都会纳入新的Child，更新召唤池。不包含合作Child。）</color>
+1901	2018福袋与5★Child召唤券	此票券可以召唤一名<size=1.1><color=ffc400>5★Child</color></size>，与2018福袋阵容中提供的完全一样。
+1902	2018福袋与4-5★Child召唤券	此票券可以召唤一名<size=1.1><color=ffc400>4-5★Child</color></size>，与2018福袋阵容中提供的完全一样。
+1911	AF限量5★Child水属性召唤券	召唤一名<size=1.1><color=2287d8>水属性</color> <color=ffc400>5★Child</color></size>
+1912	5★Child火属性召唤券	召唤一名<size=1.1><color=2287d8>火属性</color> <color=ffc400>5★Child</color></size>。
+1913	5★Child木属性召唤券	召唤一名<size=1.1><color=2287d8>木属性</color> <color=ffc400>5★Child</color></size>。
+1914	WD限定5★Child光属性召唤券	召唤一名<size=1.1><color=2287d8>光属性</color> <color=ffc400>5★Child</color></size>。
+1915	5★Child暗属性召唤券	召唤一名<size=1.1><color=2287d8>暗属性</color> <color=ffc400>5★Child</color></size>。
+1916	5★Child水属性召唤券	召唤一名<size=1.1><color=2287d8>水属性</color> <color=ffc400>5★Child</color></size>
+1917	5★Child火属性召唤券	召唤一名<size=1.1><color=2287d8>火属性</color> <color=ffc400>5★Child</color></size>。
+1918	5★Child木属性召唤券	召唤一名<size=1.1><color=2287d8>木属性</color> <color=ffc400>5★Child</color></size>。
+1919	5★Child光属性召唤券	召唤一名<size=1.1><color=2287d8>光属性</color> <color=ffc400>5★Child</color></size>。
+1920	5★Child暗属性召唤券	召唤一名<size=1.1><color=2287d8>暗属性</color> <color=ffc400>5★Child</color></size>。
+1921	5★攻击型Child召唤券	召唤一名<size=1.1><color=2287d8>攻击型</color> <color=ffc400>5★Child</color></size>。
+1922	5★防御型Child召唤券	召唤一名<size=1.1><color=2287d8>防御型</color> <color=ffc400>5★Child</color></size>。
+1923	5★治癒型Child召唤券	召唤一名<size=1.1><color=2287d8>治愈型</color> <color=ffc400>5★Child</color></size>。
+1924	5★干扰型Child召唤券	召唤一名<size=1.1><color=2287d8>干扰型</color> <color=ffc400>5★Child</color></size>。
+1925	5★辅助型Child召唤券	召唤一名<size=1.1><color=2287d8>辅助型</color> <color=ffc400>5★Child</color></size>。
+1926	5★攻击型Child召唤券	召唤一名<size=1.1><color=2287d8>攻击型</color> <color=ffc400>5★Child</color></size>。
+1927	5★防御型Child召唤券	召唤一名<size=1.1><color=2287d8>防御型</color> <color=ffc400>5★Child</color></size>。
+1928	5★治愈型Child召唤券	召唤一名<size=1.1><color=2287d8>治愈型</color> <color=ffc400>5★Child</color></size>。
+1929	5★干扰型Child召唤券	召唤一名<size=1.1><color=2287d8>干扰型</color> <color=ffc400>5★Child</color></size>。
+1930	5★辅助型Child召唤券	召唤一名<size=1.1><color=2287d8>辅助型</color> <color=ffc400>5★Child</color></size>。
+2101	3-5★饰品券	获得饰品
+2102	2-5★饰品券	获得饰品
+2103	4-5★饰品券	获得饰品
+2104	1-3★饰品券	获得饰品
+2105	2-3★饰品券	获得饰品
+2106	5★饰品券	获得饰品
+2107	5★A级饰品券	获得饰品
+2201	3-5★装备券	获得随机装备
+2202	2-5★装备券	获得随机装备
+2203	4-5★装备券	获得随机装备
+2204	1-3★装备券	获得随机装备
+2205	2-3★装备券	获得随机装备
+2206	5★装备券	获得随机装备
+2207	5★A级装备券	获得随机装备
+2301	5★武器券	获得武器
+2302	5★A级武器券	获得武器
+2303	5★A级武器券	随机获得一件5★A级武器。
+2401	5★防具劵	获得防具
+2402	5★A级防具券	获得防具
+2403	5★A级防具券	随机获得一件5★A级防具。
+2501	3-5★魂之歌牌召唤券	召唤1张魂之歌牌
+2502	4-5★魂之歌牌召唤券	召唤1张魂之歌牌
+2503	5★魂之歌牌召唤券	召唤1张魂之歌牌
+2504	3-4★魂之歌牌召唤券	召唤1张魂之歌牌
+2505	5★棱镜魂之歌牌召唤券	召唤1张魂之歌牌
+2600	DOA 3-5★魂之歌牌券	召唤3-5★DOA跨界合作魂之歌牌。
+2601	DOA 4-5★魂之歌牌券	召唤4-5★DOA跨界合作魂之歌牌。
+2602	5★BLAZBLUE魂之歌牌召唤券	此召唤券将召唤神观之梦或好友三重奏。
+2603	炼金术士装备召唤券	此召唤券将召唤一个精萃烧瓶、炼金术士的手套或炼金术工具套件。（A-C等）
+2604	最佳装备召唤券	此召唤券将召唤一个精萃烧瓶、炼金术士的手套、炼金术工具套件、激情的麦克风、闪亮服装或高音质耳机。（A-C等）
+2605	钵里的装备召唤券	一张召唤钵里的折扇、钵里的羽织或钵里的慰灵符的召唤券。（A-C级）
+2606	最佳装备召唤券(A-C等级)	召唤精萃烧瓶、炼金术士的手套、炼金术工具套件、激情的麦克风、闪亮服装、高音质耳机、钵里的折扇、钵里的羽织或钵里的慰灵符的召唤券。（A-C等级）
+2607	3★装备召唤券	获得随机装备
+2608	4★装备召唤券	获得随机装备
+2609	3★魂之歌牌召唤券	召唤1张魂之歌牌
+2610	4★魂之歌牌召唤券	召唤1张魂之歌牌
+2611	4★装备召唤券(A~B)	获得随机装备
+2612	3★装备召唤券(A~B)	获得随机装备
+2701	传奇_人偶召唤券	召唤1个传奇人偶。\点击以下按钮来查看可召唤的人偶。
+2702	史诗_人偶召唤券	召唤1个史诗人偶。\点击以下按钮来查看可召唤的人偶。
+2703	稀有_人偶召唤券	召唤1个稀有人偶。\点击以下按钮来查看可召唤的人偶。
+2704	罕见_人偶召唤券	召唤1个罕见人偶。\点击以下按钮来查看可召唤的人偶。
+2705	常见_人偶召唤券	召唤1个常见人偶。\点击以下按钮来查看可召唤的人偶。
+2706	高级_人偶召唤券	随机召唤1个传奇人偶。\点击以下按钮来查看可召唤的人偶。
+2707	人偶召唤券	随机召唤1个传奇人偶。\点击以下按钮来查看可召唤的人偶。
+2708	史诗人偶召唤券	随机召唤1个传奇人偶。\点击以下按钮来查看可召唤的人偶。
+2901	+1工具箱	可以获得其中一种+1武器、防具或饰品研磨剂
+2903	+3工具箱	可以获得其中一种+3武器、防具或饰品研磨剂
+2905	+5工具箱	可以获得其中一种+5武器、防具或饰品研磨剂
+2910	+10工具箱	可以获得其中一种+10武器、防具或饰品研磨剂

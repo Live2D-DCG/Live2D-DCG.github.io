@@ -1,0 +1,557 @@
+﻿// key	CHARACTER_DESCRIPTION_
+10100002	Secrétaire des démons, chef des succubes. Spécialiste de l'entraînement des cas désespérés.
+10100003	Une succube compétente au potentiel de classe SS. Elle disparaît une fois le travail terminé.
+10100004	"Davi, pour vous servir ! Je suivrai Mona jusqu'au bout du Royaume infernal !"
+10100005	Une guerrière avide de justice et de vengeance. "Je détruirai le mal pour protéger les faibles."
+10100007	Une guerrière qui a pris l'épée pour se défendre. "Je vaincrai mes ennemis."
+10100008	Un mercenaire cupide qui se bat pour l'argent.
+10100009	Une dominatrice créée par une infirmière désœuvrée.
+10100010	"Suivant. Allongez-vous et détendez-vous. Je n'ai aucune formation, mais beaucoup d'assurance !"
+10100011	Un Child serein créé par une fille brillante. "Ne bouge pas. Ce ne sera pas long."
+10100012	Soyez la justice des étoiles et brillez de tous vos feux sur ce monde !
+10100015	Une chienne qui gardait le fantôme de son défunt maître. Elle obéit aux Childs qui ont la même odeur que son maître.
+10100016	"Entendez-vous la voix de mon amitié ?"
+10100017	Elle tire sa force de sa rage ! Elle domine ses ennemis avec une colère insatiable.
+10100018	La vie est une série de choix. Mais au final, notre sort à tous est décidé en un lancer de dés.
+10100019	Un garçon manqué paresseux, passionné des jeux et soi-disant brillant.
+10100021	Une fille franche et destructrice qui agit avec abandon. Elle préfère parler peu pour éviter les interactions sociales.
+10100022	"Ce n'est pas un costume de superhéros. C'est un démon !"
+10100023	"Je suis sublime, pas vrai ? Dites-moi que vous m'appartenez."
+10100024	Ce Child est devenu la lune pour vaincre la nuit. "Si la nuit est faite de terreur, je l'éclairerai moi-même."
+10100025	La P'tite détective apparue au milieu du chaotique concours du Roi des démons. "Au nom de ma grand-mère !"
+10100026	"Miaou ! Euh, je veux dire : je veillerai toujours sur toi."
+10100027	"Je serai la meilleure servante. C'est ma raison d'être. La cuisine, le ménage ! Je ferai tout... à la perfection !"
+10100028	"On ne peut faire confiance qu'à soi-même."
+10100029	Invoquée par erreur par un démon inférieur, ce Child croit être une grande sorcière d'un autre monde.
+10100030	Une spécialiste de la négociation qui voyage entre le Royaume infernal et le Royaume des mortels. "Seule la confiance compte."
+10100031	Une fille asociale à la force herculéenne. Elle rêve de devenir la plus grande collectionneuse au monde.
+10100032	Je veux qu'on n'aime que moi !\Child qui se dévoue corps et âme à tout ce qu'elle aime.
+10100033	"Je n'ai pas besoin de l'amour d'un homme. Je suis très bien toute seule."
+10100034	"Remettons ce monde défiguré dans le droit chemin avec des lois strictes !"
+10100035	"Tu n'es plus un enfant. Tu peux compter sur moi."
+10100036	"Voici un court poème : tel un nuage flottant, un vagabond ne peut résister aux vents violents."
+10100037	"Vise le haut des classements musicaux ! Les leçons ne cessent jamais pour ceux qui inspirent et exaucent des vœux."
+10100039	"Je veux briller de mille feux, tel un brasier qu'on ne pourrait éteindre."
+10100040	Une fille incontrôlable et très négative.
+10100041	Une femme de foi maudite qui erre à la recherche de Dieu.
+10100043	"Freyr, démon d'élite du Royaume infernal !\Le titre de Roi des démons est à moi !"
+10100044	Un prêtre superficiel qui passe son temps à parler de choses frivoles au lieu de travailler.
+10100045	"Je peux lire dans vos pensées. Vous ne pouvez rien me cacher."
+10100046	La Légende de la nuit, l'ombre qui protège son maître. Son véritable nom est Ninja, mais c'est un secret.
+10100048	"Disparaissez, démons ! Je réduirai les ennemis de Dieu en poussière !"
+10100049	Une mystérieuse maîtresse des Ténèbres qui se fond dans l'obscurité.
+10100050	"Tu ne désires que sang et violence. Ton appétit pour la destruction est insatiable."
+10100052	"Les pensées des hommes sont malveillantes. Tu penses être différent ? Et si je te mettais à l'épreuve ?"
+10100053	"J'ai écrit une nouvelle chanson ! Écoutez-la !\Un jour, au milieu de l'océan, j'ai vu une sirène ♪"
+10100054	Une fleur de désir solitaire fleurit dans le Royaume infernal.
+10100055	"Si cette lettre... vous parvient... un jour..."
+10100056	N'oublie pas mon nom...\C'est celui de la personne qui régnera sur toi.
+10100057	"Tu aimes mon fabuleux parfum de rose ? Oh, on dirait que tu m'adores déjà."
+10100058	"Quelle sera ma dernière demeure ? Est-ce que quelqu'un voudra m'y rejoindre ?"
+10100059	"Dis, tu veux goûter ma cuisine ? J'ai remplacé le sel par le sucre, c'est délicieux."
+10100060	"Écrous, clous et clé anglaise ! C'est tout ce dont on a besoin dans ce monde !"
+10100063	Ce guerrier muet vous protègera toujours.
+10100064	Je n'ai rien...\Navi, le Child vide qui a perdu toute volonté de vivre.
+10100065	"À l'attaque ! Je vous encouragerai toujours !"
+10100069	"Je pressentais que nous nous rencontrerions comme ça. Ou alors je me faisais des idées."
+10100070	Ce Child est une délinquante juvénile qui est apparue avec un lance-missiles dans les mains.
+10100072	Cette fille innocente et joyeuse cuisine et mange n'importe quoi, mais elle a des goûts discutables.
+10100075	Une soldate loyale.\Les désirs de son maître sont les siens.
+10100079	"Je garderai le cap. Je brûlerai la peur et les autres obstacles sur mon chemin !"
+10100080	Ce Child est équipé d'une guitare électrique. "Rock'n'roll, bébé !"
+10100081	"Regarde-moi et souris tendrement. Je serai toujours de ton côté."
+10100082	Les poupées sont adorables, pas vrai ? Voulez-vous devenir l'une de mes poupées ?
+10100083	"Dans le langage des fleurs, le tournesol symbolise l'adoration."
+10100084	Un alchimiste qui erre seul à la recherche de la vérité.
+10100086	Une violoncelliste fantomatique qui joue des requiems en ville.
+10100088	Un adepte des ténèbres qui réalise des miracles à l'aide de pouvoirs démoniaques.
+10100089	"Les fleurs rendent heureux. Si le monde était plein de fleurs, il n'y aurait plus de conflits."
+10100090	Muse, le musicien solitaire qui coupe à travers la nuit pour chanter à propos de l'humanité.
+10100091	Si tu ne peux pas te le payer,\je te déconseille d'essayer de prendre mon trésor.
+10100092	"Fais un truc mignon mais terrifiant, sombre mais brillant ! Un croquis ? C'est ton rayon !"
+10100093	Elle ne s'arrêtera jamais. Il n'y a plus de retour en arrière, maintenant qu'Ève est tombée sur Terre.
+10100094	L'éternelle héroïne adorable qui rêve de son prince charmant.
+10100095	Une déesse féline qui porte une dague et se trouve toujours dans l'ombre de ses ennemis.
+10100096	Une compositrice lunatique mais brillante qui ne se lasse pas de la musique.
+10100098	Un Child né de la ténacité d'une jeune fille. "Pour protéger ce qui est important, il faut de la volonté."
+10100100	"Je ne changerai jamais. S'il te plaît, ne change pas non plus."
+10100101	Cette archère sème des flèches pour ceux qui se sentent seuls partout dans le monde.
+10100102	Cette princesse de la nuit est prisonnière d'un monde d'illusions.
+10100104	Ce Child chante son amour secret de tout cœur.
+10100105	Une aventurière en quête de mondes inconnus. Son esprit innovant l'emmènerait jusqu'au Royaume infernal.
+10100106	"On ne peut pas effacer nos péchés, quoi qu'on dise. Si c'est le cas, les excuses ne valent rien."
+10100107	Une chanteuse qui rêve de devenir une star.\Avec sa voix puissante, elle domine la scène.
+10100108	Cette dame semble cacher des secrets connus d'elle seule. On ne sait même pas quand elle est née.
+10100109	"Beau prince, la bombe en maillot de bain est ici. Allons nager ensemble !"
+10100110	Devenir Roi des démons, hein ? Quel objectif nul !\Tout se passera comme Il le souhaite.
+10100114	Ce Child porte une camisole de force de son plein gré. Un jour peut-être sa véritable nature sera révélée.
+10100116	L'âge d'or des humains est terminé. Celui des démons commence.
+10100119	"Je suis un Child adorable ♪\Jouons !"
+10100120	"Bonjour ! Ici A.I, votre partenaire de minuit, pour vous mettre au cœur de l'action sur Chaîne Evil !"
+10100121	Un Child chevaleresque qui a pris les armes pour protéger les faibles.
+10100122	"Les paris sont ouverts ! Le jeu sans fin est sur le point de commencer. Le premier qui abandonne perd !"
+10100123	Un roi arrogant né de l'avidité d'un passeur de pactes. Ce Child est fait pour être vénéré.
+10100125	Un Child devenu déesse pour se couvrir de gloire.
+10100126	Une navigatrice qui erre à la recherche d'un paradis personnel dont personne ne sait rien.
+10100127	"Tu viens d'enfreindre les règles, non ? J'ai un cadeau pour les mauvais garçons. Des menottes ♪"
+10100128	"Pas besoin de mots ! Laissons nos poings s'exprimer !"
+10100130	Lorsque la sainte lumière de la sagesse illuminera l'ignorance,\l'épée sacrée brillera sur la terre du troisième âge.
+10100131	Son cœur, telle la lumière de l'aube, protège celui qu'elle aime.
+10100132	"Lançons les dés et tentons le sort ! Le seul moyen de savoir ce qui se passe, c'est d'essayer !"
+10100134	"Et dans son fantastique premier rôle : mon corps ! Admirez mes muscles d'acier et mon cœur de braise !"
+10100135	Phénix, le guerrier né des cendres. "Je serai le seul survivant !"
+10100136	Votre amoureuse rêveuse et un peu lunatique.
+10100137	"Il n'y a qu'une seule couronne. Lequel de nous deux en sera digne ?
+10100138	Cette jeune fille pleine d'entrain qui vient d'une terre lointaine aime courir en ligne droite.
+10100139	Si je me laisse porter comme une feuille dans le courant, j'atteindrai ma destination.\Quant à savoir d'où il s'agit, je l'ignore...
+10100141	Ma peau est brûlante d'excitation.
+10100142	Ma peau est glaciale.
+10100143	Un lézard gigantesque enveloppé de flammes rouges apparaît !
+10100144	Un lézard gigantesque enveloppé de flammes bleues apparaît !
+10100145	"Le bonbon de ton souhait se trouve ici !"
+10100146	"J'ai mis de grandes oreilles pour mieux t'entendre !"
+10100147	Avec Teddy, vos cauchemars deviendront réalité.
+10100148	Un noyau rouge est visible sous sa peau translucide.
+10100149	Un noyau bleu est visible sous sa peau translucide.
+10100150	"Ouaf, ouaf ! Chut... Je fais semblant d'être un chien."
+10100151	"Ouaf, ouaf ! Chut... Je fais semblant d'être un chien."
+10100152	L'herbe magique est nourrie par d'autres organismes.
+10100153	Il était une fois une poupée qui voulait être un démon.
+10100155	"Si vous arrivez à 12 h, Maître, je commencerai à aiguiser mes ongles à 10 h."
+10100156	"Vous, là-bas ! Nos regards se sont croisés, n'est-ce pas ?"
+10100157	Il n'y a aucune réaction à votre toucher et vos questions.
+10100158	"Je m'appelle Baudet, ne me traitez pas d'âne."
+10100159	Une espèce de chiens fidèles et ouvertement hostiles aux démons félins.
+10100160	Il n'y a presque aucune réponse à votre toucher. Il n'est violent qu'en combat.
+10100161	Un fruit démoniaque très doué pour imiter les fraises, y compris leur goût.
+10100162	Quand ils se sentent menacés, ils ont tendance à agir collectivement.
+10100163	Elle n'a pas réussi à devenir une mandragore après avoir été contaminée par un démon.
+10100164	Un furet représentant toute la création en mettant sa queue dans sa bouche.
+10100165	Le bruit perçant de ses sabots ne va pas avec son petit corps.
+10100166	"Je vous offre cette vie, Maître."
+10100167	Une espèce mutante qui habitait autrefois dans le Royaume infernal et qui est répandue dans le Royaume des mortels.
+10100168	"Écoute bien. Je ne me répéterai pas. Et ne viens pas pleurer si tu rates une partie."
+10100169	"Hé, toi ! Ouais, le méchant ! Fais attention quand tu te balades la nuit !"
+10100170	Un Child d'instinct né des abysses sombres du cœur humain. Le désir n'est qu'émotion.
+10100171	"Grrr ! Je vais te mâchouiller. Et si tu n'aimes pas ça, je te mordrai à mort !"
+10100172	"À la fin de ta vie, une mort insignifiante t'attend. Alors, meurs ici ou continue à vivre. Le choix t'appartient !"
+10100173	"Être aimée ou abandonnée ? Je voulais juste être heureuse."
+10100174	"Casser un œuf qui ne tient pas debout ? Vous les aventuriers, tous les mêmes."
+10100175	Il ne réagit qu'au sortilège Carotte.
+10100176	Un Child avec un seul souvenir qui recherche la meilleure solution avec ténacité.
+10100177	"Tu souhaites une belle mort ? Alors laisse-moi séparer cette tête de tes épaules."
+10100178	"Brûle ! Brûle ! Les flammes de l'enfer consomment tout !"
+10100179	Il a l'air docile, mais son venin est mortel.
+10100180	Je protégerai... les faibles... \Je... détruirai ceux qui... s'interposent...
+10100181	Ce corps souffre d'agonie et de disgrâce.
+10100183	"Manger ou être mangé. Tu choisis. Bien sûr, c'est moi qui mangerai."
+10100184	Une ombre étrange est projetée sur la neige. Une légende urbaine parle d'un dragon solitaire caché derrière.
+10100185	"Bien reçu. Cible verrouillée.\Je ne rate jamais ma cible."
+10100186	"Bienvenue, cher client ! Vous avez encore l'air patraque aujourd'hui."
+10100187	"Bonjour, Maître.\C'est votre Child fidèle, Moa. Attendez un instant. Il reste encore d'autres Moas."
+10100188	C'est Cador le champion, le Child à la force herculéenne qui porte les gants de la paix.
+10100189	Une femme qui se restreint elle-même afin de se protéger de sa propre folie.
+10100190	"Mesdames et messieurs... Est-ce que quelqu'un a appelé Groom, le messager de minuit ?"
+10100191	Un Child lâche déguisé en monstre hideux. "Ne t'approche pas plus !"
+10100192	"Gêné par les bruits du voisinage ? Vengez-vous grâce à ma voix mortelle !"
+10100193	"Prépare-toi à entendre la musique la plus maudite de ce monde ! Le death metal, le cri des démons !"
+10100194	Un petit cauchemar qui apparaît dans un souvenir déchiré.
+10200001	Contemplez la toute-puissance de la justice.\Combattez à mes côtés !
+10200004	Judas, empereur de Villesombre. Rien n'est plus puissant que le désir à l'état pur.
+10200005	"Jusque quand te voileras-tu la face ? Libère ta rage !"
+10200007	Machiavélique Aton, le soleil noir qui est apparu au-dessus de la jungle de béton.
+10200010	Un jeune maître insolent qui rêve de dominer le monde.
+10200014	Je suis le seul à pouvoir protéger Ziva !
+10200015	Sur cette épée, je jure\mon amour éternel pour Roussalka !
+10200019	"Rester dans le droit chemin ? Non merci ! Apprécier l'instant présent, c'est ce qui compte."
+10200020	"Que tout le monde voie la fée scintillante que je suis devenue ! Je veux marquer les esprits."
+10200023	"La justice ? Les rêves ? Le courage ? J'ai horreur de ce genre de choses ! Ha, ha, ha !"
+10200024	"Être sage, rien de plus ennuyeux ! Je serai un monstre de méchanceté mondialement connu !"
+10200029	"J'ai perdu la mémoire, mais pas mon cœur. Veux-tu goûter un de mes chocolats ?"
+10200031	"Je serai la lumière qui vous guide."
+10200033	Une Child mystique qui s'approche doucement puis disparaît comme un mirage.
+10200036	Si tu veux que quelqu'un t'appartienne,\la meilleure façon est de le mettre à genoux.
+10200037	La déesse de la douleur, noyée dans une mer de chagrin...
+10200038	Une dure à cuire à la force herculéenne. "Je résous les problèmes à coups de marteau géant !"
+10200039	Une fille aux mille visages. "Je jouerai le rôle de votre choix."
+10200040	Child malveillante dont les atours d'un blanc immaculé cachent un cœur noir.
+10200041	"Viens me trouver lorsque tu seras libéré de tes chaînes. Un paradis éternel t'attend."
+10200042	"Tu penses pouvoir me battre dans un concours de beauté ?"
+10200044	De l'autre côté de la lame étincelante, la silhouette sombre d'un Child ricane jalousement.
+10200045	"La vérité est un puzzle incomplet. Assemblons les pièces ensemble."
+10200046	Le harcèlement des faibles est intolérable.\Même si la victime est un démon.
+10200048	Merlin le magicien est apparu dans le monde réel après avoir été invoqué par un démon !
+10200050	Le seigneur sommeillant dans l'abysse est de retour !
+10200055	Les nuits de pleine lune éveillent une louve qui adore faire des farces.
+10200057	Nous serons tous heureux.\Ne baissons pas les bras !
+10200058	Un Child calme qui ne désire rien.
+10200059	Atropos, la joueuse de badminton au sang chaud. "Cours sans te retourner !"
+10200060	"Je m'appelle Jana. Je suis le papillon noir qui triompha du dieu de la pestilence."
+10200061	"Si tu veux, je partagerai mes trésors avec toi. Je ne veux pas savoir si la pauvreté te va bien."
+10200062	"Tu es bien avide. Je n'ai rien pour toi."
+10200064	"Les balles tirées ne font pas demi-tour. Continue à avancer sur le chemin auquel tu crois !"
+10200067	Les chats rêvent-ils de poisson en boîte ?
+10200068	Ton point faible est... ici ! Que le sang coule !
+10200069	"Voici ce à quoi ressemble le lapin de Pâques ! Ne l'oublie pas !"
+10200070	Le guerrier de la nuit, qui apparaît dans les rues tel un mirage à 2 h du matin.
+10200071	Tout n'est que mal, moi excepté. \Le mal ne peut rien espérer, sinon le châtiment.
+10200072	Que dirais-tu d'une tasse de thé au soleil ?\Je boirai aussi tes paroles.
+10200073	La trafiquante d'informations la plus adorable et la plus puissante de l'histoire. "Je trafique toutes sortes d'informations !"
+10200074	"Je suis Skuld, et le destin du monde est entre mes mains. Je connais le secret de la destruction de l'univers."
+10200075	C'est toi que je veux. Oui, toi.\Tu peux faire de moi ce que tu veux.
+10200076	"N'abandonne pas. Sinon, notre utopie disparaîtra !"
+10200077	"Oh, j'ai fait une erreur ! Pourrez-vous me pardonner, Maître ?"
+10200078	Hercule, le guerrier invincible qu'on ne peut arrêter. "Utilise ta puissance et prouve ton existence !"
+10200079	Danu, l'héroïne égocentrique. "Ce sera à moi de décider si tu es un gentil ou un méchant."
+10200081	Un bonbon ou un sort !\Ah, tu n'as pas peur ?
+10200082	"Un bonbon ou un sort ! Tous les bons petits démons préparent un sale coup !"
+10200083	Regarde bien ! Je vais te faire exploser, tu vas pas en revenir !
+10200086	Des bonbons ou un sort !\Je connais une histoire amusante. Tu veux l'entendre ?
+10200090	"Je vois que tu es seul ! Heureusement, l'adorable fée de Noël est là ♪"
+10200091	La dignité d'une reine ne vient pas de sa couronne.\Pourriez-vous supporter le poids de la couronne ?
+10200094	Ne baisse pas ta garde dans l'eau.\À moins de vouloir devenir mon jouet.
+10200096	Pécheurs, le mauvais karma que vous avez créé\reviendra vous hanter un jour.
+10200098	J'ai épié une jeune fille se baignant et l'ai payé de ma vie.
+10200100	L'avatar d'un Child d'une terre lointaine qui erre comme s'il était porté par le vent.
+10200101	"Je sais ce que tu ressens vraiment. Tu n'as pas besoin de moi, pas vrai ?"
+10200103	"Grrr ! J'ai toujours voulu des crocs pour protéger ce qui me tient à cœur !"
+10200104	"Grrr ! J'ai toujours voulu des bras pour protéger ce qui me tient à cœur !"
+10200107	La gardienne du paradis dont le seul but est de faire éclore des fleurs d'Hadès.
+10200108	En avant !\Je vous couvre !
+10200111	"Tu as l'air heureux. Et si tu me montrais une expression plus intéressante ?"
+10200112	Le dragon de sang, roi des flammes. Les flammes rouges qui le cachent sont de la couleur de la folie.
+10200113	Elles deviennent violentes lorsqu'elles sont aspergées d'eau. Il ne faut pas mouiller des cheveux indisciplinés !
+10200114	Ne faites pas attention !\Je poursuis la fille de mes rêves.
+10200115	Vous qui envahissez la tour des morts !\Comment osez-vous troubler le repos de Pharaonne ?
+10200118	Peu me chaut que je vive ou meure, pour tout dire !
+10200119	Pas besoin de s'en faire.\Les règles existent pour être brisées !
+10200121	"Longue vie au seigneur Mammon ! Vos désirs sont des ordres ! Enfin, tant qu'on me paie pour ça."
+10200122	J'espérais ne jamais vous revoir...\Oh et puis zut. Bonjour. Je suis Hel modifiée.
+10200123	Bonjour. Mon nom est Laufey.\Saluez Loki de ma part.
+10200124	J'espère que vous trouverez le bonheur.\Mais ne m'en veuillez pas si ce n'est pas le cas...
+10200125	Je chercherai le paradis.\Avec une lumière éternelle qui ne brillera que pour moi.
+10200127	"Vous êtes mon nouveau Maître ? Désolée de ne pas être venue plus tôt."
+10200129	« En voilà, du spectacle ! C’est encore plus intense que Chaîne Evil »\Faites place à Natalis, la nouvelle Fleur maléfique.
+10200130	Un majordome misérable qui n'a pas trouvé de maître digne de lui.
+10200131	Je vais vous montrer la meilleure danse.\Une danseuse qui ne cesse de viser le sommet.
+10200132	Je serai l'indéfectible épée du seigneur Rufus.
+10200133	Vous pourriez me divertir ? \Je ne cherche ni confiance, ni amour, ni même amitié...
+10200135	Il sera fait comme vous voulez.
+10200137	À partir de maintenant, tu es ma bien-aimée.\Je jure de te protéger.
+10200138	Douce nuit, sainte nuit...\Aucun Child ou démon en vue...
+10200139	Où vas-tu, petit client ? Tu ne peux pas t'échapper.
+10200142	"As-tu vu mes rennes ? Aide-moi à les chercher !"
+10200143	Vous pouvez me faire confiance.\Je ferai tout ce que vous me demanderez.
+10200144	Attention... Si j'étais vous, je ne resterais pas là.\Voici Jacheongbi, l'héroïne guerrière.
+10200148	Les enfants sont doués\pour découvrir des secrets.
+10200151	On dirait qu'on va bien se marrer aujourd'hui, sales gosses !\Y a comme une odeur de délit de fuite dans l'air !
+10200153	Je vous aiderai à monter sur le trône, \M. Démon.
+10200154	Khépri, cruelle déesse de la mort et chasseuse de démons.
+10200155	"Quel est l'intérêt de manger un gâteau qui n'est pas sucré ?"
+10200158	Dites-moi ce que vous voulez voir.\Je pourrais peut-être vous le montrer...
+10200159	Dis-moi quelle forme tu désires !\J'exaucerai tous les vœux qui sont à ma portée.
+10200160	Quelle belle époque on vit ! \Souhaitons qu'aujourd'hui aussi soit paisible...
+10200161	Rien n'est gratuit, en ce bas monde.\Que me donnez-vous pour exaucer votre souhait ?
+10200162	La mort est inévitable...\Mais la vie est pleine de possibilités.
+10200164	Bonjour ! Je suis Luna, le clair de lune qui brille sur vous.\J'attends ce jour depuis si longtemps. ♬
+10200167	Ne sous-estimez pas la chance du débutant !\J'ai beau être nouvelle, je n'abandonnerai pas sans me battre !
+10200168	En route pour les confins du Royaume infernal !\Direction les bras de Mona !
+10200169	1 % de courage, 99 % de pure détermination !\Éclatons-nous à la plage ensemble !
+10200170	Qui ne risque rien n'a rien !\Vous voulez tenter votre coup ?
+10200171	J'envoie le signal ! Ne le ratez pas, cette fois !
+10200172	L'exorciste la plus puissante parmi les douze apôtres.
+10200173	La tranquillité émane d'un lieu paisible. \Pan, protectrice des champs.
+10200174	C'est dans ces moments-là que je me sens vivante.\Je brillerai plus que quiconque, rien que pour vous.
+10200175	Je vais chanter de tout mon cœur pour vous,\où que vous soyez !
+10200176	Voilà votre princesse diablo-mimi !\Prêts, feu, partez ! Jolie, mimi, diablo-sexy ★
+10200177	C'est mon heure de gloire.\Je compte sur ton soutien !
+10200179	Tu ferais mieux de ne pas pleurer. Je vais te dire pourquoi :\le Père Noël déteste les pleurnicheurs.
+10200180	"Je fais le vœu de vous protéger. Je protégerai le sourire sur votre visage."
+10200181	Une lutte pour l'honneur ! Une lance qui transpercera les cieux !
+10200182	La diva électronique est là ! Sa voix angélique apaise les démons sauvages.
+10200183	Une miko du sanctuaire des grues à couronne rouge qui se tient majestueusement dans un paysage enneigé.
+10200184	Après avoir été embrigadée dans une fausse religion, cette jeune fille a été libérée de tous désirs terrestres.
+10200185	"Sois fidèle à toi-même. Laisse l'amour emplir ton cœur."
+10200186	Une arme futuriste à énergie solaire conçue pour éliminer le Roi des démons. "Lisa, unité antidémon n° 1, activée !"
+10200188	Le mieux est l'ennemi du bien.\La volonté compense tous les points faibles !
+10200189	Ma volonté et ta bonté réalisent les rêves.
+10200190	Booonjouuur !\Aujourd'hui, je te prescris une bonne dose de désespoir !
+10200191	Oh ho ho ho ho ! Prosternez-vous devant Davi, la Reine des démons !
+10200193	Tu veux le pouvoir ?\Un vœu est confié, un messager ailé est né.
+10200194	Youpi ! Ha ha ha ! Je me sens trop bien !\Le fric, la célébrité… tant que j'ai la classe, j'adore !
+10200196	Le voilà enfin.\Le jour où j'épouse le petit client. ♥
+10200197	On va chercher le bonheur ensemble !\Marions-nous !
+10200198	Mon soleil, mon âme.\Mets ton destin entre mes mains.
+10200199	Crème solaire, OK !\Un été chaud en tête à tête avec Mona.
+10200200	Pas besoin de nager pour profiter de l'été. Hé hé... C'est quoi, cette tête ?
+10200201	Un tout nouveau type de glamour !\Davi ne craint pas les rayons aveuglants du soleil d'été !
+10200202	Cette fois, j'userai de mon charme \pour vous séduire !
+10200205	Freyr, ce qu'elle peut m'agacer... !\C'est quoi cette robe ?!
+10200206	Comme on se retrouve !\C'est moi, le formidable Freyr ressuscité !
+10200207	Je ne veux que destruction et désespoir... \Que tous retournent au néant.
+10200208	Ce grand bouclier est mon incarnation. \Je suis le rempart de mon maître.
+10200211	Les moutons n'ont rien remarqué.\Un loup se trouve parmi eux.
+10200212	Je suis Yami, la fleur terrifiante de la mort, tapie dans l'abîme...\Oh ? Je t'ai fait peur ?
+10200213	Des bonbons ou un sort !\J'ai un cadeau qui va te donner des frissons !
+10200214	Mona. Je suis là.
+10200215	Je l'aime, mais je la déteste...\Un sombre désespoir né de cœurs divergents.
+10200216	Petite servante démoniaque\Je vais m'éclater pendant ces vacances d'adultes !
+10200217	Je me demande ce qui me manque...\
+10200218	Écolière ultra-secrète\Prenons de longues vacances ensemble.
+10200219	Surmonte ton passé sombre...\Va vers une nouvelle lumière !
+10200220	Mon pouvoir magique à son maximum !\Je vais vous montrer de quoi Medb est vraiment capable ♪
+10200221	Que ceux dotés d'oreilles écoutent !\Ah, vous savez que les démons n'ont aucun droit, n'est-ce pas ?
+10200222	Doresnavant, tu es mon amée.\Jo jure de te proteiger.
+10200223	Hein ? Où suis-je ? \Décidément, je n'ai vraiment aucun sens de l'orientation...
+10200225	Tu veux que je te fasse une prédiction ?\Que te réserve cette année ? La vie, ou bien la mort ?
+10200227	Oh, bonjour !\Je suis Léo, l'assistant de mademoiselle Ève.
+10200229	Bonjour tout le monde ! J'ai des cadeaux !\Et ils sont pour vous !
+10200230	Écartez-vous !\Laissez passer Jacheongbiii !
+10200231	Sur les ailes d'un papillon...\Vous entendez ma voix ? Je suis là...
+10200232	Princesse descendue sur Terre au\milieu de flocons d'une neige pure.
+10200233	Je suis le fondement de ce monde,\sa plus haute étoile. Et je suis ton dieu.
+10200234	Tu penses pouvoir échapper à mes flèches ?
+10200235	Vous êtes tellement cool !
+10200236	Je suis Serval, le chat sauvage.\Je vis dans la savane !
+10200237	Pour l'honneur et la gloire du seigneur Rufus !
+10200238	Je m'en occupe !
+10200239	Je mange, je mange\et je mange encore ♥
+10200240	Je ne m'en rendais pas compte quand j'étais en retrait,\mais les encouragements de tout le mionde m'aident beaucoup !
+10200241	Je te donne une chance de te défendre.\Je veux que tu m'implores de t'épargner.
+10200242	Telle est la volonté du Seigneur :\écoutez la parole de Dieu.
+10200245	Nous autres, du Librarium, jurons de capturer la Faucheuse.
+10200246	Je vous préviens... je ne ménage pas mes adversaires !
+10200247	Montrez-moi ce que vous désirez !
+10200249	Hydrotireuse solitaire,\Billy laisse le canon de son pistolet rugir !
+10200250	Hydrotireuse remarquable,\Annie laisse le canon de son pistolet hurler !
+10200251	La nuit, ce monde est lié à l'au-delà...\Si vous ne fermez pas les yeux, vous pourrez l'explorer.
+10200252	Toi ! Nos regards se sont croisés.\Abandonne et donne-moi la viande.
+10200253	Ceux qui ne respectent pas la loi seront punis !
+10200254	Le mariage c'est un peu ringard, non ?\Franchement, je me demande bien qui ça fait encore rêver.
+10200255	Tu vois quelqu'un d'autre, c'est ça ?\Donc, tu avoues ?
+10200256	Ne vous inquiétez pas,\je veillerai toujours sur vous, vous savez.
+10200257	Je t'ai enfin trouvé, mon démon promis.\Tes vêtements, chéri... Est-ce que tu voudrais bien... Oh, non, oublie ça !
+10200259	Je suis Sa lame,\Sa sainte malédiction du Jugement dernier.
+10200260	Je ne veux pas gâcher ma vie. Donc !\Commençons par nous marier.
+10200262	Mon Seigneur... Mon Seigneur !\Pourquoi m'avez-vous abandonné ?
+10200263	Il fait plutôt froid, non ?\Pas d'inquiétude, le printemps sera bientôt là.
+10200264	Cible repérée !\Ta vie m'appartient !
+10200265	Perdre ou gagner, une seule façon de le savoir.\Il faut prendre le risque.
+10200266	La lune est la déesse de la folie.\Démon, réveillez ma rage.
+10200267	Quelle chance vous avez, chef.\Vous avez toute l'attention d'une adorable fille comme moi.
+10200268	Pourquoi c'est aux filles de donner des chocolats à la Saint-Valentin ?\Moi aussi, j'en veux !
+10200269	C'est du sérieux, ce taux de natalité en chute libre !\Tu dois m'aider !
+10200270	Qu'est-ce que tu en penses, M. Démon ?\Bonbons, chocolats et tenue de soubrette, tout ça te plaît ?
+10200271	Tu peux me montrer ce qu'est l'amour ?
+10200272	Les sentiments sont plus faciles à transmettre avec du chocolat.\Parce qu'ils ont la saveur de l'amour.
+10200273	Bientôt, on organisera une cérémonie\pour se jurer un amour éternel.
+10200274	Le courage me donne de l'espoir.\L'espoir donne de l'amour.
+10200275	La vie n'est qu'un rêve.\Mais de quoi Mona peut-elle rêver ?
+10200277	Je suis l'ombre de la déesse. Qui veut me voir\devra entrer dans les ténèbres.
+10200278	Ne t'inquiète pas.\Il n'y a rien que je ne puisse faire.
+10200279	Elle est le fantôme de la ville, sans son ni trace. Sous le couvert de la nuit, elle détachera la plus belle étoile.
+10200280	Dans ce monde qui voit la justice s'affaiblir,\je serai celle qui redonnera espoir au peuple !
+10200281	J'ai déjà payé pour mes péchés.\L'enfer, c'est là où je suis.
+10200282	Où il y a des Voleurs, il y a un trésor !\Oups, c'était une mauvaise accroche ?
+10200283	Ce doux parfum est alléchant !\Ton sang... Puis-je le goûter ?
+10200284	Où se cache-t-elle ? Elle devrait être ici.\J'ai vraiment envie de la voir.
+10200285	Ce que nous appelons une rose\embaumerait autant sous un autre nom.
+10200286	Rends ça amusant pour moi, tu veux ?
+10200287	Je vais m'éclater avec ça. ♪
+10200288	Je dévore le péché et éradique la souffrance.
+10200289	Je suis ton aile, ton ombre, le vent qui souffle autour de toi.\Je serai à tes côtés pour toujours, pour te protéger.
+10200290	On raconte que l'amour est plus ardent que les feux de l'enfer. Tant que Tiwaz sera en vie,\mon amour pour elle ne s'estompera jamais.
+10200291	En amour, on n'a pas le choix. Même moi,\je ne peux pas contrôler mes propres sentiments...
+10200292	Te voir lutter pour me battre\est intéressant.
+10200293	Une décision prise à la hâte est une mauvaise décision.\Il faut toujours bien réfléchir.
+10200294	Bienvenue. Ça te dirait de tenter le sort ?
+10200295	Même les meilleurs des voleurs\finissent par laisser une trace.
+10200296	Mieux vaut fermer votre porte.\La nuit tombe.
+10200297	Si tu es mon commencement,\je serais ta fin.
+10200298	Même si le reste du monde te tourne le dos,\je resterai avec toi.
+10200299	Débarrassons-nous de tout ce qui n'a pas de sens.\Ève erre aux quatre coins de la Terre.
+10200300	Le passé et le futur sont aussi insignifiants qu'un tas de poussière. Profitons de l'instant présent, mon ami.
+10200301	Elle serait prête à mourir pour son maître.\S'il en vaut la peine, bien sûr.
+10200302	Votre bien-être est plus important que le mien, Maître.
+10200303	Je suis la plus puissante de toutes !\Personne ne peut m'arrêter !
+10200304	Intrus dans le jardin de la reine,\taisez-vous et agenouillez-vous devant elle.
+10200305	Je dévorai tout ce qui vit.\Bienvenu en enfer.
+10200306	J'ai suivi ce que m'a dit ton cœur \Suivras-tu ce que te dis le mien ?
+10200307	N'abandonnez pas vos rêves !\On va tout donner, ça va être un concert inoubliable !
+10200308	Nous espérons que cette chanson\vous donnera de la force.
+10200309	La jolie, mimi, diablo-sexy ☆\princesse Mars♥ vous fait tourner la tête.
+10200310	Tu sauras couvrir Vénus♥ d'amour et de soutien ?\Mettons-nous au travail !
+10200311	Il est temps que la lumière perce l'obscurité.\Coucou tout le monde ! C'est bon de vous revoir !
+10200312	L'odeur de la fumée et le fracas d'un marteau contre l'acier.\Que vous faut-il de plus ?
+10200313	Oublie le passé et lève les yeux.\Ton futur est aussi clair et lumineux que le ciel.
+10200327	Bonjour, confrère imprudent.\J'espère que tu vas m'amuser.
+10200328	Ne laisse pas la déprime gagner.\La vie est trop courte pour être aussi sérieuse tout le temps.
+10200331	C'est une blague ? Tu n'es pas en panne d'inspiration.\Arrête de te chercher des excuses.
+10200332	C'est impossible de ne pas adorer une fille\aussi jolie et parfaite que moi !
+10200333	En combat, tout ce dont j'ai besoin,\c'est de camarades et de gros pétards !
+10200334	Ce n'est pas grave si tu n'es pas comme les autres.\Je serai toujours de ton côté.
+10200335	Je dominerai le champ de bataille même dans la pire des situations !
+10200337	Je suis ton obscurité.\L'ombre qui protège ta lumière.
+10200338	Je vais montrer à tout le monde qui est le vrai roi.
+10200340	Les aveugles ne retrouvent pas la vue.\Laissez-moi vous guider, pauvres agneaux.
+10200344	Messie, princesse de Butena, est venue sauver\les gens du désespoir et forger un nouvel empire !
+10200345	Je ferais tout pour revenir au bon vieux temps\où tout n'était que festivités.
+10200346	Je veux manger quelque chose. Du poulet frit ?\Un hamburger c'est pas mal... Oh, et pourquoi pas une pizza !
+10200347	Miaou miaou ?\Tu veux qu'on apprenne à se connaître ?
+10200348	Appelle-moi quand tu veux !\Je t'apporterai mon aide !
+10200349	La vérité est insignifiante quand elle est là,\et inestimable quand elle ne l'est pas.
+10200350	Quel supplice.\Venez m'affronter tous à la fois.
+10200351	Pourquoi suis-je venue dans ce monde.\Je dois m'efforcer de le découvrir.
+10200352	Ce n'était pas si mal, je suppose.\Je vous apporterai mon aide aussi longtemps que serai dans ce monde.
+10200353	L'attachement engendre la tristesse, puis la colère.\Vous suivez aveuglément votre destin, pauvres fous.
+10200354	Le destin n'a rien à voir avec moi.\Je fais mes propres choix.
+10200355	Rinko a besoin de moi.
+10200356	Tu as l'air d'aller bien !\Tu veux discuter ?
+10200357	Qui veut faire la course contre moi ?\Je gagnerai, bien sûr !
+10200358	Tu ne connaîtras pas le résultat de la course\avant de passer la ligne d'arrivée.
+10200359	Qu'est-ce qu'on s'ennuie...\Tu veux boire un verre avec moi ?
+10200360	La raclée que je vais t'infliger te mettra hors d'état de nuire.
+10200361	Mon ami, mon frère, mon sauveur.\Aujourd'hui encore, je t'attends dans le temps perdu.
+10200362	Fétides serviteurs de l'enfer, il est temps de\rendre votre dernier soupir, vous ne croyez pas ?
+10200363	L'amour reste un mystère pour moi.\Mais si Turan est heureuse...
+10200364	Mon amour pour lui est profond et sincère.\Je ne regrette aucun de mes choix.
+10200365	Pauvre mouton. Rentre donc dans mon enclos.
+10200366	Ne détourne pas le regard. Jure-moi loyauté.\Si tu t'exécutes, je t'emmènerai au paradis.
+10200369	Cette balle est pour toi.\Grendel, la sadique qu'on ne peut pas détester.
+10200372	Une démone dont la vengeance est la seule raison de vivre.
+10200373	Mêle-toi de ce qui te regarde.\Je vis ma vie comme je l'entends.
+10200374	Le destin se crée,\alors laisse-moi créer le tien !
+10200375	Je vais vous confier un secret... \Moi aussi, je déteste Noël.
+10200376	Personne ne peut comprendre le vent qui souffle dans les régions polaires. C'est la volonté de Dieu.
+10200377	Ô saint cauchemar est arrivé, \porté par un terrible blizzard... et c'est vous qu'il cherche !
+10200378	Ne te moque pas de moi !\Je suis une terrible démone !
+10200379	Je ne peux pas m'empêcher de défier les démons,\ils sont tous si terrifiants.
+10200381	Une jeune exorciste destinée à suivre les traces de Merlin l'Enchanteur.
+10200382	Une demi-déesse conseillère.\Une sage qui réveillera votre potentiel.
+10200388	Yo ho, yo ho, j'embarque sur l'eau !\Je suis en mission pour trouver mon paradis !
+10200389	La sainte relique Sallos, aussi sage que vive d'esprit,\pourtant, ses désirs sont loin d'être assouvis.
+10200390	Belial l'exécutrice, l'une des trois consuls qui assistent le Roi des démons du Royaume infernal.
+10200399	Joyeux Noël !\ Tu veux quoi comme cadeau ?
+10200404	La vie est un jeu de hasard, non ?\ Je vais essayer de faire confiance à ma chance !
+10200405	L'ange Ariel, déléguée des cieux qui dissimule son identité.
+20100001	"Avec une balle bleue, je pourrais devenir le champion des jeux où on se sert d'une balle."
+20100002	"Si je fais du bruit, utilise une tapette à mouches."
+20100003	"Ne m'asperge pas d'insecticide, même si je fais trop de bruit."
+20100004	"M'attraper ne te rapportera aucun point et ne mettra pas fin au jeu."
+20100005	"Attention à ne pas être frappé par la balle."
+20100006	Le démon vous regarde. S'il vous glace le sang, courez sans vous retourner.
+20100007	Le démon vous regarde. Si son regard est trop intense, partez en silence.
+20100008	Le démon vous regarde.\Si vous entendez le vent dans les bois, sifflez.
+20100009	Le démon vous regarde.\Si vous êtes gêné, cachez-vous dans un trou.
+20100010	Le démon vous regarde. Si vous voyez quelque chose briller dans l'obscurité, ne faites pas un bruit.
+20100011	Si vous vous sentez seul dans le bain, mettez-le dans la baignoire et discutez.
+20100012	Un bougeoir monté sur un ressort. Son corps est plus gros que le ressort.
+20100013	Placez-le dans un parterre de fleurs. Extermination des nuisibles en option.
+20100014	Placez-le sur votre bureau pour améliorer votre concentration. Essayez d'ignorer le bruit du ressort.
+20100015	"Pour approfondir votre amitié, essayez d'organiser une surprise."
+20100016	"Je viens prendre ta vie. Ne me complique pas la tâche !"
+20100017	"Les ninjas sont extrêmement loyaux ! Vite, donnez-moi un ordre, Maître !"
+20100018	"Calme-toi, ou je te taillerai en pièces !"
+20100019	"Ne fais pas trop confiance à ton ombre !"
+20100020	"La vie d'un guerrier est solitaire. Ne te mets pas en travers de mon chemin."
+20100021	Un cochon amphibie. Dans l'eau, il devient le plus puissant des cochons.
+20100022	Kikli, le petit cochon.\Contrairement aux trois petits cochons, il est fils unique.
+20100023	Respectez son végétarisme.
+20100024	Ne photographiez pas cette petite star porcine sans autorisation.
+20100025	Ce cochon sensible a le grognement le plus pensif au monde.
+20100026	La Vengeresse bleue est cruelle. "Ceux qui me blessent, je les fais payer au centuple."
+20100027	La Vengeresse rouge brûle de rage. "J'irai jusqu'au fond de l'enfer pour me venger."
+20100028	La Vengeresse verte prendra tout, y compris votre cœur. "Tu vas payer de ta vie pour tes péchés."
+20100029	La lumière de la Vengeresse ne faiblit jamais. "Essaie de courir, au moins jusqu'à ce que ma colère s'estompe."
+20100030	L'obscurité de la Vengeresse est déterminée à se venger. "Fais ce que tu veux. Je prendrai tout de toute façon."
+20100031	Il vit tant que vous vous sentez seul. Gardez-le dans une bouteille en plastique, pour qu'il ne s'évapore pas.
+20100032	Il vit tant que vous éprouvez de la haine. Rangez votre bureau, sinon il s'agacera.
+20100033	Il vit tant que vous lui faites confiance. Il aime flâner dans les bois mais ne peut pas encore faire de photosynthèse.
+20100034	Il vit tant que vous êtes anxieux. Vos yeux, épaules et lombaires se fatiguent si vous le regardez trop longtemps.
+20100035	Il vit tant que vous êtes triste et dort en moyenne 26 heures.
+20100036	Une volonté de fer alliée à un sourire tranchant comme un couteau...
+20100039	Il préfère manger des mauvaises herbes gelées.
+20100040	Il a été prouvé qu'il vivait dans les régions tropicales.
+20100041	On dit qu'il sème de la poussière de fée s'il est élevé avec amour. Ne croyez pas tout ce qu'on dit.
+20100042	La légende raconte qu'il est né d'un cocon frappé par la foudre.
+20100043	En regardant de plus près, vous voyez que c'est un papillon de nuit.
+20100044	De l'air frais vient de l'intérieur. Ça pourrait être utile l'été.
+20100045	Une lumière rouge brille à l'intérieur. Ça pourrait être utile en cas d'urgence.
+20100046	Si vous rassemblez toutes les couleurs, vous pourrez les utiliser comme signal.
+20100047	Une lumière dorée brille à l'intérieur. Ce serait parfait pour la photographie.
+20100048	Une lumière d'un blanc pur brille à l'intérieur. Ce serait parfait comme lampe de chevet.
+20100049	Une plante sinistre qui pousse à l'ombre.
+20100050	Elle est caractérisée par un goût très pimenté.
+20100051	C'est une racine. À ne pas confondre avec les haricots.
+20100052	Surnom : Peach\Surnom détesté : Peach
+20100053	Attention à la prononciation de son nom. C'est Dahrk, pas Dark.
+20100054	Une seringue pour les inflammations dermiques, capable de régénérer totalement la peau vieille et affaiblie.
+20100055	Une seringue pour les rhumes. On pense que l'ingrédient actif est le piment rouge, et non la fraise.
+20100056	Contient de la sève, efficace pour soulager la fatigue et le stress.
+20100057	Sans colorants ni conservateurs. Un produit très sain.
+20100058	À conserver au congélateur si vous aimez la glace au raisin.
+20100059	Pour demander quelque chose au Cubik aquatique, il faut dire le contraire.
+20100060	Appelez le Cubik pi si vous avez besoin d'aide. Il ne peut pas dire non.
+20100061	Remettez-le en place après utilisation. Il peut faire mal si on marche dessus.
+20100062	Peut être utilisé à la place d'une lampe fluorescente dans les toilettes.
+20100063	Des observations indiquent que c'est un cube nocturne. Attention, il peut vous faire déprimer.
+20100064	Un porte-tasse plus grand qu'une tasse.
+20100065	Un accessoire extravagant qui détonne dans la chambre modeste d'un démon paresseux.
+20100066	Des études ont montré qu'il s'agissait d'une plante. En cas de pénurie, elle peut être cultivée et mangée.
+20100067	Indispensable aux démons sans le sou qui s'inquiètent de leur facture d'électricité.
+20100068	Ne peut bouger qu'à droite et à gauche.
+20100069	Né de votre solitude, ce Child s'énerve et finit par s'évaporer si on l'ignore.
+20100070	Né de votre haine,\ce Child soupire souvent à cause du stress.
+20100071	Ce Child est né de votre confiance. Vous en avez mangé un morceau, mais il a le goût de concombre.
+20100072	Ce Child est né de votre tristesse. Sa peau spongieuse donne envie de le toucher.
+20100073	Né de votre anxiété, ce Child est difficile à retirer une fois qu'il s'est collé à vos vêtements.
+20100074	Il aime votre solitude et est censé soigner la dépression si vous vivez avec.
+20100075	Il aime votre haine et est censé soulager les nerfs douloureux si vous l'utilisez à la place d'une bouillotte.
+20100076	Il aime votre confiance et ses moustaches auraient des propriétés anti-âge si on les fait bouillir.
+20100077	Il aime votre tristesse et sa berceuse est censée être efficace en cas d'insomnie.
+20100078	Il aime votre anxiété et est censé soulager la fatigue une fois placé à la maison.
+20100079	Il veut manger votre solitude. À conserver congelé à -18 °C maximum.
+20100080	Il veut manger votre haine. Surnommé "Bouillotte froide" en raison de sa température tiède.
+20100081	Il veut manger votre confiance. Il aime produire de l'amidon par photosynthèse.
+20100082	Il veut manger votre tristesse. Vous pouvez lui parler de tout, mais il ne donnera aucun conseil.
+20100083	Il veut manger votre anxiété. Si vous essayez de lui parler, il vous ignorera sûrement.
+20100084	Il grandit en se nourrissant de votre solitude et chante d'une voix limpide.
+20100085	Il grandit en se nourrissant de votre haine et émet juste assez de chaleur.
+20100086	Il grandit en se nourrissant de votre confiance et sa chlorophylle est prête à essayer la photosynthèse !
+20100087	Il grandit en se nourrissant de votre tristesse. N'oubliez pas de le remercier chaleureusement.
+20100088	Il grandit en se nourrissant de votre anxiété. Vous ne savez pas ce qu'il pense, ce qui vous rend encore plus anxieux.
+20100094	Un Child né des larmes des pingouins arctiques...
+20100095	La princesse Éos parlera peut-être,\mais qu'entraîneront ses mots ?
+20100096	Il veut manger votre joie. Il pense être le meilleur, alors attention.
+20100097	Il grandit en se nourrissant de votre joie. Il brille de mille feux, de jour comme de nuit.
+20100099	Une fée bleue particulièrement gentille par rapport aux autres.
+20100100	Une fée rouge particulièrement affairée par rapport aux autres.
+20100101	Une fée verte particulièrement agréable par rapport aux autres.
+20100102	Une fée lumineuse particulièrement bruyante par rapport aux autres.
+20100103	Une fée noire particulièrement maussade par rapport aux autres.
+20100104	Si vous entendez de l'eau s'égoutter,\c'est que Bleuron aux ailes d'eau est proche.
+20100105	Si vous entendez des flammes crépiter, c'est que Feuron aux ailes rouges est proche.
+20100106	Si vous entendez de l'herbe bruisser, c'est que Veron aux ailes vertes est proche.
+20100107	Si vous entendez de l'électricité grésiller, c'est que Luron aux ailes lumineuses est proche.
+20100108	Si vous entendez un bruit sourd, c'est que Noiron aux ailes sombres est proche.
+20100109	Le dragon azur aux flammes bleues attend silencieusement l'occasion de se venger.
+20100110	Éveillez-vous, compagnons.\Le combat a commencé !
+20100111	Cette guerre n'est pas finie.\Je suis le Chef Mech, soldat vaincu de retour sur le champ de bataille !
+20100112	Je me réjouis de vous avoir rencontré, maître !\Je suis votre fidèle soldat Mech !
+20100113	Bonjour bonjour ♪\Je suis une poupée qui danse, je vous attendais depuis bien longtemps ♪
+20100116	J'aime bien les gentils garçons.\Ils sont tellement faibles...
+20100120	Child haineux ayant la forme d'un chérubin.
+20100121	Témoignages du passé enterrés sous les sables du désert.\Réminiscence d'un amour vieux de deux mille ans.
+20100124	Satané démon !\Prépare-toi à recevoir ta sentence, roi !
+20100126	Qui a besoin de Noël ? Ce soir, les démons déferlent !
+20100127	Ce renne démoniaque misérable est tout seul.
+20100133	Voulez-vous savoir quel est votre cadeau ? Envie de jeter un œil ? D'accord, juste un coup d'œil.
+20100136	Des forces mystérieuses provenant des confins de l'univers se sont rassemblées et ont établi résidence dans ce Cosmime.
+20100138	Des forces mystérieuses provenant des confins de l'univers se sont rassemblées et ont établi résidence dans ce Cosmime.
+20100139	Des forces mystérieuses provenant des confins de l'univers se sont rassemblées et ont établi résidence dans ce Cosmime. Il n'existe pas plus grand mythe.
+20100149	Autrefois existait un monstre misérable, \que son créateur a abandonné.
+20100159	Bœuf tout mignon qui est, en réalité, un esprit élémentaire.
+20100160	Bœuf tout mignon qui est, en réalité, un esprit élémentaire.
+20100161	Bœuf tout mignon qui est, en réalité, un esprit élémentaire.
+20100162	Bœuf tout mignon qui est, en réalité, un esprit élémentaire.
+20100163	Bœuf tout mignon qui est, en réalité, un esprit élémentaire.

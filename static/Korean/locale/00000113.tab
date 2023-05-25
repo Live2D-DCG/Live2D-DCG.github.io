@@ -1,0 +1,100 @@
+﻿// key	MAIL_SENDER_	MAIL_TITLE_	MAIL_TEXT_
+1	Équipe d'administration	Bonus d'achat	Un cadeau bonus pour avoir fait des achats dans la boutique.
+1000	A.I	Récompense de mêlée démoniaque	A.I, la présentatrice de la mêlée démoniaque, vous a donné une récompense de ligue.\\"Vous avez obtenu de points de mêlée de [reason] ! Continuez comme ça !"
+10000	Mona	Récompense de groupe	Vous avez gagné une récompense pour avoir terminé une unité.
+1001	A.I	Récompense de mêlée démoniaque	A.I, la présentatrice de la mêlée démoniaque, vous a donné une récompense de classement.\\"Bravo pour avoir obtenu [reason] !\C'est génial de vous voir faire des progrès ! Continuez comme ça !"
+1002	A.I	Récompense de mêlée démoniaque	Vous avez gagné une récompense pour avoir remporté le défi de rival !
+1003	MJ	Récompense d'événement Chasseur de MJ	Vous avez gagné un bonus pour avoir battu un MJ.
+1004	A.I	Récompense d'activité de mêlée démoniaque	Vous avez gagné une récompense d'activité de la mêlée démoniaque.
+1005	Équipe d'administration	Récompense de Duel sans fin	Votre récompense de rang pour le Duel sans fin.
+1006	Équipe d'administration	Récompense de Duel sans fin	Votre récompense de rang pour le Duel sans fin.
+1007	Équipe d'administration	Récompense de Duel de frontière	Votre récompense de rang pour le Duel sans fin.
+1008	Équipe d'administration	Récompense de Duel de frontière	Votre récompense de rang pour le Duel sans fin.
+1009	Équipe d'administration	Récompense de Duel expert	Votre récompense de rang pour le Duel sans fin.
+1010	Équipe d'administration	Récompense de Duel expert	Votre récompense de rang pour le Duel sans fin.
+11	Équipe d'administration	Premier achat	Événement d'achat : bonus de premier achat.
+11000	Mona	Don pour invocation en direct	Un ami qui a regardé votre invocation en direct vous a envoyé un don !
+11001	Mona	Récompense d'invocation en direct	Vous avez reçu une récompense de participation à une invocation en direct.
+11002	Mona	Récompense d'invocation en direct	Vous avez gagné un ticket d'invocation pendant une invocation en direct !
+11003	Mona	Récompense d'invocation en direct	Vous avez reçu une double récompense 3★.
+11004	Mona	Récompense d'invocation en direct	Vous avez reçu une triple récompense 3★.
+11005	Mona	Récompense d'invocation en direct	Vous avez reçu une quadruple récompense 3★.
+11006	Mona	Récompense d'invocation en direct	Vous avez reçu une quintuple récompense 3★.
+11007	Mona	Récompense d'invocation en direct	Vous avez reçu une sextuple récompense 3★.
+11008	Mona	Récompense d'invocation en direct	Vous avez reçu une double récompense 4★.
+11009	Mona	Récompense d'invocation en direct	Vous avez reçu une triple récompense 4★.
+11010	Mona	Récompense d'invocation en direct	Vous avez reçu une quadruple récompense 4★.
+11011	Mona	Récompense d'invocation en direct	Vous avez reçu une quintuple récompense 4★.
+11012	Mona	Récompense d'invocation en direct	Vous avez reçu une sextuple récompense 4★.
+11013	Mona	Récompense d'invocation en direct	Vous avez reçu une double récompense 5★.
+11014	Mona	Récompense d'invocation en direct	Vous avez reçu une triple récompense 5★.
+11015	Mona	Récompense d'invocation en direct	Vous avez reçu une quadruple récompense 5★.
+11016	Mona	Récompense d'invocation en direct	Vous avez reçu une quintuple récompense 5★.
+11017	Mona	Récompense d'invocation en direct	Vous avez reçu une sextuple récompense 5★.
+12	Équipe d'administration	Charge complète	Événement d'achat : bonus de charge complète.
+12000	Mona	Récompense d'invocation	Vous avez reçu une double récompense 3★.
+12001	Mona	Récompense d'invocation	Vous avez reçu une triple récompense 3★.
+12002	Mona	Récompense d'invocation	Vous avez reçu une quadruple récompense 3★.
+12003	Mona	Récompense d'invocation	Vous avez reçu une quintuple récompense 3★.
+12004	Mona	Récompense d'invocation	Vous avez reçu une sextuple récompense 3★.
+12005	Mona	Récompense d'invocation	Vous avez reçu une double récompense 4★.
+12006	Mona	Récompense d'invocation	Vous avez reçu une triple récompense 4★.
+12007	Mona	Récompense d'invocation	Vous avez reçu une quadruple récompense 4★.
+12008	Mona	Récompense d'invocation	Vous avez reçu une quintuple récompense 4★.
+12009	Mona	Récompense d'invocation	Vous avez reçu une sextuple récompense 4★.
+12010	Mona	Récompense d'invocation	Vous avez reçu une double récompense 5★.
+12011	Mona	Récompense d'invocation	Vous avez reçu une triple récompense 5★.
+12012	Mona	Récompense d'invocation	Vous avez reçu une quadruple récompense 5★.
+12013	Mona	Récompense d'invocation	Vous avez reçu une quintuple récompense 5★.
+12014	Mona	Récompense d'invocation	Vous avez reçu une sextuple récompense 5★.
+12100	Équipe d'administration	Bonus d'invocation	Vos bonus d'invocation.
+13	Équipe d'administration	Charge quotidienne	Événement d'achat : bonus de charge quotidienne.
+13002	Bathory	Cher démon	Merci de votre amitié et de votre confiance. \J'espère que tout va bien. \Portez-vous le mieux possible.
+14100	Équipe d'administration	Récompense de rang saisonnier (boss majeur)	Récompense pour avoir atteint le rang saisonnier {max} (boss majeur).\Merci de votre participation.
+14200	Équipe d'administration	Récompense de rang saisonnier (boss majeur)	Récompense pour avoir atteint un rang saisonnier entre {min} et {max} (boss majeur).\Merci de votre participation.
+14300	Équipe d'administration	Récompense de rang saisonnier (boss majeur)	Récompense pour avoir atteint un rang saisonnier entre {max}%% et {min}%% (boss majeur).\Merci de votre participation.
+14400	Équipe d'administration	Récompense de rang saisonnier (boss majeur)	Récompense pour avoir atteint le rang saisonnier {max}%% (boss majeur).\Merci de votre participation.
+14500	Équipe d'administration	Récompense de rang saisonnier (boss majeur)	Récompense pour avoir atteint un rang saisonnier entre {max}%% et {min}%% (boss majeur).\Merci de votre participation.
+15	Équipe d'administration	Invocations cumulées	Événement d'achat : bonus d'invocations cumulées
+15000	Brownie	Récompenses de pourfendeur	Récompense de succès de rang de pourfendeur !
+15100	Brownie	Récompenses de rang Ragna	Récompense de succès de rang de Ragna !
+15200	Brownie	Échange de pièces Ragna	Your leftover Ragna Coins from Ragna Break exchanged as Gold!\Thank you for your participation!
+15300	Brownie	Échange de tickets de Ragna-frappe	Your leftover Ragna:burst Tickets from Ragna Break exchanged as Gold!\Thank you for your participation!
+16	Équipe d'administration	Invocations quotidiennes	Événement d'achat : bonus d'invocations quotidiennes.
+2	Équipe d'administration	Bonus d'achat d'événement	Un cadeau bonus pour avoir fait des achats dans la boutique pendant un événement.
+2000	Mona	Récompense d'éveil	Félicitations pour cet éveil ! Voici un ticket d'invocation.
+20000	Équipe d'administration	Récompense de bêta fermée	Le ticket d'invocation d'Hermès est un bonus spécial décerné\à ceux qui ont terminé la Fête démoniaque de la bêta fermée.
+20001	Équipe d'administration	Bonus de préinscription	Vous avez reçu une récompense spéciale de préinscription !
+20002	Équipe d'administration	Bonus de préinscription	300 000 préinscriptions ! Voici un cadeau bonus spécial !
+20003	Équipe d'administration	Bonus de préinscription	500 000 préinscriptions ! Voici un cadeau bonus spécial !
+20004	Équipe d'administration	Bonus de préinscription	700 000 préinscriptions ! Voici un cadeau bonus spécial !
+20005	Équipe d'administration	Bonus de préinscription	1 million de préinscriptions ! Voici un cadeau bonus spécial !
+2001	Mona	Bonus d'éveil	Félicitations pour cet éveil.
+2002	Équipe d'administration	Bonus de croissance	Vous avez gagné un bonus de croissance pour le Child qui a atteint le niveau maximal.
+21	Équipe d'administration	Objet de la Collection écarlate	Un objet acheté à la Collection écarlate.
+3	Équipe d'administration	Récompense d'achats consécutifs	Un bonus pour avoir fait des achats dans la boutique.
+3000	Lisa	Bonus de mission terminée	Vous avez gagné un bonus de mission terminée.
+31	Équipe d'administration	Bonus d'achat	Bonus pour effectuer des achats au CodaShop
+4000	Équipe d'administration	Bonus de connexion	Vous avez obtenu un bonus de connexion.
+4001	Équipe d'administration	Bonus de série de connexions	Vous avez gagné un bonus de série de connexions.
+4002	Équipe d'administration	Bonus de 8 jours de promesses	Vous avez obtenu un bonus de 8 jours de promesses.
+4003	Nicole	Assistance d'urgence	Un cadeau spécial
+4004	Équipe d'administration	Récompenses d'événement de collection d'objets !	Vous avez gagné une récompense d'événement de collection d'objets.
+4005	Équipe d'administration	Retour du bonus de connexion	Vous avez un bonus de connexion.
+4100	Équipe d'administration	Pack de connexion premium	Récompense du pack de connexion premium après [reason] connexions.
+4101	Équipe d'administration	Pack de connexion premium	Dernière récompense du pack de connexion premium.
+5000	Mona	Combat amical	Vous avez gagné une récompense suite à un combat amical avec un ami. C'est... amical !
+50000	Mona	Bonus de gain de niveau de prétendant	Bonus de gain de niveau de Mona !
+50001	Équipe d'administration	Récompense de la boutique	Vous avez reçu une récompense de la boutique.
+50006	Équipe d'administration	Récompense de contenu	Vous avez reçu une récompense de contenu.
+5001	Mona	Cadeau d'amitié	Un cadeau de la part d'un ami. Dépêchez-vous de le récupérer !
+50011	Équipe d'administration	Récompense de Devil Pass	Vous avez reçu une récompense de Devil Pass.
+50012	Équipe d'administration	Récompense de Mission Pass	Vous avez reçu une récompense de Mission Pass.
+5002	Mona	Aide à un ami	Acceptez l'objet que vous avez obtenu pour avoir pris part au combat d'un ami.
+6000	Mona	Machine à pièces d'amitié	Un objet obtenu grâce à la machine à pièces d'amitié.
+7000	Mona	Cadeau de trésor	Un objet trouvé dans un trésor.
+8000	Équipe d'administration	Bonus d'aide quotidienne	Un bonus du service d'aide quotidienne.
+8999	Équipe d'administration	Mise à jour système du service d'aide quotidienne et compensation	Avec la mise à jour système du service d'aide quotidienne, nous allons distribuer d'un coup tous les cristaux restants pour la période (voir l'annonce pour plus d'informations).
+90	Équipe d'administration	Obtenir des tickets	Recevoir les tickets de votre choix.
+9000	Équipe d'administration	Bonus de code promotionnel	Un objet bonus pour le code promotionnel que vous avez utilisé.
+91	Leucé	Aide de Mammon	Voici votre récompense liée à l'aide rationnelle de Mammon.

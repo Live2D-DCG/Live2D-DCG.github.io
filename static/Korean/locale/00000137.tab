@@ -1,0 +1,566 @@
+﻿// key	SCENARIO_SPEAKER_
+ A COUNCIL ELDER	Doyen du conseil
+A COUNCIL ELDER	Doyen du conseil
+A.I	A.I
+A_COUNCIL_CHAIRMAN	Président du conseil
+AARON	Aaron
+ABADDON_CONTRACTOR	Makiko_Manyuda
+ABIGAIL_CHAIRMAN	Présidente Abigail
+ACCRASIA	Akrasia
+AILILL	Ailill
+AKIMAGO	Archimage
+ALTERED DAVI	Davi modifiée
+AMBROSIA_CONTRACTOR	Sato Shiori
+ANCHOR	Présentateur
+ANEMONE	Anémone
+ANNIE	Annie
+ANNOUNCE	Annonce de l'école
+ANNOUNCER	Annonceur
+APOLLO_CONTRACTOR	Masato Teshigawara
+AQU CUBE	Cube démoniaque
+ARAHANT	Arhat
+ARAHANT_FRIEND	Amie d'Arhat
+ARGOS	Argos
+ARIA	Aria
+ARTEMISIA_CONTRACTOR	Kurumi Kurumigawa
+ASHRAM_TEACHER	Professeur ashram
+ATALANTE_CONTRACTOR	Sachika Tsuchida
+ATTIS	Attis
+ATUM_CONTRACTOR	Kuroi Akira
+AUDIENCE1	Public 1
+AUDIENCE2	Public 2
+AUDIENCES	Publics
+AURORA	Aurore
+AYANE	Ayane
+BAAL_CONTRACTOR	Gonda Toji
+BABEL	Babel
+BABY	Bébé
+BAKER	Gérant de café
+BARI	Bari
+BARI_CONTRACTOR	Rinko Suzuki
+BARI_CONTRACTOR_MOM	Mère de Rinko Suzuki
+BAST	Bast immature
+BATORY	Bathory
+BELIEVER_0	Adeptes
+BELIEVER_1	Adepte
+BELIEVER1	Adepte 1
+BELIEVER2	Adepte 2
+BELIEVER3	Adepte 3
+BERDLE	Verdelet
+BERITH_CONTRACTOR	Mikio Harashinai
+BERMONT	Archiduc Vermont
+BETH	Beth
+BILLY	Billy
+BIRD	Oiseau
+BOAR	Sanglier
+BOREAS	Boréas
+BOREAS_CONTRACTOR	Fuuka Kitasato
+BOSS	Manager
+BOY	Garçon
+BOY_CONTRACTOR	Jeune passeur de pacte
+BRADAMANTE_CONTRACTOR	Karen Kenzaki
+BRADAMANTE_CONTRACTOR_DAD	Père de Karen Kenzaki
+BROTHER_LAWRENCE	Frère Laurence
+BUDDHIST	Moine
+BUDLE	Salican Doryeong
+BURIED DAVI	Davi ambivalente
+BUTLER	Majordome
+CACA	Cacia
+CACUS	Cacus
+CADUCEUS	Caducée
+CAFE_MANAGER	Gérant de café
+CAIN	Caïn
+CAIT SITH	Catsi
+CAIT SITH	Catsi
+CAROL'S FATHER	Le père de Carol
+CAT	Chat
+CATERPILLAR	Chenille
+CELEBRANT	Célébrant(e)
+CELICA	Celica
+CHANCELLOR	Recteur de l'université
+CHANDRAGHANTA	Chandra
+CHEF	Chef
+CHESHIRE CAT	Chat du Cheshire
+CHICK	Poussin
+CHIEF_NIS	Chef de la sécurité publique
+CHIEF_SECRETARY	Secrétaire en chef
+CHIEF_SONG	Président Konoike
+CHILD	Child
+CHILD_OF_FUTURE	Enfant du futur
+CHILD_OF_PAST	Enfant du passé
+CHILD_OF_PRESENT	Enfant du courant
+CHILDA	Child A
+CHILDB	Child B
+CHUCHU	Chu Chu
+CINTAMANI	Pierre chintamani
+CLARA	Clara
+CLASSMATE	Camarade de classe
+CLASSMATE1	Camarade de classe 1
+CLASSMATE2	Camarade de classe 2
+CLASSOFCULTURE_GROUP	Salon de discussion de la classe de culture
+CLERK	Employé
+CLERK1	Employé(e) 1
+CLERK2	Employé(e) 2
+CLOSET	Placard
+CLUB_GUARD	Videur
+COACH	Entraîneur
+COMMANDER	Commandant
+COMMENT	Commentaire
+COMMENTATOR	Narratrice
+CONTRACTOR	Passeur de pacte
+CONVENIENCESTOREOWNER	Gérant de magasin
+COOKIEMONA	Mona cookie
+COOLGIRL	Fille calme
+CORONA MONA	Mona rayon de lumière
+CO-WORKER1	Collègue 1
+CO-WORKER2	Collègue 2
+CROCELL	Crocelle
+CU SITH	Lassi
+CURE CUBE	Cube guérisseur
+DAVI	Davi
+DEANOFSTUDENTS	Doyen de la faculté
+DEBORAH	Déborah
+DEMETER	Déméter
+DEMETER_CONTRACTOR	Marika Takanashi
+DEMON FOLLOWERA	Adorateur de démons A
+DEMON FOLLOWERB	Adorateur de démons B
+DEMON_FOLLOWER	Adepte démoniaque
+DEMON_FOLLOWER1	Adepte démoniaque 1
+DEMON_FOLLOWER2	Adepte démoniaque 2
+DEMONA	Démon truand A
+DEMONB	Démon truand B
+DEMONC	Démon truand C
+DETECTIVE_GIRL_CONTRACTOR	Sarah J
+DETECTIVE1	Détective 1
+DETECTIVE2	Détective 2
+DEUCALION	Deucalion
+DEUCALION_SOUL	Âme de Deucalion
+DEVIL	Démon
+DEVIL1	Démon A
+DEVIL2	Démon B
+DEVIL3	Démon C
+DEVIL4	Démon D
+DOCTOR	Médecin
+DOCTOR_HELLSING	Docteur Helsing
+DOG	Chien
+DOGYEHWA	À Keika
+DOKHAN	Solitaire
+DORMOUSE	Loir
+DRIVER	Conducteur(trice)
+DRUNKEN PERSON1	Pilier de bar 1
+DRUNKEN PERSON2	Pilier de bar 2
+DRYAD_CONTRACTOR	Kaede Kayamori
+DUETSHA	Duetsha
+DURENDAL	Durandal
+ELISABET	Sayoko Hanazono
+ELLE	Miyu Torii
+ELVE_CONTRACTOR	Miho Inazuma
+ELYSION	Élysée
+EMPEROR	Empereur
+ENEMY SOLDIER	Soldat ennemi
+ENKIDU	Enkidu
+ERISIKTON	Érysichthon
+ESHU	Eshu
+EURUS	Euros
+EURYDICE	Eurydice
+EVE	Ève
+EVE_FATHER	Le père d'Ève
+EXORCIST	Exorciste
+EXORCIST_A	Exorciste A
+EXORCIST_B	Exorciste B
+EXORCIST_C	Exorciste C
+EXORCIST_INTERNATION	Exorciste du siège international
+EXORCIST_INTERNATIONAL	Exorciste du siège international
+EXORCIST_NORTH AMERICA	Exorciste de la branche nord-américaine
+EXORCIST1	Exorciste 1
+EXORCIST2	Exorciste 2
+FABULOUS'S FAN A	Fan A
+FABULOUS'S FANS	Fans
+FANA	Spectateur A
+FANATIC BOSS	Patron fanatique
+FANATICA	Fanatique A
+FANATICB	Fanatique B
+FANATICC	Fanatique C
+FANATICD	Fanatique D
+FANATICS	Fanatiques
+FANB	Spectateur B
+FANC	Spectateur C
+FANS	Public
+FATHER	Père
+FLINS	Flins
+FORMER_KEFRI	Professeure Khépri
+FREYJA	Freyja
+FREYR	Freyr
+FRIENDS	Ami
+FRUITSHOP_SHOPKEEPER	Propriétaire du magasin de fruits
+FURY_MEMBER_1	Membre de l'Ordre de la furie 1
+FURY_MEMBER_2	Membre de l'Ordre de la furie 2
+FURY_MEMBER_3	Membre de l'Ordre de la furie 3
+FURY_MEMBER_4	Membre de l'Ordre de la furie 4
+FURY_MEMBER_GROUP	Membres de l'Ordre de la furie
+GAIN	Son Ga-in
+GAME_STREAMER	Streamer de jeu vidéo
+GENTLEMAN	Gentleman
+GEST	Client(e)
+GEST1	Client(e) 1
+GEST2	Client(e) 2
+GESTA	Invité A
+GESTB	Invité B
+GESTC	Invité C
+GILGAMESH	Gilgamesh
+GIRL	Fille
+GIRL A	Fille A
+GIRL_CONTRACTOR	Jeune passeuse de pacte
+GIRL1	Fille mystérieuse
+GIRLA	Fille A
+GIRLB	Fille B
+GOHYUNHUI	Kotaro Kurotatsu
+GOLDAENGI	Chien retriever
+GOLDAENGI OWNER	Propriétaire du chien
+GOOD_MOA	Moa gentil
+GRANNY	Grand-mère
+GROUP_MEMBER	Coéquipier
+GRYLA	Grilla
+GUARD	Garde
+HANA_MOM	Mère de Hana Konoike
+HANMARI	Oshita Ichitaka
+HATOR	Hathor
+HEENA	Hina
+HEKET	Héqet
+HELLA	Hel
+HENCHMAN	Subalterne
+HENCHMAN_MIRIAM	Homme de main de Miriam
+HENGE	Chang'e
+HEPHAISTOS	Héphaïstos
+HERO	Le jeune maître
+HIGHPRIEST	Grand prêtre
+HILD	Hildr
+HILDR_CONTRACTOR	Rei Kurashiki
+HOMELESS	SDF
+HONEY CUBE	Cube mielleux
+HONGRYEON_CONTRACTOR	Hana Konoike
+HORN	Colérique malintentionné
+HOST	Propriétaire
+HUMAN	Humain(e)
+HYDRA	Hydre
+HYENANG	Keino
+HYUNSOOHO	Seiji Sengoku
+INFECTED_REPORTER	Journaliste infecté(e)
+IPHIS	Iphis
+ISHIMI	Ishimi
+ISOLDE	Iseut
+ITEM1	Bâton de la justice
+ITEM2	Changeur de voix
+JACHUNGBI	Jacheongbi
+JENNY	Xenie
+JIVA	Ziva
+JOANNA	Joanna
+JOHN	John
+JUDAH	Judas
+JUDGE	Juge
+JULIET	Juliette
+JUNGNAM	Jung-nam
+JUPITER_CONTRACTOR	Masajuro Hoshizaki
+KAALARATRI	Kalaratri
+KALCHAS	Calchas
+KALHOS	Kalhos
+KAMYU	Camineu
+KANALOA	Kanaloa
+KASUMI	Kasumi
+KID	Enfant
+KID1	Enfant 1
+KID2	Enfant 2
+KKUNGI	Kungi
+KLOTHO	Clotho
+KUBABA	Kubaba
+KUBERA	Kubera
+KUMARI	Kumari
+KUMARI_PRIEST	Kumari Prêtre
+KUMIHO	Tamamo
+LADY	Dame
+LAIMA	Laima
+LANCELOT	Lancelot
+LANDLORD	Propriétaire
+LAUFEY	Laufey
+LAURA	Laura
+LEAVEAMESAAGE	Message
+LEDA	Léda
+LEIFANG	Leifang
+LEO	Léo
+LETTER	Lettre
+LITTLE PATIENT	Jeune patient
+LITTLE_MARI	Oshita Ichitaka jeune
+LOGAN	Logan
+LOKI	Loki
+LUCIFERO	Lucifero
+LUIN_DURANDAL	Luine, Durandal
+LUNO	Juno
+LYDIA	Lydia
+MAD HATTER	Chapelier
+MAESTRO	Maestro
+MAFDET	Mafdet
+MAGNUS_MERLIN	Merlin l'enchanteur
+MAMA	Maman
+MAN	Homme
+MAN_CONTRACTOR	Passeur de pacte
+MAN_EXORCIST	Homme exorciste
+MAN1	Homme 1
+MAN2	Homme 2
+MANA	Homme 1
+MANAGER	Responsable
+MANB	Homme 2
+MARCH HARE	Lièvre de mars
+MARDUK	Marduk
+MARDUK_CHILD	Child de Marduk
+MARI_GRANDPA	Grand-père d'Oshita Ichitaka
+MARINLEGEND	Oshita Ichitaka et légende
+MARS	Mars♥
+MAUPIN	Maupin
+MAUPIN_CONTRACTOR	Kiyomi Tachibana
+MAUPIN_CONTRACTOR_MOM	Mère de Kiyomi Tachibana
+MAWANG	Roi des démons
+MAYAUEL	Mayahuel
+MAYBE_CONTRACTOR	Passeur de pacte (?)
+MC	MC
+MEDIA_INTERVIEW	Vidéo d'interview
+MEI	Mei de la ville des sources chaudes
+MEN_GEST	Invité
+MERCURY	Mercure
+MESSIER_CONTRACTOR	Kirara Hoshikawa
+METHUSELAH	Mathusalem
+METIS	Métis
+METIS_CONTRACTOR	Chie Amamiya
+METIS_CONTRACTOR_DAD	Père de Chie Amamiya
+METIS_CONTRACTOR_MOM	Mère de Chie Amamiya
+MINA	Mina
+MIRCALLA	Mircalla
+MIRIAM	Miriam
+MITRA	Mitra
+MOMMY	Mère
+MONA	Mona
+MONA1	Mona gardienne
+MONA2	Mona précurseure
+MONKEY	Wukong
+MONSTER	Monstre
+MORGAN	Morgen
+NABI	Mimi
+NAGISA	Nagisa
+NARBI437	Narvi 437
+NARBI438	Narvi 438
+NARBI439	Narvi 439
+NEAMHAIN	Nemain
+NEIGHBORHOOD DOG	Chien du quartier
+NEIGHBORHOOD_GRANDAD	Grand-père
+NEOUTUBE_COMMENT	Commentaire
+NEPHTHYS	Nephthys
+NEPHTHYS_CONTRACTOR	Tsumiki Tsubokura
+NEPTUNE	Neptune♥
+NERVOUSGIRL	Fille anxieuse
+NEWSFLASH	Flash info
+NEZHA	Nezha
+NICKNAME	Surnom de l'utilisateur
+NICOLE	Nicole
+NICOLE_FATHER	Père de Nicole
+NIRRTI	Nirriti
+NONAME_MOA	Moa inconnu
+NOTUS	Notus
+NOTUS_CONTRACTOR	Sayaka Minaoka
+NUN	Nonne
+NUN1	Nonne 1
+NUN2	Nonne 2
+NURSE	Infirmière
+NURSE_01	Infirmière
+NURSE_NEAMHAIN	La nourrice
+OD	Ód
+ODYSSEUS	Ulysse
+OPHOIS	Ophois
+OPHOIS_CONTRACTOR	Duoh Vera
+ORCUS	Orcus
+OWNER_OF_STRIGOY	Propriétaire du Strigoï
+PAKHET	Pachet
+PAL	Ami
+PALENOTE	Œil de lynx
+PANTHEON_CONTRACTOR	Hiroyuki Nishiyama
+PAPA	Papa
+PARK_MANAGER	Responsable de parc
+PART TIME RUDOLF	Rudolphe, employé à mi-temps
+PARTICIPANTA	Participant A
+PARTICIPANTB	Participant B
+PARTNER	Collègue
+PART-TIMER	Employé(e) à temps partiel
+PASSERSBY1	Passant 1
+PASSERSBY2	Passant 2
+PASSERSBY3	Passant 3
+PASSERSBY4	Passant 4
+PEOPLE	Citoyen(ne)
+PEOPLE1	Villageois 1
+PEOPLE2	Villageois 2
+PEOPLE3	Villageois 3
+PEPITA	Pépita
+PHILIP	Philip
+PIE CUBE	Cube pi
+PILATES	Philotès
+PLAYER_A	Joueur A
+PLAYER_B	Joueur B
+POI CUBE	Cube vénéneux
+POLICE	Policier
+POLICE_ZOMBIE	Policier zombie
+POLICE1	Policier 1
+POLICE2	Policier 2
+PRIEST	Prêtre
+PRINCIPAL SUHANA	Principale Suhana
+PROCEL	Procel
+PROFESSOR	Professeur
+PTAH	Ptah
+PUB_OWNER	Propriétaire du bar
+PUNKA	Truand A
+PUNKB	Truand B
+PUNKC	Truand C
+PUPPY	Chien du village
+PUPPY1	Chien
+RADIO	Radio
+RAFFLES	Rafale
+RAGARAJA	Ragaraja
+RANI	Rani
+RANI_CHILD	Child de Rani
+RANI_FATHER	Père de Rani
+REDCROSS	Croix Rouge
+RENARD	Reynard
+RENDAL	Rendal
+REPORTER	Journaliste
+RISA	Lisa
+ROMEO	Roméo
+ROSSANNA	Rosanna
+ROSSANNA_CONTRACTOR	Tamaki Fumino
+ROUSALKA	Roussalka
+ROYAL_FAMILYA	Membre de la famille royale A
+ROYAL_FAMILYB	Membre de la famille royale B
+ROYAL_FAMILYC	Membre de la famille royale C
+SABINA	Sabine
+SAINT MICHAEL SCHOOL GIRL	Étudiante de Saint Michel
+SAINTMICHAELSCHOOLGIRL	Écolière
+SALADIN	Saladin
+SALOONIST	Tenancière
+SALUS	Saleos
+SAMAEL	Samaël
+SATURN	Saturne♥
+SCHOOLBOY	Étudiant
+SCHOOLBOY1	Étudiant 1
+SCHOOLBOY2	Étudiant 2
+SCHOOLGIRL	Lycéenne
+SCHOOLGIRL1	Lycéenne 1
+SCHOOLGIRL2	Lycéenne 2
+SCHOOLGIRL3	Lycéenne 3
+SCHOOLMAFIA	Boss
+SECRET_CONTRACTOR	Passeur de pacte secret
+SECURITY	Sécurité
+SEMELE	Sémélé
+SEOCHEON_SENSE	Première gardienne des fleurs
+SERKET	Serket
+SESHAT_CONTRACTOR	Masami Kajihara
+SETH	Seth
+SHAMAN_GHOST	To Keika démoniaque
+SHINHJ	Hikaru Nijihara
+SHIVAN SOLDIER	Soldat de Shivan Scimitar
+SHOPASSISTANT	Employé(e)
+SITRI	Sytry
+SKQCLQJA	Ravisseur
+SOLARSHADE_UNA	Yuna l'ombre solaire
+SOLDIERA	Subalterne A
+SOLDIERB	Subalterne B
+SOLDIERC	Subalterne C
+SOOJIN	Soo-jin
+SOULBOW	Arc de grand prêtre
+SPECTATOR1	Spectateur(trice) 1
+SPECTATOR2	Spectateur(trice) 2
+SPECTATORS	Spectateur(trice)
+STAFF	Employé
+STALKER	Harceleur
+STOREANNOUNCE	Annonce du magasin
+STORECLERK	Vendeuse
+STOREOWNER	Commerçant
+STREET_VENDOR	Marchand(e) de rue
+STRIGOY	Strigoï
+STUDENT	Étudiant
+STUDENTA	Étudiant 1
+STUDENTB	Étudiant 2
+STUDENTCOUNCIL	Conseil de discipline
+STUDENTS	Étudiant(e)s
+SUCCUBUS	Succube
+SUHANA	Suhana
+SUHANA'S MOTHER	Mère de Suhana
+SULHEE	Sulhee
+SUNAH	Sunna
+TAEKI	Taeki
+TAMAKI	Tamaki
+TEACHER	Professeur de classe
+TEACHER_DEBORAH	Mme Déborah
+TEACHER_MIRIAM	Professeur de Miriam
+TERESA	Asagiri Thérésa
+TERESA_SHORT	Thérésa
+THE DUCHESS	Duchesse
+THE KING OF HEARTS	Roi
+THE QUEEN OF HEARTS	Reine
+THEOPHANO_CONTRACTOR	Takuro Takuwa
+THISBE_CONTRACTOR	Sonoda Hikari
+THUGA	Truand A
+THUGB	Truand B
+THUGC	Truand C
+THUGD	Truand D
+THUGE	Truand E
+THUGF	Truand F
+TITANIA	Titania
+TIWAZ	Tiwaz
+TLSQN	Mariée
+TRAINEE	Apprenti
+TURAN	Turan
+TYBALT	Tybalt
+UBOHEE	Nakagawa Misaki
+UNA	Yuna
+UNIUSER1	Utilisateur d'Univers 1
+UNIUSER2	Utilisateur d'Univers 2
+UNIUSER3	Utilisateur d'Univers 3
+UNIUSER4	Utilisateur d'Univers 4
+UNIUSER5	Utilisateur d'Univers 5
+UNIVERS_ZOMBIE	Zombie de l'espace
+UNIVERSITY FOUNDER	Fondateur de l'Université Sudo
+UNKNOWN_CONTRACTOR	Mystérieux passeur de pacte
+UNKNOWN1	???
+VAMPIRE	Vampire
+VENDOR	Marchand
+VENUS	Vénus♥
+VENUS_UNA	Lumière d'espoir Yuna
+VILLAGE_HEAD	Chef du village
+VILLAGE_PEOPLE	Villageois
+VILLAGEHEAD	Chef du village
+VIRUPA	Viroupa
+VLAD_3	Vlad III
+VOLUNTEER	Bénévole
+VOVO	Bobo
+VOVO_TEACHER	Professeur de Bobo
+WARDEN	Manager
+WARDER	Gardien de prison
+WATSON	Watson
+WHITE RABBIT	Lapin blanc
+WOLF	Loup
+WOMAN	Femme
+WOMAN_CONTRACTOR	Passeuse de pacte
+WOMAN_EXORCIST	Femme exorciste
+WOMAN1	Femme 1
+WOMAN2	Femme 2
+WOMANA	Femme A
+WOMANB	Femme B
+WOMEN_GEST	Invitée
+WOOARI	Hideka Ebina
+WOTAN	Odin
+WYATT	Wyatt
+WYATT_CONTRACTOR	Osamichi Okuno
+WYVAN	Iâh
+YAN	Jan Zizka
+YEONYI	Yeoni
+YMIR_CONTRACTOR	Ryou Hikawa
+YOUNGMAN	Jeune homme
+YOUNGPOLICE	Jeune détective
+YOUTUBE	Vidéo NetTube
+YOUTUBER	NetTuber
+ZEPHYROS	Zephyros

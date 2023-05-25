@@ -14,7 +14,7 @@ const url = "https://version-integ.nextfloor.com/api/api_version/getClientVersio
 
 const globalOptions = {
     method: 'POST',
-    body: "gameCd=DCG&os=android&clientVersion=2.9.3",
+    body: "gameCd=DCG&os=android&clientVersion=2.9.5",
     headers: {
         'Content-Type': 'application/x-www-form-urlencoded'
     }
@@ -22,7 +22,7 @@ const globalOptions = {
 
 const koreanOptions = {
     method: 'POST',
-    body: "packageSignature=34%3A77%3A71%3AAD%3A8B%3A73%3A24%3A15%3A7F%3A65%3A85%3A4E%3A9B%3ADB%3A4A%3AD9%3AE5%3A5C%3A96%3A81&gameCd=DC&os=android&clientVersion=2.9.3",
+    body: "packageSignature=34%3A77%3A71%3AAD%3A8B%3A73%3A24%3A15%3A7F%3A65%3A85%3A4E%3A9B%3ADB%3A4A%3AD9%3AE5%3A5C%3A96%3A81&gameCd=DC&os=android&clientVersion=2.9.5",
     headers: {
         'Content-Type': 'application/x-www-form-urlencoded'
     }
@@ -38,8 +38,8 @@ fetch(url,koreanOptions)
 
 */
 
-const krURL = "https://patch.cdn.dckr.shiftupcorp.com/real.132.n9w9aowqtvhp/"
-const globalURL = "https://patch.cdn.dcgl.shiftupcorp.com/real.179.b29je2uvpraa/"
+const krURL = "https://patch.real.dckr.shiftupcorp.com/real.149.hot8ul6ypeco/"
+const globalURL = "https://patch.real.dcgl.shiftupcorp.com/real.189.9x10lqlj0hmr/"
 
 function getSelectedIndex() {
   return modelIds.indexOf(selectedModel)

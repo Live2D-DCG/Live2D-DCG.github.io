@@ -1,0 +1,39 @@
+﻿// key	PUPPET_DIORAMA_NAME_
+1000011	PV max {value_1} pour tous les alliés.
+1000012	PV max {value_1} pour tous les alliés en JcE.
+1000013	PV max {value_1} pour tous les alliés en JcJ.
+1000021	ATQ {value_1} pour tous les alliés.
+1000022	ATQ {value_1} pour tous les alliés en JcE.
+1000023	ATQ {value_1} pour tous les alliés en JcJ.
+1000031	DÉF {value_1} pour tous les alliés.
+1000032	DÉF {value_1} pour tous les alliés en JcE.
+1000033	DÉF {value_1} pour tous les alliés en JcJ.
+1000041	AGI {value_1} pour tous les alliés.
+1000042	AGI {value_1} pour tous les alliés en JcE.
+1000043	AGI {value_1} pour tous les alliés en JcJ.
+1000051	CRT {value_1} pour tous les alliés.
+1000052	CRT {value_1} pour tous les alliés en JcE.
+1000053	CRT {value_1} pour tous les alliés en JcJ.
+1000062	Vitesse de charge de la jauge de compétence {value_1} pour tous les alliés en JcE.
+1000063	Vitesse de charge de la jauge de compétence {value_1} pour tous les alliés en JcJ.
+1000072	Charge de la jauge de compétence {value_1} pour tous les alliés en JcE.
+1000073	Charge de la jauge de compétence {value_1} pour tous les alliés en JcJ.
+1000092	Dégâts de compétence {value_1} (compétences de base/glissées seulement) pour tous les alliés en JcE.
+1000131	Coup final de compétence {value_1} pour tous les alliés.
+1000132	Coup final de compétence {value_1} pour tous les alliés en JcE.
+1000161	Coup final de compétence d'assaut {value_1} pour tous les alliés.
+1000162	Coup final de compétence d'assaut {value_1} pour tous les alliés en JcE.
+1000171	Coup final d'ATQ de point faible {value_1} pour tous les alliés.
+1000173	Coup final d'ATQ de point faible {value_1} pour tous les alliés en JcJ.
+1000181	Chances de CRT {value_1} pour tous les alliés.
+1000191	Dégâts de coup final d'attaque critique {value_1} pour tous les alliés.
+1000192	Dégâts de coup final d'attaque critique {value_1} pour tous les alliés en JcE.
+1000201	DÉF contre tous les dégâts de compétence {value_1} pour tous les alliés.
+1000202	DÉF contre tous les dégâts de compétence {value_1} pour tous les alliés en JcE.
+1000203	DÉF contre tous les dégâts de compétence {value_1} pour tous les alliés en JcJ.
+1000231	DÉF contre les compétences d'assaut {value_1} pour tous les alliés.
+1000233	DÉF contre les dégâts de compétence d'assaut {value_1} pour tous les alliés en JcJ.
+1000241	DÉF de point faible {value_1} pour tous les alliés en JcE.
+1000242	DÉF de point faible {value_1} pour tous les alliés en JcE.
+1000251	DÉF contre les dégâts critiques {value_1} pour tous les alliés.
+1000253	DÉF contre les dégâts critiques {value_1} pour tous les alliés.
