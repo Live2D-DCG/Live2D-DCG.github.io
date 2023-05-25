@@ -1,0 +1,16 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":0,
+	"fade_out":0,
+	"params":[
+		{"id":"EB","val":0},
+		{"id":"EYE","val":0},
+		{"id":"EYE_S","val":1,"def":1},
+		{"id":"MOUTH","val":0},
+		{"id":"OFF","val":0},
+		{"id":"joy","val":0},
+		{"id":"irritation","val":0},
+		{"id":"confused","val":0},
+		{"id":"serious","val":0}
+	]
+}

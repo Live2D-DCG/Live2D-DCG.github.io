@@ -2626,7 +2626,7 @@
         "name": "Brownie",
         "variants": {
             "10": {
-                "title": "Postal"
+                "title": "Postie"
             },
             "00": {
                 "title": "Human"
@@ -4313,10 +4313,10 @@
         }
     },
     "c375": {
-        "name": "Botan",
+        "name": "Wodan",
         "variants": {
             "01": {
-                "title": "Heartbeat"
+                "title": "Rebirth Synthesis Animation"
             }
         }
     },
@@ -5949,13 +5949,13 @@
         }
     },
 	"c490": {
-        "name": "Hongryeon",
+        "name": "Guren",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Assistant"
             },
             "02": {
                 "title": "Willful"
@@ -5969,13 +5969,13 @@
         }
     },
 	"c491": {
-        "name": "Janghwa",
+        "name": "Souka",
         "variants": {
             "00": {
                 "title": "Human"
             },
             "01": {
-                "title": ""
+                "title": "Mourning"
             },
             "02": {
                 "title": "Adrift"
@@ -6374,10 +6374,10 @@
         }
     },
 	"c518": {
-        "name": "Shani",
+        "name": "Sunny",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Unlucky"
             },
             "02": {
                 "title": ""
@@ -6549,10 +6549,10 @@
         "name": "Kubera",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Northern"
             },
             "02": {
-                "title": ""
+                "title": "Wise"
             }
         }
     },
@@ -6647,22 +6647,22 @@
         "name": "Belial",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Chaotic"
             },
             "02": {
-                "title": ""
+                "title": "Destructive"
             },
             "10": {
-                "title": ""
+                "title": "Executioner"
             },
             "87": {
-                "title": ""
+                "title": "Executioner"
             },
             "88": {
-                "title": ""
+                "title": "Destructive"
             },
             "89": {
-                "title": ""
+                "title": "Chaotic"
             }
         }
     },
