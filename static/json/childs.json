@@ -5133,7 +5133,7 @@
                 "title": "Berserk"
             },
             "10": {
-                "title": ""
+                "title": "Lunar Eclipse"
             }
         }
     },
@@ -5330,10 +5330,10 @@
                 "title": "Casual"
             },
             "12": {
-                "title": ""
+                "title": "Aurora"
             },
             "87": {
-                "title": ""
+                "title": "Aurora"
             },
 			"88": {
                 "title": "Luminous"
@@ -5984,13 +5984,13 @@
                 "title": "Assistant"
             },
             "02": {
-                "title": "Willful"
+                "title": "Aspiring"
             },
             "10": {
-                "title": "Estranged"
+                "title": "Determined"
             },
             "88": {
-                "title": ""
+                "title": "Aspiring"
             }
         }
     },
@@ -6004,10 +6004,10 @@
                 "title": "Mourning"
             },
             "02": {
-                "title": "Adrift"
+                "title": "Nihilistic"
             },
             "10": {
-                "title": "Ephemeral"
+                "title": "Resigned"
             }
         }
     },
@@ -6626,13 +6626,13 @@
         }
     },
     "c533": {
-        "name": "Oneiros",
+        "name": "Oneiroi",
         "variants": {
             "01": {
-                "title": ""
+                "title": "Well-rounded"
             },
             "02": {
-                "title": ""
+                "title": "Dreamy"
             }
         }
     },
@@ -13711,6 +13711,14 @@
             }
         }
     },
+    "xc395": {
+        "name": "Dark Buster Lisa",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc397": {
         "name": "Christmas Leda",
         "variants": {
@@ -13721,6 +13729,14 @@
     },
     "xc398": {
         "name": "Jacheongbi",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+    "xc400": {
+        "name": "Banshee",
         "variants": {
             "10": {
                 "title": "Puppet"
