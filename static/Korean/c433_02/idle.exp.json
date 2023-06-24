@@ -15,6 +15,15 @@
 		{"id":"shy_op","val":-30,"def":-30},
 		{"id":"serious_op","val":-30,"def":-30},
 		{"id":"sad_op","val":-30,"def":-30},
-		{"id":"smile_op","val":-30,"def":-30}
+		{"id":"smile_op","val":-30,"def":-30},
+		{"id":"angry_OP","val":0},
+		{"id":"cry_OP","val":0},
+		{"id":"angry","val":0},
+		{"id":"cry","val":0},
+		{"id":"cry_TX","val":0},
+		{"id":"cry_T","val":0},
+		{"id":"cry_TB","val":0},
+		{"id":"eyeball_of","val":0},
+		{"id":"confused","val":0}
 	]
 }

@@ -2474,6 +2474,15 @@
             },
             "02": {
                 "title": "Samhain"           
+            },
+            "10": {
+                "title": ""           
+            },
+            "87": {
+                "title": ""           
+            },
+            "88": {
+                "title": "Moonlight"           
             }
         }
     },
@@ -3283,6 +3292,15 @@
             },
             "11": {
                 "title": "Fortune of War"
+            },
+            "87": {
+                "title": "En Garde"
+            },
+            "88": {
+                "title": "Revelator"
+            },
+            "89": {
+                "title": "Initiator"
             }
         }
     },
@@ -6977,6 +6995,39 @@
         "name": "???",
         "variants": {
             "01": {
+                "title": ""
+            }
+        }
+    },
+	"c573": {
+        "name": "Jana",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+			"02": {
+                "title": ""
+            }
+        }
+    },
+	"c574": {
+        "name": "Circe",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+			"02": {
+                "title": ""
+            }
+        }
+    },
+	"c575": {
+        "name": "Sonnet",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+			"02": {
                 "title": ""
             }
         }
@@ -13415,6 +13466,14 @@
             }
         }
     },
+	"xc252": {
+        "name": "Arhat",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
 	"xc262": {
         "name": "Daphnis",
         "variants": {
@@ -13513,6 +13572,14 @@
     },
     "xc305": {
         "name": "Rita",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc308": {
+        "name": "Kubaba",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -13705,6 +13772,14 @@
     },
     "xc391": {
         "name": "Party Star Medb",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc393": {
+        "name": "Lightbeam Mona",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -14052,6 +14127,14 @@
     },
     "xm201": {
         "name": "Mech Commander",
+        "variants": {
+            "01": {
+                "title": "Dungeon-crawling"
+            }
+        }
+    },
+	"xm224": {
+        "name": "Apep",
         "variants": {
             "01": {
                 "title": "Dungeon-crawling"
