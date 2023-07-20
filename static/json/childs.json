@@ -3961,8 +3961,11 @@
             "11": {
                 "title": "Enchanting"
             },
+			"87": {
+                "title": "Enchanting"
+            },
 			"88": {
-                "title": "Summer Spike"
+                "title": "Nova"
             },
             "89": {
                 "title": "Summer Spike"
@@ -7069,6 +7072,14 @@
             }
         }
     },
+	"ig001": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Bowmaster Mafdet"
+            }
+        }
+    },
 	"ig002": {
         "name": "Soul Carta",
         "variants": {
@@ -7082,6 +7093,30 @@
         "variants": {
             "01": {
                 "title": "Best Dresser"
+            }
+        }
+    },
+	"ig007": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Keino End of Service"
+            }
+        }
+    },
+	"ig009": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Tamamo Wants that Meat"
+            }
+        }
+    },
+	"ig010": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "Nikke Billy"
             }
         }
     },
@@ -13575,6 +13610,14 @@
             }
         }
     },
+	"xc287": {
+        "name": "Salome",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc289": {
         "name": "Durandal",
         "variants": {
@@ -13657,6 +13700,14 @@
     },
     "xc312": {
         "name": "Tyrving",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc316": {
+        "name": "Wodan",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -13801,6 +13852,14 @@
     },
     "xc370": {
         "name": "Sunbeach Mona",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc371": {
+        "name": "Lisa",
         "variants": {
             "10": {
                 "title": "Puppet"
