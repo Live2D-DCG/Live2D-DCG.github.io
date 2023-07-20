@@ -5875,6 +5875,9 @@
             },
             "02": {
                 "title": "Quirky"
+            },
+            "10": {
+                "title": "Rabbit"
             }
         }
     },
@@ -6538,6 +6541,9 @@
             },
             "02": {
                 "title": "Snowfall"
+            },
+            "10": {
+                "title": "Summer Night Mistake"
             }
         }
     },
@@ -6571,6 +6577,15 @@
                 "title": "Crafty"
             },
             "02": {
+                "title": "Selfish"
+            },
+            "10": {
+                "title": "Sea Lord"
+            },
+            "87": {
+                "title": "Sea Lord"
+            },
+            "88": {
                 "title": "Selfish"
             }
         }
@@ -6956,7 +6971,7 @@
         }
     },
     "c567": {
-        "name": "Lo",
+        "name": "Io",
         "variants": {
             "01": {
                 "title": ""
@@ -7029,6 +7044,36 @@
             },
 			"02": {
                 "title": ""
+            }
+        }
+    },
+	"c576": {
+        "name": "Kelone",
+        "variants": {
+            "01": {
+                "title": "Ninja"
+            },
+			"02": {
+                "title": "Great Leader"
+            }
+        }
+    },
+	"c577": {
+        "name": "Selene",
+        "variants": {
+            "01": {
+                "title": "Darkness"
+            },
+			"02": {
+                "title": "Ghostly"
+            }
+        }
+    },
+	"ig002": {
+        "name": "Soul Carta",
+        "variants": {
+            "01": {
+                "title": "A Hot Summer Day"
             }
         }
     },
@@ -13143,6 +13188,14 @@
             }
         }
     },
+	"xc014": {
+        "name": "Astrea",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc036": {
         "name": "Hermes",
         "variants": {
@@ -13586,6 +13639,14 @@
             }
         }
     },
+	"xc310": {
+        "name": "Bes",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
     "xc311": {
         "name": "Khepri",
         "variants": {
@@ -13628,6 +13689,14 @@
     },
     "xc336": {
         "name": "Pan",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc344": {
+        "name": "Isolde",
         "variants": {
             "10": {
                 "title": "Puppet"
@@ -13852,6 +13921,14 @@
     },
     "xc426": {
         "name": "Ophois",
+        "variants": {
+            "10": {
+                "title": "Puppet"
+            }
+        }
+    },
+	"xc461": {
+        "name": "Aurora",
         "variants": {
             "10": {
                 "title": "Puppet"
