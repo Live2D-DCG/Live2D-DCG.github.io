@@ -1,67 +1,163 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Destiny Child Live2D Viewer</title>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script
-    src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"
-    integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E="
-    crossorigin="anonymous"></script>
-  <script
-    src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"
-    crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-  <link rel="stylesheet" href="\static\pages\style.css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans|Quicksand&display=swap" rel="stylesheet">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  <script src="./static/js/ui.js" type="application/javascript"></script>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // embed mode (canvas only) is decided before first paint to avoid a flash
+    if (new URLSearchParams(location.search).get('embed') === '1') document.documentElement.classList.add('embed')
+  </script>
 </head>
-<body onload="init()">
-  <nav>
-		<ul>
-		  <li><a href="https://live2d-dcg.github.io/">Live2D</a></li>
-			<li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWg9u0-ikW6JyKTj3vTAz7BC1FkpTv1pgiYPE7GBtLrs7GNnZYSs34oBsWvTcNmCF-XcK5_F6EMhnR/pubhtml" target="_blank">JP/GL Release Timeline</a></li>
-			<li><a href="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQtAzEGZTUDqev509gxzuIbP9PJnu-JLjvm8xUfY1WIuGcHlIIH3bvy4LOaJrQCjd80AFDCxQN1-1KC/pubhtml#" target="_blank">Database</a></li>
-			<li><a href="\static\pages\calculator.html">Exp Calculator</a></li>
-			<li><a href="gifChild.html">GIF Generator</a></li>
-		</ul>
-	</nav>
-  <img src="./loading.gif" alt="Loading" id="loading"/>
-  <div align="center" id="ui">
-      <p id="note">Viewing Korean's uncensored version of the game</p>
-  	  <button class=" ui-button ui-corner-all ui-widget" id="Censored" onclick="GView()">Censored</button>
-	  <button id="Uncensored" onclick="KView()">Uncensored</button>
-      <div> Model : <span class="nowrap"><select></select></span>
-        <span class="nowrap">
-          <button id="previous">Previous</button>
-          <button id="next">Next</button>
-        </span>
-<div style="width:450px; text-align:left">		
-	  <div> <span id="size-slider"></span> Size: <span id="size-label"></span>px</span> </div>
-	  <div> <span id="scale-slider"></span> Scale: <span id="scale-label"></span> </div>
-	  <div> <span id="offsetX-slider"></span> Left | Right: <span id="offsetX-label"> </span> </div>
-	  <div> <span id="offsetY-slider"></span> Top | Bottom: <span id="offsetY-label"></span> </div>
-	  </div>
-	</div>
-	
-    
-    <iframe style="width: 500px; height: 500px; max-width: 100%; border: none; overflow: hidden;"
-      scrolling="no"
-      seamless="seamless"></iframe>
+<body>
+  <header class="topbar">
+    <button class="icon-btn only-mobile" id="toggle-sidebar" aria-label="Show model list">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+    <h1 class="brand">Destiny Child <span>Live2D</span></h1>
 
-    <p>Direct Link: <a id="direct-link" href="" target="_blank"></a></p>
-	<p>Share Link: <a id="share-link" href="" target="_blank"></a></p>
-	<p>Download PCK: <a id="download-link" href="" target="_blank"></a></p>
+    <div class="segmented" role="radiogroup" aria-label="Version">
+      <button role="radio" data-region="kr" aria-checked="true">Uncensored <small>KR</small></button>
+      <button role="radio" data-region="gl" aria-checked="false">Censored <small>Global</small></button>
+    </div>
 
-  </div>
-  <footer>
-  Destiny Child is owned by Shiftup Corp | Live2D-DCG.github.io is project By u/ToxicWayz on Reddit </br>
-  Live2D viewer based on work by <a href="https://github.com/Arsylk" target="_blank">Arsylk</a> using Live2D cubism v2 api. </br>
-  If you have any questions, concerns or feedback feel free to contact me <a href="mailto:DestinyChildReddit@Gmail.com" target="_blank">DestinyChildReddit@Gmail.com</a> | Discord: ToxicWayz#6971 </br>
-  <a href="https://github.com/Live2D-DCG/Live2D-DCG.github.io/projects/1" target="_blank">Destiny Child Live2D Viewer's Status</a> 
-  
-  </footer>
+    <div class="topbar-actions">
+      <button class="btn ghost" id="copy-share" title="Copy a link to exactly this view">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg>
+        <span class="hide-mobile">Share</span>
+      </button>
+      <button class="icon-btn only-mobile" id="toggle-panel" aria-label="Show controls">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- ======================= model list ======================= -->
+    <aside class="sidebar" id="sidebar">
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        <input id="search" type="search" placeholder="Search name, outfit or ID" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="chips" id="categories" role="tablist" aria-label="Category"></div>
+      <div class="list-meta"><span id="list-count">0 models</span><span class="kbd-hint">[ and ] to browse</span></div>
+      <ul class="model-list" id="model-list" role="listbox" aria-label="Models"></ul>
+    </aside>
+
+    <!-- ========================= stage ========================= -->
+    <section class="stage" id="stage" data-bg="transparent">
+      <canvas id="canvas"></canvas>
+      <div class="stage-label" id="stage-label"></div>
+      <div class="stage-status" id="stage-status" hidden>
+        <div class="spinner" aria-hidden="true"></div><span>Loading model</span>
+      </div>
+      <div class="stage-hint" id="stage-hint">Drag to move · Scroll or pinch to zoom · Double-click to reset · Click to play</div>
+      <div class="stage-nav">
+        <button class="icon-btn" id="prev-model" aria-label="Previous model"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+        <button class="icon-btn" id="next-model" aria-label="Next model"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+      </div>
+    </section>
+
+    <!-- ======================== controls ======================== -->
+    <aside class="panel" id="panel">
+      <section class="group">
+        <div class="group-head"><h2>View</h2><button class="link-btn" id="reset-view">Reset</button></div>
+        <label class="slider">
+          <span>Scale</span>
+          <input type="range" id="scale" min="0.1" max="4" step="0.01" value="1">
+          <output id="scale-out">1.00×</output>
+        </label>
+        <label class="slider">
+          <span>Left / Right</span>
+          <input type="range" id="pos-x" min="-1" max="1" step="0.005" value="0">
+          <output id="pos-x-out">0</output>
+        </label>
+        <label class="slider">
+          <span>Up / Down</span>
+          <input type="range" id="pos-y" min="-1" max="1" step="0.005" value="0">
+          <output id="pos-y-out">0</output>
+        </label>
+        <div class="field">
+          <span>Canvas size</span>
+          <select id="canvas-size">
+            <option value="fit">Fit window</option>
+            <option value="1080x1080">1080 × 1080 square</option>
+            <option value="1080x1920">1080 × 1920 portrait</option>
+            <option value="1920x1080">1920 × 1080 landscape</option>
+            <option value="800x800">800 × 800</option>
+            <option value="custom">Custom…</option>
+          </select>
+        </div>
+        <div class="field custom-size" id="custom-size" hidden>
+          <input type="number" id="custom-w" min="64" max="4096" value="1000" aria-label="Width">
+          <span>×</span>
+          <input type="number" id="custom-h" min="64" max="4096" value="1000" aria-label="Height">
+        </div>
+      </section>
+
+      <section class="group">
+        <div class="group-head"><h2>Motions</h2><span class="badge" id="max-badge" hidden>Max mode</span></div>
+        <div class="chip-grid" id="motions"><p class="empty">Pick a model</p></div>
+      </section>
+
+      <section class="group">
+        <div class="group-head"><h2>Expressions</h2></div>
+        <div class="chip-grid" id="expressions"><p class="empty">Pick a model</p></div>
+      </section>
+
+      <section class="group">
+        <div class="group-head"><h2>Background</h2></div>
+        <div class="swatches" id="backgrounds">
+          <button data-bg="transparent" class="swatch checker" title="Transparent" aria-label="Transparent"></button>
+          <button data-bg="#1d2027" class="swatch" style="--c:#1d2027" title="Dark" aria-label="Dark"></button>
+          <button data-bg="#ffffff" class="swatch" style="--c:#ffffff" title="White" aria-label="White"></button>
+          <button data-bg="#00b140" class="swatch" style="--c:#00b140" title="Green screen" aria-label="Green screen"></button>
+          <button data-bg="#0047bb" class="swatch" style="--c:#0047bb" title="Blue screen" aria-label="Blue screen"></button>
+          <label class="swatch picker" title="Custom color">
+            <input type="color" id="bg-custom" value="#ff6ea8" aria-label="Custom background color">
+          </label>
+        </div>
+      </section>
+
+      <section class="group">
+        <div class="group-head"><h2>Export</h2></div>
+        <button class="btn block" id="save-png">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+          Save PNG
+        </button>
+        <div class="record">
+          <select id="record-motion" aria-label="Motion to record"></select>
+          <button class="btn" id="record">
+            <span class="rec-dot" aria-hidden="true"></span><span id="record-label">Record</span>
+          </button>
+        </div>
+        <p class="note">Records the motion to a WebM video. Use the green background if you want to key it out later.</p>
+      </section>
+
+      <section class="group">
+        <div class="group-head"><h2>Links</h2></div>
+        <button class="btn block ghost" id="copy-embed">Copy embed link (canvas only)</button>
+        <a class="btn block ghost" id="download-pck" href="#" target="_blank" rel="noopener">Download .pck</a>
+      </section>
+
+      <footer class="credits">
+        Destiny Child is owned by Shiftup Corp. Live2D-DCG.github.io by u/ToxicWayz.
+        Viewer based on work by <a href="https://github.com/Arsylk" target="_blank" rel="noopener">Arsylk</a>,
+        GIF tool ideas by Remain. Rendering by
+        <a href="https://github.com/guansss/pixi-live2d-display" target="_blank" rel="noopener">pixi-live2d-display</a>
+        and the Live2D Cubism 2 SDK.
+      </footer>
+    </aside>
+  </main>
+
+  <div class="scrim" id="scrim" hidden></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="vendor/live2d.min.js"></script>
+  <script src="vendor/pixi.min.js"></script>
+  <script src="vendor/pixi-live2d-display-cubism2.min.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
