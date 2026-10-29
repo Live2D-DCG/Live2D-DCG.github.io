@@ -9,8 +9,8 @@
   var CONFIG = {
     modelRoot: 'static/',                 // where the Korean/ and Global/ folders live
     regions: {
-      kr: { dir: 'Korean/', name: 'Uncensored (KR)', pck: 'https://patch.real.dckr.shiftupcorp.com/real.185.k4bn7a4p4xhm/hd_android/asset/character/' },
-      gl: { dir: 'Global/', name: 'Censored (Global)', pck: 'https://patch.real.dcgl.shiftupcorp.com/real.215.xmfrfnjz6e8d/hd_mobile/asset/character/' }
+      kr: { dir: 'Korean/', name: 'Uncensored (KR)' },
+      gl: { dir: 'Global/', name: 'Censored (Global)' }
     },
     categories: [
       ['all', 'All'], ['child', 'Child'], ['spa', 'Spa'], ['monster', 'Monster'],
@@ -540,8 +540,6 @@
     }
 
     var m = byId[state.id]
-    $('download-pck').href = CONFIG.regions[state.region].pck + state.id + '.pck'
-    $('download-pck').textContent = 'Download ' + state.id + '.pck (' + (state.region === 'kr' ? 'KR' : 'Global') + ')'
     $('stage-label').innerHTML = '<div class="t"></div><div class="s"></div>'
     $('stage-label').querySelector('.t').textContent = m.name || m.outfit || m.id
     $('stage-label').querySelector('.s').innerHTML = (m.name && m.outfit ? escapeHtml(m.outfit) + ' · ' : '') +
